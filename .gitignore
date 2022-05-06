@@ -6,6 +6,4 @@ build
 dist
 *.egg*
 .DS_Store
-mod_settings_data.json
-mod_settings_data.temporary.json
-api_auth.json
+*.json
