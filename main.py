@@ -6,7 +6,7 @@ from json import JSONDecodeError
 from pathlib import Path
 import zipfile
 import configparser
-from typing import Dict, Optional, Tuple, Iterator, Iterable
+from typing import Dict, Optional, Tuple, Iterator, cast
 from tqdm import tqdm
 import requests
 
@@ -22,6 +22,7 @@ FACTORIO_CORE_LOCALE_ROOT = (
 MOD_SETTINGS_DATA_PATH = Path("./mod_settings_data.json")
 MOD_SETTINGS_DATA_TEMPORARY_PATH = Path("./mod_settings_data.temporary.json")
 CORE_SETTINGS_DATA_PATH = Path("./core_settings_data.json")
+MAIN_DATA_PATH = Path("./settings_data.json")
 
 RE_INFO = re.compile(r"[^/]+/info.json", re.IGNORECASE)
 RE_MOD_LOCALE_PATH = re.compile(r"[^/]+/locale/([\w-]+)/[^/]+.cfg")
@@ -31,15 +32,68 @@ RE_CORE_LOCALE_PATH = re.compile(r".*/locale/([\w-]+)/[^/]+.cfg")
 def main():
     by_locale = update_game_locale_data()
     update_mod_locale_data(by_locale)
+    split_by_locale()
+
+
+def split_by_locale():
+    with MOD_SETTINGS_DATA_PATH.open("rb") as f:
+        all_data = json.load(f)
+    with CORE_SETTINGS_DATA_PATH.open("rb") as f:
+        core_data = json.load(f)
+
+    main_data = {
+        "core": {
+            locale: core_data["core"].get(locale, {})
+            for locale in all_data["locales"]
+        },
+        "locales": all_data["locales"],
+        "mods": all_data["mods"],
+    }
+    with MAIN_DATA_PATH.open("w") as f:
+        json.dump(main_data, f, indent=2)
+
+    for locale in all_data["locales"]:
+        print(f"Splitting locale {locale}")
+        all_data_for_locale = {
+            "locale": locale,
+            "settings": {
+                setting_name: setting_data
+                for setting_name, setting_data in {
+                    setting_name: {
+                        "name": setting_data["name"],
+                        "by_mod": {
+                            mod_name: mod_data[locale]
+                            for mod_name, mod_data
+                            in setting_data["by_mod_and_language"].items()
+                            if locale in mod_data
+                        },
+                    }
+                    for setting_name, setting_data
+                    in all_data["settings"].items()
+                }.items()
+                if setting_data["by_mod"]
+            },
+        }
+        locale_path = (
+            MOD_SETTINGS_DATA_PATH.parent
+            / MOD_SETTINGS_DATA_PATH.name.replace(".json", f"-{locale}.json")
+        )
+        with locale_path.open("w") as f:
+            json.dump(all_data_for_locale, f)
 
 
 def update_game_locale_data() -> Dict:
+    if CORE_SETTINGS_DATA_PATH.exists():
+        with CORE_SETTINGS_DATA_PATH.open("rb") as f:
+            core_data = json.load(f)
+        return core_data["core"]
+
     locale_paths = [
         path
         for path in FACTORIO_CORE_LOCALE_ROOT.glob("**/*")
         if RE_CORE_LOCALE_PATH.match(str(path))
     ]
-    by_locale: Dict[str, Dict[str, str]] = {}
+    by_locale: Dict[str, Dict[str, str]] = cast(Dict[str, Dict[str, str]], {})
     for locale_path in locale_paths:
         locale_name, = RE_CORE_LOCALE_PATH.match(str(locale_path)).groups()
         try:
@@ -67,7 +121,7 @@ def update_game_locale_data() -> Dict:
             for_locale.update({
                 mapped_key: gui_mod_settings[key]
                 for key, mapped_key in [
-                    ("title", "title"),
+                    ("title", "mod-settings"),
                     ("startup", "startup"),
                     ("map", "runtime-global"),
                     ("per-player", "runtime-per-user"),
@@ -87,8 +141,6 @@ def update_mod_locale_data(by_locale: Dict):
     mod_data, locale_data = get_mods_settings_locale_data(
         FACTORIO_MOD_ROOT, False)
 
-    print(len(mod_data), "mods")
-    print(len(locale_data), "settings")
     save_mod_settings_data(mod_data, locale_data, by_locale=by_locale)
 
 
@@ -139,34 +191,38 @@ def get_mods_settings_locale_data(
     for index, (mod_api_data, zip_file) in enumerate(zip_files):
         if index % 10 == 0:
             print(f"Opened {index} zip files")
-        # It was skipped
-        if not zip_file:
-            continue
-        mod_info = get_mod_info(zip_file)
-        if not mod_info:
+        mod_info = get_mod_info(zip_file, mod_api_data)
+        if mod_info:
+            mod_name, mod_title, version = mod_info
+            mod_data.setdefault(mod_name, {
+                "name": mod_name,
+                "title": mod_title,
+                "version": version,
+                "setting_names": [],
+            }).update({
+                "name": mod_name,
+                "title": mod_title,
+                "version": version,
+            })
+            # It was not skipped
+            if zip_file:
+                get_mod_settings_locale_data(
+                    zip_file, mod_name, locale_data, mod_data)
+            else:
+                print(f"Skipping {mod_name}")
+        else:
             print(
                 f"Could not find info file, name, or title, in mod ZIP "
-                f"{zip_file.filename}")
-            continue
-        mod_name, mod_title, version = mod_info
-        mod_data[mod_name] = {
-            "name": mod_name,
-            "title": mod_title,
-            "version": version,
-            "setting_names": [],
-        }
-        get_mod_settings_locale_data(zip_file, mod_name, locale_data, mod_data)
+                f"{zip_file.filename if zip_file else ''}")
         if index % 10 == 0:
             save_mod_settings_data(mod_data, locale_data, temporary=True)
-
-    # if MOD_SETTINGS_DATA_TEMPORARY_PATH.exists():
-    #     MOD_SETTINGS_DATA_TEMPORARY_PATH.unlink()
 
     return mod_data, locale_data
 
 
 def iterate_local_mod_zip_files(
-        factorio_mod_root: Path) -> Iterator[Tuple[None, zipfile.ZipFile]]:
+    factorio_mod_root: Path,
+) -> Iterator[Tuple[Optional[Dict], zipfile.ZipFile]]:
     mod_zips = [
         item
         for item in factorio_mod_root.glob("*_*.zip")
@@ -183,7 +239,7 @@ MOD_URL_ROOT = "https://mods.factorio.com"
 
 def iterate_zip_files_from_api(
     excluding_mods: Dict,
-) -> Iterator[Tuple[Dict, Optional[zipfile.ZipFile]]]:
+) -> Iterator[Tuple[Optional[Dict], Optional[zipfile.ZipFile]]]:
     try:
         with API_AUTH_FILE.open("rb") as f:
             api_auth = json.load(f)
@@ -194,7 +250,8 @@ def iterate_zip_files_from_api(
             f"token to that file from `player-data.json`, or set the path at "
             f"`API_AUTH_FILE`")
     bad_zip_file_consecutive_count = 0
-    for mod_api_data, should_skip in iterate_mods_from_api(excluding_mods=excluding_mods):
+    mods = iterate_mods_from_api(excluding_mods=excluding_mods)
+    for mod_api_data, should_skip in mods:
         if should_skip:
             # It was skipped
             yield mod_api_data, None
@@ -255,30 +312,49 @@ def iterate_mods_from_api(excluding_mods: Dict) -> Iterator[Tuple[Dict, bool]]:
         response = requests.get(next_url)
         data = response.json()
         for item in data["results"]:
-            if item["name"] in excluding_mods and (not excluding_mods[item["name"]].get("version") or excluding_mods[item["name"]]["version"] >= item["latest_release"]["version"]):
-                print(f"Skipping {item['name']}")
-                # Let upstream know that we're skipping one, so that they can
-                # keep track of the count so far
-                yield item, True
-                continue
+            if item["name"] in excluding_mods:
+                existing_version = excluding_mods[item["name"]].get("version")
+                new_version = item["latest_release"]["version"]
+                if not existing_version or existing_version >= new_version:
+                    # Let upstream know that we're skipping one, so that they
+                    # can keep track of the count so far
+                    yield item, True
+                    continue
             yield item, False
-        next_url = ((data.get("pagination") or {}).get("links") or {}).get("next")
+        next_url = ((data.get("pagination") or {}).get("links") or {})\
+            .get("next")
 
 
-def get_mod_info(zip_file: zipfile.ZipFile) -> Optional[Tuple[str, str, str]]:
-    all_paths = zip_file.namelist()
-    info_filenames = [
-        path
-        for path in all_paths
-        if RE_INFO.match(path)
-    ]
+def get_mod_info(
+    zip_file: Optional[zipfile.ZipFile], mod_api_data: Optional[Dict],
+) -> Optional[Tuple[str, str, str]]:
+    if zip_file:
+        all_paths = zip_file.namelist()
+        info_filenames = [
+            path
+            for path in all_paths
+            if RE_INFO.match(path)
+        ]
+    else:
+        info_filenames = []
     if not info_filenames:
+        if mod_api_data:
+            mod_name = mod_api_data["name"]
+            mod_title = mod_api_data["title"]
+            version = mod_api_data["latest_release"]["version"]
+            return mod_name, mod_title, version
         return None
     info_filename = info_filenames[0]
     try:
         with zip_file.open(info_filename) as f:
             info_data = json.load(f)
     except (UnicodeDecodeError, JSONDecodeError, RuntimeError):
+        if mod_api_data:
+            if mod_api_data:
+                mod_name = mod_api_data["name"]
+                mod_title = mod_api_data["title"]
+                version = mod_api_data["latest_release"]["version"]
+                return mod_name, mod_title, version
         return None
     mod_name = info_data["name"]
     mod_title = info_data["title"]
