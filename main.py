@@ -2,6 +2,7 @@
 import json
 import re
 import tempfile
+from io import BytesIO
 from json import JSONDecodeError
 from pathlib import Path
 import zipfile
@@ -164,13 +165,24 @@ def save_mod_settings_data(
             for name, mod in mod_data.items()
             if mod["setting_names"]
         }
-    with open(path, "w") as f:
-        json.dump({
-            "core": by_locale,
-            "locales": locales,
-            "mods": mod_data,
-            "settings": locale_data,
-        }, f, indent=2)
+    backup_path = path.parent / f"{path.name}.bak"
+    if path.exists():
+        path.rename(backup_path)
+    try:
+        with open(path, "w") as f:
+            json.dump({
+                "core": by_locale,
+                "locales": locales,
+                "mods": mod_data,
+                "settings": locale_data,
+            }, f, indent=2)
+    except KeyboardInterrupt:
+        if path.exists():
+            path.unlink()
+        if backup_path.exists():
+            backup_path.rename(path)
+    if backup_path.exists():
+        backup_path.unlink()
 
 
 def get_mods_settings_locale_data(
@@ -258,47 +270,78 @@ def iterate_zip_files_from_api(
             # It was skipped
             yield mod_api_data, None
             continue
-        download_url = (mod_api_data.get('latest_release', {}) or {})\
-            .get('download_url')
-        if not download_url:
-            continue
-        zip_url = (
-            f"{MOD_URL_ROOT}"
-            f"{download_url}"
-            f"?username={api_auth['service-username']}"
-            f"&token={api_auth['service-token']}"
-        )
-        response = requests.get(zip_url, stream=True)
-        with tempfile.NamedTemporaryFile() as tmp:
-            progress_bar = tqdm(
-                desc=(
-                    f"Downloading {mod_api_data['title']} "
-                    f"({mod_api_data['name']})"
-                ),
-                total=int(response.headers.get('content-length', 0)),
-                unit='iB', unit_scale=True)
-            try:
-                for data in response.iter_content(10 * 1024 * 1024):
-                    progress_bar.update(len(data))
-                    tmp.write(data)
-            finally:
-                progress_bar.close()
-            tmp.flush()
-            tmp.seek(0)
-            try:
-                zip_file = zipfile.ZipFile(tmp)
-            except zipfile.BadZipfile:
-                bad_zip_file_consecutive_count += 1
+        mod_name = mod_api_data["name"]
+        zip_file = get_zip_from_cache(mod_name)
+        if not zip_file:
+            zip_file, bad_zip = get_zip_from_api(api_auth, mod_api_data)
+            if bad_zip:
                 if bad_zip_file_consecutive_count > 3:
                     raise Exception(
                         "File was not a ZIP - did you provide a valid username "
                         "and token?")
-                print("File was not a ZIP")
-                # Let upstream know you're skipping
-                yield mod_api_data, None
-                continue
-            bad_zip_file_consecutive_count = 0
-            yield mod_api_data, zip_file
+                bad_zip_file_consecutive_count += 1
+            else:
+                bad_zip_file_consecutive_count = 0
+        yield mod_api_data, zip_file
+
+
+def get_zip_from_cache(mod_name):
+    cached_path = get_cache_file(mod_name, "complete.txt")
+    if not cached_path.exists():
+        return None
+
+    print(f"Use cache to create zip for {mod_name}")
+    buffer = BytesIO()
+    zip_file = zipfile.ZipFile(buffer, mode="w")
+    mod_dir = get_path_mod_dir(mod_name)
+    for path in mod_dir.glob("**/*"):
+        zip_file.write(path, str(path.relative_to(mod_dir)))
+    return zip_file
+
+
+def get_zip_from_api(api_auth, mod_api_data):
+    if mod_api_data.get("latest_release"):
+        download_url = mod_api_data["latest_release"]["download_url"]
+    elif mod_api_data.get("releases"):
+        download_url = max(
+            mod_api_data["releases"],
+            key=lambda release: release ["version"],
+        )["download_url"]
+    else:
+        download_url = None
+    if not download_url:
+        return None, False
+    zip_url = (
+        f"{MOD_URL_ROOT}"
+        f"{download_url}"
+        f"?username={api_auth['service-username']}"
+        f"&token={api_auth['service-token']}"
+    )
+    response = requests.get(zip_url, stream=True)
+    with tempfile.NamedTemporaryFile() as tmp:
+        progress_bar = tqdm(
+            desc=(
+                f"Downloading {mod_api_data['title']} "
+                f"({mod_api_data['name']})"
+            ),
+            total=int(response.headers.get('content-length', 0)),
+            unit='iB', unit_scale=True)
+        try:
+            for data in response.iter_content(10 * 1024 * 1024):
+                progress_bar.update(len(data))
+                tmp.write(data)
+        finally:
+            progress_bar.close()
+        tmp.flush()
+        tmp.seek(0)
+        try:
+            zip_file = zipfile.ZipFile(tmp)
+        except zipfile.BadZipfile:
+            print("File was not a ZIP")
+            # Let upstream know you're skipping
+            return None, True
+
+        return zip_file, False
 
 
 MOD_API_URL_ROOT = "https://mods.factorio.com/api/mods"
@@ -316,7 +359,15 @@ def iterate_mods_from_api(excluding_mods: Dict) -> Iterator[Tuple[Dict, bool]]:
         for item in data["results"]:
             if item["name"] in excluding_mods:
                 existing_version = excluding_mods[item["name"]].get("version")
-                new_version = item["latest_release"]["version"]
+                if "latest_release" in item:
+                    new_version = item["latest_release"]["version"]
+                elif "releases" in item and item["releases"]:
+                    new_version = max(
+                        release["version"]
+                        for release in item["releases"]
+                    )
+                else:
+                    new_version = None
                 if not existing_version or existing_version >= new_version:
                     # Let upstream know that we're skipping one, so that they
                     # can keep track of the count so far
@@ -343,19 +394,30 @@ def get_mod_info(
         if mod_api_data:
             mod_name = mod_api_data["name"]
             mod_title = mod_api_data["title"]
-            version = mod_api_data["latest_release"]["version"]
+            if mod_api_data.get("latest_release"):
+                version = mod_api_data["latest_release"]["version"]
+            elif mod_api_data.get("releases"):
+                version = max(release["version"] for release in mod_api_data["releases"])
+            else:
+                version = None
             return mod_name, mod_title, version
         return None
     info_filename = info_filenames[0]
     try:
         with zip_file.open(info_filename) as f:
             info_data = json.load(f)
-    except (UnicodeDecodeError, JSONDecodeError, RuntimeError):
+    except (ValueError, UnicodeDecodeError, JSONDecodeError, RuntimeError):
         if mod_api_data:
             if mod_api_data:
                 mod_name = mod_api_data["name"]
                 mod_title = mod_api_data["title"]
-                version = mod_api_data["latest_release"]["version"]
+                if mod_api_data.get("latest_release"):
+                    version = mod_api_data["latest_release"]["version"]
+                elif mod_api_data.get("releases"):
+                    version = max(release["version"] for release in
+                                  mod_api_data["releases"])
+                else:
+                    version = None
                 return mod_name, mod_title, version
         return None
     mod_name = info_data["name"]
@@ -369,9 +431,17 @@ def get_mod_info(
 
 
 def open_cached_file(mod_name, filename, mode="w"):
-    path = CACHE_PATH / mod_name / filename
+    path = get_cache_file(mod_name, filename)
     path.parent.mkdir(parents=True, exist_ok=True)
     return path.open(mode=mode)
+
+
+def get_path_mod_dir(mod_name):
+    return CACHE_PATH / mod_name
+
+
+def get_cache_file(mod_name, filename):
+    return get_path_mod_dir(mod_name) / filename
 
 
 def get_mod_settings_locale_data(
@@ -385,9 +455,15 @@ def get_mod_settings_locale_data(
     ]
     for locale_filename in locale_filenames:
         locale_name, = RE_MOD_LOCALE_PATH.match(locale_filename).groups()
-        with zip_file.open(locale_filename) as f:
-            with open_cached_file(mod_name, locale_filename, mode="wb") as f_write:
-                f_write.write(f.read())
+        try:
+            with zip_file.open(locale_filename) as f:
+                with open_cached_file(mod_name, locale_filename, mode="wb") as f_write:
+                    f_write.write(f.read())
+        except (ValueError, RuntimeError):
+            print(
+                f"Could not extract {locale_name} locale file "
+                f"{locale_filename} of {mod_name}")
+            continue
         try:
             with zip_file.open(locale_filename) as f:
                 config_source = f.read()
@@ -407,6 +483,9 @@ def get_mod_settings_locale_data(
             config_text = config_source.decode("utf-8-sig")
         get_settings_locale_from_config(
             mod_name, locale_name, config_text, locale_data, mod_data)
+
+    with open_cached_file(mod_name, "complete.txt"):
+        pass
 
 
 RE_OLD_LOCALE_SECTION_FORMAT = re.compile(
