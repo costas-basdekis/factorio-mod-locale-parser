@@ -24,6 +24,8 @@ MOD_SETTINGS_DATA_TEMPORARY_PATH = Path("./mod_settings_data.temporary.json")
 CORE_SETTINGS_DATA_PATH = Path("./core_settings_data.json")
 MAIN_DATA_PATH = Path("./settings_data.json")
 
+CACHE_PATH = Path("./cache")
+
 RE_INFO = re.compile(r"[^/]+/info.json", re.IGNORECASE)
 RE_MOD_LOCALE_PATH = re.compile(r"[^/]+/locale/([\w-]+)/[^/]+.cfg")
 RE_CORE_LOCALE_PATH = re.compile(r".*/locale/([\w-]+)/[^/]+.cfg")
@@ -360,7 +362,16 @@ def get_mod_info(
     mod_title = info_data["title"]
     version = info_data["version"]
 
+    with open_cached_file(mod_name, info_filename) as f:
+        json.dump(info_data, f)
+
     return mod_name, mod_title, version
+
+
+def open_cached_file(mod_name, filename, mode="w"):
+    path = CACHE_PATH / mod_name / filename
+    path.parent.mkdir(parents=True, exist_ok=True)
+    return path.open(mode=mode)
 
 
 def get_mod_settings_locale_data(
@@ -374,6 +385,9 @@ def get_mod_settings_locale_data(
     ]
     for locale_filename in locale_filenames:
         locale_name, = RE_MOD_LOCALE_PATH.match(locale_filename).groups()
+        with zip_file.open(locale_filename) as f:
+            with open_cached_file(mod_name, locale_filename, mode="wb") as f_write:
+                f_write.write(f.read())
         try:
             with zip_file.open(locale_filename) as f:
                 config_source = f.read()
