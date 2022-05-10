@@ -1,0 +1,1 @@
+{"name": "Trashcan", "version": "1.0.4", "title": "Trashcan", "author": "Sirenfal and Space", "description": "Adds a trash bin icon in the top left that deletes items dropped on it.", "dependencies": ["base >= 1.1"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "preservemybody", "version": "0.1.0", "title": "PreserveMyBody", "author": "Fishbus", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Keeps your corpse fresh for longer. (Change the time in the mod settings!)"}

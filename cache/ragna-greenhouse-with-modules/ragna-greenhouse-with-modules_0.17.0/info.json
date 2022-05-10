@@ -1,0 +1,1 @@
+{"name": "ragna-greenhouse-with-modules", "version": "0.17.0", "factorio_version": "0.17", "title": "Ragna's Greenhouse with modules", "author": "Ragnaman, SpeedDaemon, LordJameh", "contact": "Ragnaman: Factorio forums or #factorio channel on EsperNet", "description": "Spend energy, produce wood, simple greenhouses with module slots", "dependencies": ["base >= 0.17.0"]}

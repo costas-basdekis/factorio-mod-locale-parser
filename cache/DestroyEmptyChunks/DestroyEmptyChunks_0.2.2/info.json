@@ -1,0 +1,1 @@
+{"name": "DestroyEmptyChunks", "description": "It can delete all chunks without your buildings", "version": "0.2.2", "title": "DestroyEmptyChunks", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.16"}

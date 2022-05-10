@@ -1,0 +1,1 @@
+{"name": "TrainHorn", "version": "0.1.1", "title": "Train Horn", "author": "Benjamin Lee", "contact": "benjamin.fik.lee@gmail.com", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Trains will now blare their horn after killing a player (sound by CrazyWashingtonianTrainNut on freesound)"}

@@ -1,0 +1,1 @@
+{"name": "water-belts", "version": "0.1.2", "title": "Water Belts", "author": "RedRafe", "dependencies": ["base >= 1.1.0"], "description": "Simply allows belts to be placed on water. Additional settings to allow electric poles, pipes, rails, roboports, radars, inserters and turrets too.", "factorio_version": "1.1"}

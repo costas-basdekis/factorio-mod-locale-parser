@@ -1,0 +1,1 @@
+{"name": "GUI_Modules", "version": "0.0.9", "title": "GUI Modules", "author": "eduran", "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=1699", "homepage": "", "description": "Not ready for use.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.34", "OpteraLib >= 0.1.7"]}

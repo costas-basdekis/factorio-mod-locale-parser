@@ -1,0 +1,1 @@
+{"name": "Car_MK2", "version": "0.17.2", "title": "Car MK2", "author": "hexagonhexagon", "description": "Adds two new, faster cars with new controls to offer a viable alternative to PAX trains.", "dependencies": ["base >= 0.17"], "factorio_version": "0.17"}

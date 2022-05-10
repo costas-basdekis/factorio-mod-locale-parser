@@ -1,0 +1,1 @@
+{"name": "bigger_faster_trains", "version": "1.0.0", "factorio_version": "1.0", "title": "Bigger Faster Trains", "author": "AlexandrVolkov", "description": "Increases the locomotive power, top speed, increases for the cargo wagon & the fluid wagon capacity", "homepage": "", "source": "https://github.com/AlexandrVolkov/bigger_slower_trains-M", "dependencies": ["base"]}

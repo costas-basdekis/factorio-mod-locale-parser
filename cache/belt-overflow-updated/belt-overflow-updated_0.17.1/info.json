@@ -1,0 +1,1 @@
+{"name": "belt-overflow-updated", "version": "0.17.1", "title": "Belt Overflow Updated", "author": "CorrettoSambuca", "description": "Causes full belts to overflow at the end.", "dependencies": ["base >= 0.17.0"], "factorio_version": "0.17"}

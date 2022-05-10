@@ -1,0 +1,1 @@
+{"name": "SoundTalkingFactory", "version": "1.0.0", "factorio_version": "1.0", "title": "SoundTalkingFactory", "author": "ShinoHarvest", "description": "Add new sound", "dependencies": ["base >= 1.0.0"]}

@@ -1,0 +1,1 @@
+{"name": "BigChests", "version": "0.1.1", "title": "Big Chests", "author": "Mercury", "contact": "alexcgilliland@gmail.com", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Nerf the logistic system: all chests are Big."}

@@ -1,0 +1,1 @@
+{"name": "thermal-tech", "version": "0.0.1", "factorio_version": "0.15", "title": "Thermal tech", "author": "bytearray", "homepage": "TODO", "description": "Take advantage of thermal energy", "dependencies": ["base >= 0.15.7"]}

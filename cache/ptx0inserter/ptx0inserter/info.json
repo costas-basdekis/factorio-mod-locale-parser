@@ -1,0 +1,1 @@
+{"name": "ptx0inserter", "version": "0.2.1", "title": "ptx0's Very Long Handed Inserter", "author": "ptx0", "contact": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Small mod that adds a new inserter with a 6 tile reach."}

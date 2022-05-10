@@ -1,0 +1,1 @@
+{"name": "MareusTurretRange", "version": "1.0.1", "title": "Turret Range", "description": "Allows configuration of turret range through the mod startup settings. Should work with turrets added by mods, as long as they use the base prototype types.", "author": "mareus", "dependencies": ["base >= 1.0"], "factorio_version": "1.0"}

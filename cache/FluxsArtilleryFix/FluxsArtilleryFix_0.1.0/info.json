@@ -1,0 +1,1 @@
+{"name": "FluxsArtilleryFix", "version": "0.1.0", "title": "Fluxs Artillery Fix", "author": "Flux", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Different ranges on station and train wagoon"}

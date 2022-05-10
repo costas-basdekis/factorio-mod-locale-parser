@@ -1,0 +1,1 @@
+{"name": "TpRequests2", "version": "1.1.0", "title": "TP Requests 2", "author": "SilentSean", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds minecraft-like teleportation requests."}

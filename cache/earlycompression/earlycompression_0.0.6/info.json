@@ -1,0 +1,1 @@
+{"name": "earlycompression", "version": "0.0.6", "title": "Earlier Omnicompression", "author": "_-_-_", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.17", "omnimatter_compression >= 4.0.0"], "description": "Moves omnicompression techs up a little"}

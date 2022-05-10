@@ -1,0 +1,1 @@
+{"name": "Prykpryk_Efficiency_Module_Balance", "version": "0.2.0", "title": "Prykpryk's Efficiency Module Balance", "author": "prykpryk", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"], "description": "Rebalances efficiency modules to be viable at all levels, in assemblers or beacons. Changes make their use cheaper than an equivalent cost solar powerplant."}

@@ -1,0 +1,1 @@
+{"name": "production-stats", "version": "0.0.1", "title": "Production stats writer", "author": "YobuDal", "description": "Writes production stats into a file", "factorio_version": "0.14", "dependencies": ["base >= 0.14"]}

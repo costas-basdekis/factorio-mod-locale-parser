@@ -1,0 +1,1 @@
+{"name": "PulseRifle", "version": "1.1.2", "factorio_version": "0.16", "title": "M41-A Pulse Rifle", "author": "WYbbw", "description": "Adds the iconic Sci-fi classic colonial marine M41-A Pulse Rifle from the movie Aliens. Nades added. Flares added.", "dependencies": ["base >= 0.14.0"]}

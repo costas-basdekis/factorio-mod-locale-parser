@@ -1,0 +1,1 @@
+{"name": "BuggisNuclearBots", "author": "Buggi", "version": "0.1.0", "factorio_version": "1.1", "title": "Buggis Nuclear Bots", "homepage": "https://www.youtube.com/c/FlexibleGames", "description": "Nuclear powered robots that don't need to recharge.", "dependencies": ["base >= 1.1"]}

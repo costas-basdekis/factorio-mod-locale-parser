@@ -1,0 +1,1 @@
+{"name": "electric-vehicles", "version": "0.3.5", "title": "Electric Vehicles", "author": "mknejp", "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=31911", "description": "Electric vehicles running on battery energy.", "factorio_version": "0.14", "dependencies": ["base >= 0.14.2", "electric-vehicles-lib>=0.2.8"], "license": "MIT"}

@@ -1,0 +1,1 @@
+{"name": "placeholderabc", "version": "0.16.0", "factorio_version": "0.16", "title": "Clock", "author": "gmilliken83", "contact": "Private", "homepage": "https://forums.factorio.com/viewtopic.php?f=51&t=52456", "description": "Placeholder mod to experiment with site formatting", "dependencies": ["base >= 0.16.0"]}

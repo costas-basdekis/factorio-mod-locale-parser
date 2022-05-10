@@ -1,0 +1,1 @@
+{"name": "nekoNuclearOverride", "version": "0.0.3", "title": "Neko's Nuclear Override", "author": "GreyNeko", "contact": "GreyNeko@gmail.com", "factorio_version": "1.00", "homepage": "", "description": "This makes the recipe of the nuclear centrifuging configurable.", "dependencies": ["base >= 1.0.0"]}

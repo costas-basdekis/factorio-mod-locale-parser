@@ -1,0 +1,1 @@
+{"name": "SmarterInserter", "version": "0.1.8", "title": "Smarter Inserter", "author": "Ellomir", "contact": "ellomir@yahoo.fr", "homepage": "https://forums.factorio.com/viewtopic.php?t=51514", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "This mod changes inserters in a way they never drop items on floor."}

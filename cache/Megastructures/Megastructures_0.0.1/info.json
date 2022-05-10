@@ -1,0 +1,1 @@
+{"name": "Megastructures", "version": "0.0.1", "title": "Megastructures", "author": "flerble56", "contact": "blaisereg@blaiserobson.com", "homepage": "https://github.com/flerble56/Megastructures", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Adds Megastructures - massive and expensive buildings with powerful effects"}

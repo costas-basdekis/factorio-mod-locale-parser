@@ -1,0 +1,1 @@
+{"name": "TrainOutpostFix", "version": "1.1.0", "title": "Train Outpost nil error fix", "author": "Taehl", "contact": "email.Taehl@gmail.com", "homepage": "", "description": "Upon migrating, reinitialization is called to fix on_chunk_generated error.", "factorio_version": "0.14", "dependencies": ["base >= 0.13", "TrainOutpost >= 1.1"]}

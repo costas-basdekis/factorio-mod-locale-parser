@@ -1,0 +1,1 @@
+{"name": "FactorioTweaks", "version": "0.4.4", "title": "FactorioTweaks", "author": "Jamozed", "factorio_version": "0.18", "description": "FactorioTweaks is a collection of tweaks for Factorio.", "dependencies": ["base >= 0.18"]}

@@ -1,0 +1,1 @@
+{"name": "Permanent-Factory", "version": "0.1.0", "title": "Permanent-Factory", "author": "Scrapper_101", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0"], "description": "This mod makes all entitys placed by the character or a robot permanent and not removable, movable, or rotatable. Don't missclick!"}

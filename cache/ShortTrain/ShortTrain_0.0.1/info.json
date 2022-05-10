@@ -1,0 +1,1 @@
+{"name": "ShortTrain", "description": "Train length will be shorter", "version": "0.0.1", "title": "Short Train", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.16"}

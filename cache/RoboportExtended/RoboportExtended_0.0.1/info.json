@@ -1,0 +1,1 @@
+{"name": "RoboportExtended", "version": "0.0.1", "factorio_version": "1.1", "title": "RoboportExtended", "author": "realtux", "license": "https://opensource.org/licenses/MIT", "contact": "N/A", "homepage": "N/A", "description": "Doubles ranges for robots.", "dependencies": ["base >= 0.15"]}

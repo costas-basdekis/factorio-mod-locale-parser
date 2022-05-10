@@ -1,0 +1,1 @@
+{"name": "chat", "title": "Chat console", "version": "0.0.2", "date": "07-07-2019", "author": "Godmave", "dependencies": ["base >= 0.17"], "factorio_version": "0.17", "description": "A chat console with scrolling and stuff (experimental)"}

@@ -1,0 +1,1 @@
+{"name": "CW-heracles-carrier", "version": "0.1.6", "title": "Heracles flying carrier", "author": "CyberWizard2261", "description": "Add to the game the Heracles a behemot flying carrier and its Hydra fithers", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0", "? CW-hydrogen-power >= 0.2.10"]}

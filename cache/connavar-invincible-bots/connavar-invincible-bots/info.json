@@ -1,0 +1,1 @@
+{"name": "connavar-invincible-bots", "author": "Connavar", "version": "1.1.0", "factorio_version": "1.1", "title": "Connavar's invincible bots", "homepage": "https://www.wedol.cz", "description": "Makes bots invincible", "dependencies": ["base >= 1.1.0"]}

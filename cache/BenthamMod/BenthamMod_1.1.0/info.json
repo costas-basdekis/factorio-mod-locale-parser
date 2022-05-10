@@ -1,0 +1,1 @@
+{"name": "BenthamMod", "version": "1.1.0", "title": "BenthamMod", "author": "Jelmergu", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.16"], "description": "Mod that disables the iron chest recipe. Inspired by MangledPork Gaming's Factorio with Peachy and Sheepdog! Ep#24"}

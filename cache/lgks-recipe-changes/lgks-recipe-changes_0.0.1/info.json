@@ -1,0 +1,1 @@
+{"name": "lgks-recipe-changes", "version": "0.0.1", "factorio_version": "0.17", "title": "Lgks recipe changes", "author": "Lgk", "contact": "", "homepage": "", "description": "Changes angels smelting simple steel recipe", "dependencies": ["base >= 0.17.0", "only-smelting >= 0.2.2"]}

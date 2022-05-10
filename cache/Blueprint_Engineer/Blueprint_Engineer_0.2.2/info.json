@@ -1,0 +1,1 @@
+{"name": "Blueprint_Engineer", "version": "0.2.2", "title": "Blueprint Engineer", "author": "Mojo McFunk", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod implements more ways to manipulate blueprints."}

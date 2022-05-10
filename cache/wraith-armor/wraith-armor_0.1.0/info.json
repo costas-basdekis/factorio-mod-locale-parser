@@ -1,0 +1,1 @@
+{"name": "wraith-armor", "version": "0.1.0", "title": "Wraith Armor", "author": "SponsoredByStone", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "This mod adds a new armor type: Wraith Armor"}

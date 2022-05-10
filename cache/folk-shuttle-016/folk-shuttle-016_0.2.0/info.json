@@ -1,0 +1,1 @@
+{"name": "folk-shuttle-016", "version": "0.2.0", "factorio_version": "0.16", "title": "Shuttle Train Lite", "author": "folk, Serialtasted", "contact": "", "homepage": "https://forums.factorio.com/viewtopic.php?f=94&t=45554", "description": "A remake of the classic Shuttle Train by Simwir.", "license": "MIT", "dependencies": ["? VehicleGrid", "? FARL"]}

@@ -1,0 +1,1 @@
+{"name": "DK_Powerful_Modules", "version": "0.0.2", "factorio_version": "1.1", "title": "DK_Powerful_Modules", "author": "Domekologe", "contact": "anfragen@domekologe.eu", "homepage": "https://www.domekologe.eu", "description": "Adds more modules to the game with single functions.", "dependencies": ["base >= 1.1.0"]}

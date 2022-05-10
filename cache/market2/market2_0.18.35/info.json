@@ -1,0 +1,1 @@
+{"name": "market2", "version": "0.18.35", "title": "Market", "author": "OwnlyMe", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base", "?uniturret", "?StrangeMatter", "?apm_nuclear"], "description": "Buy & sell from your inventory or with automated entities.\nCheck out the AutoBuy extension."}

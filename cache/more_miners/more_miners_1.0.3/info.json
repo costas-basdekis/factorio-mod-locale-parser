@@ -1,0 +1,1 @@
+{"name": "more_miners", "version": "1.0.3", "factorio_version": "0.14", "title": "More Miners", "author": "ErdbeerbaerLP", "description": "Adds more miners", "dependencies": ["base >= 0.14.0"]}

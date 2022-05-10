@@ -1,0 +1,1 @@
+{"name": "PipesFix", "description": "Proof of concept: You can't connect two pipes with two different fluids", "version": "0.0.1", "title": "Pipes Fix", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.16"}

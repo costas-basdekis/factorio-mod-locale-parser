@@ -1,0 +1,1 @@
+{"name": "advanced-equipment-custom-elyondo", "author": "Yannick Sprenger", "version": "1.0.6", "title": "Advanced Equipment (Custom ElYondo)", "description": "Fixed something.", "factorio_version": "1.1", "dependencies": ["base >= 0.18.8"]}

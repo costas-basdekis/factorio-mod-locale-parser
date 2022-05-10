@@ -1,0 +1,1 @@
+{"name": "Tow_Tank", "version": "0.9.0", "title": "Tow Tank", "author": "Mylon", "contact": "https://forums.factorio.com/viewtopic.php?f=95&t=38757", "homepage": "https://www.patreon.com/mylon", "description": "Trains without tracks!", "factorio_version": "0.18", "dependencies": ["base >= 0.4.1"]}

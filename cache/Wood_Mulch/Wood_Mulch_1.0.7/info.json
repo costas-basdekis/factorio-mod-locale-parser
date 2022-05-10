@@ -1,0 +1,1 @@
+{"name": "Wood_Mulch", "author": "R-PL", "version": "1.0.7", "title": "Wood Mulch Processing", "homepage": "", "description": "Got wood? Turn excess wood into more useful stuff", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

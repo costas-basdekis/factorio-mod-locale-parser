@@ -1,0 +1,1 @@
+{"name": "craft-time", "version": "0.1.0", "title": "Craft Time", "author": "Sr_Yoqese", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Press CTRL+Y to see how long it'll take to finish handcrafting."}

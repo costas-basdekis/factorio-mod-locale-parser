@@ -1,0 +1,1 @@
+{"name": "RadarMarker", "version": "1.1.1", "title": "Radar Marker", "author": "timbowit", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "Places map markers for planning and tracking radar placement."}

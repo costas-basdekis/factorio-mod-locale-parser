@@ -1,0 +1,1 @@
+{"name": "UltimateBeltsSmartFix", "version": "0.1.0", "title": "Ultimate Belts Smart Fix", "author": "hsp9513", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["UltimateBelts >= 1.1.0"], "description": "This mod make it possible for ultimate belts to be automatically replaced by ultimate underground belts."}

@@ -1,0 +1,1 @@
+{"name": "limited-boilers", "version": "1.0.8", "title": "Limited boilers", "author": "Roger van Bommel", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "?RealisticReactors >= 3.0.0"], "description": "This mod limits the ammount of boilers and solar panels you can place"}

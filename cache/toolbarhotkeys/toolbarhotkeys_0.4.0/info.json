@@ -1,0 +1,1 @@
+{"name": "toolbarhotkeys", "version": "0.4.0", "title": "Toolbar Hotkeys", "author": "Kirk McDonald", "contact": "", "homepage": "", "factorio_version": "1.0", "dependencies": ["base >= 1.0.0"], "description": "Adds additional hotkeys for the toolbar."}

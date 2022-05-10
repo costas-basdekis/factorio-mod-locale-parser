@@ -1,0 +1,1 @@
+{"name": "CreativeChests", "version": "0.18.1", "title": "Creative Chests", "description": "Creative Chests are chests with unlimited amount of items. They can also destroy your items. Use it for blueprints with perfect ratio, but not for the game.", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.18"}

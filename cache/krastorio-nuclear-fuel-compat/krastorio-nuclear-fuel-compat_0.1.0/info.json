@@ -1,0 +1,1 @@
+{"name": "krastorio-nuclear-fuel-compat", "version": "0.1.0", "title": "Krastorio - Nuclear Fuel Compat", "author": "Hannah97Gamer", "description": "Changes some recipes for better compatibility between the Krastorio 2 and Nuclear Fuel mods.", "factorio_version": "0.18", "dependencies": ["Nuclear Fuel", "Krastorio2"]}

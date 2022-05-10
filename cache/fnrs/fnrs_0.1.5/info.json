@@ -1,0 +1,1 @@
+{"name": "fnrs", "version": "0.1.6", "title": "fuel and rocket stacksize multiplier", "author": "lottery248", "homepage": "", "factorio_version": "1.0", "dependencies": ["base >= 0.18", "? SpecializedFuel >= 0.4.1", "? space-exploration >= 0.2.11"], "description": "still working in progress, now supports science packs from Space Exploration."}

@@ -1,0 +1,1 @@
+{"name": "ev-refining", "version": "1.2.0", "factorio_version": "1.1", "title": "Extended Vanilla: Refining", "author": "DiegoPro_77", "contact": "", "homepage": "", "description": "", "dependencies": ["base", "? ev-mining-drills"]}

@@ -1,0 +1,1 @@
+{"name": "WorldGen_Update", "version": "0.2.2", "title": "WorldGen Update", "author": "Optera", "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=21729", "description": "Update map to current world generator values.\nUpdating takes a while, be patient.", "factorio_version": "1.0", "dependencies": ["base >= 1.0"]}

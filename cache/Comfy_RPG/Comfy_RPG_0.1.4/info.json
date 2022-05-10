@@ -1,0 +1,1 @@
+{"name": "Comfy_RPG", "version": "0.1.4", "factorio_version": "0.18", "title": "Comfy_RPG", "author": "MewMew", "contact": "", "homepage": "", "description": "A Diablo like RPG stats system.", "dependencies": ["base >= 0.18.0"]}

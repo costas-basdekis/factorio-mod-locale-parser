@@ -1,0 +1,1 @@
+{"name": "chess", "version": "0.0.2", "title": "Chess", "description": "Play chess in factorio", "author": "Tom Smeets", "contact": "factorio@tsmeets.nl", "factorio_version": "1.1", "dependencies": ["base"]}

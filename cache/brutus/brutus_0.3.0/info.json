@@ -1,0 +1,1 @@
+{"name": "brutus", "version": "0.3.0", "title": "Brutus V12", "author": "SirFloIII, Turtle", "dependencies": ["base >= 0.14.0"], "description": "This mod adds the Brutus V12, a racecar of a bygone era.", "factorio_version": "0.18"}

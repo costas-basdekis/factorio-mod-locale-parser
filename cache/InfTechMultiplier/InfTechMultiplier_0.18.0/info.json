@@ -1,0 +1,1 @@
+{"name": "InfTechMultiplier", "author": "Ober3550", "version": "0.18.0", "title": "Infinite Technology Multiplier", "description": "Multiplies all of the technology bonuses. Was intended to be used in games where the tech multiplier was increased but the infinite researches stay the same.", "factorio_version": "0.18", "dependencies": ["base"]}

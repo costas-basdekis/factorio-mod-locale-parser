@@ -1,0 +1,1 @@
+{"name": "preheated_exchanger", "author": "Faltease", "version": "0.0.1", "title": "Preheated Exchanger", "homepage": "", "description": "Adds in a heat exchanger that use steam as an input", "factorio_version": "0.15", "dependencies": ["base"]}

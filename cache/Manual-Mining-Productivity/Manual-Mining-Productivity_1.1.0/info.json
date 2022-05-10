@@ -1,0 +1,1 @@
+{"name": "Manual-Mining-Productivity", "version": "1.1.0", "title": "Manual Mining Productivity", "author": "Loren1350", "contact": "Schmendrick on the Factorio Forums", "homepage": "", "description": "Applies mining productivity to manual mining.", "dependencies": ["base"], "factorio_version": "1.1"}

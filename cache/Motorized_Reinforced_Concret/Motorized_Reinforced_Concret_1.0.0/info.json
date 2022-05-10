@@ -1,0 +1,1 @@
+{"name": "Motorized_Reinforced_Concret", "version": "1.0.0", "title": "Motorized Reinforced Concret for Factorio 0.17", "author": "Sbrun Tera", "contact": "sbrun.tera@hotmail.com", "homepage": "", "description": "Motorized Reinforced Concret mod. Concret that speed you up even more!", "dependencies": ["base >= 0.17"], "factorio_version": "0.17"}

@@ -1,0 +1,1 @@
+{"name": "TeksFox_nuclear", "version": "0.1.21", "title": "TeksFox Nuclear", "author": "TeksFox", "contact": "https://vk.com/id202365095", "homepage": "https://vk.com/id202365095", "description": "The change in uranium processing and nuclear fuel.", "dependencies": ["base >= 0.16.0", "? bobpower >= 0.16.0"], "factorio_version": "0.16"}

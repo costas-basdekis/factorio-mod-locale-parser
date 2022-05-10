@@ -1,0 +1,1 @@
+{"name": "WatchThis", "version": "0.0.1", "title": "Watch This", "description": "Draws the line between selected entity and player", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "0.18"}

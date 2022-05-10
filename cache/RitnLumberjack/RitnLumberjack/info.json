@@ -1,0 +1,1 @@
+{"name": "RitnLumberjack", "version": "0.7.2", "title": "RitnLumberjack", "author": "Ritn", "description": "Add technologies lumberjack and others...", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "RitnLib >= 0.6", "Bio_Industries >= 1.1.10", "? commuLogo >= 1.0", "? DiscoScience >= 1.0.0"]}

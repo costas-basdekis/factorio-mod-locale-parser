@@ -1,0 +1,1 @@
+{"name": "adamo-carbon", "version": "0.3.0", "title": "Carbon", "author": "adamo", "dependencies": ["base", "? adamo-physics"], "description": "Hydrocarbons go in, hydrocarbons come out. You can't explain that.", "factorio_version": "1.0"}

@@ -1,0 +1,1 @@
+{"name": "SteamShip-0-17", "version": "0.0.4", "factorio_version": "0.17", "title": "Steam Ship", "author": "IceDev", "description": "Adds a Steam Ship", "dependencies": ["base >= 0.17.0"]}

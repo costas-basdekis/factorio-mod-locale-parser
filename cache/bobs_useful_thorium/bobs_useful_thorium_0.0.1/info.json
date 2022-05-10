@@ -1,0 +1,1 @@
+{"name": "bobs_useful_thorium", "version": "0.16.1", "title": "Bobs Useful Thorium", "author": "Zarnoo", "homepage": "", "dependencies": ["base >= 0.16.24", "bobores >= 0.16.0"], "description": "Just turns thorium into Uranium", "factorio_version": "0.16"}

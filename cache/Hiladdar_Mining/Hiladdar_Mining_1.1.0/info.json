@@ -1,0 +1,1 @@
+{"name": "Hiladdar_Mining", "version": "1.1.0", "factorio_version": "1.1", "title": "Hiladdar's Mining", "author": "Hiladdar", "contact": "hiladdar@att.net", "dependencies": ["base >= 1.1.0"], "description": "Adds 5 tiers of configurable electric mining drills, and pumpjacks"}

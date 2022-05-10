@@ -1,0 +1,1 @@
+{"name": "TrainBigCarriage", "version": "0.1.2", "title": "Rivens Big Train Carriage", "author": "Riven", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod makes train carriages hold 4x as much cargo."}

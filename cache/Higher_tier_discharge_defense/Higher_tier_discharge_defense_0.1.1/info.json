@@ -1,0 +1,1 @@
+{"name": "Higher_tier_discharge_defense", "version": "0.1.1", "title": "Higher tier discharge defense", "author": "General_Lindor", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Adds higher tier discharge defense"}

@@ -1,0 +1,1 @@
+{"name": "solid-map-ore", "version": "1.0.0", "title": "Solid Ore Colors in Map View (No Checkerboard)", "author": "jeFFeSS", "description": "The game normally draws ore patches in map view with a checkerboard pattern. This mod changes that so that they are a solid color.", "factorio_version": "1.1", "dependencies": ["base"]}

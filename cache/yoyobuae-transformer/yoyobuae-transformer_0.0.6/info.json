@@ -1,0 +1,1 @@
+{"name": "yoyobuae-transformer", "version": "0.0.6", "title": "Yoyobuae's Transformer", "author": "Yoyobuae", "contact": "yoyobuae@gmail.com", "homepage": "https://mods.factorio.com/mods/yoyobuae/yoyobuae-transformer", "description": "Electrical transformer.", "factorio_version": "0.18", "dependencies": ["base >= 0.17"]}

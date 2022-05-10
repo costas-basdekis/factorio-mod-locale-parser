@@ -1,0 +1,1 @@
+{"name": "QuickLogistics", "version": "0.1.0", "factorio_version": "0.16", "title": "QuickLogistics", "author": "Tinu", "contact": "bjornar@snoksrud.no", "homepage": "", "description": "Moves logistics system down to red+green+blue tech", "dependencies": ["base >= 0.16.0"]}

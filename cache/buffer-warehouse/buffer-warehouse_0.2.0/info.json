@@ -1,0 +1,1 @@
+{"name": "buffer-warehouse", "version": "0.2.0", "title": "Buffer warehouse", "author": "prykpryk", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16", "angelsaddons-warehouses>=0.3.0", "?extendedangels>=0.1.5"], "description": "This mod adds buffer version of logistic warehouses. Based on Arch666Angel's warehouse addon."}

@@ -1,0 +1,1 @@
+{"name": "Hexi_Maze_Mod", "version": "1.5.8", "title": "Hexi's Maze Mod", "author": "Hexicube", "contact": "", "homepage": "", "dependencies": ["base >= 0.16.0"], "factorio_version": "0.16", "description": "Turns the map into a series of connected mazes."}

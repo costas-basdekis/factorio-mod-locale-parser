@@ -1,0 +1,1 @@
+{"name": "rockets-in-the-sky", "version": "0.2.0", "title": "Rockets in the Sky", "author": "", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "jetpack"], "description": "Plays Rocketeer sounds from Red Alert 2 when using your jetpack."}

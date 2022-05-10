@@ -1,0 +1,1 @@
+{"name": "RadarNightVision", "version": "0.0.1", "date": "2021-11-01", "title": "RadarNightVision", "author": "palmic", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "With night vision invented, it will be enabled for all radar view"}

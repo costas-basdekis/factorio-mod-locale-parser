@@ -1,0 +1,1 @@
+{"name": "BetterLightNoFlashlight", "version": "0.15.1", "title": "Better Light, No Flashlight", "author": "Noobrzor", "contact": "none", "homepage": "none", "description": "Personal light has it's range and intensity increased, coupled with being always active. Flashlight is disabled entirely.", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15"}

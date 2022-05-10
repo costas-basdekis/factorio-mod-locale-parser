@@ -1,0 +1,1 @@
+{"name": "Flamethrower_shoots_in_prepare_range", "version": "0.16.1", "title": "Flamethrower_shoots_in_prepare_range", "author": "siniox", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "flamethrower begins to shoot at prepare range (the range at which it pops out)"}

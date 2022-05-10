@@ -1,0 +1,1 @@
+{"name": "OldWormSound", "version": "1.105.1", "title": "OldWormSound", "author": "Reika", "contact": "", "homepage": "", "factorio_version": "1.1", "description": "Restores the old worm attack sound (deep growl).", "dependencies": ["base", "DragonIndustries"]}

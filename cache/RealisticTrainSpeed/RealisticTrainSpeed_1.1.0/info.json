@@ -1,0 +1,1 @@
+{"name": "RealisticTrainSpeed", "version": "1.1.0", "title": "Realistic Train Speed", "author": "Cyphall", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod adjust trains max speed, acceleration, braking and some other values to better match reality."}

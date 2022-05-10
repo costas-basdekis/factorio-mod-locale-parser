@@ -1,0 +1,1 @@
+{"name": "wireless", "author": "Troels Bjerre Lund", "version": "0.0.1", "factorio_version": "1.1", "title": "Wireless Challenge", "homepage": "https://github.com/troelsbjerre/wireless", "description": "A mod that disconnects all wires from newly built entities. See how far you get without wires!", "dependencies": ["base >= 1.0.0"]}

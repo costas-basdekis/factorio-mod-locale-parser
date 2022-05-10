@@ -1,0 +1,1 @@
+{"name": "default-wait-conditions", "version": "0.1.1", "factorio_version": "1.1", "title": "Default Wait Conditions", "author": "curiosity-a", "contact": "", "homepage": "", "description": "When a stop, whose name contains a given pattern, is added to the train schedule, add user-defined wait conditions to it.", "dependencies": ["base >= 1.1.1"]}

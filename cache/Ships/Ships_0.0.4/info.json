@@ -1,0 +1,1 @@
+{"name": "Ships", "version": "0.0.4", "factorio_version": "0.15", "title": "Ships", "author": "IceDev", "description": "adds ships", "dependencies": ["base >= 0.15.0"]}

@@ -1,0 +1,1 @@
+{"name": "DeadlockBlackRubberBelts", "version": "1.0.0", "title": "Black Rubber Belts", "author": "Deadlock989", "contact": "", "homepage": "", "dependencies": ["base >= 1.1.37"], "description": "Reskins vanilla belts in a dark rubbery style. Tinted layers with options. Made to accompany IR2 but can be installed without it.", "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "Wooden_Walls", "version": "1.0.0", "title": "Wooden Walls", "author": "TheFunnySide", "contact": "boheck52@gmail.com", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Wooden version of walls with lower hp but accessible from the start."}

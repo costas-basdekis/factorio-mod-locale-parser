@@ -1,0 +1,1 @@
+{"name": "FactoryPlannerChineseLocale", "version": "1.0.2", "factorio_version": "0.17", "title": "Factory Planner Chinese  Locale", "author": "Daniel Lai Yin Hing", "homepage": "", "description": "", "dependencies": ["base >= 0.17", "factoryplanner >=0.17.69"]}

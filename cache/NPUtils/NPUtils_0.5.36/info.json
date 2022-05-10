@@ -1,0 +1,1 @@
+{"name": "NPUtils", "version": "0.5.36", "factorio_version": "1.1", "title": "NPUtils", "author": "kaueNP", "contact": "", "homepage": "", "description": "A huge expansion to Factorio with new machines,generators,energy accumulators,turrets,electric poles,components...You will find a bunch of new stuffs in NPU mods to increase your gameplay", "dependencies": ["base >= 1.1"]}

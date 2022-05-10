@@ -1,0 +1,1 @@
+{"name": "SimpleLogistics", "author": "3x1t_5tyl3", "version": "0.0.4", "title": "SimpleLogistics", "description": "Simpler and more fun logistics.", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

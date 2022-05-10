@@ -1,0 +1,1 @@
+{"name": "WeaponBalancer", "version": "1.0.11", "factorio_version": "1.1", "title": "Weapon Balancer", "author": "Peacemaker83", "description": "Allows changes of turret and weapon range", "dependencies": ["base >= 1.1"]}

@@ -1,0 +1,1 @@
+{"name": "betterartillerysounds", "version": "0.3.0", "title": "Artillery sound enhancer", "author": "yohannc", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Add multiple sounds for artillery depending on distance (based on vanilla)."}

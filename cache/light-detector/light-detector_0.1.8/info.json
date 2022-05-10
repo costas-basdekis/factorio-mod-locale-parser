@@ -1,0 +1,1 @@
+{"name": "light-detector", "version": "0.1.8", "title": "Lightssensor", "author": "Sascha Michel", "description": "Adds a new entity for detecting light", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

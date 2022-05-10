@@ -1,0 +1,1 @@
+{"name": "brighter-locomotive-color-mask", "version": "0.2.1", "title": "Brighter Color Mask - Locomotive", "author": "Mooncat", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=39904", "description": "Brightens the color mask of vanilla locomotive.", "factorio_version": "0.15", "dependencies": ["base >= 0.15"]}

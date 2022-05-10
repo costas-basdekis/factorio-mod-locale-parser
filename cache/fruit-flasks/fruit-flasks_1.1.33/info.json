@@ -1,0 +1,1 @@
+{"name": "fruit-flasks", "version": "1.1.33", "title": "Fruit Flasks", "author": "Maxreader", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.0", "! Science_pack_glow"], "description": "Science packs are now fruit. Enjoy!", "package": {"ignore": [".gitattributes", ".gitignore", ".vscode/**", ".VSCodeCounter/"]}}

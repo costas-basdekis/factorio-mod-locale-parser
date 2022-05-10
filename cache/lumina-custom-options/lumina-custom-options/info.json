@@ -1,0 +1,1 @@
+{"name": "lumina-custom-options", "version": "0.3.0", "title": "Lumina's Custom Options", "author": "Lumina Sapphira", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Adds the ability to customize certain entities via JSON."}

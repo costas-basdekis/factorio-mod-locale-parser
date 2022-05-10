@@ -1,0 +1,1 @@
+{"name": "Corrode_to_Coal", "version": "0.0.4", "title": "Corrode to Coal", "author": "danischu", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "This mod adds an additional recipe to generate coal from oil products."}

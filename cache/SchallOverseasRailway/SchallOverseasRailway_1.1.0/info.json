@@ -1,0 +1,1 @@
+{"name": "SchallOverseasRailway", "version": "1.1.0", "title": "Schall Overseas Railway", "author": "Schallfalke", "email": "", "homepage": "https://mods.factorio.com/mod/SchallOverseasRailway", "contact": "", "description": "A tiny mod allows rails (with rail signals) to be placed over water tiles.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

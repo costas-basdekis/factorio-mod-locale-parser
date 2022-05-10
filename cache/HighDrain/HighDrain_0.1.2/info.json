@@ -1,0 +1,1 @@
+{"name": "HighDrain", "version": "0.1.2", "title": "High Drain", "author": "darkfrei", "description": "Idle energy usage will be 10 percents of active energy usage, the factor can be changed", "dependencies": ["base"], "factorio_version": "0.17"}

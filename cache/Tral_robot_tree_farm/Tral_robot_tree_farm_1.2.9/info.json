@@ -1,0 +1,1 @@
+{"name": "Tral_robot_tree_farm", "version": "1.2.9", "title": "Tral's Robot Tree Farm", "author": "MarcusTral, OwnlyMe", "factorio_version": "1.0", "dependencies": ["base", "?alien-biomes", "!robot_tree_farm"], "description": "Robots can plant and harvest trees"}

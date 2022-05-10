@@ -1,0 +1,1 @@
+{"name": "TiTaN-BotStart", "version": "1.1.0", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "title": "TiTaN Bot Start", "author": "TiTaN", "homepage": "", "description": "Add exosceletons, robo ports, a fusion reactor, batteries and construction bots to an already started savegame."}

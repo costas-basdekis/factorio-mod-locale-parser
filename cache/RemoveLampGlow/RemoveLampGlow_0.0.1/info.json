@@ -1,0 +1,1 @@
+{"name": "RemoveLampGlow", "version": "0.0.1", "title": "Remove Lamp Glow", "author": "MasterBrico", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "This mod removes the glow of colored lamps."}

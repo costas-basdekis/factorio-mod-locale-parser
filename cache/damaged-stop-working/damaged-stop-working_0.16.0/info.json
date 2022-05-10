@@ -1,0 +1,1 @@
+{"name": "damaged-stop-working", "version": "0.16.0", "title": "Damaged stop working", "author": "YPetrermann", "homepage": "", "dependencies": ["base"], "factorio_version": "0.16", "description": "Damaged entities stop working and need to be repaired"}

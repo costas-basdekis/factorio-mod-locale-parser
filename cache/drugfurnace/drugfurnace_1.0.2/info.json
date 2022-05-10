@@ -1,0 +1,1 @@
+{"name": "drugfurnace", "version": "1.0.2", "title": "drugfurnace", "author": "Lars Steffensen", "contact": "", "homepage": "http://www.resourceaddiction.com/factorio-druglab/", "factorio_version": "0.15", "description": "Adds a drug furnace that makes ash and charcoal from raw wood, wood or woodchips.", "dependencies": ["base >= 0.15.0"]}

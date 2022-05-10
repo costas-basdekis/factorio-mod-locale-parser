@@ -1,0 +1,1 @@
+{"name": "host65-xander-milledbauxite", "version": "0.1.0", "title": "xander_milledbauxite", "author": "host65", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16", "xander-mod >=2.1.1"], "description": "Host65's fix for Xanders milled bauxite not existing ingame"}

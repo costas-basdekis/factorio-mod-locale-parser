@@ -1,0 +1,1 @@
+{"name": "IR2PoweredFloor", "author": "demongo1154", "version": "1.0.2", "title": "IR Powered floor", "homepage": "", "description": "Revamped by demongo1154 for IR2, Flooring that transmits power to adjacent objects, org(non-IR2) by Theanderblast", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "IndustrialRevolution"]}

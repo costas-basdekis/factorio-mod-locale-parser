@@ -1,0 +1,1 @@
+{"name": "basicbots", "version": "0.1.0", "factorio_version": "0.14", "title": "Basic robots mod", "author": "Ulyssessword", "contact": "", "homepage": "", "description": "Adds basic robots.", "dependencies": ["base >= 0.14.0"]}

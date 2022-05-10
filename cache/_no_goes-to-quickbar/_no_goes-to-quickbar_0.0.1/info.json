@@ -1,0 +1,1 @@
+{"name": "_no_goes-to-quickbar", "version": "0.0.1", "title": "no goes-to-quickbar", "description": "This mod fixes main problem of 0.17: no need of goes-to-quickbar and goes-to-main-inventory", "author": "darkfrei", "license": "no license", "dependencies": ["base"], "factorio_version": "0.17"}

@@ -1,0 +1,1 @@
+{"name": "Blueprint_Flipper", "version": "0.1.8", "factorio_version": "0.14", "title": "Blueprint Flipper", "author": "GopherAtl, Roktaal, Humpfry", "homepage": "https://github.com/Humpfry/blueprint_flipper", "contact": "Humpfry@gmail.com", "description": "Mirrors/Flips a blueprint in hand", "dependencies": ["base >= 0.14.0"]}

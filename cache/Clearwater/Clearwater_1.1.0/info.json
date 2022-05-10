@@ -1,0 +1,1 @@
+{"name": "Clearwater", "version": "1.1.0", "title": "Clearwater", "author": "Yehn", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Makes all water clear (non-polluted in appearance). Non-destructive; this mod can be enabled or disabled at any time."}

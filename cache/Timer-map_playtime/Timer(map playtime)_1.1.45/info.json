@@ -1,0 +1,1 @@
+{"name": "Timer-map_playtime", "version": "1.1.45", "title": "Timer(map playtime)", "author": "aithevulture (original code by Chris Welty)", "contact": "aithevulture@gmail.com", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Displays elapsed map time on the screen"}

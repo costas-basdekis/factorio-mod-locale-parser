@@ -1,0 +1,1 @@
+{"name": "steam-thermo-barrels", "version": "1.1.1", "title": "Steam thermo-barrels", "author": "adamius", "description": "Steam thermo barrels. 15c, 165c and 500c steam can now be barrelled.", "factorio_version": "1.1", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "DoubleReach-015", "version": "0.15.1", "title": "Double Reach for Factorio 0.15", "author": "Peppe (Factorio 0.15.x compatibility update by ChurchOrganist)", "homepage": "", "description": "Reach is now 12 tiles.  Vanilla reach is 6 tiles.  This is a modifed version of Long Reach by James Aguilar.", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

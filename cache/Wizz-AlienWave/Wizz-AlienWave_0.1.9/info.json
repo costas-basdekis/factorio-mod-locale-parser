@@ -1,0 +1,1 @@
+{"name": "Wizz-AlienWave", "version": "0.1.9", "factorio_version": "0.18", "title": "Wizz-AlienWave", "author": "steevej", "description": "Add more alien challenge with vanilla biter and spitter. The aliens appear around your position and want to kill you, no more. No spawner or pollution needed to work.", "dependencies": ["base >=0.18"]}

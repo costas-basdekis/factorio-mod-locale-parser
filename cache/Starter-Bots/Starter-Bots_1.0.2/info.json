@@ -1,0 +1,1 @@
+{"name": "Starter-Bots", "version": "1.0.2", "title": "Starter Bots", "author": "daveralph1234", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Start new games with construction robots, a car, and extra resources."}

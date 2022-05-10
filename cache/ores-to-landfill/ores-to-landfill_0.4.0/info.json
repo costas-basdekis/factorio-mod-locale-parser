@@ -1,0 +1,1 @@
+{"name": "ores-to-landfill", "version": "0.4.0", "title": "Ores to Landfill", "author": "NarayanJr", "factorio_version": "1.1", "dependencies": ["base >= 0.16", "? bobores >= 0.15.0", "? angelsrefining >= 0.10.0"], "description": "Allows you to convert iron ore, copper ore, coal, sulfur, and uranium into landfill.  Also supports various angel's/bob's ores."}

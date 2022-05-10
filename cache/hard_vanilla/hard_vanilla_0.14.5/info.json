@@ -1,0 +1,1 @@
+{"name": "hard_vanilla", "version": "0.14.5", "factorio_version": "0.14", "title": "hard_vanilla", "author": "die_8_,ep0d", "contact": "", "homepage": "http://www.fourslippers.com/factorio/", "description": "This mod will increase the difficulty and process of the recipes, and abolish some of the recipes.", "dependencies": ["base >= 0.14.00"]}

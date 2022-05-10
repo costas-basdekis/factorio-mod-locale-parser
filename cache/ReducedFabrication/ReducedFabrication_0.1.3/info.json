@@ -1,0 +1,1 @@
+{"name": "ReducedFabrication", "version": "0.1.3", "title": "Reduced Fabrication", "author": "Kynaro", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.16"], "description": "This mod allows you to decrease time and material requirements for recipe fabrication."}

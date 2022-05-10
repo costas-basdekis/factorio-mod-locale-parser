@@ -1,0 +1,1 @@
+{"name": "no-hand-military", "version": "0.0.2", "title": "No Hand Military", "author": "abregado", "contact": "contact@benbuckton.com", "homepage": "", "description": "Players can no longer craft weapons, armor and military items by hand.", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15"}

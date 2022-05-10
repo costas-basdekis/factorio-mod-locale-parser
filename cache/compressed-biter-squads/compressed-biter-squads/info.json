@@ -1,0 +1,1 @@
+{"name": "compressed-biter-squads", "version": "0.0.7", "factorio_version": "1.1", "title": "Compressed Biter Squads", "author": "DBotThePony", "homepage": "https://gitlab.com/DBotThePony/shield-generators-factorio", "description": "Attempts to shrink huge UPS impact due to spread biter bases on map", "dependencies": ["base >= 1.1", "? Rampant"]}

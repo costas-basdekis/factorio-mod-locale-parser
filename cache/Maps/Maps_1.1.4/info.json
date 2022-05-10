@@ -1,0 +1,1 @@
+{"name": "Maps", "version": "1.1.4", "title": "Maps", "author": "DellAquila, Pi-C", "description": "You may find a map of the region. Collect maps around the world to quickly discover the area around you. You can loot maps by destroying trees and enemies.", "dependencies": ["base >= 1.1.0", "(?)Bio_Industries", "(?)alien-biomes"], "factorio_version": "1.1"}

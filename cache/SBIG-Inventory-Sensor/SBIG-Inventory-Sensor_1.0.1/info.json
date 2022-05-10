@@ -1,0 +1,1 @@
+{"name": "SBIG-Inventory-Sensor", "version": "1.0.1", "title": "SBIG-Inventory-Sensor", "author": "Fabian", "contact": "", "description": "Adds a inventory sensory", "factorio_version": "0.14", "dependencies": ["base >= 0.13.0"]}

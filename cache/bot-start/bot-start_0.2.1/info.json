@@ -1,0 +1,1 @@
+{"name": "bot-start", "version": "0.2.1", "factorio_version": "0.16", "title": "Bot Start", "author": "bendb918", "description": "Gives the player basic items to use robots at the start of the game.", "dependencies": ["base >= 0.16.0"]}

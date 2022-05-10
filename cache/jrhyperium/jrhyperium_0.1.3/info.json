@@ -1,0 +1,1 @@
+{"name": "jrhyperium", "version": "0.1.3", "title": "JR Hyperium", "author": "JRTIMM", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Hyperium, not a very friendly resource to work with, but at the end of the road you will have another way to obtain Uranium-235 and upgrade your base."}

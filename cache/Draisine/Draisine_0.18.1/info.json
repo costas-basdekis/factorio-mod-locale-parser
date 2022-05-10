@@ -1,0 +1,1 @@
+{"name": "Draisine", "version": "0.18.1", "title": "Draisine", "author": "steinio", "homepage": "https://mods.factorio.com/user/steinio", "description": "Locomotives without fuel can be propelled with key strokes resembling pulling and pushing a lever like with a draisine", "factorio_version": "0.18", "dependencies": ["base"]}

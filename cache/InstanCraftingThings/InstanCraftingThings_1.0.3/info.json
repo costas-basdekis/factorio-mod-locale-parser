@@ -1,0 +1,1 @@
+{"name": "InstanCraftingThings", "version": "1.0.3", "title": "Instan Crafting Things", "author": "Tixout", "factorio_version": "1.1", "dependencies": ["base >= 1.1.25"], "description": "Makes crafting instant, but not free"}

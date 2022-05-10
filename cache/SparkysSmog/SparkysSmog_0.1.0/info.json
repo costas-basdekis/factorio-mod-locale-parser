@@ -1,0 +1,1 @@
+{"name": "SparkysSmog", "version": "0.1.0", "title": "Sparky's Smog", "author": "Marcus Bates", "contact": "bates.marcus@gmail.com", "homepage": "https://github.com/mbates314/SparkysSmog", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Changes the land as pollution slowly takes over. Will reduce absorption rates of land."}

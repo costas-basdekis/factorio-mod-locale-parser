@@ -1,0 +1,1 @@
+{"name": "RocketBoosterInRocketFuel", "version": "0.18.3", "factorio_version": "0.18", "title": "Rocket Booster In Rocket Fuel", "author": "triktor5", "contact": "", "homepage": "", "description": "Adds Rocket Booster as an ingredient for Rocket Fuel", "dependencies": ["boblibrary", "angelspetrochem"]}

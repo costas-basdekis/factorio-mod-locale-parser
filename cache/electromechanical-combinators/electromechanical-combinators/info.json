@@ -1,0 +1,1 @@
+{"name": "electromechanical-combinators", "version": "19.0.0", "factorio_version": "1.1", "title": "Electromechanical Combinators", "author": "calcwizard", "homepage": "", "dependencies": ["base"], "description": "Changes combinator sounds because click-clacks are better than beep-boops."}

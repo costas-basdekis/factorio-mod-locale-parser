@@ -1,0 +1,1 @@
+{"name": "recursive-blueprints-extended", "author": "realvictorprm, Doc, justarandomgeek, DaveMcW", "version": "0.16.2", "title": "Recursive Blueprints Extended", "homepage": "", "description": "Automate blueprints and deconstruction orders + analyze deconstruction and construction area for unfinished items", "dependencies": ["base"], "factorio_version": "0.16"}

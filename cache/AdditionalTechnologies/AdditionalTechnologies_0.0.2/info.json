@@ -1,0 +1,1 @@
+{"name": "AdditionalTechnologies", "version": "0.0.2", "title": "Additional Technologies", "author": "Stever", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod adds additional technologies."}

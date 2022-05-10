@@ -1,0 +1,1 @@
+{"name": "bobwarfare-rebalancing2", "version": "0.0.1", "title": "Bobwarfare Rebalancing2", "author": "WOG, Laria, RealVictorPRM", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "bobwarfare"], "description": "Buffs Laser turret damage and nerfs higher tier personal laser defense"}

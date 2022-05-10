@@ -1,0 +1,1 @@
+{"name": "Better-Beacons-0-17", "version": "1.0.2", "factorio_version": "0.18", "title": "Better Beacons", "author": "Gentil", "license": "https://opensource.org/licenses/MIT", "contact": "", "homepage": "", "description": "Adds 4 Tiers of Beacons. Tier 2 equal to smaller base beacons.", "dependencies": ["base >= 0.18"]}

@@ -1,0 +1,1 @@
+{"name": "ultra-belt", "version": "0.1.2", "factorio_version": "0.17", "date": "2020-04-015", "title": "Ultra Belt", "author": "Ockram", "contributers": "", "homepage": "", "description": "Early game belt and splitter with twice the speed of express belts.", "dependencies": ["base >= 0.17.00"]}

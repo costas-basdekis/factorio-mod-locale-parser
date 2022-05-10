@@ -1,0 +1,1 @@
+{"name": "CanalBuilder2", "version": "1.0.5", "title": "CanalBuilder2", "author": "Cox", "contact": "", "homepage": "", "factorio_version": "1.0", "dependencies": ["base >= 0.18"], "description": "Dig canals to extend or connect bodies of water.\n - Adds waterfill and swimming\n - Biters, players, and vehicles are slowed down in water"}

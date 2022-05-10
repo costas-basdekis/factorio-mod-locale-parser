@@ -1,0 +1,1 @@
+{"name": "concreep-redux", "version": "2.0.0", "title": "Concreep Redux", "author": "Utoxin", "contact": "Github Issues", "homepage": "https://github.com/utoxin/concreep-redux", "description": "Roboports automatically place and upgrade concrete within their reach.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.49"]}

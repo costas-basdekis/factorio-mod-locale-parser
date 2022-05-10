@@ -1,0 +1,1 @@
+{"name": "do-not-cross-the-track", "version": "0.2.0", "title": "Do Not Cross The Track", "author": "Hanse00", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Adds the 'do not cross the track, there is a train coming' sound from Danish railways to the programmable speaker."}

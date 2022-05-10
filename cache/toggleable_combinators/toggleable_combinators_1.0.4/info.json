@@ -1,0 +1,1 @@
+{"name": "toggleable_combinators", "version": "1.0.4", "factorio_version": "1.1", "title": "Toggleable Combinators", "author": "HandsomeTurtle", "description": "Constant combinators can be turned on/off by rotating.", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "power-cells", "version": "1.0.1", "title": "Power Cells", "author": "CaioCrespo", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "contact": "caio.crespo1@gmail.com", "description": "Allows you to store power into accumulator cells that can be transported and distributed."}

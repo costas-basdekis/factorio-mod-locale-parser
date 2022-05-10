@@ -1,0 +1,1 @@
+{"name": "chunk-explosives", "version": "0.18.2", "title": "Chunk Explosives", "author": "adamius", "description": "Explosives for destroying reality one chunk at a time. Not for the faint-hearted. Deleting chunks is intentionally cheap.", "dependencies": ["base"], "factorio_version": "0.18"}

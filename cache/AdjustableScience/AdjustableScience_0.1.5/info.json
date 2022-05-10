@@ -1,0 +1,1 @@
+{"name": "AdjustableScience", "version": "0.1.5", "title": "Adjustable Science", "author": "can070124", "factorio_version": "0.15", "dependencies": ["base >= 0.15.10"], "description": "Allows you to adjust the recipes of science packs."}

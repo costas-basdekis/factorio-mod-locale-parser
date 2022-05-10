@@ -1,0 +1,1 @@
+{"name": "Transport_Biters", "version": "0.5.12", "title": "Transport Biters", "author": "Pirion", "contact": "", "homepage": "", "description": "Adds transport biters and transport depots", "dependencies": ["base >= 0.18.21", "angelsbioprocessing"], "factorio_version": "0.18"}

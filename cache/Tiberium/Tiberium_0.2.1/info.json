@@ -1,0 +1,1 @@
+{"name": "Tiberium", "version": "0.2.1", "title": "Tiberium", "author": "Zillo7", "contact": "t1dev@tier1game.com", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Adds Tiberium - Harvest it to convert it to other ores."}

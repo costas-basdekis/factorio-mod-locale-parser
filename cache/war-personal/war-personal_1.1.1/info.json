@@ -1,0 +1,1 @@
+{"name": "war-personal", "version": "1.1.1", "title": "WAR Personal", "author": "Marty", "contact": "", "homepage": "", "description": "Mod that modifies personal armor. Changes sizes of modular and mk1 equipment grid, add exoskeleton mk2 and adds new ways to generate power.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

@@ -1,0 +1,1 @@
+{"name": "Dp77s-FactorioPlus-Hyper-Logistic", "version": "1.8.0", "title": "Dp77s FactorioPlus: Hyper Logistic", "author": "DiegoPro77", "factorio_version": "0.16", "homepage": "", "dependencies": ["base", "Dp77s-FactorioPlus-Ores", "Dp77s-FactorioPlus-Plates", "Dp77s-FactorioPlus-Advanced-Tech", "Dp77s-FactorioPlus-Electronics", "Dp77s-FactorioPlus-Machines"], "description": ""}

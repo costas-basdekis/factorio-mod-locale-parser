@@ -1,0 +1,1 @@
+{"name": "NightReVision", "version": "0.14.2", "title": "Night ReVision", "author": "DaCyclops", "homepage": "", "contact": "dacyclops@dacyclops.com", "description": "Hotkey for turning off your Nightvisions", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"]}

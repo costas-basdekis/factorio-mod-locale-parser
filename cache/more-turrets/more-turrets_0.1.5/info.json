@@ -1,0 +1,1 @@
+{"name": "more-turrets", "version": "0.1.5", "factorio_version": "0.18", "title": "More turrets", "author": "ThatTomPerson", "homepage": "https://github.com/thattomperson/factorio-more-turrets", "description": "Adds more turrets", "dependencies": ["base >= 0.18"]}

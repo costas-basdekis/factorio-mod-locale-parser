@@ -1,0 +1,1 @@
+{"name": "IR-Chromium_Synthesis", "version": "0.0.2", "title": "Industrial Revolution - Chromium Synthesis", "author": "The1Killer", "description": "Adds late game recipe to synthesize chromium from refined iron, refined gold, platinum, and sulfuric acid.", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17.69", "IndustrialRevolution >= 0.99.7"]}

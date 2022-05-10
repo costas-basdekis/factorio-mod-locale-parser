@@ -1,0 +1,1 @@
+{"name": "killcounter", "version": "0.3.0", "factorio_version": "0.16", "title": "Killcounter", "author": "Brianmose", "contact": "brianmose8@gmail.com", "homepage": "", "description": "Adds a killcounter.", "dependencies": ["base >= 0.16.0"]}

@@ -1,0 +1,1 @@
+{"name": "Inserter_Config", "version": "1.0.0", "title": "Inserter Configuration", "author": "Dr_Pepper", "description": "More control over inserters. Adjust pickup and drop locations using a gui and various hotkeys. Adds 90 degree inserters.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "!Side Inserters", "!bobinserters"]}

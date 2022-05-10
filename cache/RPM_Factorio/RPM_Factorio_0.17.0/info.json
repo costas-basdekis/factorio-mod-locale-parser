@@ -1,0 +1,1 @@
+{"name": "RPM_Factorio", "version": "0.17.2", "factorio_version": "0.17", "title": "RPM Erz-Pumpen", "author": "RPM RedSpy", "contact": "", "homepage": "", "description": "FOR THE EMPEROR!", "dependencies": ["5dim_core", "5dim_ores"]}

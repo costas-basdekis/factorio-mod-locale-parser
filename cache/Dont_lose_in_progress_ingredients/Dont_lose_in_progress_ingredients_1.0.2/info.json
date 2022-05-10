@@ -1,0 +1,1 @@
+{"name": "Dont_lose_in_progress_ingredients", "version": "1.0.2", "factorio_version": "0.18", "title": "Don't lose in progress ingredients", "author": "Bilka", "homepage": "", "description": "Fixes that ingredients of in-process crafting would be lost when changing recipe/mining the machine.", "dependencies": ["base >= 0.18.0"]}

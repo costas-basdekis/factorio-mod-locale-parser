@@ -1,0 +1,1 @@
+{"name": "K2StartDisable", "version": "0.0.1", "title": "Krastorio 2 Start Disable", "description": "Disable's the Krastorio2 starting ship", "author": "Hissun", "contact": "", "factorio_version": "1.1", "dependencies": ["Krastorio2 >= 1.0.23"]}

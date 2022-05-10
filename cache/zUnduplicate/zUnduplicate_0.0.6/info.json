@@ -1,0 +1,1 @@
+{"name": "zUnduplicate", "version": "0.0.6", "title": "Unduplicate", "author": "", "contact": "", "homepage": "", "description": "merge repeated ingredients", "factorio_version": "1.1", "dependencies": ["base", "(?) aai-industry", "(?) pypetroleumhandling"]}

@@ -1,0 +1,1 @@
+{"name": "where-is-the-lamb-sauce-going", "version": "1.0.2", "title": "Where is the lamb sauce going?", "author": "Quezler", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Highlights requester chests with the buffer chest checkbox enabled."}

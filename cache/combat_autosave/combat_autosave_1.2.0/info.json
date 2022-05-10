@@ -1,0 +1,1 @@
+{"name": "combat_autosave", "version": "1.2.0", "title": "Combat autosave", "author": "kid2407", "factorio_version": "0.18", "description": "This mod will save the game automatically when you have left combat for a number of seconds you can specify in the options", "dependencies": ["base >= 0.18.0"]}

@@ -1,0 +1,1 @@
+{"name": "SlowBelt", "version": "0.1.2", "title": "Slow Transport Belt", "author": "peet1993", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Adds slow transport belt. For the times you really want to embrace tranquility. Or just rage at the belt delay. It is pink, don't ask me why."}

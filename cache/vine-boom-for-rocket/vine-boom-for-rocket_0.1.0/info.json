@@ -1,0 +1,1 @@
+{"name": "vine-boom-for-rocket", "version": "0.1.0", "title": "Vine Boom effect when a rocket explodes", "author": "Shizu", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "I've achieve funny."}

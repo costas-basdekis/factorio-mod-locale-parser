@@ -1,0 +1,1 @@
+{"name": "yield-ores", "version": "2.1.2", "title": "All Resources Yield", "author": "laftur", "contact": "laftur@gmail.com", "homepage": "", "description": "Enables yield (infinite) mode for all resources, with configurable minimum yield and optional maximum yield.", "factorio_version": "1.1", "dependencies": ["base"]}

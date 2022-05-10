@@ -1,0 +1,1 @@
+{"name": "deadlyPollution", "version": "0.2.0", "title": "Deadly pollution", "factorio_version": "0.15", "author": "juh9870", "dependencies": ["air-filtering >= 0.5.0"], "homepage": "https://vk.com/juh_modding", "description": "Now pollution will damage player without respirators"}

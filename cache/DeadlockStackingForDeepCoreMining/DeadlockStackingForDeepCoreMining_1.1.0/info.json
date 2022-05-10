@@ -1,0 +1,1 @@
+{"name": "DeadlockStackingForDeepCoreMining", "version": "1.1.0", "factorio_version": "1.1", "title": "Deadlock Stacking For Deep Core Mining", "author": "billbo99", "homepage": "", "dependencies": ["base", "deadlock-beltboxes-loaders", "rusty-locale", "vtk-deep-core-mining"], "description": "Add stacked items for Deep Core Mining"}

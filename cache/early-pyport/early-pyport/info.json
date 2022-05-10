@@ -1,0 +1,1 @@
+{"name": "early-pyport", "version": "0.1.1", "title": "Early Personal Bots (PY)", "author": "Jonathan1205", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "pyindustry >= 1.0", "pycoalprocessing >= 1.0"], "description": "Adds an early personal roboport for pY"}

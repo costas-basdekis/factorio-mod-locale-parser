@@ -1,0 +1,1 @@
+{"name": "desert-planet", "version": "1.2.0", "title": "Desert Planet", "author": "Pithlit", "dependencies": ["base", "water-fix", "? alien-biomes"], "description": "The planet you landed on is a desert planet without grass. Grass sprites are replaced by sand and dirt sprites.", "factorio_version": "0.15"}

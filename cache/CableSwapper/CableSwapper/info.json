@@ -1,0 +1,1 @@
+{"name": "CableSwapper", "version": "2.0.0", "title": "Cable Swapper", "author": "Xeno Lupus", "contact": "", "homepage": "https://github.com/XenoLupus/CableSwapper", "description": "Mod to swap red and green cables", "factorio_version": "0.16", "dependencies": ["base >= 0.15"]}

@@ -1,0 +1,1 @@
+{"name": "SunBarSwap", "version": "0.0.8", "factorio_version": "1.1", "title": "SunBarSwap", "author": "SunNova", "homepage": "https://discord.gg/YWVEqgN", "description": "Use four quickbars to make best use: Shift-S or shotcut to swap quickbars 1-4 with 5-8 and back.", "dependencies": ["base >= 1.1.0"]}

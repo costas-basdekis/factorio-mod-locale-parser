@@ -1,0 +1,1 @@
+{"name": "player-auto-build", "title": "Player Auto Build", "description": "Automatically build blueprint ghosts near the player.", "version": "0.4.0", "factorio_version": "1.1", "author": "William Newbery (SyncViews)", "contact": "Message me on forums.", "dependencies": []}

@@ -1,0 +1,1 @@
+{"name": "place-stuff", "version": "0.15.0", "factorio_version": "0.15", "title": "Place Stuff", "author": "The_Evil_Pickle", "homepage": "www.tobiaskipps.com", "description": "Build things that naturally spawn in the world - everything from bushes to alien spawners!", "dependencies": ["base >= 0.14.0", "boblibrary >= 0.14.0"]}

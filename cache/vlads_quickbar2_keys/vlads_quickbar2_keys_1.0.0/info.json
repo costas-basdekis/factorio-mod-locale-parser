@@ -1,0 +1,1 @@
+{"name": "vlads_quickbar2_keys", "version": "1.0.0", "title": "vlads_quickbar2_keys", "author": "Vlad", "homepage": "", "description": "Allows to setup shortcuts for second toolbelt", "factorio_version": "0.16", "dependencies": ["base >= 0.15"]}

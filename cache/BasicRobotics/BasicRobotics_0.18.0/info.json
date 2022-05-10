@@ -1,0 +1,1 @@
+{"name": "BasicRobotics", "version": "0.18.0", "title": "Basic Robotics", "author": "Thorvin", "contact": "thorvin@gmail.com", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Adds early game construction robots and reorganizes modular armor tech tree."}

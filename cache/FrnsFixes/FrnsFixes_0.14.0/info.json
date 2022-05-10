@@ -1,0 +1,1 @@
+{"name": "FrnsFixes", "version": "0.14.0", "factorio_version": "0.14", "title": "Frn's Fixes", "author": "Frn", "description": "Fixes a few incompatibilities and recipes.", "dependencies": ["base >= 0.14.0"]}

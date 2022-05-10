@@ -1,0 +1,1 @@
+{"name": "RunSpeedToggle", "version": "0.3.0", "title": "Run Speed Toggle", "author": "Omnifarious", "contact": "eric-factorio@omnifarious.org", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.17"], "description": "This mod will toggle the player's run speed multiplier (applied after all bonuses) to one of three configurable values with a keypress."}

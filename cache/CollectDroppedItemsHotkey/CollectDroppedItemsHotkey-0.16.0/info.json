@@ -1,0 +1,1 @@
+{"name": "CollectDroppedItemsHotkey", "version": "0.16.0", "title": "Collect Dropped Items Hotkey", "author": "jonatkins", "description": "Mark for deconstruction dropped items near the player when a hotkey is pressed.", "factorio_version": "0.16", "dependencies": ["base >= 0.14.0"]}

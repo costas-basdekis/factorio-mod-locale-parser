@@ -1,0 +1,1 @@
+{"name": "SchallUncraft", "version": "1.1.0", "title": "Schall Uncraft", "author": "Schallfalke", "email": "", "homepage": "https://mods.factorio.com/mod/SchallUncraft", "contact": "", "description": "Revert a product back to its ingredients.  Designed for recycling unused items.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

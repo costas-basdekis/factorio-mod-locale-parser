@@ -1,0 +1,1 @@
+{"name": "LogisticsMayham", "version": "1.1.1", "title": "Logistics Mayham", "author": "TheKid", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.39"], "description": "Increases the cost for all recipies and decreases the time required to make them by the same factor"}

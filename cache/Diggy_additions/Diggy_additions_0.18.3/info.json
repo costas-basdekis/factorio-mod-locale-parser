@@ -1,0 +1,1 @@
+{"name": "Diggy_additions", "version": "0.18.3", "factorio_version": "0.18", "title": "Diggy scenario additions", "author": "Altaric", "contact": "Altaric@gmail.com", "homepage": "", "description": "Some stuff for use with Diggy scenario. And rebalances", "dependencies": ["base >= 0.18.00", "?Big-Monsters >= 1.0.7", "?Natural_Evolution_Enemies >= 0.18.03"]}

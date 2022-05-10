@@ -1,0 +1,1 @@
+{"name": "barrels-of-steam", "version": "18.0.6", "title": "Barrels of Steam", "author": "forsyth", "contact": "", "homepage": "https://mods.factorio.com/mod/barrels-of-steam", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "This mod adds steam barrels at 165 \u00b0C and 500 \u00b0C, and optionally 15 \u00b0C."}

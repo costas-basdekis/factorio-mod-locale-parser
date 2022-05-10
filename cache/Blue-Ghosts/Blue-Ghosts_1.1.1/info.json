@@ -1,0 +1,1 @@
+{"name": "Blue-Ghosts", "version": "1.1.1", "title": "Blue Ghosts", "author": "steinio", "homepage": "", "description": "Changes the color of ghosts to a blueprint blue.", "factorio_version": "1.1", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "fish-gun", "version": "0.0.2", "factorio_version": "0.18", "title": "Fish gun [raw edition]", "author": "ZwerOxotnik", "contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik#7117", "source": "https://gitlab.com/ZwerOxotnik/fish-gun", "homepage": "", "description": "Just a fish gun", "dependencies": ["base"]}

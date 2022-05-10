@@ -1,0 +1,1 @@
+{"name": "CheatdedRange", "version": "1.0.5", "factorio_version": "1.1", "title": "Cheatded Range", "author": "Nori", "contact": "", "homepage": "NA", "description": "Cheated Range for Electric Poles, Underground Pipes and Belts, Roboport", "dependencies": ["base >= 1.1", "? boblogistics >= 1.1.2"]}

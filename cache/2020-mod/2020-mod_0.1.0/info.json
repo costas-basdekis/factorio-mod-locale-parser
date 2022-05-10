@@ -1,0 +1,1 @@
+{"name": "2020-mod", "version": "0.1.0", "title": "2020 mod", "author": "GLADIADOR", "description": "Este mod tem stacks de um total de (X) vezes (50) de alguns itens, inventario aumentado, robos atomicos e equipamento minusculo para armadura.", "factorio_version": "1.1", "dependencies": ["base >= 1.0"]}

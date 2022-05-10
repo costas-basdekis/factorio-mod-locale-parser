@@ -1,0 +1,1 @@
+{"name": "GameBase", "version": "0.1.7", "factorio_version": "0.18", "title": "GameBase", "author": "Hellkiller", "description": "I plan to make a story into this mod, and this mod has things mostly for mid to late game with some beginning like better iron processing. Steel recipe has changed as well.", "dependencies": ["base >= 0.18.0"]}

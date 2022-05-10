@@ -1,0 +1,1 @@
+{"name": "aai-industry-sp0", "version": "0.0.4", "title": "AAII Science pack 0", "author": "romtos", "description": "Adds Science pack 0 to AAII (AAI Industry) for compatibility with PyCoal (Pyanodons Coal Processing)", "factorio_version": "0.16", "dependencies": ["base", "aai-industry", "pycoalprocessing", "?omnimatter"]}

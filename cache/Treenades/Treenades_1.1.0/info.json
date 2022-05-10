@@ -1,0 +1,1 @@
+{"name": "Treenades", "version": "1.1.0", "title": "Treenades", "author": "spider-byte", "contact": "www @ Factorio discord", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Capsules that spawn trees. Useful for pollution absorption or making your base look pretty."}

@@ -1,0 +1,1 @@
+{"name": "AngelsSmeltingExtension", "version": "0.0.5", "title": "Angel's Smelting Extension", "author": "Imaginary", "contact": "IMAGINARY#4829", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "angelssmelting>=0.6.17"], "description": "This mod adds a recipe for Iron Hydroxide, which was missing."}

@@ -1,0 +1,1 @@
+{"name": "long-mine-research", "version": "0.2.1", "title": "Long Reach Research - Mine", "author": "Mooncat", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=34909", "description": "Adds technologies for increasing mine distance.", "factorio_version": "0.15", "dependencies": ["base >= 0.15", "long-reach-research >= 0.3.1"]}

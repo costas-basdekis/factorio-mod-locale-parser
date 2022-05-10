@@ -1,0 +1,1 @@
+{"name": "Geothermal-Vents-fix", "version": "1.0.1", "title": "Geothermal Vents - Unofficial Fix", "author": "Loren1350 - edited by DiveBomb as temp fix", "contact": "Schmendrick on the Factorio Forums", "homepage": "", "description": "Adds geothermal vents, for steam capture.)", "dependencies": ["base"], "factorio_version": "0.17"}

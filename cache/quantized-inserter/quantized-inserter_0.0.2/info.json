@@ -1,0 +1,1 @@
+{"name": "quantized-inserter", "version": "0.0.2", "title": "Quantized Inserter", "author": "adamo", "dependencies": ["base"], "description": "Your premiere source for quantized cargo wagon loading.", "factorio_version": "0.18"}

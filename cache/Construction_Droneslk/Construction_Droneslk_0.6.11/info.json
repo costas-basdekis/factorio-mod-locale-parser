@@ -1,0 +1,1 @@
+{"name": "Construction_Droneslk", "version": "0.6.11", "title": "Construction Drones hack", "author": "Klonan", "contact": "", "homepage": "", "description": "Adds ground based construction robots", "dependencies": ["base >= 1.0.0", "(?) Hovercraft", "(?) walls-block-spitters"], "factorio_version": "1.1"}

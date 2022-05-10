@@ -1,0 +1,1 @@
+{"name": "ConcreepOcty", "version": "2.1.0", "title": "ConcreepOcty", "author": "kenzierocks", "contact": "plz don't", "homepage": "https://github.com/kenzierocks/Concreep", "description": "Roboports automatically place concrete within their reach.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.16"]}

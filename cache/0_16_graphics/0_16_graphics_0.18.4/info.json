@@ -1,0 +1,1 @@
+{"name": "0_16_graphics", "version": "0.18.4", "title": "0.16 Graphics", "author": "OwnlyMe", "description": "Changes graphics back to their 0.16 versions. Available Modules: Enemies, Enemy spawners, Trees, Chests, Logistic Chests, Laser towers, Laser attacks, Spitter attacks, Worm attacks", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

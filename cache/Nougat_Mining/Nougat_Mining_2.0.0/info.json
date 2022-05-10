@@ -1,0 +1,1 @@
+{"name": "Nougat_Mining", "version": "2.0.0", "title": "Nougat Mining", "author": "Mylon", "contact": "https://forums.factorio.com/viewtopic.php?f=95&t=38757", "homepage": "https://www.patreon.com/mylon", "description": "Idle construction bots will mine ore in the logistic radius.", "dependencies": ["base >= 0.4.1", "Peppermint_Mining >= 2.0.0"], "factorio_version": "1.1"}

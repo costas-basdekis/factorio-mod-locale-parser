@@ -1,0 +1,1 @@
+{"name": "RandomRecipeChanges", "version": "0.2.1", "title": "Random Recipe Changes", "author": "Hannah97Gamer", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "? Krastorio2 >= 1.1.0"], "description": "This mod makes a few changes to recipes in the game, to try and make it feel a little better. Can turn off specific changes in settings."}

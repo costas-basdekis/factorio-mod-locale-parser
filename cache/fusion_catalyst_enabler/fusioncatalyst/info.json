@@ -1,0 +1,1 @@
+{"name": "fusion_catalyst_enabler", "version": "0.18.2", "title": "Fusion catalyst for APM", "author": "ldinc", "description": "Added fusion catalyst (from bob's mods) w/ apm nuclear mod (added lost fusion catalyst receipt)", "dependencies": ["base >= 0.18", "bobplates >= 0.18", "apm_nuclear >= 0.19.7"], "factorio_version": "0.18"}

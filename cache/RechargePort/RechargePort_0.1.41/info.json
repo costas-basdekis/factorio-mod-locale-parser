@@ -1,0 +1,1 @@
+{"name": "RechargePort", "version": "0.1.41", "title": "RechargePort", "author": "Boeljoet", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod adds in a roboport without inventory but 8 recharge slots"}

@@ -1,0 +1,1 @@
+{"name": "status-light-for-everyone", "version": "0.0.1", "title": "Status lights for everyone", "author": "Mernom", "dependencies": ["base"], "description": "Adds status lights for all entities that support them, as well as configure their coloring for different situations.", "factorio_version": "1.1"}

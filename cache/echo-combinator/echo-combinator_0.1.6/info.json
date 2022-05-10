@@ -1,0 +1,1 @@
+{"name": "echo-combinator", "version": "0.1.6", "title": "Echo Combinator", "factorio_version": "1.1", "author": "15Redstones", "contact": "robert_schuh@gmx.de", "description": "A very intelligent combinator that allows you to activate circuits around your base by telling it to!", "dependencies": ["base >= 1.1.0"]}

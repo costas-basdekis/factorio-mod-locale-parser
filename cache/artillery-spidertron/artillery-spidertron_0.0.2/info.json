@@ -1,0 +1,1 @@
+{"name": "artillery-spidertron", "version": "0.0.2", "title": "Artillery Spidertron", "author": "JohnTheCoolingFan", "contact": "https://discord.gg/grHVhE2", "homepage": "https://discord.gg/grHVhE2", "dependencies": ["base >= 1.1.0"], "description": "Spidertron with artillery", "factorio_version": "1.1"}

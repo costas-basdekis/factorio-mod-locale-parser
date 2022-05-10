@@ -1,0 +1,1 @@
+{"name": "NuclearRobots_Reboot", "author": "Malryn & Maharaja", "version": "3.1.0", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "title": "Nuclear Robots Reboot", "homepage": "", "description": "Nuclear powered robots that don't need to recharge."}

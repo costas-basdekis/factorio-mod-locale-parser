@@ -1,0 +1,1 @@
+{"name": "aligned-ugp", "version": "1.0.4", "title": "Aligned Underground Pipes", "author": "mkaito", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "Align undeground pipes to usual main bus layout: 12 tiles instead of 11."}

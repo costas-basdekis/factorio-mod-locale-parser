@@ -1,0 +1,1 @@
+{"name": "RitnSmith", "version": "0.7.2", "title": "RitnSmith", "author": "Ritn", "description": "Add technologies Smith and others...", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "RitnLib >= 0.6", "? RitnLumberjack >= 0.7", "? RitnMiner >= 0.7", "? RitnGlass >= 0.7", "? DeadlockLargerLamp >= 1.3.1", "? SantasNixieTubeDisplay >= 0.1"]}

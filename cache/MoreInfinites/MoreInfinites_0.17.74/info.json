@@ -1,0 +1,1 @@
+{"name": "MoreInfinites", "version": "0.17.74", "title": "More Infinites", "author": "nowheresgone", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Extends various base technologies to be infinite."}

@@ -1,0 +1,1 @@
+{"name": "explosive-fuels", "version": "1.0.0", "title": "Explosive Fuels", "author": "jeFFeSS", "description": "Nuclear fuel and rocket fuel are extremely dangerous substances! Anything containing them will explode when destroyed (trains, machines, chests, furnaces, etc)", "factorio_version": "1.1", "dependencies": ["base"]}

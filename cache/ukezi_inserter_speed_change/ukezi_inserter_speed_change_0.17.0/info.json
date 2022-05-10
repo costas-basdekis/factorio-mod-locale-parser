@@ -1,0 +1,1 @@
+{"name": "ukezi_inserter_speed_change", "version": "0.17.0", "factorio_version": "0.17", "title": "ukezi's inserter speed change", "author": "ukezi", "dependencies": ["base >= 0.17.0", "IndustrialRevolution"], "contact": "", "description": "Changes speed of inserters. Long and short burner inserters from 0.6 to 0.84 rotations/s and inserters from 0.84 to 1.2 rotations/s"}

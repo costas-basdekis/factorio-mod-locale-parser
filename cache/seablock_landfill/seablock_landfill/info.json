@@ -1,0 +1,1 @@
+{"name": "seablock_landfill", "version": "1.0.1", "factorio_version": "1.1", "title": "Adjustable Landfill Recipes for Seablock", "author": "Soggs", "dependencies": ["base", "SeaBlock"]}

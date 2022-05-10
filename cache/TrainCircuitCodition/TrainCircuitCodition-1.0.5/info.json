@@ -1,0 +1,1 @@
+{"name": "TrainCircuitCodition", "version": "1.0.5", "title": "Train auto add circuit condition", "author": "kim", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Auto add circuit condition to leave condition."}

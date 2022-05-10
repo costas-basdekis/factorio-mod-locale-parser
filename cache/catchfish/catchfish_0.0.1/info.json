@@ -1,0 +1,1 @@
+{"name": "catchfish", "version": "0.0.1", "title": "\u6478\u9c7c\u5b66(catch-fish)", "author": "W", "contact": "\u65e0", "homepage": "", "description": "\u6dfb\u52a0\u4e86\u9c7c\u548c\u9c7c\u82d7\u7684\u914d\u65b9\uff0c\u54c8\u8349\u6218\u58eb(\u55d1\u836f\u624b\u64b8\u866b\u5de2)", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

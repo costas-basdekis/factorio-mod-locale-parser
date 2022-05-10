@@ -1,0 +1,1 @@
+{"name": "declutter", "version": "0.1.1", "title": "Declutter", "author": "modo.lv", "contact": "modo@modo.lv", "homepage": "https://github.com/modo-lv/factorio-mod-declutter", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "? Krastorio2"], "description": "Hide technologies and recipes you don't use."}

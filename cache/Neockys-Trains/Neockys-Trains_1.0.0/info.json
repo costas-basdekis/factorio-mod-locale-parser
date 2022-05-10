@@ -1,0 +1,1 @@
+{"name": "Neockys-Trains", "version": "1.0.0", "title": "Neocky's Trains", "author": "Neocky", "contact": "", "homepage": "https://github.com/Neocky/Neockys-Trains", "factorio_version": "1.1", "dependencies": ["base >= 0.17"], "description": "Adds 3 new Trains with different benefits and drawbacks."}

@@ -1,0 +1,1 @@
+{"name": "supersolar", "version": "0.14.2", "factorio_version": "0.14", "title": "Super Solar", "author": "aStrandedBanana", "homepage": "", "dependencies": ["base"], "description": "Increases the solar panel base output from 60kW to 60GW"}

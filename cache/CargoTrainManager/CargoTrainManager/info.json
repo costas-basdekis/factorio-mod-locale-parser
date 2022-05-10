@@ -1,0 +1,1 @@
+{"name": "CargoTrainManager", "title": "Cargo Train Manager", "version": "1.1.1", "factorio_version": "1.1", "author": "Stefan T", "description": "Manages automated cargo transport via train.", "homepage": "https://github.com/StefanTT/factorio-CargoTrainManager", "license": "MIT", "dependencies": ["base >= 0.18.0"]}

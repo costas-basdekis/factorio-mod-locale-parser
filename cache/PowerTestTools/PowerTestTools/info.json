@@ -1,0 +1,1 @@
+{"name": "PowerTestTools", "version": "0.0.2", "title": "Power Test Tools", "author": "sp55aa", "description": "include: Heat Exchanger (582MW), Steam Turbine (582MW), Storage Tank (100M)", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

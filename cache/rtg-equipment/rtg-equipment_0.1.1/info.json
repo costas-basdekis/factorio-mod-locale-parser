@@ -1,0 +1,1 @@
+{"name": "rtg-equipment", "version": "0.1.1", "title": "Portable RTG", "author": "15Redstones", "dependencies": ["base >= 0.16", "? Nuclear Fuel >=0.1.3"], "description": "Adds RTG as bridge between solar and fusion for power armor. Requires uranium processing.", "factorio_version": "0.16"}

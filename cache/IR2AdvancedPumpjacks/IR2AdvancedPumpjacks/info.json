@@ -1,0 +1,1 @@
+{"name": "IR2AdvancedPumpjacks", "title": "IR2 Advanced Pumpjacks", "description": "Add higher tier pumpjacks to Industrial Revolution 2.", "version": "1.1.0", "author": "blahfasel2000", "factorio_version": "1.1", "dependencies": ["IndustrialRevolution >= 2.0.0"]}

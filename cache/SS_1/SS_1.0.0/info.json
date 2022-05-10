@@ -1,0 +1,1 @@
+{"name": "SS_1", "version": "1.0.0", "title": "SS_1", "author": "SSTASS", "homepage": "", "dependencies": ["base >= 1.1"], "description": "The player's main inventory", "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "road-sign-signals", "version": "1.0.3", "title": "Road Sign Signals", "author": "svioletg", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "Adds in signals based off of (mainly U.S, but others coming in the future) road signs."}

@@ -1,0 +1,1 @@
+{"name": "m-multiplayertrading", "version": "0.9.15", "factorio_version": "1.1", "title": "Multiplayer Trading", "author": "Luke Perkin", "contact": "zweroxotnik@gmail.com, lukeperkin@gmail.com", "homepage": "", "dependencies": ["base", "EasyAPI >= 0.3.7", "money-UI", "! multiplayertrading", "(?) RPGsystem", "(?) Death_Counter", "(?) spawn"]}

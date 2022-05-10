@@ -1,0 +1,1 @@
+{"name": "Atlas_AlternateBobsElectronic", "version": "1.1.0", "title": "Alternate recipe for Bob's Basic Circuit Board", "description": "Adds a recipe to craft Bob's basic circuit board from iron plates and copper cables - just like vanilla.", "author": "Atlas1205", "contact": "none", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "bobelectronics"]}

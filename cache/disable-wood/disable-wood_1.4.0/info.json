@@ -1,0 +1,1 @@
+{"name": "disable-wood", "version": "1.4.0", "title": "Disable Wood", "author": "benlove007", "dependencies": ["base"], "description": "Replace wood with iron sticks in well-known recipes. Disable remaining recipes that depend on wood.", "factorio_version": "0.16"}

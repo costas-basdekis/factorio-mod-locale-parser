@@ -1,0 +1,1 @@
+{"name": "spicy-teeth-core", "version": "1.4.0", "factorio_version": "0.17", "title": "Spicy Teeth - Core", "author": "SparkliTwizzl", "description": "Adds the base for other Spicy Teeth mods.", "dependencies": ["base >= 0.17.0", "spicy-teeth-core_assets >= 1.2.0"]}

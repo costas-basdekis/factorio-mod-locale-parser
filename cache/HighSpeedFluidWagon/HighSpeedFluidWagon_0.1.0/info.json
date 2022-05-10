@@ -1,0 +1,1 @@
+{"name": "HighSpeedFluidWagon", "version": "0.1.0", "factorio_version": "0.15", "title": "HighSpeedFluidWagon", "author": "Ostrei", "contact": "reddit.com/u/Ostrei", "homepage": "", "description": "Adds extremly fast Fluid Wagon for HighSpeedTrains mod.", "dependencies": ["base >= 0.15.0", "HighSpeedTrain >= 0.2.0"]}

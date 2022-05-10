@@ -1,0 +1,1 @@
+{"name": "chest-auto-limit", "version": "0.2.0", "title": "Chest Auto Limit", "author": "Potateau", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod makes all newly placed chest come automatically with a limit to the inventory slots."}

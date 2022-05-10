@@ -1,0 +1,1 @@
+{"name": "stealth", "version": "0.0.4", "title": "stealth", "author": "Telkine2018", "contact": "", "homepage": "", "description": "A survival kit with stealth management for early game", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

@@ -1,0 +1,1 @@
+{"name": "Vehicle-turrets", "version": "1.1.0", "factorio_version": "1.1", "title": "Vehicle turrets", "author": "Astrinaar", "description": "Adds upgradeable vehicle gun and rocket turrets, for a fun alternative to turret creep", "dependencies": ["? aai-programmable-vehicles >= 0.2.3"]}

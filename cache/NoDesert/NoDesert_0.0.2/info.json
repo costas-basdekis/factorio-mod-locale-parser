@@ -1,0 +1,1 @@
+{"name": "NoDesert", "description": "Green planet: there is no desert, sand or dirt tiles on this planet", "version": "0.0.2", "title": "No Desert", "author": "darkfrei", "dependencies": ["base", "!OnlyDesert"], "factorio_version": "0.17"}

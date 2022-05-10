@@ -1,0 +1,1 @@
+{"name": "BlueprintTrees", "title": "Blueprint Trees", "description": "Allows blueprinting trees. Note that you need to have some other mod installed that allows manual tree placement (for example Dectorio).", "version": "1.1.0", "author": "blahfasel2000", "factorio_version": "1.1", "dependencies": ["?Dectorio", "?Krastorio2"]}

@@ -1,0 +1,1 @@
+{"name": "SchallModulePlacement", "version": "1.1.2", "title": "Schall Module Placement", "author": "Schallfalke", "email": "", "homepage": "https://mods.factorio.com/mod/SchallModulePlacement", "contact": "", "description": "A small mod allowing module placement into multiple machines with just a single selection.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

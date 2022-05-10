@@ -1,0 +1,1 @@
+{"name": "Incinerator", "version": "0.1.05", "title": "Incinerator", "author": "Stephen Clark", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.16", "angelspetrochem >= 0.7.12"], "description": "This mod adds in an incinerator for coal, coke, and carbon."}

@@ -1,0 +1,1 @@
+{"name": "research-desk", "version": "0.0.2", "title": "Research Desk", "author": "saltlands", "description": "A Desk for Manual Lab Research", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

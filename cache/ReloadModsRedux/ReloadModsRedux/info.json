@@ -1,0 +1,1 @@
+{"name": "ReloadModsRedux", "version": "1.0.0", "title": "Reload Mods Redux", "author": "StefanT", "contact": "", "homepage": "https://mods.factorio.com/mod/ReloadModsRedux", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "For modders: Adds button for reloading mods without reloading the game"}

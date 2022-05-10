@@ -1,0 +1,1 @@
+{"name": "burn-in-prevention", "version": "1.0.1", "title": "Burn-in Prevention", "author": "Xuhate", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod tries to reduce the likelihood of the game's UI burning into your screen. It introduces settings for hiding various UI elements during gameplay."}

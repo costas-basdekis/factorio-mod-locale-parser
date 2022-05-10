@@ -1,0 +1,1 @@
+{"name": "ExpandedInventory", "version": "0.18.0", "title": "Expanded Inventory", "author": "TwinHaelix", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.16"], "description": "Expands the player's base inventory size by a customizable amount.  By default, adds an additional 40 slots."}

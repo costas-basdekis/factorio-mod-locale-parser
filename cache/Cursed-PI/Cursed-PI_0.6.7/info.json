@@ -1,0 +1,1 @@
+{"name": "Cursed-PI", "version": "0.6.7", "title": "Cursed Programable Inserters", "author": "L0771", "contact": "https://discord.gg/PnQwT8W", "homepage": "https://discord.gg/PnQwT8W", "dependencies": ["base"], "description": "Open inserter's GUI to configure it. Inserters programables via GUI. ALL possible convinations.", "factorio_version": "0.18"}

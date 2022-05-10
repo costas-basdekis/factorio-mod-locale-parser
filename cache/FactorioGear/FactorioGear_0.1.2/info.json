@@ -1,0 +1,1 @@
+{"name": "FactorioGear", "version": "0.1.2", "title": "FactorioGear", "author": "Jamozed", "factorio_version": "0.18", "description": "FactorioGear", "dependencies": ["base >= 0.18"]}

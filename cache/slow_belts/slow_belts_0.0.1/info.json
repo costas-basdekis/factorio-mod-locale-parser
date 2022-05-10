@@ -1,0 +1,1 @@
+{"name": "slow_belts", "version": "0.0.1", "factorio_version": "0.17", "title": "slow belt", "author": "Veni", "contact": "", "homepage": "https://mods.factorio.com/mods", "description": "Adds a slower belt before researching logistics", "dependencies": ["base"]}

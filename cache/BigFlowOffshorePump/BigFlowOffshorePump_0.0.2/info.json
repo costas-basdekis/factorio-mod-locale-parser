@@ -1,0 +1,1 @@
+{"name": "BigFlowOffshorePump", "author": "tomoya92", "version": "0.0.2", "title": "BigFlowOffshorePump", "description": "pumping speed x10", "factorio_version": "0.18", "dependencies": ["base >= 0.17.0"]}

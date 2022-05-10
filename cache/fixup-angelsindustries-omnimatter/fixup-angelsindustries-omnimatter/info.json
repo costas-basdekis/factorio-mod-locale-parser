@@ -1,0 +1,1 @@
+{"name": "fixup-angelsindustries-omnimatter", "version": "0.0.2", "title": "Fixup: Angel's Industries + Omnimatter", "author": "Nirtes", "factorio_version": "1.0", "dependencies": ["base >= 1.0", "angelsindustries >= 0.4.7", "omnimatter >= 4.0.2", "? omnimatter_water >= 4.0.2"], "description": "This mod tries to fix tech dependencies between Angel's Industries and Omnimatter"}

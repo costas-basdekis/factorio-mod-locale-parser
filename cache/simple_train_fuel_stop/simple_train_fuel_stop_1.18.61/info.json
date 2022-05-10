@@ -1,0 +1,1 @@
+{"name": "simple_train_fuel_stop", "version": "1.18.61", "title": "Simple Train Fuel Stop", "author": "Nibuja", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Automatically refuels trains, easy to set up and highly customizable."}

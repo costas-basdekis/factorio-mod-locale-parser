@@ -1,0 +1,1 @@
+{"name": "fasterstart-craftable-fusionbots", "version": "1.0.1", "title": "FasterStart Fusionbots", "author": "Fuggschen", "contact": "fuggschen@krk-gaming.de", "homepage": "krk-gaming.de", "factorio_version": "1.0", "dependencies": ["base >= 1.0", "FasterStart"], "description": "This mod adds craftable Fusionbots to the FasterStart Mod"}

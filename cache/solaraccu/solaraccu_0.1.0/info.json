@@ -1,0 +1,1 @@
+{"name": "solaraccu", "version": "0.1.0", "title": "Advanced Solar Panels and Batteries", "author": "badway", "homepage": "https://mods.factorio.com/mod/solaraccu/discussion", "description": "Adds solar panels capable of generating 1.5 - 3 MW and batteries with a capacity of 125 - 250 MJ.", "factorio_version": "0.18", "dependencies": ["base >= 0.16"]}

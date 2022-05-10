@@ -1,0 +1,1 @@
+{"name": "xmas-feels", "version": "1.1.5", "title": "Xmas Feels", "description": "Change some graphics into xmas theme", "author": "Sven Gre\u00dfmann, SeeNo, darkfrei", "contact": "svengressmann@yahoo.de", "factorio_version": "1.1", "dependencies": ["base", "? BigWinter", "? ThickerLines"]}

@@ -1,0 +1,1 @@
+{"title": "Xander Mod Therax's Hotfix", "name": "th-xm-hotfix", "factorio_version": "0.16", "version": "0.3.0", "author": "therax", "description": "Fixes for Xander Mod 2", "dependencies": ["xander-mod >= 2.1.1", "? Big_Brother >= 0.4.6"]}

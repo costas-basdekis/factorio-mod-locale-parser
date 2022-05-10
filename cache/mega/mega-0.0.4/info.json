@@ -1,0 +1,1 @@
+{"name": "mega", "version": "0.0.4", "title": "Mega resources", "author": "ofpiyush", "factorio_version": "1.0", "dependencies": ["base >= 1.0.0"], "contact": "piyush@codeitout.com", "description": "Mod to help us build a megabase without mining"}

@@ -1,0 +1,1 @@
+{"name": "SIEXItemStack", "version": "0.0.5", "factorio_version": "1.1", "title": "SI EX Item Stack", "author": "Sidoupiar", "homepage": "http://www.sidoupiar.com", "description": "Custom item stack size", "dependencies": ["SICoreFunctionLibrary >= 0.3.9", "? Any MOD"]}

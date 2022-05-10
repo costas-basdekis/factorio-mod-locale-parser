@@ -1,0 +1,1 @@
+{"name": "fire_department", "version": "0.18.6", "title": "Fire Department", "author": "OwnlyMe", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base", "?uniturret"], "description": "Adds new ways of fire-fighting but your factory can randomly start burning"}

@@ -1,0 +1,1 @@
+{"name": "UnGirthyBorders", "version": "1.0.2", "factorio_version": "0.18", "title": "Ion's UI Tweaks: Smaller Borders", "author": "KingIonTrueLove", "description": "Reduces the size of the borders around menus and the toolbar, giving you more screen space. Also centers those darn arrows on the quickbar!", "homepage": "", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "Hexi_Portable_Fission", "version": "0.1.1", "title": "Portable Fission Reactor", "author": "Hexicube", "contact": "", "homepage": "", "dependencies": ["base >= 0.16.0"], "factorio_version": "0.16", "description": "Adds a portable fission reactor, that consumes fuel cells but is better than a fusion reactor."}

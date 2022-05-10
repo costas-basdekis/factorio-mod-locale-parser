@@ -1,0 +1,1 @@
+{"name": "IR-HighEndTweaks", "version": "0.0.3", "title": "Industrial Revolution - Highend and balance Tweaks", "author": "Myricaulus", "homepage": "https://mods.factorio.com/mod/IR-HighEndTweaks", "description": "Tweaks some high end buildings to be more efficient.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.69", "IndustrialRevolution >= 0.99.6"]}

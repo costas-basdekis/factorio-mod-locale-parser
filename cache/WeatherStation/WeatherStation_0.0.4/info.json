@@ -1,0 +1,1 @@
+{"name": "WeatherStation", "version": "0.0.4", "title": "Weather Station", "author": "Telemak", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod adds a weather station from which you get the luminosity, the wind speed and wind direction"}

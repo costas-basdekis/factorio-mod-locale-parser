@@ -1,0 +1,1 @@
+{"name": "SeaberMods", "version": "0.0.1", "factorio_version": "0.18", "title": "Seaber Mods", "author": "Seab", "contact": "PM on the Factorio Forums", "homepage": "NA", "description": "Fixes Broken PyCoal Touched By an Angel simple circits", "dependencies": ["base >= 0.13.0", "PyCoalTBaA >= 0.9.10"]}

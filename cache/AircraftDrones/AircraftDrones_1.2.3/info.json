@@ -1,0 +1,1 @@
+{"name": "AircraftDrones", "version": "1.2.3", "factorio_version": "1.0", "dependencies": ["base >= 1.0", "Aircraft >= 1.7.0", "? Booktorio >= 1.5.2"], "title": "Aircaft Drones", "author": "IngoKnieto", "homepage": "https://mods.factorio.com/mod/AircraftDrones", "description": "Death from above! Build autonomous flying drones and launch airstrikes on those pesky bugs."}

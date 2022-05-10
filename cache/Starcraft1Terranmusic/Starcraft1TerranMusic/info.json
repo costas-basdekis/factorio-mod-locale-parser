@@ -1,0 +1,1 @@
+{"name": "Starcraft1Terranmusic", "version": "1.0.0", "factorio_version": "0.16", "title": "Terran Starcraft Music", "author": "Kreos", "contact": "Kreos on Factorio Page", "homepage": "", "description": "Adds the three Terran themes from SC1 to Factorio", "dependencies": ["base >= 0.16.0"]}

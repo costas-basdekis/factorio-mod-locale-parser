@@ -1,0 +1,1 @@
+{"name": "testing-resources", "version": "0.0.18", "factorio_version": "0.17", "date": "2019-05-19", "title": "Test resources", "author": "Cmdr_Keen", "contact": "", "homepage": "", "dependencies": ["base >= 0.17.33"]}

@@ -1,0 +1,1 @@
+{"name": "cardinal_quickfix", "author": "Fr_Dae", "version": "0.1.11", "factorio_version": "1.1", "title": "Cardinal_Quickfix", "contact": "Dae.anthony@gmail.com", "homepage": "http://unionrolistes.fr/", "description": "Cardinal - Vehicle assist tool for convenient and subtle auto-alignment while driving. (original mods by Nimphious)", "dependencies": ["base >= 1.1"]}

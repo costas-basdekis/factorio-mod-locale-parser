@@ -1,0 +1,1 @@
+{"name": "coastal-erosion", "version": "0.0.5", "title": "Coastal Erosion", "author": "Tei1988", "contact": "tei1988@grifola.xyz", "homepage": "https://github.com/Tei1988/factorio-coastal-erosion", "description": "Coastal Erosion", "dependencies": ["base >= 0.17"], "factorio_version": "0.17"}

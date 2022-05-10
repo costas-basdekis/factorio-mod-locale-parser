@@ -1,0 +1,1 @@
+{"name": "MudWaterWell", "version": "1.0.1", "factorio_version": "0.17", "title": "Mud Water Well", "author": "bSun0000, 0.15 update support from ElecNinja, 0.16 update as offshore pump by Roy, muddyness by AnimaMachinae, seafloor pump by Arch666Angel", "contact": "-", "homepage": "", "description": "Fresh mud anywhere.", "dependencies": ["base", "angelsrefining"]}

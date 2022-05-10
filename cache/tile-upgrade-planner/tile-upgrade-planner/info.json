@@ -1,0 +1,1 @@
+{"name": "tile-upgrade-planner", "version": "19.0.0", "factorio_version": "1.1", "title": "Tile Upgrade Planner", "author": "calcwizard", "homepage": "", "dependencies": ["base"], "description": "Adds an upgrade planner that can be used to upgrade tiles."}

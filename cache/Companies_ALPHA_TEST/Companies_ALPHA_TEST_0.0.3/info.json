@@ -1,0 +1,1 @@
+{"name": "Companies_ALPHA_TEST", "version": "0.0.3", "factorio_version": "0.16", "title": "Companies ALPHA TEST", "author": "", "contact": "", "homepage": "", "description": "Unfinished! ALPHA TEST ! Adds trading companies", "dependencies": ["base >= 0.16.0"]}

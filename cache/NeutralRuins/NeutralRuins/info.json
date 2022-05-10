@@ -1,0 +1,1 @@
+{"name": "NeutralRuins", "version": "0.2.6", "title": "Neutral Ruins", "author": "Sharezar", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Derived from Bilka's \"The Ruins Mod\", but with the ability to make base defenses non-hostile."}

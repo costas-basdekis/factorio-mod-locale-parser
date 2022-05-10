@@ -1,0 +1,1 @@
+{"name": "Alternative_fuel", "author": "juz-er, dron__", "version": "0.0.2", "title": "Alternative fuel", "description": "Alternative technology for producing liquid fuel in conditions of oil shortage", "homepage": "https://forums.factorio.com/viewtopic.php?f=6&t=39635", "factorio_version": "0.17", "dependencies": ["base >= 0.17.79"]}

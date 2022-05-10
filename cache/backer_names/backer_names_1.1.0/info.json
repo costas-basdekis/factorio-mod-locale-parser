@@ -1,0 +1,1 @@
+{"name": "backer_names", "version": "1.1.0", "title": "Customize Backer Names", "author": "jeff.s", "description": "Customize the list of backer names without editing game files. Perfect for multiplayer.", "factorio_version": "1.1", "dependencies": ["base"]}

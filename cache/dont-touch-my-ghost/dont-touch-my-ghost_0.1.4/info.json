@@ -1,0 +1,1 @@
+{"name": "dont-touch-my-ghost", "version": "0.1.4", "title": "Don't touch my ghost!", "author": "Alex \"usa\" Kleshcheov", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17.66"], "description": "Blueprint Planning mode. Robots will not build anything until you turn it off."}

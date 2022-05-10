@@ -1,0 +1,1 @@
+{"name": "Texugo_bobs_moreweapons", "version": "0.0.2", "title": "Texugo Bobs More Weapons", "author": "Texugo Maldito", "homepage": "", "dependencies": ["base >= 1.0.0", "bobplates >= 1.0.0", "bobwarfare >= 1.0.0"], "description": "Adds High tier weapons (Minigun, SemiAuto Sniper, LongRange Spiper, Assault Rifle)", "factorio_version": "1.0"}

@@ -1,0 +1,1 @@
+{"name": "Diesel_Generator", "title": "Diesel Generator", "author": "Klonan", "contact": "", "homepage": "", "version": "0.14.4", "factorio_version": "0.14", "dependencies": ["base >= 0.14"], "description": "Adds a oil burning gas-turbine generator."}

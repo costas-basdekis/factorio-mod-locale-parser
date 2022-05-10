@@ -1,0 +1,1 @@
+{"name": "FirearmsPlus", "version": "1.1.1", "factorio_version": "0.16", "title": "FirearmsPlus", "author": "Smitherino", "description": "Adds many new weapons, now in similar quality to base game assets. *UPDATED FOR 0.16*", "dependencies": ["base >= 0.16.0"]}

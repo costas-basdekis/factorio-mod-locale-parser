@@ -1,0 +1,1 @@
+{"name": "LiquidBarrel", "version": "1.0.0", "title": "Liquid Barrels", "author": "Ch4rl1e", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Adds an incredibly versatile new fluid: liquified barrels."}

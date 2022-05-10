@@ -1,0 +1,1 @@
+{"name": "FasterEnd", "version": "0.16.5", "title": "FasterEnd", "author": "Fhuris", "factorio_version": "0.16", "description": "An addon for the FasterStart mod who add some mk3 items and a late game recipe for the fusion construction robots.", "dependencies": ["FasterStart >= 0.16"]}

@@ -1,0 +1,1 @@
+{"name": "uranium-belts-upd", "version": "0.1.3", "factorio_version": "0.17", "title": "Uranium Belts", "author": "nucleargen", "contact": "nucleargen#6081", "description": "Adds really really fast belts that are made with uranium. Originally by Spieker", "dependencies": ["base >= 0.17.0"]}

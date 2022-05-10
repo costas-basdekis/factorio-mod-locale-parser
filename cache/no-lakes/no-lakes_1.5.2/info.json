@@ -1,0 +1,1 @@
+{"name": "no-lakes", "version": "1.5.2", "title": "No Lakes", "author": "Pithlit", "dependencies": ["base", "? StoneWaterWell", "? WaterWell", "? IceOre", "? biter_eggs"], "description": "The planet you landed on is a planet without lakes. No water tiles are placed at terrain generation. Ground water can be found in some places.", "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "HyperCheapMode", "version": "1.0.1", "title": "Hyper-Cheap Mode", "author": "DEMEMZEA", "contact": "DEMEMZEA#5151 ( discord )", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0"], "description": "Super cheap-mode but faster"}

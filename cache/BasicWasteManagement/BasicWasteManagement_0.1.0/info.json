@@ -1,0 +1,1 @@
+{"name": "BasicWasteManagement", "version": "0.1.0", "title": "Basic Waste Management", "author": "SUPEROUMAN", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Adds a ressource called 'Solid Waste' that is a byproduct of nearly all crafting recipes."}

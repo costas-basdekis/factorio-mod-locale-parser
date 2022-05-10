@@ -1,0 +1,1 @@
+{"name": "marine-life", "version": "1.2.0", "title": "Marine Life", "author": "Fisk Fin", "factorio_version": "1.1", "description": "Fish and other marine lifeforms.", "dependencies": ["big-data-string", "? air-breather", "? cargo-ships", "? underwater-pipes", "base"]}

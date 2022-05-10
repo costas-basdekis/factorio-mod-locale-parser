@@ -1,0 +1,1 @@
+{"name": "Greenhill_Bible", "version": "1.0.16", "factorio_version": "0.16", "title": "Greenhill Bible", "author": "Didi", "description": "The legendary translation dictionary for GreeHillers. For private use only.", "dependencies": ["base >= 0.16.36"]}

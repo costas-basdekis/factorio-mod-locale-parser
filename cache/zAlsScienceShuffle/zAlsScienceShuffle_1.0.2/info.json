@@ -1,0 +1,1 @@
+{"name": "zAlsScienceShuffle", "version": "1.0.2", "title": "Al's Science Shuffle", "author": "Alrecenk", "homepage": "", "dependencies": ["base >= 0.18"], "description": "Randomizes science ingredients while keeping complexity and total resources balanced.", "factorio_version": "0.18"}

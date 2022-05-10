@@ -1,0 +1,1 @@
+{"name": "yi_pfw", "version": "0.4.15", "date": "2016-10-23", "title": "Yuoki Industries - Profit from War", "author": "Yuoki Tani", "factorio_version": "0.14", "dependencies": ["base >= 0.14", "Yuoki >= 0.4.61", "yi_engines >= 0.4.19"], "description": "get rich from trade"}

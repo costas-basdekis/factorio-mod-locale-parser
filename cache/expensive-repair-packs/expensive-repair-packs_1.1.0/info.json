@@ -1,0 +1,1 @@
+{"name": "expensive-repair-packs", "version": "1.1.0", "title": "Expensive Repair Packs", "author": "Jayefuu", "description": "Adds options to change the crafting cost and time of landfill. Based upon Expensive Landfill by Soggs", "factorio_version": "1.1", "dependencies": ["base >= 0.17"]}

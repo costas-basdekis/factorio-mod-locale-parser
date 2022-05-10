@@ -1,0 +1,1 @@
+{"name": "early-riser", "version": "0.17.0", "factorio_version": "0.17", "title": "Early Riser", "author": "Laendra", "contact": "", "homepage": "", "description": "Some settings to give finer control over your game, including things to make it quicker in the beginning", "dependencies": ["base >= 0.17.0"]}

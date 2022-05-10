@@ -1,0 +1,1 @@
+{"name": "MoreElectricTrain", "author": "RobocrafterLP", "version": "1.1.0", "title": "More Electric Train", "description": "Adds electric locomotives to the game.", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "ElectricTrain"]}

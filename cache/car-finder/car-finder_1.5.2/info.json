@@ -1,0 +1,1 @@
+{"name": "car-finder", "version": "1.5.2", "title": "Car/Tank/Spidertron Locator Button", "author": "jeff.s", "description": "Where DID I leave my car/tank/spidertron? This mod adds a tool-belt icon that will show you where your vehicles are.", "factorio_version": "1.1", "dependencies": ["base"]}

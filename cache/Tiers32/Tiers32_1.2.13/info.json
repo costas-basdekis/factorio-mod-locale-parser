@@ -1,0 +1,1 @@
+{"name": "Tiers32", "version": "1.2.13", "title": "Tiers 32", "description": "New tiers, next tier is about 32 times better than previous but also 32 times expensive; much better UPS optimization", "author": "darkfrei", "license": "MIT", "dependencies": ["base", "? bobrevamp", "? Bio_Industries"], "factorio_version": "1.1"}

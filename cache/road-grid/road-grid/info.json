@@ -1,0 +1,1 @@
+{"name": "road-grid", "version": "0.0.7", "title": "Road Grid", "author": "Soggs", "contact": "", "homepage": "", "description": "Creates a permanent road grid for Klonans Transport Drones Mod.", "dependencies": ["base >= 0.18.27", "Transport_Drones >= 0.7.5"], "factorio_version": "1.1"}

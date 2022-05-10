@@ -1,0 +1,1 @@
+{"name": "space-trains", "version": "0.1.2", "title": "Space trains", "author": "RollingSten", "dependencies": ["base >= 0.18.0", "space-exploration >= 0.5.01"], "description": "Electric trains designed to operate in space too. For Space Exploration mod.", "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "vickys-tweaks", "version": "0.0.2", "factorio_version": "1.1", "title": "Vicky's Misc Tweaks", "author": "Vicky", "description": "Buff Train Inventories, Nerf Cars/Trucks", "homepage": "n/a", "date": "11.16.2021", "dependencies": ["base", "Concrete_Lamppost_v11"]}

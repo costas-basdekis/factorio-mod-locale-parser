@@ -1,0 +1,1 @@
+{"name": "alienanalysis", "version": "0.1.0", "factorio_version": "0.14", "title": "Alien Analysis", "author": "bendb918", "description": "Allows alien artifacts to be crafted through the analysis of samples (intended for use on peaceful maps)", "dependencies": ["base >= 0.14.0"]}

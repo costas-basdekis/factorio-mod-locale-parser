@@ -1,0 +1,1 @@
+{"name": "belt-names", "version": "0.1.0", "factorio_version": "0.15", "title": "Belt Names", "author": "NACH0CHEE5E", "dependencies": ["base >= 0.15.0"], "description": "Makes the belt names reflect their colour."}

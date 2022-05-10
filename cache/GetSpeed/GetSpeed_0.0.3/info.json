@@ -1,0 +1,1 @@
+{"name": "GetSpeed", "version": "0.0.3", "factorio_version": "0.15", "title": "Get Speed", "author": "withers", "contributors": "None", "homepage": "None", "description": "Press CTRL-S to get the current speed of any mining drill or crafting machine.", "dependencies": ["base >= 0.15.0"]}

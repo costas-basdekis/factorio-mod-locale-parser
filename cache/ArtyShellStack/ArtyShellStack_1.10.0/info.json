@@ -1,0 +1,1 @@
+{"name": "ArtyShellStack", "version": "1.10.0", "title": "Arty Shell Stack Size", "author": "Oniell NZ", "contact": "martynmnz@yahoo.co.nz", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Changes the vanilla Arty Shell Stack Size using the mod settings."}

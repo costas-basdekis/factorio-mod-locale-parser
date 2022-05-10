@@ -1,0 +1,1 @@
+{"name": "compressedCapsules", "version": "0.16.1", "factorio_version": "0.16", "title": "Compressed Capsules", "author": "Slayer1557", "description": "New capsules that create more combat robots.", "dependencies": ["base >= 0.16.0"]}

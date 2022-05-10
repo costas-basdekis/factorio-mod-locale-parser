@@ -1,0 +1,1 @@
+{"name": "TestSite", "version": "0.0.1", "title": "Test Site", "author": "DellAquila", "description": "A place for you to test your new blueprints", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

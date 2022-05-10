@@ -1,0 +1,1 @@
+{"name": "Basic_logistic", "author": "RobocrafterLP", "version": "0.17.50", "title": "Basic Logistic Chest", "description": "Adds Basic Logistic Chest to the game.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.50"]}

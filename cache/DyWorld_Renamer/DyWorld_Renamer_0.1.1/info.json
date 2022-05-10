@@ -1,0 +1,1 @@
+{"name": "DyWorld_Renamer", "version": "0.1.1", "title": "DyWorld Renamer", "author": "darkfrei", "description": "All items from other mods are compatible with DyWorld. Please save your map to new save file.", "dependencies": ["base", "DyWorld"], "factorio_version": "0.16"}

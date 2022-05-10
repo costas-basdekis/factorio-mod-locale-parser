@@ -1,0 +1,1 @@
+{"name": "JD_Signposts", "version": "0.0.2", "factorio_version": "0.13.0", "title": "JD Signposts", "author": "JohnnyDee", "description": "This mod adds signposts to the game. These signposts can help you label your complex factory creations.", "dependencies": ["base >= 0.13.0"], "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=34475"}

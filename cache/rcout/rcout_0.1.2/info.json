@@ -1,0 +1,1 @@
+{"name": "rcout", "version": "0.1.2", "title": "rcout", "author": "rlyshw", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Let's you send info out via rcon"}

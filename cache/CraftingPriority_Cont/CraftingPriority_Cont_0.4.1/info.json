@@ -1,0 +1,1 @@
+{"name": "CraftingPriority_Cont", "version": "0.4.1", "title": "Crafting Priority Continue", "contact": "", "author": "msenne", "homepage": "", "description": "Use SHIFT P, SHIFT D and SHIFT R respectively to promote last crafted item to front, demote first item to rear, or reset the crafting queue", "dependencies": ["base >= 1.0"], "factorio_version": "1.0"}

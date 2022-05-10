@@ -1,0 +1,1 @@
+{"name": "droef-krastorio2-ir2-compat", "version": "1.1.0", "title": "Droeftoeter's Krastorio2 - Industrial Revolution 2 compatibility fixes", "description": "Fixes some bugs when using both Krastorio2 and Industrial Revolution 2", "author": "Droeftoeter", "factorio_version": "1.1", "dependencies": ["base >= 1.1.12", "IndustrialRevolution >= 2.0.4"]}

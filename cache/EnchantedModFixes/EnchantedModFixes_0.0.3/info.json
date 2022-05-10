@@ -1,0 +1,1 @@
+{"name": "EnchantedModFixes", "version": "0.0.3", "title": "Enchanted Industries - Fixes", "author": "Overcl0ck", "factorio_version": "1.0", "dependencies": ["EnchantedIndustries >= 0.2.7"], "description": "Some fixes for Enchanted Industries"}

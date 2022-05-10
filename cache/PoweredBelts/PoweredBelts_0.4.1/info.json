@@ -1,0 +1,1 @@
+{"name": "PoweredBelts", "version": "0.4.1", "title": "Powered Belts", "author": "Romner_set", "description": "Belts now need power. All of them. Including all the modded ones.", "contact": "Mod portal or discord Romner#5341", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

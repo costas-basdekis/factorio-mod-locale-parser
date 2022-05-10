@@ -1,0 +1,1 @@
+{"name": "magic-carpet", "version": "0.1.0", "title": "Magic Carpet", "author": "Yuriy Zubarev", "contact": "yuriyzubarev7@gmail.com", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Factorio mod that places tiles with progressively bigger speed increase bonus under the player"}

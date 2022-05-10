@@ -1,0 +1,1 @@
+{"name": "PoweredFloorALT", "author": "demongo1154", "version": "1.0.2", "title": "Powered floor ALT", "homepage": "https://mods.factorio.com/user/demongo1154", "description": "Flooring that transmits power to adjacent objects, tweeked by demongo1154 for private server use ORG by Theanderblast", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

@@ -1,0 +1,1 @@
+{"name": "SpilledItems", "version": "1.2.1", "license": "MIT", "title": "Spilled Items", "description": "Destroyed chest spills contents", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "1.1"}

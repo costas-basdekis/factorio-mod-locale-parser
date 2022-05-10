@@ -1,0 +1,1 @@
+{"name": "TrashsMod", "version": "0.0.6", "factorio_version": "0.15", "title": "Trashs Mod", "author": "Trash27", "contact": "stefan.weber27@freenet.de", "homepage": "https://forums.factorio.com/", "description": "Big Mod actualy betatesting. For detais have a look at history ;-)", "dependencies": ["base >= 0.15"]}

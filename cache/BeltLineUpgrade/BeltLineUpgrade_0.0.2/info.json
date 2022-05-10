@@ -1,0 +1,1 @@
+{"name": "BeltLineUpgrade", "version": "0.0.2", "factorio_version": "0.17", "title": "Belt Line Upgrade", "author": "Craigzor", "contact": "", "homepage": "", "description": "Upgrade the entire connected line of belts", "dependencies": ["base >= 0.17"], "license": "MIT"}

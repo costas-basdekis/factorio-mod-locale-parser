@@ -1,0 +1,1 @@
+{"name": "party-lab", "version": "0.1.0", "title": "Caramelldansen Lab", "author": "HJ, Mandalore", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Makes labs a bit more... caramel"}

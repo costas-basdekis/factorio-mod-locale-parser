@@ -1,0 +1,1 @@
+{"name": "train-controller", "version": "0.0.3", "title": "Train Controller", "author": "vendan", "description": "Control train schedules via circuit conditions", "factorio_version": "0.15", "dependencies": []}

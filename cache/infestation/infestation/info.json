@@ -1,0 +1,1 @@
+{"name": "infestation", "version": "0.2.3", "title": "Infestation", "author": "HofNerd", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "This is a work in progress. It may be unbalanced and have stability/performance issues. Currently adds infestation, a tile-based threat that needs to be kept outside the factory."}

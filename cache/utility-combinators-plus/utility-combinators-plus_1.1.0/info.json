@@ -1,0 +1,1 @@
+{"name": "utility-combinators-plus", "version": "1.1.0", "factorio_version": "1.1", "title": "Other Utility Combinators", "author": "ichvii", "homepage": "", "contact": "", "description": "A set of general utility cominators. Includes: Large Combinator, Alphabet Combinator, Direct and Inverse Stacksize Combinator. ", "dependencies": ["base >= 1.1"]}

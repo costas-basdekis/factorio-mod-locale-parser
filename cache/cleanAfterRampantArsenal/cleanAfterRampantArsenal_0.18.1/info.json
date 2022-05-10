@@ -1,0 +1,1 @@
+{"name": "cleanAfterRampantArsenal", "version": "0.18.1", "factorio_version": "0.18", "title": "Clean save after removing Rampant Arsenal", "author": "Necriptos", "contact": "necriptos@gmail.com", "homepage": "https://reddit.com/u/Ncrpts", "description": "this is a small mod to restore missing techs after removing Rampant Arsenal", "dependencies": ["base >= 0.18.0"]}

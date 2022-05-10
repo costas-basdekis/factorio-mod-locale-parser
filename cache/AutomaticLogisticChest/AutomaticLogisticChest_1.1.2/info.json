@@ -1,0 +1,1 @@
+{"name": "AutomaticLogisticChest", "version": "1.1.2", "title": "Automatic Logistic Chests", "description": "The mods sets the request of requester chest and the network condition of inserters that insert into passive provider chests when those chests are build.", "author": "Hideaki", "factorio_version": "1.1", "dependencies": ["base"], "package": {"ignore": ["Docs\\*"]}}

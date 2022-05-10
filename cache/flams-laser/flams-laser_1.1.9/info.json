@@ -1,0 +1,1 @@
+{"name": "flams-laser", "author": "flamion", "version": "1.1.9", "title": "flams-laser", "description": "Changes the recipe of the base laser turret and adds laser crystals", "homepage": "", "factorio_version": "1.1", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "flamethrower-fluid", "version": "1.2.1", "title": "Flamethrower Fluid", "author": "Loren1350", "contact": "Schmendrick on the Factorio Forums", "homepage": "", "description": "Adds an enhanced version of flamethrower ammo and fluid, for use in flamethrower turrets.", "dependencies": ["base"], "factorio_version": "1.1"}

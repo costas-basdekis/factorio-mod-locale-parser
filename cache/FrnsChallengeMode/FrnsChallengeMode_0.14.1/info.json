@@ -1,0 +1,1 @@
+{"name": "FrnsChallengeMode", "version": "0.14.1", "factorio_version": "0.14", "title": "Frn's Challenge Mode", "author": "Frn", "description": "What was that? This game is too easy? Well... good luck now.", "dependencies": ["base >= 0.14.0"]}

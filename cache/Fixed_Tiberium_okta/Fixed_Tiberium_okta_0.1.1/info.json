@@ -1,0 +1,1 @@
+{"name": "Fixed_Tiberium_okta", "version": "0.1.1", "title": "Tiberium fixed for 0.17", "author": "Oktabyte", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Originally by Zillo7 fixed by SAH4001, fixed again by Oktabyte. Adds Tiberium - Harvest it to convert it to other ores."}

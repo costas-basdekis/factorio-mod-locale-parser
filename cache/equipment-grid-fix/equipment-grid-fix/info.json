@@ -1,0 +1,1 @@
+{"name": "equipment-grid-fix", "title": "Equipment grid fix", "description": "Adds a minimum size for the equipment grid so it is always visible with custom GUI scale.", "author": "Dragon", "version": "1.0.0", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

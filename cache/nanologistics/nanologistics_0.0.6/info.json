@@ -1,0 +1,1 @@
+{"name": "nanologistics", "version": "0.0.6", "title": "Nano Logistics", "author": "Blank", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Adds nano tech logistics bots to pick up items from a short range away."}

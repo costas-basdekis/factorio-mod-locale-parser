@@ -1,0 +1,1 @@
+{"name": "TreeBrush", "version": "0.1.2", "title": "Tree Brush", "author": "darkfrei", "homepage": "", "description": "Places a new tree", "dependencies": ["base"], "factorio_version": "0.16", "Licence": "MIT"}

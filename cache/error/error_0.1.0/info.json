@@ -1,0 +1,1 @@
+{"name": "error", "version": "0.1.0", "factorio_version": "0.16", "title": "error", "author": "Traineratwot", "contact": "Traineratwot@yandex.ru", "homepage": "", "description": "error", "dependencies": ["base", "ezlib >= 0.0.10", "?omnilib", "?boblogistics", "?bobelectronics", "?bobtech", "?angelssmelting", "?angelsrefining", "?crafting-efficiency", "?LoaderRedux"]}

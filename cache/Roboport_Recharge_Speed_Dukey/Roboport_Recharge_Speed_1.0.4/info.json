@@ -1,0 +1,1 @@
+{"name": "Roboport_Recharge_Speed_Dukey", "version": "1.0.4", "factorio_version": "1.0", "title": "Roboport Recharge Speed", "author": "MB", "description": "Increases both the recharge speed and energy flow rate of roboports.", "dependencies": ["base >= 0.17"]}

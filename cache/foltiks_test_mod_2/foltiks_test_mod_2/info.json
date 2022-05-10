@@ -1,0 +1,1 @@
+{"name": "foltiks_test_mod_2", "version": "0.1.0", "title": "Foltik's Test Mod 2", "author": "Foltik", "contact": "jack@foltz.io", "dependencies": ["foltiks_test_dep_2 >= 0.1.0"], "description": "Just for testing!", "factorio_version": "1.0", "homepage": ""}

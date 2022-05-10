@@ -1,0 +1,1 @@
+{"name": "circuit-gate", "version": "0.0.1", "title": "Circuit Gate Combinator", "author": "wyrd_star", "factorio_version": "1.1", "dependencies": ["base >= 1.1.18"]}

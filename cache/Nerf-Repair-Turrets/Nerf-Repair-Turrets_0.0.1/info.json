@@ -1,0 +1,1 @@
+{"name": "Nerf-Repair-Turrets", "version": "0.0.1", "title": "Nerf Repair Turrets", "author": "Dacrol", "factorio_version": "1.1", "contact": "", "homepage": "", "dependencies": ["base >= 0.18", "Repair_Turret"], "description": "Disables repair turret construction/deconstruction"}

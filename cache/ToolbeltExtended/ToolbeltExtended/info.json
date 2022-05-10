@@ -1,0 +1,1 @@
+{"name": "ToolbeltExtended", "author": "Diohi", "version": "0.0.2", "title": "Toolbelt Extended", "description": "Adds research for up to 4 toolbelts. All Credits to Thaui. (It\u00b4s his old version that\u00b4s working)", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

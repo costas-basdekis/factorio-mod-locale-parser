@@ -1,0 +1,1 @@
+{"name": "Starcraft_siege_tank_firing_sound", "version": "1.0.3", "title": "StarCraft siege tank firing sound", "author": "Dwimenor Vali", "contact": "dwimenor.vali@posteo.net", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod replaces firing sound of artillery with the sound of the Arclite Siege Tank from Starcraft: Broodwar"}

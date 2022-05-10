@@ -1,0 +1,1 @@
+{"name": "ght-no-pollution-atox", "version": "0.1.2", "title": "No Pollution 0.15", "author": "gheift, atox", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"], "description": "Removes pollution generation of all entities. Usefull for games without biters."}

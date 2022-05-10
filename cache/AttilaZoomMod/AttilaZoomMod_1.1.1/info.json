@@ -1,0 +1,1 @@
+{"name": "AttilaZoomMod", "version": "1.1.1", "factorio_version": "1.1", "title": "Attila's Zoom Mod", "author": "_Attila_", "contact": "Private", "homepage": "", "description": "Modifies zoom functionality and provides buttons to save/zoom to a position on the map.", "dependencies": ["base >= 1.1.0"]}

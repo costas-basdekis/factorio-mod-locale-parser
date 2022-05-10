@@ -1,0 +1,1 @@
+{"name": "ZigQOL", "version": "1.0.0", "title": "Zig's Quality of Life", "author": "Ziggynlp", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Bigger Power Armor mk2 grid, bigger Spidertron grid, long reach, better radars, bigger inventory size, cheaper landfill, waterfill, artillery automatic range setting"}

@@ -1,0 +1,1 @@
+{"name": "BotTracker", "version": "0.2.0", "title": "Bot Tracker", "author": "Kal Zekdor", "description": "Automatically follow logistics bots around your factory.", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

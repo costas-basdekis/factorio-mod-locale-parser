@@ -1,0 +1,1 @@
+{"name": "KitchsLessIntrusiveIcons", "version": "1.0.0", "factorio_version": "1.1", "title": "Kitch's Less Intrusive Icons", "author": "Kitch", "homepage": "", "dependencies": ["base >= 0.17.35"], "description": "Makes some icons smaller and less intrusive."}

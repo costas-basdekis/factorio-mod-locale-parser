@@ -1,0 +1,1 @@
+{"name": "simple-forces", "version": "0.1.0", "title": "Simple Forces", "author": "jtherrien", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "This mod puts everyone into their own force at the beginning of the game"}

@@ -1,0 +1,1 @@
+{"name": "AlertCombinator", "version": "0.0.1", "title": "AlertCombinator", "author": "injc.net", "homepage": "", "dependencies": ["base >= 0.13"], "description": "Show different types of alerts triggered by wire conditions.", "factorio_version": "0.14"}

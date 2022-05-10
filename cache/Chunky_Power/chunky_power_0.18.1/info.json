@@ -1,0 +1,1 @@
+{"name": "Chunky_Power", "version": "0.18.1", "title": "Chunky Power", "author": "Vrax", "factorio_version": "0.18", "dependencies": ["base"], "description": "Adjusts Big Power Poles' wire reach to allow chunk alignment."}

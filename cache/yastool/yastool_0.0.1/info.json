@@ -1,0 +1,1 @@
+{"name": "yastool", "version": "0.0.1", "title": "Yet another screenshot tool", "author": "gy_be", "contact": "Message gy_be on Factorio discord", "homepage": "https://github.com/gyunderscorebe/yastool", "description": "Adds an item that can be used to select an area and take a high resolution screenshot of it.", "factorio_version": "0.16", "dependencies": ["base >= 0.15"]}

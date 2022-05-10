@@ -1,0 +1,1 @@
+{"name": "train_brake", "version": "0.1.0", "title": "Train brakes to infinity", "author": "speadge", "contact": "speadge@gmx.de", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "homepage": "none", "description": "extend train braking force to infinity (original idea by immortal_sniper1)"}

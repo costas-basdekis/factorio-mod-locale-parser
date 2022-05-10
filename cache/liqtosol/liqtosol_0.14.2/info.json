@@ -1,0 +1,1 @@
+{"name": "liqtosol", "version": "0.14.2", "factorio_version": "0.14", "title": "Turn liquid fuel to solid fuel", "author": "https://www.reddit.com/user/cpaca0/", "contact": "Shall not be said.", "homepage": "Does not exist.", "description": "Allows you to turn Bob's plates liquid fuel into Solid Fuel.", "dependencies": ["base >= 0.14.0", "bobplates >= 0.14.0"]}

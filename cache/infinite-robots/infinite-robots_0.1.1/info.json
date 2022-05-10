@@ -1,0 +1,1 @@
+{"name": "infinite-robots", "version": "0.1.1", "factorio_version": "0.16", "title": "Infinite Robots", "author": "twinkle_toes", "description": "Makes the cargo carrying capacity research infinite", "dependencies": ["base >= 0.15.0"]}

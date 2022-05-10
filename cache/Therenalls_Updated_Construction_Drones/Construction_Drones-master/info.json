@@ -1,0 +1,1 @@
+{"name": "Therenalls_Updated_Construction_Drones", "version": "1.0.0", "title": "Therenall's Updated Construction Drones", "author": "Therenall", "contact": "", "homepage": "", "description": "", "dependencies": ["base >= 1.1.0", "(?) Hovercraft", "(?) walls-block-spitters"], "factorio_version": "1.1"}

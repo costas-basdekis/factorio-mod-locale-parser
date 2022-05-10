@@ -1,0 +1,1 @@
+{"name": "MoreLocomotives", "version": "0.1.1", "title": "More Locomotives", "author": "Adiking03", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Adds more advanced locomotives, which accelerate faster and have a higher top speed."}

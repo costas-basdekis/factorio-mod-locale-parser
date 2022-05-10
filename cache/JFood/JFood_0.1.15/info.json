@@ -1,0 +1,1 @@
+{"name": "JFood", "version": "0.1.15", "title": "JFood mod", "author": "MrJakobLaich", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "MrJakobLaichs food mod. This mod adds food!"}

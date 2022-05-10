@@ -1,0 +1,1 @@
+{"name": "EarlierLogistics", "version": "0.3.0", "factorio_version": "0.17", "title": "EarlierLogistics", "author": "TomW1605", "contact": "", "homepage": "", "description": "Logistics system only needs red+green tech and has less prerequisites", "dependencies": ["base >= 0.17.0"]}

@@ -1,0 +1,1 @@
+{"name": "decreased-crafting-speed-continued", "version": "1.0.5", "factorio_version": "0.17", "title": "Decreased Crafting Speed continued", "author": "Cyres, snakeru", "description": "Decreases hand crafting speed to 1/60. Adds Burner Assemblers for the beginning", "dependencies": ["base >= 0.14.18"]}

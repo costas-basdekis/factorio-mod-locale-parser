@@ -1,0 +1,1 @@
+{"name": "rushstart", "version": "0.0.2", "factorio_version": "0.17", "title": "Rush Start", "author": "necrobraska", "description": "Gives a whole bunch of random starter things. Very much a cheat.", "dependencies": ["base >= 0.17.0"]}

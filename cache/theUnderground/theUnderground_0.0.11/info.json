@@ -1,0 +1,1 @@
+{"name": "theUnderground", "version": "0.0.11", "title": "The Underground", "author": "Jorgen Re", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=13876", "dependencies": ["base >= 0.13.0"], "factorio_version": "0.13", "description": "Explore the underground world to find rarer resources!"}

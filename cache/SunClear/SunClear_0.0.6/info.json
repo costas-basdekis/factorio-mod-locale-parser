@@ -1,0 +1,1 @@
+{"name": "SunClear", "version": "0.0.6", "title": "SunClear", "author": "Sunnova", "homepage": "", "description": "Clear Rocks or Trees, or store into inventory", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

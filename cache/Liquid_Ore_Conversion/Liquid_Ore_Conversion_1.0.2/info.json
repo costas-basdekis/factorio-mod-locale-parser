@@ -1,0 +1,1 @@
+{"name": "Liquid_Ore_Conversion", "version": "1.0.2", "title": "Liquid Ore Conversion", "author": "Cyfagy", "contact": "", "homepage": "", "description": "Ore can convertet into Mineral Liquid and than into another Ore. Works with Bob Ores.", "factorio_version": "1.1", "dependencies": ["base >= 0.18"]}

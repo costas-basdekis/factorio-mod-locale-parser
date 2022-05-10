@@ -1,0 +1,1 @@
+{"name": "Ore_Bomb_Recipe", "version": "0.0.3", "title": "Ore Bomb recipe", "author": "Sicksouleaters", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0", "OreBomb_V2 >= 1.0.0"], "description": "Adds recipe for ore bombs v2 mostly for personal use"}

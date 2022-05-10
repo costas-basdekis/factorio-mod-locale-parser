@@ -1,0 +1,1 @@
+{"name": "AirPurifier", "version": "0.1.9", "title": "Watered Air Purifier", "author": "Darthun", "contact": "officialdarthungamer@gmail.com", "homepage": "coming soon", "factorio_version": "1.1", "dependencies": ["base >= 1.1.32"], "description": "Adds an Air Purifier building that transforms pollution into dirty water."}

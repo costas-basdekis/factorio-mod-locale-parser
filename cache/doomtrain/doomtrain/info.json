@@ -1,0 +1,1 @@
+{"name": "doomtrain", "version": "0.1.0", "title": "Doomtrain - Factorio version of Snowpiercer", "author": "kendoctor", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "A factorio mod based game, players need to learn how to live on a long way, struggling with food, water, coldness, hotness and biters attacks."}

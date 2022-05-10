@@ -1,0 +1,1 @@
+{"name": "LeveledEnemies", "version": "0.0.2", "factorio_version": "0.15", "title": "Leveled Enemies", "author": "withers", "contributors": "None", "homepage": "None", "description": "Enemies have levels and get progressively harder to kill with evolution.  ", "dependencies": ["base >= 0.15.0"]}

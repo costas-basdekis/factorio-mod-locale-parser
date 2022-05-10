@@ -1,0 +1,1 @@
+{"name": "LabDansen", "author": "ThornHorn", "version": "0.0.3", "title": "LabDansen", "description": "Replaces lab vanilla sounds. Best use with DiscoScience", "dependencies": ["base", "? DiscoScience"], "factorio_version": "1.1"}

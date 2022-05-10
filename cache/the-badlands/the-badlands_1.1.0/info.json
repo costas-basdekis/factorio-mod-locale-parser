@@ -1,0 +1,1 @@
+{"name": "the-badlands", "version": "1.1.0", "factorio_version": "1.1", "title": "The Badlands", "author": "Sladki", "description": "Endless badlands with almost no water and vegetation, very rare ore patches and some new features. Railworld.", "dependencies": ["base >= 1.1.0"]}

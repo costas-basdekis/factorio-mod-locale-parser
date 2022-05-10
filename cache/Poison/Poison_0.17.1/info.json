@@ -1,0 +1,1 @@
+{"name": "Poison", "version": "0.17.1", "title": "Poison'd", "author": "Way", "contact": "gabor.w.varnagy@gmail.com", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Poison rocket ammo and landmine."}

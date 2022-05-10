@@ -1,0 +1,1 @@
+{"name": "ElectricVehicles3", "version": "0.5.1", "title": "Electric Vehicles", "author": "Leoch / Semaphor / mknejp", "homepage": "", "description": "Electric vehicles running on battery energy.", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"], "license": "MIT"}

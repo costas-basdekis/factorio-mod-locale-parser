@@ -1,0 +1,1 @@
+{"name": "Bluegistics", "version": "0.1.6", "title": "Bluegistics", "description": "\"Blueprints\" for personal logistics slots", "author": "francoiscampbell", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

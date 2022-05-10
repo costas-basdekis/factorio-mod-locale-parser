@@ -1,0 +1,1 @@
+{"name": "Advanced-Electric-v15", "version": "0.1.6", "title": "Advanced Electric v15", "contact": "", "author": "Neomore and thurak126", "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=27550&p=174324#p174324", "description": "Adds higher tiers of solar panels and accumulators.", "dependencies": ["base >= 0.15"], "factorio_version": "0.15"}

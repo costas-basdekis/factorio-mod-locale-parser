@@ -1,0 +1,1 @@
+{"name": "Custom-stack-sizes", "version": "0.1.2", "title": "Custom Stack Sizes", "author": "CTA", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Custom stack size amounts"}

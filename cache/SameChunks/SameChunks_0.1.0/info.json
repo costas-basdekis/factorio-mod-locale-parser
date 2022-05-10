@@ -1,0 +1,1 @@
+{"name": "SameChunks", "version": "0.1.0", "title": "Same Chunks", "description": "All chunks will be same (not the starting area); proof of concept", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.16"}

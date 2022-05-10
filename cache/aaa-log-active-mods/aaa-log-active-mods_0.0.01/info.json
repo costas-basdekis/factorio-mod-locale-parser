@@ -1,0 +1,1 @@
+{"name": "aaa-log-active-mods", "version": "0.0.01", "title": "Log active mods", "author": "Mernom", "description": "Logs all currently active mods at the start of the boot proccess. Useful for efficient bug reports without having to mess with modlist.json.", "factorio_version": "0.18"}

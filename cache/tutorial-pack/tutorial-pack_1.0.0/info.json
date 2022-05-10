@@ -1,0 +1,1 @@
+{"name": "tutorial-pack", "version": "1.0.0", "title": "Tutorial Pack", "author": "Dwiz World", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "FNEI >= 0.4.1", "alien-biomes >= 0.6.5", "Todo-List >= 19.2.0"], "description": "This is a Factorio Modpack Tutorial."}

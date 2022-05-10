@@ -1,0 +1,1 @@
+{"name": "Hovercrafts_Realism", "version": "0.18.20", "title": "Hovercrafts Realism", "description": "Modified version of the Hovercrafts_0.18.20 ", "author": "Arcani_Victus", "factorio_version": "0.18", "dependencies": ["? CanalBuilder17 >= 0.0.1", "? electric-vehicles-lib-reborn >= 0.1.2", "? laser_tanks >= 0.17.11", "? Rampant >= 0.17.0"]}

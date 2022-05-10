@@ -1,0 +1,1 @@
+{"name": "expensive-copper-cable", "version": "1.0.0", "factorio_version": "0.16", "title": "Expensive Copper Cables", "author": "adiac", "contact": "mineadiac@gmail.com", "homepage": "", "description": "1 Copper Plate => 1 Copper Cable.", "dependencies": ["base >= 0.14.0"]}

@@ -1,0 +1,1 @@
+{"name": "Ghost_in_the_Shell", "version": "1.0.1", "title": "Ghost in the Shell", "author": "ptx0, PyroFire", "dependencies": ["base >= 0.18", "VehicleGrid", "!cartorio"], "description": "Player will spawn as Spidertron every time. Spidertron's death is explosive. Based on PyroFire's Cartorio.", "factorio_version": "1.0", "homepage": ""}

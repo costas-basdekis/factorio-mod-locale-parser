@@ -1,0 +1,1 @@
+{"name": "NotOpBobModules", "version": "0.0.5", "factorio_version": "0.15", "title": "Not OP Bob's Modules", "author": "nagapito", "contact": "", "homepage": "", "description": "The Bob's modules complexity while more balanced", "dependencies": ["base >= 0.15.0", "boblibrary >= 0.15.2", "bobmodules >= 0.15"]}

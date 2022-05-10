@@ -1,0 +1,1 @@
+{"name": "Colorblind_ores-repack", "author": "Gammro (repack)", "version": "1.0.2", "title": "Colorblind_ores-repack", "homepage": "https://forums.factorio.com/viewtopic.php?f=92&t=22652", "description": "Changes ore sprites and colors on the map", "dependencies": ["base >= 0.14.22"], "factorio_version": "0.14"}

@@ -1,0 +1,1 @@
+{"name": "LeosCommands", "version": "19.0.3", "factorio_version": "1.1", "title": "LeosCommands", "author": "Leopard", "contact": "https://gitlab.com/CodeLeopard", "homepage": "https://gitlab.com/CodeLeopard/LeosCommands", "description": "Adds console commands mainly for use on multiplayer servers.", "dependencies": ["base >= 1.1.41"]}

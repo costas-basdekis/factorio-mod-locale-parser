@@ -1,0 +1,1 @@
+{"name": "Better Beacons", "version": "1.0.0", "factorio_version": "0.15", "title": "Better Beacons", "author": "Dyonisos", "license": "https://opensource.org/licenses/MIT", "contact": "", "homepage": "", "description": "Adds 4 Tiers of Beacons. Tier 2 equal to smaller base beacons.", "dependencies": ["base >= 0.15"]}

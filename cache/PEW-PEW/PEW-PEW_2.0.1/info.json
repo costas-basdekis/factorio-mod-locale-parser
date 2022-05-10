@@ -1,0 +1,1 @@
+{"name": "PEW-PEW", "version": "2.0.1", "title": "Laser Turrets PEW PEW Sound", "author": "axea", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.17"], "description": "Add PEW PEW sound for laser turrets."}

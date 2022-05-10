@@ -1,0 +1,1 @@
+{"name": "SmoothWarnings", "version": "1.0.4", "title": "SmoothWarnings", "author": "Zaflis", "homepage": "", "description": "Tries to make warnings look better.", "dependencies": ["base >= 0.18"], "factorio_version": "1.1"}

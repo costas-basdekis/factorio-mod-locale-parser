@@ -1,0 +1,1 @@
+{"name": "CrushByHand", "version": "0.1.1", "title": "Crush by Hand", "author": "AngryInsomniac", "contact": "angryinsomniac1@gmail.com", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18", "angelsrefining >= 0.11.8", "? bobclasses >=0.18.3"], "description": "This mod allows you to crush the other Angels Ores by hand."}

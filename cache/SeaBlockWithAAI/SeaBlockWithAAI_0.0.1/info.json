@@ -1,0 +1,1 @@
+{"name": "SeaBlockWithAAI", "version": "0.0.1", "title": "Sea Block AAI compatibility", "author": "dmcdouga", "description": "Adds a progression system for AAI in SeaBlock", "factorio_version": "0.17", "dependencies": ["base", "SeaBlockMetaPack", "aai-industry"]}

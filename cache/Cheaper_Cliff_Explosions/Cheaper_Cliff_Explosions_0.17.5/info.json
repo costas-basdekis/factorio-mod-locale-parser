@@ -1,0 +1,1 @@
+{"name": "Cheaper_Cliff_Explosions", "version": "0.17.5", "title": "Cheaper Cliff Explosions", "author": "Alphys Hedge", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"], "description": "Makes cliff explosions use 1 explosive instead of 10, and requires no barrels."}

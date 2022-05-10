@@ -1,0 +1,1 @@
+{"name": "SmartPowerSwitcher", "version": "1.1.0", "title": "Smart Power Switcher", "author": "danbka33, fed1s", "contact": "", "homepage": "", "description": "Adds smart power switcher highly configurable", "factorio_version": "1.1", "dependencies": ["base >= 1.1.27", "flib >= 0.6.0"]}

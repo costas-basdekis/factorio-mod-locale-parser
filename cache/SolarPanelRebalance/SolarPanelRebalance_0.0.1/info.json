@@ -1,0 +1,1 @@
+{"name": "SolarPanelRebalance", "version": "0.0.1", "title": "Rebalanced solar energy and laser turrets", "author": "ZeroAinz", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

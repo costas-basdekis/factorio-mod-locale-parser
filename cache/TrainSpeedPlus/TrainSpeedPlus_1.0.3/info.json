@@ -1,0 +1,1 @@
+{"name": "TrainSpeedPlus", "version": "1.0.3", "factorio_version": "1.1", "title": "TrainSpeedPlus", "author": "nt1soc", "description": "Your train network sucks because of low train throughput or slow trains?  If yes, this mod is for you!", "homepage": "https://mods.factorio.com/mod/TrainSpeedPlus", "dependencies": ["base >= 0.18.0"]}

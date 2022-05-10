@@ -1,0 +1,1 @@
+{"name": "Repair_Command", "version": "0.0.3", "title": "Repair Command", "author": "Gerkiz", "contact": "Gerkiz#0001", "description": "This mod adds the command /repair, which allows an admin to repair entities or revive entity-ghosts.", "dependencies": ["base >= 0.17"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "rewire-tool", "version": "0.0.8", "factorio_version": "1.1", "title": "Rewire Tool", "author": "daniel90c", "description": "Neatly rewire electric grid setups. Updated and improved for version 0.17-0.18.13 by daniel90c. All credits goes to deltatag.", "dependencies": ["base >= 1.1.8"]}

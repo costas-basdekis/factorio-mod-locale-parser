@@ -1,0 +1,1 @@
+{"name": "NestleMod", "version": "0.2.0", "title": "Nestle Mod", "author": "mio991", "contact": "mio991@mio991.de", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This Mods adds an aditional Technology with which you can avoid biter attacks."}

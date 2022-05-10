@@ -1,0 +1,1 @@
+{"name": "Better_Artillery_Ammo", "version": "0.0.2", "title": "Better Artillery Ammo", "author": "DasNasu", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16.51"], "description": "This mod adds additional ammotypes to the artillery."}

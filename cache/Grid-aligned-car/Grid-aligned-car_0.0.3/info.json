@@ -1,0 +1,1 @@
+{"name": "Grid-aligned-car", "version": "0.0.3", "title": "Grid aligned car placement", "author": "SpeckledFleebeedoo", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Cars are now aligned to the grid when placed, so they neatly fit between beacons. Cars can be disabled on placement to improve UPS when there are a lot of cars."}

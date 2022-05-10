@@ -1,0 +1,1 @@
+{"name": "MultiplayerSpawnOptions", "version": "0.0.4", "factorio_version": "0.17", "title": "Multiplayer spawn options", "author": "Midaw", "contact": "midaw2@gmail.com", "homepage": "", "dependencies": ["base >= 0.17.0", "rso-mod >= 5.0.5"], "description": ""}

@@ -1,0 +1,1 @@
+{"name": "PLcn", "version": "0.2.3", "title": "\u68f1\u955c\u6c49\u5316", "author": "Plm", "contact": "\u4e2a\u4eba\u6c49\u5316.", "description": "\u4e2a\u4eba\u6c49\u5316\uff0c\u76ee\u524d\u6c49\u5316\u5b8c\u6210NPBees\uff0cRealisticFusionPower\uff0cDirtyMining\uff0cAsteroid_Mining\uff0cBlackMarket, FluidMustFlow", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

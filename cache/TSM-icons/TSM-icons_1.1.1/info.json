@@ -1,0 +1,1 @@
+{"name": "TSM-icons", "version": "1.1.1", "title": "TSM-icons", "author": "billbo99, LordKTor", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base", "train-pubsub", "rusty-locale", "?bobores", "?FactorioExtended-Plus-Core", "? angelssmelting", "? Clowns-Extended-Minerals"], "description": "Customised empty trains icons for TSM."}

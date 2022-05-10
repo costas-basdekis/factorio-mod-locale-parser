@@ -1,0 +1,1 @@
+{"name": "BiterBacon", "version": "1.0.3", "factorio_version": "0.15", "title": "Biter Bacon", "author": "Nexela", "contact": "www.factorioforums.com", "homepage": "", "description": "Biter Bacon, a delicious gourmet food inspired by KatherineOfSky", "dependencies": ["base >= 0.14.0"], "license": "MIT"}

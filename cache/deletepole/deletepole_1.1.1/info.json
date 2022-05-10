@@ -1,0 +1,1 @@
+{"name": "deletepole", "version": "1.1.1", "factorio_version": "1.1", "title": "Delete Poles", "author": "Skyonave", "homepage": "", "description": "Delete Poles out Factorio", "dependencies": ["base >= 1.1.0"]}

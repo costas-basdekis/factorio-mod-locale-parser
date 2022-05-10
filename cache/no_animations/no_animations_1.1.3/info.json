@@ -1,0 +1,1 @@
+{"name": "no_animations", "version": "1.1.3", "factorio_version": "1.1", "title": "No animations", "author": "Sopel", "contact": "", "homepage": "", "description": "Removes most large animations to significantly reduce RAM and VRAM usage (RAM usage in menu with pymods down from 4.5GiB to 1.5GiB)", "dependencies": ["base >= 0.18.0"]}

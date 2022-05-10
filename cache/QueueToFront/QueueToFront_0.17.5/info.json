@@ -1,0 +1,1 @@
+{"name": "QueueToFront", "version": "0.17.5", "title": "Queue To Front", "author": "Weston Kelliher", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.16"], "description": "ALT+Q to toggle the queuing mode between back queueing(default) and front queueing"}

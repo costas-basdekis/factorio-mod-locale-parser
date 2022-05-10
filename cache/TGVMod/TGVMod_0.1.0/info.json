@@ -1,0 +1,1 @@
+{"name": "TGVMod", "version": "0.1.0", "title": "TGVMod", "author": "Waev", "contact": "", "homepage": "", "factorio_version": "0.14", "dependencies": ["base >= 0.14"], "description": "Add high-speed train"}

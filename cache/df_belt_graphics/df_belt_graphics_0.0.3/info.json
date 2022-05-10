@@ -1,0 +1,1 @@
+{"name": "df_belt_graphics", "description": "New graphics for transport belts", "version": "0.0.3", "title": "darkfrei's new belt graphics", "author": "darkfrei", "dependencies": ["base", "? DoubleSpeedBelts >= 0.0.1"], "factorio_version": "0.16"}

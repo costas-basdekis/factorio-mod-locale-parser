@@ -1,0 +1,1 @@
+{"name": "Advanced_Personal_Defense", "version": "0.1.6", "title": "Advanced Personal Defense", "author": "David McDonough and Adil", "contact": "dave.m.mcdonough@gmail.com", "homepage": "", "description": "Adds personal laser turret Mk2 and a personal defense turret which uses ammo instead of energy.", "factorio_version": "0.14", "dependencies": ["base"]}

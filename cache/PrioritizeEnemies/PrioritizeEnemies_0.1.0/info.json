@@ -1,0 +1,1 @@
+{"name": "PrioritizeEnemies", "version": "0.1.0", "title": "Trees are not important", "author": "LeonSkills", "factorio_version": "0.18", "dependencies": ["base >= 0.17"], "description": "Enemies are created before trees, so that increasing tree amount does not lower the amount of enemy bases."}

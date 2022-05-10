@@ -1,0 +1,1 @@
+{"name": "autobuild", "version": "0.5.0", "factorio_version": "1.1", "title": "Autobuild", "author": "Therax", "homepage": "https://mods.factorio.com/mod/autobuild", "description": "Autobuild allows your character to automatically build, deconstruct, and upgrade nearby ghosts.  A more efficient alternative to mods like Bluebuild.", "dependencies": []}

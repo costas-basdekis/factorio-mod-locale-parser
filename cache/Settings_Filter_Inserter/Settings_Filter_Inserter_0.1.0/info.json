@@ -1,0 +1,1 @@
+{"name": "Settings_Filter_Inserter", "version": "0.1.0", "title": "Settings: Filter Inserter", "author": "darkfrei", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.15"], "description": "With this mod you can change ['filter-inserter'].filter_count from 0 to 5."}

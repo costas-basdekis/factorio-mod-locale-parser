@@ -1,0 +1,1 @@
+{"name": "SpaceXGAR_Patch", "author": "Layberneth", "version": "0.18.1", "title": "SpaceX Get a Room (Updated for 0.18)", "description": "Puts SpaceX items in their own tab where they belong (Updated for 0.18 - All credit goes to original mod author Ober3550)", "factorio_version": "0.18", "dependencies": ["base", "SpaceMod", "? ShinyIcons"]}

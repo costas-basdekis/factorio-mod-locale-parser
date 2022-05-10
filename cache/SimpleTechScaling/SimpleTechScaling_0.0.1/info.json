@@ -1,0 +1,1 @@
+{"name": "SimpleTechScaling", "version": "0.0.1", "factorio_version": "0.17", "title": "Simple Tech Scaling", "author": "Oarcinae", "contact": "Forums, Discussion Page, oarcinae@gmail.com, Discord:Oarc#8695", "homepage": "", "description": "Simple tech scaling to extend mid and late game.", "dependencies": ["base >= 0.17"]}

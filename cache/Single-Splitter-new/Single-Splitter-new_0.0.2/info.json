@@ -1,0 +1,1 @@
+{"name": "Single-Splitter-new", "version": "0.0.2", "title": "Single Splitter", "author": "Aidan647", "contact": "nope", "homepage": "nope", "description": "Balances load on a single Belt. Fix for 0.17", "dependencies": ["base >= 0.12.0"], "factorio_version": "0.17"}

@@ -1,0 +1,1 @@
+{"name": "SpFuMaterialPack", "version": "0.3.0", "title": "SpFu Material Pack", "author": "Grokepeer", "contact": "", "homepage": "www.gametplay.com/factorio", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "New materials for a more advanced crafting."}

@@ -1,0 +1,1 @@
+{"name": "CharcoalBurner", "version": "1.19.29", "factorio_version": "1.1", "title": "Charcoal Burner", "author": "Corvus Corax", "contact": "", "homepage": "https://forums.factorio.com/viewtopic.php?f=94&t=48710", "description": "Adds a way to turn your useless excess wood into charcoal", "dependencies": ["base >= 1.00.0", "? angelspetrochem >= 0.5.9"]}

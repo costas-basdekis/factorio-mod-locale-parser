@@ -1,0 +1,1 @@
+{"name": "quickerstart", "author": "LCruel", "version": "0.9.4", "title": "Quicker start", "description": "You saved some gear from the spaceship. This will make the start of the game faster.", "homepage": "tbd.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

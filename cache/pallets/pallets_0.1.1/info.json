@@ -1,0 +1,1 @@
+{"name": "pallets", "version": "0.1.1", "factorio_version": "0.16", "title": "Pallets", "author": "twanvl", "contact": "Twan van Laarhove <mail@twanvl.nl>", "homepage": "https://github.com/twanvl/pallets-factorio-mod", "description": "Adds recipes for loading items onto pallets", "dependencies": ["base >= 0.16.00"]}

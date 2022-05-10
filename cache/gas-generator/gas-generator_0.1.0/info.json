@@ -1,0 +1,1 @@
+{"name": "gas-generator", "version": "0.1.0", "title": "Gas generator", "author": "adamo", "dependencies": ["base"], "description": "It burns.", "factorio_version": "1.0"}

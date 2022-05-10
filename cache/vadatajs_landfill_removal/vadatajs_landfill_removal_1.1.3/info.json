@@ -1,0 +1,1 @@
+{"name": "vadatajs_landfill_removal", "version": "1.1.3", "factorio_version": "1.1", "title": "Vadatajs Landfill Removal", "author": "Vadatajs", "contact": "", "dependencies": ["base >= 1.1", "boblibrary", "? angelsrefining", "? Dectorio", "? fws", "!Seablock"], "homepage": "", "description": "Removes (hides) landfill technology and recipe."}

@@ -1,0 +1,1 @@
+{"name": "arumbalights-fix", "version": "0.15.0", "factorio_version": "0.15", "title": "Arumba Lights Fixed", "author": "Arumba", "homepage": "", "dependencies": ["base >= 0.15.0"], "description": "Significantly boosts player and vehicle light radius for better viewing on YouTube."}

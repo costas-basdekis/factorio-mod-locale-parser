@@ -1,0 +1,1 @@
+{"name": "ColourBlindSignals", "version": "1.0.1", "title": "Colour Blind Signals", "author": "4Dub", "contact": "supergleng@hotmail.com", "homepage": "", "factorio_version": "1.0", "dependencies": ["base >= 0.18"], "description": "Assigns simple shapes to the coloured signals to assist colour-impaired players."}

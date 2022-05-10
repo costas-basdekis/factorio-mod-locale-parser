@@ -1,0 +1,1 @@
+{"name": "doppler-begone", "version": "1.1.0", "title": "Doppler Begone", "author": "Nikolater", "description": "Disables the doppler effect.", "factorio_version": "1.1", "dependencies": ["base"]}

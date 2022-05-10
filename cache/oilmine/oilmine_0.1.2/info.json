@@ -1,0 +1,1 @@
+{"name": "oilmine", "version": "0.1.2", "title": "Mineable Oil Products", "author": "Roxylalolcat", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Screw fluids! Mine plastic, sulfur and solid fuel. Includes an option to remove oil wells entirly."}

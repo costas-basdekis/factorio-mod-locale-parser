@@ -1,0 +1,1 @@
+{"name": "space-exploration-substation-replacement", "version": "1.0.0", "title": "Space Exploration substation replacement", "author": "Feidan", "description": "Enables fast replacing the base game substation with the pylons", "factorio_version": "1.1", "contact": "Feidan#9851 on Factorio Discord", "dependencies": ["space-exploration"]}

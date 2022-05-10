@@ -1,0 +1,1 @@
+{"name": "ExtendedSpeaker", "version": "1.1.0", "factorio_version": "1.1", "title": "Extended Speaker", "author": "MewFortyTwo", "description": "Add full set of note to play music with programmable speaker", "dependencies": ["base >= 1.1.0"]}

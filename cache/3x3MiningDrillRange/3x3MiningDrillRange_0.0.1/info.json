@@ -1,0 +1,1 @@
+{"name": "3x3MiningDrillRange", "author": "tomoya92", "version": "0.0.1", "title": "3x3 MiningDrill Range", "description": "It is more convenient to place mining drill at the intersection of two kinds of Mines", "factorio_version": "0.18", "dependencies": ["base >= 0.17.0"]}

@@ -1,0 +1,1 @@
+{"name": "Custom Hand Crafting Speed", "version": "1.0.3", "title": "Custom Hand Crafting Speed", "author": "Othyn", "homepage": "", "dependencies": ["base >= 0.15.0"], "description": "Allows you to set a desired hand crafting multiplier for your player.", "factorio_version": "0.16"}

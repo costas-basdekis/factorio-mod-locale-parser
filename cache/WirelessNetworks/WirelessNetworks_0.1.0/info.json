@@ -1,0 +1,1 @@
+{"name": "WirelessNetworks", "version": "0.1.0", "title": "Wireless Networks", "author": "Hermitude", "contact": "", "homepage": "http://www.factorio.com/", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Connects two circuit networks wirelessly"}

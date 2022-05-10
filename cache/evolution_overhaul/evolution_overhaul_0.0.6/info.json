@@ -1,0 +1,1 @@
+{"name": "evolution_overhaul", "version": "0.0.6", "title": "evolution_overhaul", "author": "qqllwllpp", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Changes starting evolution settings and decreases evolution factor for killing alien structures\n "}

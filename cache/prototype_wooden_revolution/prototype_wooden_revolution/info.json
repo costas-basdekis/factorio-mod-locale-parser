@@ -1,0 +1,1 @@
+{"name": "prototype_wooden_revolution", "version": "1.0.2", "factorio_version": "1.1", "title": "prototype_wooden_revolution", "description": "wooden-chest:\n\tNerf:Storage space from 15 to 5.\n\tBuff:Can be moved by belt now.", "author": "meifray", "dependencies": ["base >= 0.0.0", "(?) space-exploration >= 0.0.0"]}

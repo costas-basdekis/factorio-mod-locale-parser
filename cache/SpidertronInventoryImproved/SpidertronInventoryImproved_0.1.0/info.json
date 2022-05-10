@@ -1,0 +1,1 @@
+{"name": "SpidertronInventoryImproved", "version": "0.1.0", "title": "Improved Spidertron Inventory", "author": "Tomeamis", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "For now, just sort the inventory of all spidertrons once every second"}

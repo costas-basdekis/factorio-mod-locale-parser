@@ -1,0 +1,1 @@
+{"name": "friendly_fire", "version": "1.0.0", "factorio_version": "0.15", "title": "Friendly Fire", "author": "butterduck", "description": "Makes construction bots and both rail signals immune to fire.", "homepage": "n/a", "date": "23.05.2017", "dependencies": ["base"]}

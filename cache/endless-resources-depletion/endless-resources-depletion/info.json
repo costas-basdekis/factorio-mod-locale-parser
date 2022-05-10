@@ -1,0 +1,1 @@
+{"name": "endless-resources-depletion", "version": "1.1.0", "factorio_version": "1.1", "title": "Endless Resources: Depletion", "author": "Morhe", "contact": "qlmmb2086@gmail.com", "homepage": "http://factorio.com", "description": "Makes all resources infinite, but gradually deplete to very low yeilds.", "dependencies": ["base >= 1.1.0", "? bobores >= 1.1.0"]}

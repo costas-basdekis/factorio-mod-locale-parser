@@ -1,0 +1,1 @@
+{"name": "CW-tesseract", "version": "0.1.10", "title": "Tesseract", "author": "CyberWizard2261", "description": "A hyper dimensional entity capable of storing large amounts matter and energy and make them available anywhere", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0", "?CW-orbital-solar-power >= 0.1.0", "(?)angelsindustries >= 0.3.0"]}

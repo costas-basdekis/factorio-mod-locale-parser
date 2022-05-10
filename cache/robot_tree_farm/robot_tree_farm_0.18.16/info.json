@@ -1,0 +1,1 @@
+{"name": "robot_tree_farm", "version": "0.18.16", "title": "Robot Tree Farm", "author": "OwnlyMe", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base", "?ZAdventure", "?WhistleStopFactories", "?Turret-Shields", "?alien-biomes", "?Hovercrafts"], "description": "Robots can plant and harvest trees"}

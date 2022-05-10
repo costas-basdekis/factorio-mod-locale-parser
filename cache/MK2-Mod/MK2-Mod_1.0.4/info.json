@@ -1,0 +1,1 @@
+{"name": "MK2-Mod", "version": "1.0.4", "factorio_version": "0.14", "title": "MK2 Mod", "author": "Riley", "homepage": "http://rileystech.com", "description": "MK2 all the things", "dependencies": ["base >= 0.13.0"]}

@@ -1,0 +1,1 @@
+{"name": "EvolutionThroughResearch", "version": "0.1.5", "title": "EvolutionThroughResearch", "author": "CaveGrinder", "description": "sets the evolution to 1 / number of finished non infinite research every few seconds", "factorio_version": "1.1", "dependencies": ["base >= 1.1.6"]}

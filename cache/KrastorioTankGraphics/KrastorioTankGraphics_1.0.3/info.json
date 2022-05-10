@@ -1,0 +1,1 @@
+{"name": "KrastorioTankGraphics", "version": "1.0.3", "title": "Krastorio Tank Graphics", "description": "This mod simply changes the colors/brightness of the K2 tank to be more in line with vanilla vehicles.", "author": "pw", "factorio_version": "1.0", "dependencies": ["base >= 1.0.0", "Krastorio2 >= 1.0.0"]}

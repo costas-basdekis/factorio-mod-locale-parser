@@ -1,0 +1,1 @@
+{"name": "SlowInserter", "version": "0.1.0", "title": "Slow Inserter ", "author": "peet1993, lastprism", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Adds slow inserters. For the times you really want to embrace tranquility. Or just rage at how fast they are. It is pink, don't ask me why."}

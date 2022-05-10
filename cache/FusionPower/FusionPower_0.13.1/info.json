@@ -1,0 +1,1 @@
+{"name": "FusionPower", "version": "0.13.1", "title": "Fusion Power", "author": "WorkingMan", "contact": "bkrauscs@gmail.com", "homepage": "", "description": "Hydrogen Fusion power generation with non-trivial setup.", "factorio_version": "0.13", "dependencies": ["base >= 0.13.0"]}

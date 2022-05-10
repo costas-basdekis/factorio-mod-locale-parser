@@ -1,0 +1,1 @@
+{"name": "BetterSmallElectricPole", "author": "tomoya92", "version": "0.0.2", "title": "BetterSmallElectricPole", "description": "the maximum wire distance for small electric pole is same as for medium electric pole", "factorio_version": "0.18", "dependencies": ["base >= 0.17.0"]}

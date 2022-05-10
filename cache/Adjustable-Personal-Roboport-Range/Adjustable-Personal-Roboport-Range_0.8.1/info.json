@@ -1,0 +1,1 @@
+{"name": "Adjustable-Personal-Roboport-Range", "version": "0.8.1", "title": "Adjustable Personal Roboport Range", "author": "ProfounDisputes", "Licence": "MIT", "description": "Allows you to change the range of personal roboports.", "dependencies": ["base >= 0.17.35"], "factorio_version": "0.17"}

@@ -1,0 +1,1 @@
+{"name": "PenguinTurretRange", "version": "1.0.0", "title": "Penguin's Turret Ranges", "author": "penguinofdoom", "dependencies": ["base >= 0.17.0"], "description": "Increases the range of turrets.", "factorio_version": "0.17"}

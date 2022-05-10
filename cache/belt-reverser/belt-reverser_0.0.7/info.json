@@ -1,0 +1,1 @@
+{"name": "belt-reverser", "version": "0.0.7", "factorio_version": "0.18", "title": "Belt Reverser", "author": "Cogito", "contact": "", "homepage": "https://github.com/Cogito/belt-reverser", "description": "Reverse entire segments of belt", "dependencies": ["base >= 0.16"], "license": "MIT"}

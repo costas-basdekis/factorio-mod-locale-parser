@@ -1,0 +1,1 @@
+{"name": "Overmind", "version": "0.1.1", "title": "Overmind", "author": "HJk", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=50513", "description": "Biter base are interconnected and use resource to evolve", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

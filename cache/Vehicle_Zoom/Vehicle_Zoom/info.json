@@ -1,0 +1,1 @@
+{"name": "Vehicle_Zoom", "version": "1.1.0", "title": "Vehicle Zoom", "author": "Dusk Wuff", "factorio_version": "1.1", "dependencies": ["base"], "description": "Automatically zoom in/out when entering and exiting vehicles. Zoom levels can be set separately for cars/tanks, trains, and Spidertron in mod settings."}

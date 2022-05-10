@@ -1,0 +1,1 @@
+{"name": "wood_to_coal", "version": "1.1.0", "title": "Wood to Coal", "author": "De7ilx", "description": "Adds a recipe for turning 2 wood into 1 coal.", "dependencies": ["base >= 1.1"], "factorio_version": "1.1"}

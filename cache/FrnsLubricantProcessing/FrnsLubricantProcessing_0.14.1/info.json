@@ -1,0 +1,1 @@
+{"name": "FrnsLubricantProcessing", "version": "0.14.1", "factorio_version": "0.14", "title": "Frn's Lubricant Processing", "author": "Frn", "description": "A few new uses for your favorite green liquid.", "dependencies": ["base >= 0.14.0", "FrnCore >= 0.14.0"]}

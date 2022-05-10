@@ -1,0 +1,1 @@
+{"name": "MS-PrivateServer", "version": "1.2.10", "title": "MS-PrivateServer", "author": "notnotmelon", "description": "Private Mod for use with a private server to fix an issue with Geforce Now service.  Do not download", "contact": "discord.gg/sbs", "factorio_version": "1.0", "dependencies": ["base", "?Krastorio2", "?PickerDollies"]}

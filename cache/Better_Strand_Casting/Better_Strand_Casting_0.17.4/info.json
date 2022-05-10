@@ -1,0 +1,1 @@
+{"name": "Better_Strand_Casting", "version": "0.17.4", "title": "Make Strand Casting Great Again", "author": "hexagonhexagon", "description": "Buffs strand casting to make it more appealing to use.", "dependencies": ["base >= 0.17", "angelssmelting >= 0.5.7", "? CircuitProcessing >= 0.2.0", "boblibrary >= 0.17.5"], "factorio_version": "0.17"}

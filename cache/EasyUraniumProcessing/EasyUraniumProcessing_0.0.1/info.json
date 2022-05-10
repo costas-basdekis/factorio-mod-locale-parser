@@ -1,0 +1,1 @@
+{"name": "EasyUraniumProcessing", "version": "0.0.1", "title": "EasyUraniumProcessing", "author": "tomoya92", "contact": "py2qiuse@gmail.com", "description": "10% u235, 90% u238, \u4fee\u6539\u94c0\u4ea7\u4ea7\u51fa\u6bd4\u4f8b\uff0c10%u235\uff0c 90%u238", "factorio_version": "0.18", "dependencies": ["base >= 0.17.0"]}

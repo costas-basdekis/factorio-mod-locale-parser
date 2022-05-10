@@ -1,0 +1,1 @@
+{"name": "Energy_Efficient_Beacons", "version": "0.17.3", "title": "Energy Efficient Beacons", "author": "hexagonhexagon", "description": "Allows you to make more energy efficient beacons using efficiency modules.", "dependencies": ["base >= 0.17"], "factorio_version": "0.17"}

@@ -1,0 +1,1 @@
+{"name": "PicksBaseMod", "version": "1.1.1", "title": "Picklock's Basic Mod", "author": "Picklock", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod contains common things for Picklock's Mods"}

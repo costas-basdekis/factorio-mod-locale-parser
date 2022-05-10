@@ -1,0 +1,1 @@
+{"name": "flooring_stacks", "version": "0.1.0", "title": "Flooring_stacks", "author": "abccom1", "contact": "", "homepage": "", "description": "increase stacks for flooring", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

@@ -1,0 +1,1 @@
+{"name": "Aircraft-bobwarfare-grids", "version": "0.1.0", "title": "Bob's Warfare Grids for Aircraft", "author": "Scatterlogical", "homepage": "", "description": "Fixes grids for Aircraft when using bobswarfare.", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0", "bobvehicleequipment >= 0.14.2", "Aircraft >= 1.1.5"]}

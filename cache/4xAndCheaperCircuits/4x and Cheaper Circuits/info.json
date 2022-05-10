@@ -1,0 +1,1 @@
+{"name": "4xAndCheaperCircuits", "version": "1.1.0", "title": "4xAndCheaperCircuits", "author": "T", "contact": "in4mative@hotmail.com", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Cheaper circuits, every craft gives 4 circuits."}

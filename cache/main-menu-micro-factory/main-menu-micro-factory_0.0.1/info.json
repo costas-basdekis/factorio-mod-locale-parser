@@ -1,0 +1,1 @@
+{"name": "main-menu-micro-factory", "version": "0.0.1", "title": "Main Menu Micro Factory", "author": "DaveMcW", "description": "Adds a micro factory to the main menu background.", "dependencies": ["base"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "Advanced_Electric_Furnace", "version": "0.17.1", "title": "Advanced Electric Furnace", "author": "Vipervire", "contact": "", "homepage": "", "description": "This adds an Electric Furnace upgrade that increases smelting speed significantly", "factorio_version": "0.17", "dependencies": ["base >= 0.17"]}

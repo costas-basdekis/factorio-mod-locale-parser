@@ -1,0 +1,1 @@
+{"name": "EnhancedFlashlight", "version": "0.1.4", "title": "Enhanced Flashlight", "author": "grfwoot", "description": "Replaces the default flashlight with a better, more realistic version", "dependencies": ["base"], "factorio_version": "0.17"}

@@ -1,0 +1,1 @@
+{"name": "matts-lib", "version": "0.5.4", "title": "Matt's Library", "author": "CG-Matt", "homepage": "https://github.com/CG-Matt/matts-lib", "description": "Library mod that is used by my other mods", "factorio_version": "1.1", "dependencies": ["base >= 0.17"]}

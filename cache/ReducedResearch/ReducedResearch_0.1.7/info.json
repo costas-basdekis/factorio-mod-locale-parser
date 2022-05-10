@@ -1,0 +1,1 @@
+{"name": "ReducedResearch", "version": "0.1.7", "title": "Reduced Research", "author": "Kynaro", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.16"], "description": "This mod greatly decreases research requirements for lab technologies."}

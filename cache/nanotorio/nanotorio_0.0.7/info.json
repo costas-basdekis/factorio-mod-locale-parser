@@ -1,0 +1,1 @@
+{"name": "nanotorio", "version": "0.0.7", "title": "Nanotorio", "author": "PyroFire", "dependencies": ["base >= 0.17"], "description": "Factorio but everything is nano sized", "factorio_version": "0.17", "homepage": "http://patreon.com/pyrofire"}

@@ -1,0 +1,1 @@
+{"name": "BurnerCurse", "version": "1.0.0", "title": "Burner Inserter Curse", "author": "Doctor_Goose", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Cursed by an evil wizard, all of the inserters you place down turn into burner inserters! Show that wizard who's boss and launch a rocket anyways."}

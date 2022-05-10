@@ -1,0 +1,1 @@
+{"name": "HighlyDerivative", "version": "0.0.1", "factorio_version": "0.18", "title": "Highly Derivative", "author": "mrudat", "contact": "", "dependencies": ["base >= 0.18.0", "OR-Nodes >= 0.0.4", "rusty-locale >= 0.0.1"], "homepage": "", "description": "Support library for mods that derive items from other mods."}

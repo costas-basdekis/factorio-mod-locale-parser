@@ -1,0 +1,1 @@
+{"name": "improved-starting-equipment", "version": "0.0.2", "title": "Improved Starting Equipment", "author": "Sevi", "contact": "sevi.voest@gmx.de", "homepage": "http://factorio.com", "description": "Start with Electricity, a basic modular armor and a few construction robots.", "dependencies": ["base >= 0.16.0"], "factorio_version": "0.16"}

@@ -1,0 +1,1 @@
+{"name": "connavar-infinite-ores", "author": "Connavar", "version": "1.1.0", "factorio_version": "1.1", "title": "Connavar's infinite ores", "homepage": "https://www.wedol.cz", "description": "Respawn depleted ores (true infinite ores)", "dependencies": ["base >= 1.1.0"]}

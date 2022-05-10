@@ -1,0 +1,1 @@
+{"name": "elka", "version": "1.3.0", "title": "BiusArt Christmas tree", "author": "BiusArt", "homepage": "", "description": "Add a Christmas tree to your game", "factorio_version": "0.18", "dependencies": ["base >= 0.17"]}

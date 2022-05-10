@@ -1,0 +1,1 @@
+{"name": "Silver_Nickel_Swap", "version": "0.17.1", "title": "Swap Silver and Nickel in AngelBob's", "author": "hexagonhexagon", "dependencies": ["base >= 0.17", "angelsrefining >= 0.10.14", "bobplates >= 0.17.11"], "description": "Make silver pure sorting a chunks recipe. In exchange, make nickel pure sorting a crystals recipe.", "factorio_version": "0.17"}

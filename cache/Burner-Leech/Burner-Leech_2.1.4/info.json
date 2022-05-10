@@ -1,0 +1,1 @@
+{"name": "Burner-Leech", "version": "2.1.4", "title": "Burner Leech", "author": "EnigmaticAussie, Klonan", "dependencies": ["base >= 0.18.0", "?burner-fuel-bonus"], "contact": "", "homepage": "", "description": "Burner Inserters can take fuel from any entity (ie. furnaces)", "factorio_version": "0.18"}

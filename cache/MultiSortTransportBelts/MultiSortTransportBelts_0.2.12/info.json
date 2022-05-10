@@ -1,0 +1,1 @@
+{"name": "MultiSortTransportBelts", "version": "0.2.12", "title": "MultiSort Transport Belts", "author": "Nibuja", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod adds programmable transport belts, which can perform together with controllers complex item movement."}

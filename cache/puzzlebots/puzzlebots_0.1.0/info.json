@@ -1,0 +1,1 @@
+{"name": "puzzlebots", "version": "0.1.0", "title": "Puzzlebots", "author": "planetfall", "homepage": "", "description": "Nerfs logistic bots to require more planning.", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

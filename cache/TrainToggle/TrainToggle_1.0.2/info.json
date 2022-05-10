@@ -1,0 +1,1 @@
+{"name": "TrainToggle", "version": "1.0.2", "title": "Train Toggle", "author": "henkoe", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Press J (default) to toggle trains between automatic and manual mode when inside a train"}

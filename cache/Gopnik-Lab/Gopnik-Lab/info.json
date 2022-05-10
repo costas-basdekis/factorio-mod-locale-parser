@@ -1,0 +1,1 @@
+{"name": "Gopnik-Lab", "author": "Skrzelik", "version": "1.0.0", "title": "Gopnik Lab", "description": "Replaces science lab research sound. DiscoScience recommended", "dependencies": ["base", "? DiscoScience"], "factorio_version": "1.1"}

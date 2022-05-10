@@ -1,0 +1,1 @@
+{"name": "NoTreeEmission", "version": "1.0.1", "factorio_version": "0.15", "title": "No Tree Emission", "author": "Keray", "contributors": ["Keray"], "homepage": "http://keray.eu/", "description": "Removes trees' ability to reduce pollution, making the game difficulty less random and more fun.", "dependencies": ["base >= 0.15.0"]}

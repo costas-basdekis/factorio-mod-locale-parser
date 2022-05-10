@@ -1,0 +1,1 @@
+{"name": "Combat-Robot-Automation", "factorio_version": "1.1", "version": "0.18.11", "title": "Combat Robot Automation", "author": "Illiander, with code by Veden", "homepage": "", "description": "Adds a combat roboport that deploys regular combat robots for automated defence.", "dependencies": ["base >= 0.18.18", "! RampantArsenal"]}

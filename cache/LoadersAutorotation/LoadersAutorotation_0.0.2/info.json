@@ -1,0 +1,1 @@
+{"name": "LoadersAutorotation", "version": "0.0.2", "title": "Loaders: Autorotation", "author": "darkfrei", "description": "Loaders stay it the right way automatically", "dependencies": ["base"], "factorio_version": "0.17"}

@@ -1,0 +1,1 @@
+{"name": "electric-vehicles-graphics", "version": "0.1.4", "title": "Electric Vehicles: Graphics", "author": "Semaphor", "homepage": "", "description": "New graphics for the Electric vehicles mod.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0", "electric-vehicles-reborn >= 0.1.2"], "license": "MIT"}

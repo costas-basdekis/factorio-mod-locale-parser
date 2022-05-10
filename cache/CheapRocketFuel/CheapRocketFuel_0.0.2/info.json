@@ -1,0 +1,1 @@
+{"name": "CheapRocketFuel", "description": "Rocket fuel will be around twice cheaper, but production chain will be much complicated.", "version": "0.0.2", "title": "Cheap Rocket Fuel", "author": "darkfrei", "dependencies": ["base", "? boblibrary >= 0.15.0", "? bobplates >= 0.15.0", "? bobores >= 0.15.0"], "factorio_version": "0.15"}

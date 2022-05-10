@@ -1,0 +1,1 @@
+{"name": "BizobSciCost", "version": "0.17.0", "title": "Bizob Science Cost Changer", "author": "Bizobinator", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod allows the player to artificially increase the amount of science required."}

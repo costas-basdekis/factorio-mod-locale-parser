@@ -1,0 +1,1 @@
+{"name": "Factorissimo2JapaneseTranslation", "version": "1.0.4", "title": "Factorissimo2 Japanese Translation", "author": "kznmk2", "description": "Factorissimo2\u306e\u975e\u516c\u5f0f\u65e5\u672c\u8a9e\u5316\u30d5\u30a1\u30a4\u30eb", "factorio_version": "0.18", "dependencies": ["base >= 0.17.0", "Factorissimo2 >= 2.4.2"]}

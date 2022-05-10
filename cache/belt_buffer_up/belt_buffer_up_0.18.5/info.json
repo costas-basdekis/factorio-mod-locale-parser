@@ -1,0 +1,1 @@
+{"name": "belt_buffer_up", "version": "0.18.5", "title": "Belt Buffer 0.18", "author": "badway", "contact": "", "homepage": "", "description": "A buffer for your belts. The original version of the mod https://mods.factorio.com/mod/belt_buffer is an update for factor 0.17-0.18", "factorio_version": "0.18", "dependencies": ["base >= 0.17"]}

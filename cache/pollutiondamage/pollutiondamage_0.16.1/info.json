@@ -1,0 +1,1 @@
+{"name": "pollutiondamage", "version": "0.16.1", "title": "Pollution Damage", "author": "Hombsch, Jakob", "description": "Producing buildings take damage on creating pollution", "factorio_version": "0.16", "dependencies": ["base >= 0.16.3"]}

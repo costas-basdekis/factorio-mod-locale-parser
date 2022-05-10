@@ -1,0 +1,1 @@
+{"name": "better-bot-battery", "version": "1.1.0", "title": "Better Bot Battery", "author": "SomeBloke", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "A vanilla friendly mod that adds infinite battery tech with the same scaling as worker robot speed!"}

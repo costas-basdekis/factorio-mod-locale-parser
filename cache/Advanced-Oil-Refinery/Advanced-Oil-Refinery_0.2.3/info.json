@@ -1,0 +1,1 @@
+{"name": "Advanced-Oil-Refinery", "version": "0.2.3", "factorio_version": "0.18", "date": "2020-02-09", "title": "Advanced Oil Refinery", "author": "Quasar_0", "homepage": "", "description": "This mod adds an Advanced Oil Refinery to Krastorio Legacy.", "dependencies": ["base >= 0.17.0", "Krastorio >= 1.4.55"]}

@@ -1,0 +1,1 @@
+{"name": "health-report", "version": "0.1.0", "title": "Health report to file", "author": "zebediah49", "homepage": "", "description": "Proof of concept mod; continuously steams player health out to a file", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

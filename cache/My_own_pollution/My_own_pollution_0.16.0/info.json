@@ -1,0 +1,1 @@
+{"name": "My_own_pollution", "title": "My Own Pollution", "version": "0.16.0", "author": "GeekinaCave", "contact": "jarelton85@gmail.com", "homepage": "https://github.com/GeekinaCave/My_own_pollution", "description": "an alternative version for the sprite of pollution in the map game.", "factorio_version": "0.16", "dependencies": ["base"]}

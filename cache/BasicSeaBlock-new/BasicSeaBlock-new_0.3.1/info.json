@@ -1,0 +1,1 @@
+{"name": "BasicSeaBlock-new", "version": "0.3.1", "title": "Basic Sea Block", "author": "Kuhave, alchemy", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Like SeaBlock, but attempts to stick closer to vanilla play.\n\nOriginal mode by euigrp"}

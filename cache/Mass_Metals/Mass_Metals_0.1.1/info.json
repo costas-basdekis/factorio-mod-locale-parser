@@ -1,0 +1,1 @@
+{"name": "Mass_Metals", "version": "0.1.1", "title": "Mass Metals", "author": "S1lentWalrus", "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=63854", "description": "Smelt large amounts of metals efficiently", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0", "? bobplates >= 0.17.0", "? bobores >= 0.17.0"]}

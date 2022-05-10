@@ -1,0 +1,1 @@
+{"name": "laser_tanks", "version": "0.18.15", "title": "Laser Tanks", "author": "OwnlyMe", "dependencies": ["base", "? laser_rifle", "? aai-vehicles-laser-tank", "? IndustrialRevolution"], "description": "Vehicle Laser weapons, Electric Car, Tank, Train.", "factorio_version": "0.18"}

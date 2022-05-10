@@ -1,0 +1,1 @@
+{"name": "Atlas_NoRobotAttrition", "version": "1.1.0", "title": "What Attrition?", "description": "Makes crashed bots unable to cause any damage regardless of research levels. A temporary solution for now.", "author": "Atlas1205", "contact": "none", "factorio_version": "1.1", "dependencies": ["base", "robot_attrition"]}

@@ -1,0 +1,1 @@
+{"name": "DisplayTime", "version": "0.1.1", "title": "Time Display", "author": "pawndev", "contact": "coquelet.c@gmail.com", "homepage": "github.com/pawndev", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod simply display current time (IG) in game"}

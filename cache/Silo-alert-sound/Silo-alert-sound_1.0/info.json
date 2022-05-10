@@ -1,0 +1,1 @@
+{"name": "Silo-alert-sound", "version": "1.0.0", "title": "Rocket Silo Alert Sound", "author": "Grand Teki", "description": "Adds the vanilla Rocket Silo alert sound to programmable speakers as an option.", "factorio_version": "1.0", "dependencies": ["base >= 1.0"]}

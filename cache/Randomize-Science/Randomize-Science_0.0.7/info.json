@@ -1,0 +1,1 @@
+{"name": "Randomize-Science", "version": "0.0.7", "title": "Randomize Science", "author": "lobstrang", "factorio_version": "0.17", "description": "PRE-ALPHA VERSION - Generate randomized ingredients for science pack recipes for every game. Covers basic 6 science packs.", "dependencies": ["base >= 0.17.0"]}

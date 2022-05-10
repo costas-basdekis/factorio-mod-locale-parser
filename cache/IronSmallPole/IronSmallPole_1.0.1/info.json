@@ -1,0 +1,1 @@
+{"name": "IronSmallPole", "version": "1.0.1", "factorio_version": "0.14", "title": "Iron Small Pole", "author": "Nexela", "contact": "", "homepage": "", "description": "Replaces the wood in the small pole to use Iron", "dependencies": ["base >= 0.13.0"]}

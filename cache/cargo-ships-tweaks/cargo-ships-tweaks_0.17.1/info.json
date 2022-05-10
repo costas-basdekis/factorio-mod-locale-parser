@@ -1,0 +1,1 @@
+{"name": "cargo-ships-tweaks", "version": "0.17.1", "title": "Cargo Ships Tweaks", "author": "Soggs", "description": "Adds options to change the maximum speed of the ships introduced by the Cargo Ships mod.", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "cargo-ships >= 0.0.39"]}

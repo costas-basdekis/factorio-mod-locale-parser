@@ -1,0 +1,1 @@
+{"name": "TransgressionalCompressors", "version": "0.14.3", "factorio_version": "0.14", "title": "Transgressional Compressors", "author": "Frn", "description": "Break the laws of physics!", "dependencies": ["base >= 0.14.0", "FrnCore >= 0.14.0"]}

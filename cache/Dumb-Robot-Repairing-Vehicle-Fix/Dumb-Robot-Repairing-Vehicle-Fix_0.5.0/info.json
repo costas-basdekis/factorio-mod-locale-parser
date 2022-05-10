@@ -1,0 +1,1 @@
+{"name": "Dumb-Robot-Repairing-Vehicle-Fix", "version": "0.5.0", "title": "Dumb Robot Repairing Vehicle Fix", "author": "ProfounDisputes", "Licence": "MIT", "description": "Turns off robot construction when driving in vehicle", "dependencies": ["base >= 0.16.0"], "factorio_version": "0.16"}

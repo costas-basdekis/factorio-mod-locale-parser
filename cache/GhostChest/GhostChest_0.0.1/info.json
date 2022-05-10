@@ -1,0 +1,1 @@
+{"name": "GhostChest", "version": "0.0.1", "title": "Ghost Chest", "author": "randomdima", "description": "Adds free chest filled with ghosts of all placeable items", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15"}

@@ -1,0 +1,1 @@
+{"name": "ScienceOnDiscs", "version": "0.0.1", "title": "Science On Discs", "author": "Taehl", "contact": "email.Taehl@gmail.com", "homepage": "", "description": "Science isn't glowing fluid in flasks, it's research data stored on punch-cards, CDs, and denser media. Only the graphics of Science packs are changed.", "factorio_version": "0.16", "dependencies": ["base"]}

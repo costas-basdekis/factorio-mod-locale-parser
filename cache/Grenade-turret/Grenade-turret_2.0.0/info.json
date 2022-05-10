@@ -1,0 +1,1 @@
+{"name": "Grenade-turret", "version": "2.0.0", "factorio_version": "0.18", "title": "Grenade turret", "author": "Slasherbane", "contact": "", "homepage": "", "description": "Add grenade turret that use grenade ammo , massive destruction !!!!", "dependencies": ["stdlib >= 1.2.2"]}

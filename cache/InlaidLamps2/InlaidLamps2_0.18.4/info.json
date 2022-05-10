@@ -1,0 +1,1 @@
+{"name": "InlaidLamps2", "version": "0.18.4", "title": "Inlaid Lamps 2", "author": "Mathematician, CobaltTiger, OwnlyMe", "contact": "", "homepage": "", "factorio_version": "0.18", "description": "Lamps, embedded into the floor (without glitches on cost of some performance)", "dependencies": ["base >= 0.18.0"]}

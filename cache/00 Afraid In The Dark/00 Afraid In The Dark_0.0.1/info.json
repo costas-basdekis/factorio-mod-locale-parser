@@ -1,0 +1,1 @@
+{"name": "00 Afraid In The Dark", "version": "0.0.1", "title": "00 Afraid In The Dark", "author": "M", "contact": "https://github.com/mophydeen", "homepage": "https://github.com/mophydeen", "description": "Less dark at night.", "factorio_version": "0.13", "dependencies": ["base >= 0.13.0"]}

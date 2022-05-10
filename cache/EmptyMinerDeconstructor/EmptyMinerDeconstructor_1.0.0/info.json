@@ -1,0 +1,1 @@
+{"name": "EmptyMinerDeconstructor", "version": "1.0.0", "title": "Empty Miner Deconstruction", "author": "Mick", "contact": "N/A", "description": "Adds the Empty Miner Deconstruction toolbox shortcut which allows you to mark empty miners for deconstruction", "dependencies": ["base >= 1.1.0"], "factorio_version": "1.1"}

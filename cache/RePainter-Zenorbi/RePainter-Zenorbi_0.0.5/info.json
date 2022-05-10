@@ -1,0 +1,1 @@
+{"name": "RePainter-Zenorbi", "version": "0.0.5", "title": "RePainter-Zenorbi", "description": "Re-paints the old terrain using current map generation. Based on fienxjox's work.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.4"], "author": "Zenorbi", "contact": "", "homepage": ""}

@@ -1,0 +1,1 @@
+{"name": "mon_mod", "version": "1.0.0", "title": "Mon Mod.", "author": "Helfima", "contact": "Helfima", "homepage": "", "description": "Mon Mod de test", "dependencies": ["base >= 1.0"], "factorio_version": "1.0"}

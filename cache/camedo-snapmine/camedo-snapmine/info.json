@@ -1,0 +1,1 @@
+{"name": "camedo-snapmine", "version": "1.0.0", "title": "Snap Mines", "author": "Brian Haase", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Makes all landmines snap to the building grid, including most modded mines."}

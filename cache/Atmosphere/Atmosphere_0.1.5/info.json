@@ -1,0 +1,1 @@
+{"name": "Atmosphere", "version": "0.1.5", "title": "Atmosphere", "author": "nulvinge", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.15", "alien-biomes >= 0.3.8", "Factorissimo2 >= 2.2.3", "Harvest >= 0.1.0"], "description": "You have landed on a mars-like planet with a carbon dioxide atmosphere. How will you survive?"}

@@ -1,0 +1,1 @@
+{"name": "no-productivity-modules", "version": "0.18.3", "factorio_version": "1.1", "title": "No Productivity Modules", "author": "Sven Gre\u00dfmann", "contact": "svengressmann@yahoo.de", "description": "Deactivate the productivity of the three vanilla modules", "dependencies": ["base >= 0.18"]}

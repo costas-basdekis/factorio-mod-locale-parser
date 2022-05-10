@@ -1,0 +1,1 @@
+{"name": "sonaxaton-krastorio-fuel-tweaks", "version": "0.1.1", "title": "Krastorio Fuel Tweaks", "author": "sonaxaton", "homepage": "https://mods.factorio.com/mod/sonaxaton-krastorio-fuel-tweaks", "description": "Some balance adjustments to Krastorio 2's fuel changes.", "factorio_version": "1.1", "dependencies": ["base >= 1.0", "Krastorio2 >= 1.0"]}

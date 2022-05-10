@@ -1,0 +1,1 @@
+{"name": "Strubels-Mod-Core", "version": "1.1.0", "factorio_version": "1.1", "title": "Strubels-Mod", "author": "Programming: 5trubel; Graphics: Soup_cant_play", "contact": "info@5trubel.de", "homepage": "https://5trubel.de", "description": "Core Mod for all my other Mods. It contains all Graphics and Stuff...", "license": "MIT", "dependencies": ["base >= 1.1"]}

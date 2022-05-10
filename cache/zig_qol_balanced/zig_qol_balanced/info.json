@@ -1,0 +1,1 @@
+{"name": "zig_qol_balanced", "version": "0.1.0", "title": "Zig's Quality of Life balanced", "author": "terepy", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Bigger Power Armor mk2 grid, bigger Spidertron grid, long reach, better radars, bigger inventory size, cheaper landfill, waterfill"}

@@ -1,0 +1,1 @@
+{"name": "Starting_Wood", "version": "1.0.0", "title": "Starting Wood", "author": "Luke", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "You start with a little bit of wood. Useful for playing worlds without forests with greenhouse mods (especially Bob's Greenhouses)."}

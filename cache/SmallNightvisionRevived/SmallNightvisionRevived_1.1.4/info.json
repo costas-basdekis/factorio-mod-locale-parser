@@ -1,0 +1,1 @@
+{"name": "SmallNightvisionRevived", "version": "1.1.4", "title": "Small Nightvision Revived", "author": "kreeg", "homepage": "https://mods.factorio.com/mod/SmallNightvisionRevived", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Changes the grid size of the 2x2 Nightvision goggles to 1x1"}

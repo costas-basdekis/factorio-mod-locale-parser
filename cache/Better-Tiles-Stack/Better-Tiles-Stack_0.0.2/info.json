@@ -1,0 +1,1 @@
+{"name": "Better-Tiles-Stack", "version": "0.0.2", "factorio_version": "0.17", "title": "Better-Tiles-Stack", "author": "NexusNull", "contact": "", "homepage": "", "description": "Put the stack Size of vanilla tiles to 1k 'All tiles stack to 1k' put every tiles to 1k which breaks things", "dependencies": ["base >= 0.17"]}

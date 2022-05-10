@@ -1,0 +1,1 @@
+{"name": "TestRekiel", "version": "1.1.1", "title": "Lane Balancer", "author": "CaptainWHot", "contact": "Discord: Rekiel#2190", "homepage": "none", "description": "Evenly balances input & output lanes on a belt. Like a splitter, but for the lanes on a single belt, underground-belt or splitter.", "dependencies": ["base >= 0.18.0"], "factorio_version": "1.1"}

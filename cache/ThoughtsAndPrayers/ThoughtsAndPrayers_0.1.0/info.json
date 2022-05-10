@@ -1,0 +1,1 @@
+{"name": "ThoughtsAndPrayers", "version": "0.1.0", "title": "Thoughts and prayers mod", "author": "Krytos", "description": "For all you guys who feel that factorio has lack of realism", "factorio_version": "0.18", "dependencies": ["base >= 0.18"]}

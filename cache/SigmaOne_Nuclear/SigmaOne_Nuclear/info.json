@@ -1,0 +1,1 @@
+{"name": "SigmaOne_Nuclear", "version": "1.4.1", "factorio_version": "1.1", "title": "SigmaOne's Mods: Nuclear", "author": "Sigma1", "contact": "Sigma1@tuta.io", "homepage": "https://sigmaone.port0.org", "dependencies": ["base >= 1.0.0"], "description": "Makes nuclear fuel, and some other uranium-related item production a bit more complex and immersive."}

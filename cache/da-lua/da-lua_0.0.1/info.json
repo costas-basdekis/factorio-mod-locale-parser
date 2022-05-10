@@ -1,0 +1,1 @@
+{"name": "da-lua", "version": "0.0.1", "title": "Desk Accessories - Lua", "author": "adamius", "description": "Lua console for easier mod development.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"]}

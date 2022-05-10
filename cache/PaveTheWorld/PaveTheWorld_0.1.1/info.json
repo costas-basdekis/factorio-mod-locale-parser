@@ -1,0 +1,1 @@
+{"name": "PaveTheWorld", "version": "0.1.1", "factorio_version": "0.16", "title": "Pave The World!", "author": "ZergCow", "contact": "None", "homepage": "None", "dependencies": ["base >= 0.16"], "description": "Use your various excess materials to pave the world!"}

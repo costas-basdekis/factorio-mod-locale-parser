@@ -1,0 +1,1 @@
+{"name": "some-resourcespam", "version": "1.1.0", "title": "Some resource spam", "author": "someone1337", "homepage": "https://git.somenet.org/factorio/some-resourcespam.git", "description": "Spam resources everywhere. But as is with spam: it adds little of real value and you get the joy of having to split ores.", "dependencies": ["base>=1.1.0"], "factorio_version": "1.1"}

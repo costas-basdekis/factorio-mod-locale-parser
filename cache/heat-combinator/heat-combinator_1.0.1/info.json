@@ -1,0 +1,1 @@
+{"name": "heat-combinator", "version": "1.0.1", "factorio_version": "0.17", "title": "Heat Combinator", "author": "DeltaNedas", "description": "A combinator that can read the heat of a fluid in an adjacent fluid container. Original by theRustyKnife.", "dependencies": ["base >= 0.17.0"]}

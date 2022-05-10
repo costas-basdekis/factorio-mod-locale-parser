@@ -1,0 +1,1 @@
+{"name": "production-analyst", "version": "1.1.7", "title": "Production Analyst", "author": "Inappropriate Penguin", "homepage": "https://github.com/InappropriatePenguin/production-analyst", "dependencies": ["base >= 1.1.40"], "description": "Analyze the consumption of an item or fluid throughout your entire factory.", "factorio_version": "1.1"}

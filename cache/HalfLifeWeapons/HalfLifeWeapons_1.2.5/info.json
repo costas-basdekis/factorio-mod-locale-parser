@@ -1,0 +1,1 @@
+{"name": "HalfLifeWeapons", "version": "1.2.5", "factorio_version": "0.16", "title": "Half Life Weapons and armor", "author": "Reaper", "contact": "", "homepage": "", "description": "Just adds weapons and some armor from half life", "dependencies": ["base >= 0.16.51"]}

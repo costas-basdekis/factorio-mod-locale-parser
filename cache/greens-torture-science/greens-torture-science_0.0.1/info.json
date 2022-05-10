@@ -1,0 +1,1 @@
+{"name": "greens-torture-science", "version": "0.0.1", "title": "Green's Torture: Science Edition", "author": "_CodeGreen", "description": "Vanilla science recipes are just a little harder than before.", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

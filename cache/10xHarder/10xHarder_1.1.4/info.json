@@ -1,0 +1,1 @@
+{"name": "10xHarder", "version": "1.1.4", "factorio_version": "0.15", "title": "10x Harder", "author": "Wells", "contributors": "me", "homepage": "None", "description": "Makes the game 10x harder and more. ", "dependencies": ["base >= 0.15.0", "? ScienceCostTweaker >= 0.14.0", "? aai-industry >= 0.1.10"]}

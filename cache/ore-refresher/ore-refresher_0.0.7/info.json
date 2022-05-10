@@ -1,0 +1,1 @@
+{"name": "ore-refresher", "version": "0.0.7", "factorio_version": "0.17", "title": "Ore refresher", "author": "Simon Fischer", "contact": "mail@simonfischer.info", "homepage": "https://simonfischer.info", "description": "Foo", "dependencies": ["base >= 0.17.4", "bobenemies >= 0.17.1"]}

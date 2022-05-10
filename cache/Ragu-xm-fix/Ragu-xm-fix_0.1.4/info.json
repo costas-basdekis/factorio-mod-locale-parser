@@ -1,0 +1,1 @@
+{"name": "Ragu-xm-fix", "version": "0.1.4", "title": "Xander Mod fix by Ragu", "author": "Ragu", "factorio_version": "0.17", "dependencies": ["xander-mod-th >= 2.2.4"], "description": "fix for some broken recepies"}

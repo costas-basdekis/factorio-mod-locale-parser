@@ -1,0 +1,1 @@
+{"name": "Easy_API", "version": "0.15.3", "factorio_version": "0.15", "title": "Easy_API", "author": "Reddit user cpaca0", "homepage": "Denied.", "dependencies": ["base >= 0.15.0"], "description": "An API to help modders make things easier. Exists in all my .15 and forward mods as the functions folder."}

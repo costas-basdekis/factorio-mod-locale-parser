@@ -1,0 +1,1 @@
+{"name": "btsPollutionProductionMachine", "version": "1.1.0", "title": "BT's Pollution Production Machine", "author": "aspd199", "contact": "admin@art8620.com", "homepage": "https://mods.factorio.com/mods/aspd199", "description": "Burning garbage creates pollution.", "factorio_version": "1.1", "dependencies": ["artsAshcan >= 1.1.0"]}

@@ -1,0 +1,1 @@
+{"name": "chem_flip", "version": "1.0.0", "title": "Chem Flip", "author": "The_Evil_Pickle", "homepage": "", "description": "Allows you to switch around the inputs/outputs on chemistry things.", "factorio_version": "1.0", "dependencies": ["base", "? bobassembly", "? angelspetrochem", "? angelsrefining"]}

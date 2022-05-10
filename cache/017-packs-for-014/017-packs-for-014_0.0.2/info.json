@@ -1,0 +1,1 @@
+{"name": "017-packs-for-014", "version": "0.0.2", "title": "0.17 science for 0.14 ( New-science addon)", "author": "voldkost", "contact": "123", "homepage": "", "description": "123", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0", "New-science>=0.4.0"]}

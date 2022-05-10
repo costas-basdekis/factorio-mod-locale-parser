@@ -1,0 +1,1 @@
+{"name": "emoji-signals", "version": "0.2.0", "title": "Emoji Signals", "author": "snouz", "dependencies": ["base >= 1.1.0"], "description": "140 emojis to use as display, map icons, blueprint icons, circuit signals or station icons. \n\nComplaints, comments and death threats can be addressed to Buckingham Palace, London SW1A 1AA", "factorio_version": "1.1", "homepage": ""}

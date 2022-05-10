@@ -1,0 +1,1 @@
+{"name": "disable-crash-site", "version": "1.0.1", "factorio_version": "1.1", "title": "Disable crash site", "author": "miZ", "contact": "", "homepage": "", "dependencies": ["base >= 1.1.0", "?Krastorio2 >= 1.2"], "description": "Changes"}

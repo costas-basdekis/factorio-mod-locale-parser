@@ -1,0 +1,1 @@
+{"name": "GJBigPolesAlign", "version": "0.18.0", "title": "Big Pole Reach", "author": "GrumpyJoe", "contact": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Makes large power poles span 32 tiles to align with chunks"}

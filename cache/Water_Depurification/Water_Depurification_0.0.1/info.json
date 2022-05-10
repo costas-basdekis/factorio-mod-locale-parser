@@ -1,0 +1,1 @@
+{"name": "Water_Depurification", "version": "0.0.1", "title": "Water Depurification", "author": "ThePyroGamer666", "factorio_version": "1.0", "dependencies": ["base >= 0.18", "bobplates >=1.0.1"], "description": "This mod allows Bob's pure water to be converted to vanilla water."}

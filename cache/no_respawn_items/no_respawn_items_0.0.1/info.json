@@ -1,0 +1,1 @@
+{"name": "no_respawn_items", "version": "0.0.1", "title": "No Respawn Items", "author": "Amuxix", "description": "Removes item given to players on respawn and adds a stack of wood the initial items.", "factorio_version": "0.18", "dependencies": ["base"]}

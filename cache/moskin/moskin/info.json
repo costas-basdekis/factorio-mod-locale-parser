@@ -1,0 +1,1 @@
+{"name": "moskin", "version": "1.2.0", "title": "MoSkin", "author": "Ludsoe", "homepage": "", "description": "Renames and re-images the science packs to be more immersive", "dependencies": ["base"], "factorio_version": "0.16"}

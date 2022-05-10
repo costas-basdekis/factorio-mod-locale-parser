@@ -1,0 +1,1 @@
+{"name": "teakedlightArtillery", "version": "0.1.3", "title": "Tweaked Light Artillery", "author": "Kizrak / Frost", "contact": "", "homepage": "https://github.com/abaines/vn-artillery", "factorio_version": "0.17", "dependencies": ["base >= 0.17.66"], "description": "Early game tweaked Light Artillery"}

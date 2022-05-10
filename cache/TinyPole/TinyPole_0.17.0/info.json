@@ -1,0 +1,1 @@
+{"name": "TinyPole", "version": "0.17.0", "title": "Tiny Pole", "author": "leitk", "contact": "leitk", "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=53962&p=316815#p316815", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod adds a tiny power pole, for use with blueprints and power switches."}

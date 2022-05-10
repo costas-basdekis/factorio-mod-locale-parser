@@ -1,0 +1,1 @@
+{"name": "fireproofing", "version": "0.1.0", "factorio_version": "0.17", "title": "Fireproofing", "author": "TheWearyGamer", "description": "Tired of accidentally burning trains, signals, or bots? Make them fireproof!", "date": "2019-03-01", "dependencies": ["base >= 0.16"]}

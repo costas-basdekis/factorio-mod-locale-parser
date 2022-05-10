@@ -1,0 +1,1 @@
+{"name": "QuickBarLoader", "title": "Quickly set up your active quick bar", "description": "Hit the hotkey, what you pick up gets put into an empty quickbar slot until you fill it or empty your hand", "version": "0.0.2", "author": "quyxkh", "contact": "quyxkh on the forum", "factorio_version": "0.17", "dependencies": ["base>=0.17.0"]}

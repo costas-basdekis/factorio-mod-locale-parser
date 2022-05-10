@@ -1,0 +1,1 @@
+{"name": "LCMI", "version": "0.1.0", "title": "Low Contrast Message Improver", "author": "CsuD", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod helps players with dark skins."}

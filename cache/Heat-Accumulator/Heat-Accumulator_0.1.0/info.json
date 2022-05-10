@@ -1,0 +1,1 @@
+{"name": "Heat-Accumulator", "version": "0.1.0", "title": "Heat Accumulator", "author": "msakuta", "description": "Adds an accumulator structure for storing heat, useful for regulating power load of Nuclear Reactors.", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

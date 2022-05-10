@@ -1,0 +1,1 @@
+{"name": "Feyes-startup", "version": "0.0.2", "title": "Feyes startup", "author": "Feye", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "? LightedPolesPlus >= 1.1.3"], "description": "Gives you *a bit* of equipment to skip the first hour of grinding ores and plates. Includes a Modular Armor with Exoskeleton to move around quicker."}

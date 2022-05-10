@@ -1,0 +1,1 @@
+{"name": "cableSteelMaking", "version": "1.0.2", "title": "Better Cable and Steel Making", "author": "LaVADraGoN", "homepage": "https://www.artstation.com/artist/lavadragon", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Mod that improves crafting of Copper Cable and Steel"}

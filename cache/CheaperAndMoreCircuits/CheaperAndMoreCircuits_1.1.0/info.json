@@ -1,0 +1,1 @@
+{"name": "CheaperAndMoreCircuits", "version": "1.1.0", "title": "Cheaper and more Circuits", "author": "JustMaffie", "contact": "support@justmaffie.com", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Cheaper green/red/blue circuits, every craft also gives more."}

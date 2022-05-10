@@ -1,0 +1,1 @@
+{"name": "Reduced-Infinity-Science", "version": "0.0.1", "factorio_version": "0.17", "title": "Reduced Infinity Science", "author": "NexusNull", "contact": "", "homepage": "", "description": "Makes earlier sciences harder but easier in the long run", "dependencies": ["base >= 0.17"]}

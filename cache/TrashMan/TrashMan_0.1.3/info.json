@@ -1,0 +1,1 @@
+{"name": "TrashMan", "version": "0.1.3", "title": "TrashMan - Item Auto Collect", "author": "Astarch", "description": "Adds an armor module which marks items on the groud to be collected by construction robots.", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0", "data-raw-prototypes >= 0.1.3"]}

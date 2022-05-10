@@ -1,0 +1,1 @@
+{"name": "maintentorio", "version": "0.0.1", "title": "Maintentorio", "author": "PyroFire", "dependencies": ["base >= 0.18"], "description": "Factorio but crafting machines take damage from crafting.", "factorio_version": "0.17", "homepage": "http://patreon.com/pyrofire"}

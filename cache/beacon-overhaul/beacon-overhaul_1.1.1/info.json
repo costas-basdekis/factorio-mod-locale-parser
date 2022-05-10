@@ -1,0 +1,1 @@
+{"name": "beacon-overhaul", "version": "1.1.1", "title": "Beacon Overhaul", "author": "notnotmelon", "description": "Beacons have 3x range and 2x module slots, but will overload machines if you use more than one. This mod also adds productivity beacons. Similar to the Space Exploration feature.", "factorio_version": "1.1", "dependencies": ["base", "classic-beacon"]}

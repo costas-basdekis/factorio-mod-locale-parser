@@ -1,0 +1,1 @@
+{"name": "CurvedRail-tlf", "version": "1.0.1", "title": "Curved Rail for 0.14", "author": "thislooksfun", "dependencies": ["base >= 0.14"], "factorio_version": "0.14", "description": "Adds the curved rail item back into the crafting menu. Original by daniel34"}

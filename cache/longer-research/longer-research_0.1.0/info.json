@@ -1,0 +1,1 @@
+{"name": "longer-research", "version": "0.1.0", "factorio_version": "0.18", "title": "longer-research", "author": "Alwego", "contact": "", "homepage": "", "description": "That mod change recipe for all research and increase cost. Now You need much more assembling machines to make basic science pack.", "dependencies": ["base >= 0.18.0"]}

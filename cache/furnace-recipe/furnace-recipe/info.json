@@ -1,0 +1,1 @@
+{"name": "furnace-recipe", "version": "1.1.0", "factorio_version": "0.17", "title": "Furnace Recipe", "author": "Pizze", "contact": "piz2920+factorio@gmail.com", "homepage": "https://github.com/Tiefkuehlpizze/factorio-furnace-recipe", "description": "Furnaces with configurable recipe for Factorio", "dependencies": ["base >= 0.17.0", "? bobassembly >= 0.16.1"]}

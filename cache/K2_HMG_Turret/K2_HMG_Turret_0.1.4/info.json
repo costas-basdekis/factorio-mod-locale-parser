@@ -1,0 +1,1 @@
+{"name": "K2_HMG_Turret", "version": "0.1.4", "title": "Heavy Machine Gun Turret for Krastorio2", "author": "Kiithnaras", "contact": "", "homepage": "", "factorio_version": "1.1", "description": "Adds a semi-early Heavy Machine Gun turret for Krastorio 2 that takes Anti-Materiel Rifle magazines", "dependencies": ["Krastorio2Assets", "Krastorio2"]}

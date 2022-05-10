@@ -1,0 +1,1 @@
+{"name": "LongerWires", "version": "0.1.1", "title": "Longer Wires", "author": "Boss", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Adjust wire lengths"}

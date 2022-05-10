@@ -1,0 +1,1 @@
+{"name": "pickup-hotkey", "version": "0.0.8", "title": "Pickup Hotkey", "author": "Blank", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Pick up items from surrounding entities."}

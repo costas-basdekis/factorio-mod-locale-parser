@@ -1,0 +1,1 @@
+{"name": "No_Player_Collision", "version": "1.1.0", "factorio_version": "1.1", "title": "No Player Collision", "author": "Silari", "contact": "", "www": "", "description": "Removes the collision box from the player so they can move around freely, while still retaining the armor slot and vulnerability to trains and biters that sandbox lacks."}

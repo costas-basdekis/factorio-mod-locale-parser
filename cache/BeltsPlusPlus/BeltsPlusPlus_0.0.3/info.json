@@ -1,0 +1,1 @@
+{"name": "BeltsPlusPlus", "version": "0.0.3", "factorio_version": "0.16", "title": "Belts++", "author": "YMan", "contact": "christheboss894@gmail.com", "homepage": "Nil", "description": "Adds New Belts.", "dependencies": ["base >= 0.16.0", "CorePlusPlus"]}

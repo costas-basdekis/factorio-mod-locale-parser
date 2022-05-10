@@ -1,0 +1,1 @@
+{"name": "Lane-Balancer", "version": "0.0.3", "title": "Lane Balancer", "author": "FoxInSox", "contact": "N/A", "homepage": "none", "description": "Evenly balances input & output lanes on a belt. Like a splitter, but for the lanes on a single belt.", "dependencies": ["base >= 0.12.0"], "factorio_version": "0.17"}

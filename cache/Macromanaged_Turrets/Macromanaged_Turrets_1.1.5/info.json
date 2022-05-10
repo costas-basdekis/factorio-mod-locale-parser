@@ -1,0 +1,1 @@
+{"name": "Macromanaged_Turrets", "version": "1.1.5", "title": "Macromanaged Turrets", "author": "Macros [Subach]", "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=24639", "description": "Create turrets that request ammo from the logistic network.", "factorio_version": "0.14", "dependencies": ["base"]}

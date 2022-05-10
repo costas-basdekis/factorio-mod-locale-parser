@@ -1,0 +1,1 @@
+{"name": "InserterModule", "version": "1.5.1", "title": "Q's Inserter Module Mod", "author": "Q", "description": "Mod that adds a new type of module", "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=58328", "factorio_version": "1.1", "dependencies": ["(?) boblogistics"]}

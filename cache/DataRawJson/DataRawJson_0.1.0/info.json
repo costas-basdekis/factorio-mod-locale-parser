@@ -1,0 +1,1 @@
+{"name": "DataRawJson", "version": "0.1.0", "title": "Data Raw Json", "author": "cpcp1998", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.4"], "description": "Prints the entire data.raw table to the log on run. Useful for modders and tool devs."}

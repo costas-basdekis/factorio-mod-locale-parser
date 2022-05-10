@@ -1,0 +1,1 @@
+{"name": "QuickBarCrafting", "version": "0.2.0", "title": "Quick Bar Crafting", "author": "Fred Strauss", "contact": "reddit /u/redshift78", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17.2"], "description": "Auto craft items in the player's quick bar."}

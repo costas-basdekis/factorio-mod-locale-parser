@@ -1,0 +1,1 @@
+{"name": "zoom-out", "version": "0.1.2", "title": "Zoom Out", "author": "Talung", "homepage": "https://mods.factorio.com/mod/zoom-out", "description": "Zoom Out for building Blueprints", "factorio_version": "1.1", "dependencies": ["base >= 1.0"]}

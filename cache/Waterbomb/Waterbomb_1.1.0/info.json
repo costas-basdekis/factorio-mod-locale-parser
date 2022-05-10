@@ -1,0 +1,1 @@
+{"name": "Waterbomb", "version": "1.1.0", "title": "Waterbomb", "author": "someone1337", "homepage": "https://git.somenet.org/factorio/Waterbomb.git", "description": "Use explosions/bombs to create water. (Originally 'Landfill' by Rseding91)", "dependencies": ["base>=1.1.0"], "factorio_version": "1.1"}

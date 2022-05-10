@@ -1,0 +1,1 @@
+{"name": "FilteredPlacement", "version": "0.1.0", "title": "Filtered placement", "author": "Olivier Galibert", "contact": "galibert@pobox.com", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "This mods adds a key to place items filtered on a blueprints or upgrades."}

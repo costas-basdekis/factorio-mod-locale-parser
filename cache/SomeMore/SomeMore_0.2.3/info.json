@@ -1,0 +1,1 @@
+{"name": "SomeMore", "version": "0.2.3", "title": "Some More", "author": "mooman219", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Some more structures based on vanilla resources."}

@@ -1,0 +1,1 @@
+{"name": "AdminTag", "version": "0.16.0", "title": "Admin tag for server admins", "author": "JustMaffie", "contact": "support@justmaffie.nl", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Gives a [ADMIN] tag to Multiplayer Server Admins."}

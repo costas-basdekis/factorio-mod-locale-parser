@@ -1,0 +1,1 @@
+{"name": "slowevolution", "version": "0.0.4", "factorio_version": "0.14", "title": "Slow Evolution", "author": "Damgam", "dependencies": ["base >= 0.14.0"], "contact": "", "homepage": "", "description": "Removed time based evolution, Pollution and Biter Nest evolution is reduced"}

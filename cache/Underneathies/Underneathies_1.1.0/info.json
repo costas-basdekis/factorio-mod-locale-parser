@@ -1,0 +1,1 @@
+{"name": "Underneathies", "version": "1.1.0", "factorio_version": "1.1", "title": "Underneathies", "author": "Supercheese", "dependencies": ["base", "? boblogistics >= 0.17.1"], "description": "Based on a post from Reddit, where it was conclusively determined that Underground Belts sound much cuter when referred to as Underneathies."}

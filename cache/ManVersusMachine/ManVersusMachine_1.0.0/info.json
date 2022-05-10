@@ -1,0 +1,1 @@
+{"name": "ManVersusMachine", "version": "1.0.0", "factorio_version": "0.15.0", "title": "Man Versus Machine", "author": "AnonymoScoot", "description": "You're not the only one coming to this planet. Robots have already occupied Nauvis. Will you be able to defend yourself against robots? Configurable inside Config.lua", "dependencies": ["base >= 0.15.0"]}

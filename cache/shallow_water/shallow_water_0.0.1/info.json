@@ -1,0 +1,1 @@
+{"name": "shallow_water", "version": "0.0.1", "title": "Shallow water", "author": "strikerAT", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "water-shallow and water-mud will be generated on the shores"}

@@ -1,0 +1,1 @@
+{"name": "BigResult", "version": "0.1.3", "title": "Big Result", "description": "All recipes are fast and make much more result", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "0.18"}

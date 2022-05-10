@@ -1,0 +1,1 @@
+{"name": "Sulfurification", "version": "1.1.0", "factorio_version": "1.1", "title": "Sulfurification", "author": "gungorenu", "contact": "", "homepage": "", "description": "Adds more sulfur recipes to make game challenging, and at the same time easy.", "dependencies": ["base >= 1.1.0"]}

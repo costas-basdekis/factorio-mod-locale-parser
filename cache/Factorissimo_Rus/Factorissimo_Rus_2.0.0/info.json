@@ -1,0 +1,1 @@
+{"name": "Factorissimo_Rus", "version": "2.0.0", "title": "Russian factorissimo 2", "author": "Wolflind", "description": "This mod translates Factorissimo2 into russian", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0", "Factorissimo2 >= 2.0.2"]}

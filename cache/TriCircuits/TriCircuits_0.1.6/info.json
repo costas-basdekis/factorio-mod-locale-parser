@@ -1,0 +1,1 @@
+{"name": "TriCircuits", "version": "0.1.6", "title": "TriCircuits", "author": "Triavanicus", "description": "Creates extra circuits to expand the base game's capability of the circuit network. Currently it only adds a multiplexer system", "factorio_version": "0.18", "dependencies": ["base"]}

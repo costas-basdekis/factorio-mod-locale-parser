@@ -1,0 +1,1 @@
+{"name": "NPUtilsTech", "version": "0.4.9", "factorio_version": "1.1", "title": "NPUtils Tech Tree", "author": "kaueNP", "contact": "", "homepage": "", "description": "NPUtils addon - Add a huge and challenging technology tree to NPUtils.", "dependencies": ["base >= 1.1", "NPUtils >= 0.5.36", "NPUtilsX >= 0.4.11"]}

@@ -1,0 +1,1 @@
+{"name": "ExtraUtilities", "version": "1.0.5", "title": "Extra Utilities", "author": "jonnyfisch", "description": "Consume your excess power to make simpler production lines!\nAlso included: INSERTERS!", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

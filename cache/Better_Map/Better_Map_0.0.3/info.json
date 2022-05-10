@@ -1,0 +1,1 @@
+{"name": "Better_Map", "version": "0.0.3", "title": "Continental Maze", "author": "Illiander", "contact": "", "homepage": "", "factorio_version": "1.1", "description": "An infinite maze with more interesting walls", "dependencies": ["base >= 1.0", "expensive-terraforming"]}

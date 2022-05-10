@@ -1,0 +1,1 @@
+{"name": "Angel_cellulose_for_Bob_gunpowder", "version": "1.0.0", "title": "Angel cellulose for Bob gunpowder", "author": "Jack Salem", "description": "Replaces wood with cellulose in the production of gunpowder.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "angelsbioprocessing >= 0.7.20", "bobwarfare >= 1.1.3"]}

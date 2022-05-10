@@ -1,0 +1,1 @@
+{"name": "equipment", "version": "0.0.2", "factorio_version": "1.0", "title": "Personal Laser mod", "author": "ShadowMaster", "contact": "", "homepage": "", "dependencies": ["base >= 1.0.0"], "description": "Long Range Personal Laser."}

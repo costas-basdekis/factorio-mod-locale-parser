@@ -1,0 +1,1 @@
+{"name": "undecorator", "version": "1.0.3", "factorio_version": "0.14", "title": "unDecorator", "author": "orzelek", "contact": "", "homepage": "", "description": "Removes terrain decorations to reduce save file size.", "dependencies": ["base >= 0.13.0"]}

@@ -1,0 +1,1 @@
+{"name": "planetorio", "version": "0.1.3", "title": "Planetorio", "author": "PyroFire", "dependencies": ["base >= 1.1"], "description": "Warptorio2 but the planets thing is a standalone library", "factorio_version": "1.1", "homepage": "http://patreon.com/pyrofire"}

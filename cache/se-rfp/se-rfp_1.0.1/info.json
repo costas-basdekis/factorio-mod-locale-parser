@@ -1,0 +1,1 @@
+{"name": "se-rfp", "version": "1.0.1", "title": "RFP and SE", "author": "Slasherbane", "dependencies": ["base >= 1.0", "space-exploration-postprocess >= 0.4.8"], "description": "", "factorio_version": "1.0", "homepage": ""}

@@ -1,0 +1,1 @@
+{"name": "colored-blueprints-redux", "version": "0.1.4", "title": "Colored Blueprint Books Redux", "author": "Blank", "description": "This mod allows the user to change the color of a blueprint book.", "dependencies": ["base >= 0.16.0", "! PickerExtended"], "factorio_version": "0.16"}

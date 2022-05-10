@@ -1,0 +1,1 @@
+{"name": "NPUtilsX", "version": "0.4.11", "factorio_version": "1.1", "title": "NPUtilsX", "author": "kaueNP", "contact": "", "homepage": "", "description": "NPUtils addon - Add inserters,cars,new ways to use heat and other things", "dependencies": ["base >= 1.1", "NPUtils >= 0.5.36"]}

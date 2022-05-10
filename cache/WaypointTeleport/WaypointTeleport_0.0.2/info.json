@@ -1,0 +1,1 @@
+{"name": "WaypointTeleport", "version": "0.0.2", "title": "WaypointTeleport", "author": "payk12", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod is a recreation of the minecraft teleportation plugin for servers. It now has a prefix to use, before using any of the commands please put > before."}

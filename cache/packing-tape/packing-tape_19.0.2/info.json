@@ -1,0 +1,1 @@
+{"name": "packing-tape", "version": "19.0.2", "factorio_version": "1.1", "title": "Packing Tape", "author": "calcwizard", "homepage": "", "dependencies": ["base", "(?)railloader", "(?)Transport_Drones"], "description": "Mining a chest or wagon allows players to pick it up with all the items inside and carry it in their inventory. Also supports cars, fluid tanks, and Spidertron."}

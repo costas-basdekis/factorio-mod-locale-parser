@@ -1,0 +1,1 @@
+{"name": "meme-speaker-sounds", "version": "0.0.1", "title": "Meme Sounds for Programmable Speakers [WIP]", "author": "Azias", "homepage": "https://google.com", "description": "Adds a couple of sounds for programmable speakers. (20 currently)", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"]}

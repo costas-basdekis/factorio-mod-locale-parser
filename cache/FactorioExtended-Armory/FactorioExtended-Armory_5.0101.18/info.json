@@ -1,0 +1,1 @@
+{"name": "FactorioExtended-Armory", "version": "5.0101.18", "factorio_version": "0.18", "date": "2020-04-19", "title": "FactorioExtended-Armory", "author": "Nath Gamer", "contributers": "", "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=93&t=19836", "description": "FE-Armory", "dependencies": ["base", "FactorioExtended-Core >= 5.0201.18"]}

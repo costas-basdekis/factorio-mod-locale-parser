@@ -1,0 +1,1 @@
+{"name": "QuickGame", "version": "1.0.0", "title": "Quick Game", "author": "Thorvin", "contact": "thorvin@gmail.com", "homepage": "", "factorio_version": "1.0", "dependencies": ["base >= 0.18"], "description": "Play a shorter version of the game which can be finished about 10 hours. Ideal for LANs !"}

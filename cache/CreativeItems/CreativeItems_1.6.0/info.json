@@ -1,0 +1,1 @@
+{"name": "CreativeItems", "version": "1.6.0", "title": "Creative Items", "author": "Optera", "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=21729", "homepage": "", "description": "Enables hidden cheat items Infinity Chest, Infinity Pipe, Electric Interface, Heat Interface and Player Port.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

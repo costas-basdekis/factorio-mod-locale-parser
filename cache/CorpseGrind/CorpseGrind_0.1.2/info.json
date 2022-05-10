@@ -1,0 +1,1 @@
+{"name": "CorpseGrind", "version": "0.1.2", "title": "Corpse Grinding", "author": "Unified_Kings", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod adds the ability to grind biters into resources."}

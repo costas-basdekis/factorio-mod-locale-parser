@@ -1,0 +1,1 @@
+{"name": "NuclearPowerArmor", "version": "1.0.5", "title": "Nuclear Power Armor", "author": "Timmeri", "description": "Upgrade Power Armor MK2 using nuclear energy and space science. 14x14 grid with +40 inventory space.", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

@@ -1,0 +1,1 @@
+{"name": "BeltIndicator", "version": "0.0.4", "factorio_version": "0.15", "title": "BeltIndicator", "author": "Pikaro", "contact": "www.factorioforums.com", "homepage": "", "description": "Add a tool that places belts and indicates the orientation they will be placed in", "dependencies": ["base >= 0.15.0"], "license": "GPLv2"}

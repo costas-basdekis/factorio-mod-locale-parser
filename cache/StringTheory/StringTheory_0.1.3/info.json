@@ -1,0 +1,1 @@
+{"name": "StringTheory", "version": "0.1.3", "title": "String Theory", "author": "CaveGrinder", "description": "Do you like puzzles? Then try solving this one. Adds an alternate way to create science packs.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.79"]}

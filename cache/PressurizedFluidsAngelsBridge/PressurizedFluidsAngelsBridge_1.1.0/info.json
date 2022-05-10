@@ -1,0 +1,1 @@
+{"name": "PressurizedFluidsAngelsBridge", "version": "1.1.0", "title": "Pressurized Fluids bridge for Angels", "author": "billbo99", "contact": "", "homepage": "https://mods.factorio.com/mod/PressurizedFluidsAngelsBridge", "factorio_version": "1.1", "dependencies": ["base", "CompressedFluids", "angelssmelting"], "description": ""}

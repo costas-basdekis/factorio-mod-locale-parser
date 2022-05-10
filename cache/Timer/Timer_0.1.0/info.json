@@ -1,0 +1,1 @@
+{"name": "Timer", "version": "0.1.0", "title": "Timer", "author": "Chris Welty", "contact": "chris.welty.1@gmail.com", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Displays elapsed time on the screen"}

@@ -1,0 +1,1 @@
+{"name": "MapRevealTool", "version": "0.1.0", "title": "Map Reveal Tool", "author": "Shadoworld56", "contact": "N/A", "description": "Selection tool to reveal part of the map.", "dependencies": ["base >= 1.1.0"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "beltSorter-Krastorio2-Compat", "version": "0.1.0", "title": "Belt sorter & Krastorio 2 Compat", "author": "Razor2142", "description": "Compatibility mod for Belt Sorter and Krastorio 2", "dependencies": ["base >= 1.1", "Krastorio2 >= 1.0.23", "beltSorter >= 0.8.0"], "homepage": "", "factorio_version": "1.1"}

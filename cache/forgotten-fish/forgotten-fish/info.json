@@ -1,0 +1,1 @@
+{"name": "forgotten-fish", "version": "1.2.3", "factorio_version": "1.1", "title": "Forgotten fish", "author": "ZwerOxotnik, lukser", "source": "https://gitlab.com/ZwerOxotnik/forgotten-fish", "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=64778", "description": "Underground fish with underground surprises", "dependencies": ["event-listener >= 0.8.0"]}

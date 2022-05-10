@@ -1,0 +1,1 @@
+{"name": "Redmew_Server_link", "version": "1.0.1", "title": "Redmew Server Link", "author": "grilledham", "contact": "", "homepage": "", "description": "Communicates with Redmew server backend to send messages to/from discord.", "dependencies": ["base >= 0.17.35"], "factorio_version": "0.17"}

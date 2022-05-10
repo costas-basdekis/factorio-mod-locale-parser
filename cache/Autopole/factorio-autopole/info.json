@@ -1,0 +1,1 @@
+{"name": "Autopole", "version": "0.1.3", "title": "Auto Poles", "author": "Adam Bie\u0144kowski", "contact": "donadigos159@gmail.com", "homepage": "https://github.com/donadigo/factorio-autopole", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "stdlib >= 1.0.0"], "description": "This mod makes connecting poles easier."}

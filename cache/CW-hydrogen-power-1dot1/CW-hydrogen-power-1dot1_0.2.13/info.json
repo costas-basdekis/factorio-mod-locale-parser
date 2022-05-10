@@ -1,0 +1,1 @@
+{"name": "CW-hydrogen-power-1dot1", "version": "0.2.13", "title": "Hydrogen Power Systems v1.1", "author": "CyberWizard2261", "description": "Using the power of univese's most common element [[reupload]]", "homepage": "https://mods.factorio.com/mod/CW-hydrogen-power", "factorio_version": "1.1", "dependencies": ["base >= 0.18.0", "? CW-thermal-solar-power >= 0.2.5"]}

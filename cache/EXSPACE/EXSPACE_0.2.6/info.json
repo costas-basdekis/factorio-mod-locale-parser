@@ -1,0 +1,1 @@
+{"name": "EXSPACE", "version": "0.2.6", "title": "EXSPACE", "author": "FXM", "description": "BOBR LOX", "factorio_version": "1.0", "dependencies": ["base >= 1.0.0", "Krastorio2"]}

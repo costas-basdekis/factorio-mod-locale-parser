@@ -1,0 +1,1 @@
+{"name": "OriginalTrain", "version": "0.1.0", "title": "OriginalTrain", "author": "dereksp", "contact": "", "homepage": "", "description": "Adds an additional lcomotive with oldschool graphics", "factorio_version": "0.15", "dependencies": ["base >= 0.15"]}

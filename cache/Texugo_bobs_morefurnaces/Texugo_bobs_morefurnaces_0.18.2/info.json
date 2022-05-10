@@ -1,0 +1,1 @@
+{"name": "Texugo_bobs_morefurnaces", "version": "0.18.2", "title": "Texugo Bobs More Furnaces", "author": "TexugoMaldito", "dependencies": ["base >= 0.18", "bobplates >= 0.18.0", "bobassembly >= 0.18.0", "boblogistics >= 0.18.0", "bobpower >= 0.18.0"], "factorio_version": "0.18", "description": "More Fluid Burning Furnaces Tiers for bob mods and some original Heat Furnaces"}

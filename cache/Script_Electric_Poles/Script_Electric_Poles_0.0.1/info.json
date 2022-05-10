@@ -1,0 +1,1 @@
+{"name": "Script_Electric_Poles", "version": "0.0.1", "title": "Script Electric Poles", "author": "Script20", "contact": "Discord: Script#6602", "homepage": "discord.gg/D2YJFBm", "description": "This mod will allow you to specify in mod settings what the big pole wire disstance is.", "factorio_version": "1.0", "dependencies": ["base >= 1.0", "ScriptLib >= 0.0.2"]}

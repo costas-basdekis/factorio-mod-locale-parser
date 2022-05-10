@@ -1,0 +1,1 @@
+{"name": "dislikesmold", "version": "0.0.9", "factorio_version": "0.17.39", "title": "DisLike's Mold", "author": "DisLikeSpace", "contact": "https://twitter.com/DLSGGMaster", "homepage": "Coming Soon", "discription": "Add a new ressource.", "dependencies": ["base >= 0.17.0", "Treefarm-Lite-fix >= 17.0.8"]}

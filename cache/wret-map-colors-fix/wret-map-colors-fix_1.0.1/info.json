@@ -1,0 +1,1 @@
+{"name": "wret-map-colors-fix", "version": "1.0.1", "title": "Wret Belt Colors Fix", "author": "Wretlaw120", "description": "Fixes colors of belts in Space Exploration and Uranium Logistics", "factorio_version": "1.1", "dependencies": ["base", "? space-exploration", "? uraniumlogistics", "Enhanced_Map_Colors"]}

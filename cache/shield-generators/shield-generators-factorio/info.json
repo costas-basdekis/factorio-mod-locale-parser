@@ -1,0 +1,1 @@
+{"name": "shield-generators", "version": "0.3.2", "factorio_version": "1.1", "title": "Shield Generators", "author": "DBotThePony", "homepage": "https://gitlab.com/DBotThePony/shield-generators-factorio", "description": "Adds turret shields and shield generators for civil structures.", "dependencies": ["base >= 1.1"]}

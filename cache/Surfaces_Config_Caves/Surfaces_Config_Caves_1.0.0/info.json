@@ -1,0 +1,1 @@
+{"name": "Surfaces_Config_Caves", "version": "1.0.0", "title": "Surfaces Cave Configuration", "author": "Danacus", "description": "Configuration mod for Surfaces with Caves generation.", "factorio_version": "1.1", "dependencies": ["base >= 0.17.51", "Surfaces_API", "Surfaces_Caves", "Surfaces_Transport"]}

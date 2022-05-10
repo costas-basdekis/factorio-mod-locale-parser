@@ -1,0 +1,1 @@
+{"name": "BeaconMk2", "version": "1.0.1", "title": "Beacon Mk2", "author": "Mattia2510", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds a new beacon with a larger supply area and the ability to use productivity modules, but which consumes more than double the amount of electricity than the normal one"}

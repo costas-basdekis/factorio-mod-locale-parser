@@ -1,0 +1,1 @@
+{"name": "TrainSkipFulfilledStation", "version": "0.1.11", "title": "Train Skip Fulfilled Station", "author": "Metacreamy", "contact": "", "homepage": "https://github.com/Patapum/TrainSkipFulfilledStation", "factorio_version": "1.1", "dependencies": ["base"], "description": "Changes trains behavior so they will skip a station if the \"wait until\" condition is already met"}

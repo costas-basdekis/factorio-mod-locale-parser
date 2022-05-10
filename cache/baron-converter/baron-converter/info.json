@@ -1,0 +1,1 @@
+{"name": "baron-converter", "version": "1.0.1", "title": "Baron Converter", "author": "Cogneato Switch", "contact": "CogneatoSwitch@gmail.com", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18", "baron-library >= 0.18.0"], "description": "Replaces, swaps, and converts entites, items, and recipes. Great for replacing mods!"}

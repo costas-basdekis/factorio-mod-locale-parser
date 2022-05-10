@@ -1,0 +1,1 @@
+{"name": "FactorioExtended-Plus-Module-NoBeacons", "version": "0.1.6", "factorio_version": "0.18", "title": "FactorioExtended Plus-Module-NoBeacons", "author": "MaxelDel", "contact": "", "homepage": "", "description": "Adds a Mk4-6 Modules", "dependencies": ["base >= 0.17.00", "FactorioExtended-Plus-Core >= 0.2.0"]}

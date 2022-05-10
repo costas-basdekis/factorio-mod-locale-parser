@@ -1,0 +1,1 @@
+{"name": "AutoMine", "version": "0.1.1", "title": "Automatic Mine Layer", "author": "Blavek", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.15"], "description": "Automatically Place Miners On Ore Patches for bot mining"}

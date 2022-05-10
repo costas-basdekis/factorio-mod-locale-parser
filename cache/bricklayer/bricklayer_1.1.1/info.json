@@ -1,0 +1,1 @@
+{"name": "bricklayer", "version": "1.1.1", "title": "Bricklayer", "author": "bitsbytes", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "Places stone bricks automatically as you walk around. (this is for version 1.0)"}

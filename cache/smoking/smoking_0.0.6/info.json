@@ -1,0 +1,1 @@
+{"name": "smoking", "version": "0.0.6", "title": "Smoking", "author": "adamius", "description": "Now you can walk and pollute at the same time with a handy key toggle for extra control. Pollution amounts are individually adjustable for custom control when crafting or when using exoskeletons.", "factorio_version": "1.1", "dependencies": ["base >= 0.17.0"]}

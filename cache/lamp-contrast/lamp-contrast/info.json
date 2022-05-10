@@ -1,0 +1,1 @@
+{"name": "lamp-contrast", "version": "1.0.0", "factorio_version": "1.1", "title": "Better Lamp Contrast", "description": "This makes it easier to read things like 7-segment displays.", "author": "Purpzie", "dependencies": ["base >= 1.1.0"]}

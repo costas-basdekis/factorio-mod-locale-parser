@@ -1,0 +1,1 @@
+{"name": "no-belts", "version": "0.5.0", "title": "No Belts", "author": "oof2win2", "description": "Disables the ability to place belts. Instead, you are able to use logistic robots for all of your needs", "dependencies": ["base >= 1.0.0", "? boblogistics", "? FactorioExtended-Plus-Transport", "? FactorioExtended-Plus-Logistics"], "factorio_version": "1.1"}

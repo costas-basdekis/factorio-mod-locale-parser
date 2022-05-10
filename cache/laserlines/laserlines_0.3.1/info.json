@@ -1,0 +1,1 @@
+{"name": "laserlines", "version": "0.3.1", "factorio_version": "1.1", "title": "Laser Lines", "author": "dorfl", "contact": "Dorfl <ceramic.atheist@gmail.com>", "homepage": "https://gitlab.com/aerosuidae/laserlines", "description": "Lasers for base alignment.", "dependencies": ["base >= 1.1"]}

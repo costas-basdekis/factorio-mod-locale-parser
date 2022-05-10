@@ -1,0 +1,1 @@
+{"name": "NoBuildErrors", "version": "1.0.0", "title": "No Build Errors", "author": "Xalos", "description": "Removes construction errors.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"]}

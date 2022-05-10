@@ -1,0 +1,1 @@
+{"name": "arumbalights", "version": "0.14.4", "factorio_version": "0.15", "title": "Arumba's Viewer Lighting Boost", "author": "Arumba", "homepage": "", "dependencies": ["base"], "description": "Significantly boosts player and vehicle light radius for better viewing on YouTube and Twitch"}

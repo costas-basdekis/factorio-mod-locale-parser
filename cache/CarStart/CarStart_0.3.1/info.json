@@ -1,0 +1,1 @@
+{"name": "CarStart", "version": "0.3.1", "factorio_version": "1.1", "title": "Car Start", "author": "Brevven", "contact": "", "homepage": "", "dependencies": ["base >= 0.18"], "description": "Start with a car."}

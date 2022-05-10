@@ -1,0 +1,1 @@
+{"name": "CRSeaBlockRebalance", "version": "0.0.3", "title": "ChemicalRascal's SeaBlock Rebalance", "author": "ChemicalRascal", "contact": "nod.helm@gmail.com", "homepage": "", "factorio_version": "0.17.0", "dependencies": ["base >= 0.17", "SeaBlock >= 0.3.4", "SeaBlockMetaPack >= 0.17.0"], "description": "Slightly rebalances and tweaks the SeaBlock experience."}

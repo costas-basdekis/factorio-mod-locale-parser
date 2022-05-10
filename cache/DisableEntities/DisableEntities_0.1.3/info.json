@@ -1,0 +1,1 @@
+{"name": "DisableEntities", "description": "You can disable roboports, logistic and constuction bots.", "version": "0.1.3", "title": "Disable Entities", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.16"}

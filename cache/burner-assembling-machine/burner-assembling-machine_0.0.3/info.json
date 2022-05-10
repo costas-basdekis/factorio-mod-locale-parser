@@ -1,0 +1,1 @@
+{"name": "burner-assembling-machine", "version": "0.0.3", "title": "Burner Assembling Machine", "author": "Y.Petremann", "contributors": "boweiliu", "contact": "", "homepage": "", "description": "Adds a burner assembling machine capable of crafting single-ingredient recipes.", "factorio_version": "0.15", "dependencies": ["base >= 0.12.11"]}

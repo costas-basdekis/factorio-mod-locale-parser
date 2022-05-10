@@ -1,0 +1,1 @@
+{"name": "248kTbaAB", "version": "0.0.2", "factorio_version": "1.1", "title": "248k Touched by an AngelBob", "author": "SuperSandro2000", "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=64247", "dependencies": ["angelsindustries >= 0.4.10", "248k >= 0.3.11"], "description": "[WIP] This mod adds some compatibility between 248k and AngelBobs."}

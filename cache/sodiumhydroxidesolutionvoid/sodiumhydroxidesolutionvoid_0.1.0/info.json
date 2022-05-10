@@ -1,0 +1,1 @@
+{"name": "sodiumhydroxidesolutionvoid", "version": "0.1.0", "title": "Sodium Hydroxide Solution Void", "author": "narayanjr", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "angelspetrochem >= 0.8.6"], "description": "Adds a void recipe for angel's clarifier to void Sodium Hydroxide Solution."}

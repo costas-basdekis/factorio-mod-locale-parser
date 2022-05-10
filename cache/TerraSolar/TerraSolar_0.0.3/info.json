@@ -1,0 +1,1 @@
+{"name": "TerraSolar", "version": "0.0.3", "title": "Terra Solar", "author": "FinalBossRaven", "description": "Extends Solar Panels and Accumulators with configurable multipliers.", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"]}

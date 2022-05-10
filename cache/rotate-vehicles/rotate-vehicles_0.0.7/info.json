@@ -1,0 +1,1 @@
+{"name": "rotate-vehicles", "version": "0.0.7", "title": "Rotate vehicles", "author": "Roy Scheerens", "homepage": "", "description": "Allows you to rotate vehicles to the next 90\u00b0 (or 45\u00b0) interval.", "factorio_version": "1.1", "dependencies": ["base"]}

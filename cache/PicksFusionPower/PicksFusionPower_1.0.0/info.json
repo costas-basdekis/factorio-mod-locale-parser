@@ -1,0 +1,1 @@
+{"name": "PicksFusionPower", "version": "1.0.0", "title": "Picklock's Fusion Power", "author": "Picklock", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "PicksBaseMod >= 1.1.1"], "description": "This mod adds fusion power."}

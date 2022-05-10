@@ -1,0 +1,1 @@
+{"name": "portable_chests", "version": "0.1.0", "factorio_version": "1.1", "title": "Goldsword44's Portable Chests", "author": "Goldsword44", "contact": "a.morrow44@gmail.com, zweroxotnik@gmail.com, Discord:ZwerOxotnik#7117", "homepage": "", "description": "Adds chests and logistic chest buffers which can be placed on conveyor belts!", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "ListingQueue", "version": "2.0.0", "title": "Listing Queue", "author": "Slasherbane", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.16", "stdlib >= 1.2.2"], "description": "A mod that add an auto custom filling queue for any craftable items you want :)"}

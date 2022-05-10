@@ -1,0 +1,1 @@
+{"name": "PicksRocketStats", "version": "1.0.0", "title": "Picklock's rocket silo stats", "author": "Picklock", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod shows a gui with statistics on rocket launches and as in the vanilla Factorio up to version 1.0 statistics about the payload and more."}

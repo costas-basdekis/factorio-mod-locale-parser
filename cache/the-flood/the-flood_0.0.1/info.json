@@ -1,0 +1,1 @@
+{"name": "the-flood", "version": "0.0.1", "factorio_version": "0.16", "title": "The Flood", "author": "Cogito", "contact": "", "homepage": "https://github.com/Cogito/the-flood", "description": "Try to escape the world eating flood! Custom game mode where water slowly fills the map", "dependencies": ["base >= 0.16"], "license": "MIT"}

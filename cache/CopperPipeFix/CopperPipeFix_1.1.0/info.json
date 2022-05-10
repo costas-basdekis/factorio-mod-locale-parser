@@ -1,0 +1,1 @@
+{"name": "CopperPipeFix", "version": "1.1.0", "title": "CopperPipeFix", "description": "This mod adds copper pipes to be used in Bob's pumps that are hidden by other mod interactions.", "author": "HanBai", "contact": "none", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "boblogistics >= 1.1.2", "space-exploration >= 0.5.34", "Krastorio2 >= 1.0.23"]}

@@ -1,0 +1,1 @@
+{"name": "NTUz", "version": "0.0.6", "title": "Next Tier Units", "author": "Zavindur", "contact": "", "homepage": "", "description": "Adds Tier 2 Radar, Roboport, and Power Distribution.", "dependencies": ["base >= 0.18"], "factorio_version": "0.18"}

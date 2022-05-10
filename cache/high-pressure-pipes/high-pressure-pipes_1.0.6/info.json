@@ -1,0 +1,1 @@
+{"name": "high-pressure-pipes", "version": "1.0.6", "factorio_version": "1.1", "title": "High-Pressure Pipes", "author": "kendfrey", "homepage": "https://github.com/kendfrey/high-pressure-pipes", "dependencies": ["base >= 0.18", "? boblogistics >= 0.18.0", "? bobplates >= 0.18.0", "? bobtech >= 0.18.0"], "description": "High-pressure pipes for faster throughput."}

@@ -1,0 +1,1 @@
+{"name": "Mower", "version": "0.0.4", "title": "Mower", "author": "mukkie", "contact": "", "homepage": "https://mods.factorio.com/mod/Mower", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "license": "GNU GPLv3"}

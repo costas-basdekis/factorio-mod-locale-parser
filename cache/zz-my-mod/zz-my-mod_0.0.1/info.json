@@ -1,0 +1,1 @@
+{"name": "zz-my-mod", "version": "0.0.1", "factorio_version": "0.16", "title": "ZZ My Mod", "author": "0kev", "Dependencies": ["base >= 0.16"], "description": "Increased power pole wire length and supply distance, increased armor equipment grid sizes."}

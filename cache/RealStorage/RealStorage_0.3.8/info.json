@@ -1,0 +1,1 @@
+{"name": "RealStorage", "version": "0.3.8", "title": "Reduced Storage", "author": "Kynaro", "contact": "", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=48946", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "This mod reduces storage inventory sizes drastically, and adds pallets for early wooden storage."}

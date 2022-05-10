@@ -1,0 +1,1 @@
+{"name": "RandomSiloSpawn", "version": "0.0.2", "date": "2017-04-03", "title": "Random Silo Spawn", "author": "Konstantin Petrukhnov", "dependencies": ["base >= 0.14.0"], "factorio_version": "0.14", "description": "Silo spawned randomly 500 chunks from starting area. Players can't build silo. For coop play."}

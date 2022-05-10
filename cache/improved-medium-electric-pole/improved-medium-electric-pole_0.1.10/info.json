@@ -1,0 +1,1 @@
+{"name": "improved-medium-electric-pole", "version": "0.1.10", "title": "Improved Medium Electric Pole", "author": "splatt", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18.2"], "description": "Makes the medium electric pole upgradable to 9x9."}

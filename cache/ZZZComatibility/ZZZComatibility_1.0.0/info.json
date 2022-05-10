@@ -1,0 +1,1 @@
+{"name": "ZZZComatibility", "version": "1.0.0", "factorio_version": "1.0", "title": "ZZZ-Comatibility Engine", "author": "WipMod", "contact": "https://t.me/wipmod", "homepage": "", "description": "Few compatibility tweaks", "dependencies": ["? apm_power", "? BigLab"]}

@@ -1,0 +1,1 @@
+{"name": "exterminatus_capsule", "version": "0.0.2", "title": "Exterminatus Capsule", "author": "yobudal", "description": "Launch chemical weapons into orbit and claim the planet to yourself", "factorio_version": "0.14", "dependencies": ["base >= 0.14"]}

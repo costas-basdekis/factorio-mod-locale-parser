@@ -1,0 +1,1 @@
+{"name": "BukketMod", "version": "0.2.7", "factorio_version": "0.15", "title": "BukketMod", "author": "Duane", "contact": "", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=29531", "description": "BukketMod - Ores, Enemies, Weapons, Loot. Craft in bulk, craft in variety. This mod adds a little bit of everything.", "dependencies": ["base >= 0.15.0"]}

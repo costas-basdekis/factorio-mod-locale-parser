@@ -1,0 +1,1 @@
+{"name": "RTG", "version": "1.0.1", "title": "RTG", "author": "Optera", "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=21729", "homepage": "", "description": "Replaces the Fusion Reactor with an equally powerful radioisotope thermoelectric generator.", "factorio_version": "1.1", "dependencies": ["base"]}

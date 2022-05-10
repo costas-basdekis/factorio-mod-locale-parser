@@ -1,0 +1,1 @@
+{"name": "Deadlock5Dims", "version": "1.1.6", "title": "Deadlock 5Dims Integrations", "author": "billbo99", "homepage": "", "dependencies": ["base", "deadlock-beltboxes-loaders", "5dim_transport"], "description": "Adds support in Deadlock's Stacking Beltboxes & Compact Loaders for 5Dims.", "factorio_version": "1.1"}

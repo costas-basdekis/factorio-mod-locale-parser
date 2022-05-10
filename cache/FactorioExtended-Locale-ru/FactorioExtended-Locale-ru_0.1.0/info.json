@@ -1,0 +1,1 @@
+{"name": "FactorioExtended-Locale-ru", "version": "0.1.0", "title": "FactorioExtended-Locale-ru", "author": "Linker", "factorio_version": "0.15", "date": "2017-05-20", "description": "Russian locale for FactorioExtended.", "dependencies": ["base", "FactorioExtended-Core >= 0.2.8"]}

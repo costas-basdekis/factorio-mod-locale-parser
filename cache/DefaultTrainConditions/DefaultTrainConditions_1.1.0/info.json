@@ -1,0 +1,1 @@
+{"name": "DefaultTrainConditions", "version": "1.1.0", "factorio_version": "1.1", "title": "Default Train Conditions", "author": "Choumiko", "description": "Change the default conditions a station has when it gets added to the schedule", "dependencies": ["flib >= 0.6.0"], "package": {"scripts": {"prepackage": "luacheck . --config '../.luacheckrc'"}, "ignore": ["*.zip", "*.xcf"]}}

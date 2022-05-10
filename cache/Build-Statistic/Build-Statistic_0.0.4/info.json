@@ -1,0 +1,1 @@
+{"name": "Build-Statistic", "description": "Description: Build-Statistic", "version": "0.0.4", "title": "Build Statistic for your Factory", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.14"}

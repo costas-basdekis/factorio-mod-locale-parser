@@ -1,0 +1,1 @@
+{"name": "things_fall_apart", "version": "0.0.3", "title": "Things fall apart", "description": "Your machines fail for many reasons.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.21"], "author": "adamwong246", "contact": "adamwong246@gmail.com", "homepage": "https://github.com/adamwong246"}

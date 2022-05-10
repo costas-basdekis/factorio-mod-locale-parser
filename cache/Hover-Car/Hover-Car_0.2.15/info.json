@@ -1,0 +1,1 @@
+{"name": "Hover-Car", "version": "0.2.15", "title": "Hover Car", "author": "Endus322", "contact": "Discord: Endus322#8144", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "A hovering car to quickly traverse rough terrain."}

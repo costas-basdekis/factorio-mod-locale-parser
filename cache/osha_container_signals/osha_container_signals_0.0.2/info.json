@@ -1,0 +1,1 @@
+{"name": "osha_container_signals", "version": "0.0.2", "title": "OSHA Container Signals", "author": "OSHA-Jackson", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds combinators that can provide useful signals"}

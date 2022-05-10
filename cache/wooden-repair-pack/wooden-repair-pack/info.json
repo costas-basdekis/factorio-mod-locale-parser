@@ -1,0 +1,1 @@
+{"name": "wooden-repair-pack", "version": "0.1.0", "title": "Wooden Repair Packs", "author": "RedRafe", "homepage": "https://mods.factorio.com/mod/wooden-repair-pack", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Finally give meaning to wood, craft some repair packs!"}

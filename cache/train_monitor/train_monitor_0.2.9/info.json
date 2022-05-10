@@ -1,0 +1,1 @@
+{"name": "train_monitor", "version": "0.2.9", "title": "TVC Train Monitor", "author": "Tim Vroom @TheVirtualCrew", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Show notifications for when trains leave stations, auto names the trains for your sponsors"}

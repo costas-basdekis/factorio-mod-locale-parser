@@ -1,0 +1,1 @@
+{"name": "BiterPets-0-17", "version": "0.1.2", "title": "Biter Pets", "author": "durodur", "contact": "https://steamcommunity.com/id/durodur/", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod allows you to tame small biters using food made from cooked fish"}

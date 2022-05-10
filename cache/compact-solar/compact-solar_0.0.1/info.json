@@ -1,0 +1,1 @@
+{"name": "compact-solar", "version": "0.0.2", "title": "Compact Solar", "author": "_CodeGreen", "description": "Adds compact solar panels and accumulators to save space", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

@@ -1,0 +1,1 @@
+{"name": "better-landfill", "version": "0.1.2", "title": "Better Landfill", "author": "Tryon_HD", "contact": "Discrod: Tryon_HD#2110", "homepage": "https://mods.factorio.com/user/Tryon_HD", "description": "Adds a new technology for a cheaper landfill.", "factorio_version": "0.18", "dependencies": ["base >= 0.4.1"]}

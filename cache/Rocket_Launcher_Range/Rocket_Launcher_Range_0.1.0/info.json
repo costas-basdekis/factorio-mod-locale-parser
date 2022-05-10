@@ -1,0 +1,1 @@
+{"name": "Rocket_Launcher_Range", "version": "0.1.0", "title": "Rocket Launcher Range", "author": "thereaverofdarkness", "dependencies": ["base >= 0.16.0"], "description": "Increases the range of the rocket launcher far enough to use it for ambush.", "factorio_version": "0.16"}

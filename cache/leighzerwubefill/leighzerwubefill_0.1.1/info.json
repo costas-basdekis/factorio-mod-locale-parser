@@ -1,0 +1,1 @@
+{"name": "leighzerwubefill", "version": "0.1.1", "title": "Wubefill", "author": "Leighzer", "contact": "Please message me on the factorio forums my username is leighzer.", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Adds a way to place wube water on the map."}

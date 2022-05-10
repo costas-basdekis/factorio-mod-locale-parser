@@ -1,0 +1,1 @@
+{"name": "FurnanceUpgrade", "version": "0.1.1", "factorio_version": "0.14", "title": "Serith's Simple Furnance Upgrade", "author": "SerithWing", "contact": "PM serithinflight on steam", "description": "Mod that Makes Stone Furnaces upgrade to Steel and Steel to Electric.", "dependencies": ["base >= 0.13.0"]}

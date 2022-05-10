@@ -1,0 +1,1 @@
+{"name": "A_Total_Automization_Illy_Varient", "version": "0.2.7", "title": "Total Automization - RTS Rebalance", "author": "Illiander, based on code by Klonan", "contact": "", "homepage": "", "description": "Add RTS units and deployment mechanics.", "factorio_version": "1.1", "dependencies": ["base >= 0.18.31", "Unit_Control >= 0.1.0", "? SchallTankPlatoon", "? AircraftDrones"]}

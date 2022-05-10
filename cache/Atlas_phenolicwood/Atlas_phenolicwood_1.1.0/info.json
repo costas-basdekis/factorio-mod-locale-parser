@@ -1,0 +1,1 @@
+{"name": "Atlas_phenolicwood", "version": "1.1.0", "factorio_version": "1.1", "title": "Phenolic to Wooden Board", "author": "Atlas1205", "contact": "", "homepage": "", "description": "Convert phenolic boards into wooden boards equal to the material cost.", "dependencies": ["bobelectronics"]}

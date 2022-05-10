@@ -1,0 +1,1 @@
+{"name": "Zr_simpleoil", "version": "0.1.0", "title": "Simplified Oil", "author": "Zr4g0n", "contact": "fMMO discord", "homepage": "discord.me/factorioMMO", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Adds crude -> heavy oil cracking and makes cracking the first oil technology"}

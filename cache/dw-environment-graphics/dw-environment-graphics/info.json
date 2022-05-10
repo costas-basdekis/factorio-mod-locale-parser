@@ -1,0 +1,1 @@
+{"name": "dw-environment-graphics", "version": "0.0.7", "factorio_version": "0.18", "title": "Deathworld Environment Graphics", "author": "StormyStrife", "contact": "https://twitter.com/StrifeStormy", "description": "An attempt to draw Factorio's environment graphics in my own hand-drawn style.", "dependencies": ["base >= 0.18.29"]}

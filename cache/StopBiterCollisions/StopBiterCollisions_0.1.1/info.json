@@ -1,0 +1,1 @@
+{"name": "StopBiterCollisions", "version": "0.1.1", "title": "Stop Biter Collisions", "author": "Flouid", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod stops biters from colliding with one another."}

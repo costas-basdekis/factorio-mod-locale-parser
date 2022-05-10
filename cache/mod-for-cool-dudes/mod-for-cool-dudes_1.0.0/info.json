@@ -1,0 +1,1 @@
+{"name": "mod-for-cool-dudes", "version": "1.0.0", "title": "Cool mod for cool dudes with cool cars and cool pipes", "author": "Me", "contact": "No", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod adds in fire resistant pipes which are cool."}

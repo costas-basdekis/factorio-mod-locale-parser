@@ -1,0 +1,1 @@
+{"name": "EveryUpgrade", "version": "1.1.0", "factorio_version": "0.14", "title": "Serith's Simple Upgrade Mod", "author": "SerithWing", "contact": "PM serithinflight on steam", "description": "Mod that base items upgrade to the next level", "dependencies": ["base >= 0.13.0"]}

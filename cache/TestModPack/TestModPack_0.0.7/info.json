@@ -1,0 +1,1 @@
+{"name": "TestModPack", "version": "0.0.7", "title": "Test Modpack", "author": "_-_-_", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.17", "LightedPolesPlus >= 1.5.5"], "description": "Locale fix for LightedPolesPlus"}

@@ -1,0 +1,1 @@
+{"name": "LongerRangeLaserTurret", "version": "0.0.2", "factorio_version": "1.1", "title": "Longer Range Laser Turret", "author": "POLOLY", "license": "https://unlicense.org/", "description": "Laser Turret has double range, and double fire rate.", "dependencies": ["base >= 1.1"]}

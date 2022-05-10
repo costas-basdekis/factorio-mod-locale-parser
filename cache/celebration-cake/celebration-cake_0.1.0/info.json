@@ -1,0 +1,1 @@
+{"name": "celebration-cake", "version": "0.1.0", "title": "Celebration Cake", "author": "RuneBlaze", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.15"], "description": "This mod is for those celebrating birthday: it simply adds a unassuming cake item to the player's inventory on start."}

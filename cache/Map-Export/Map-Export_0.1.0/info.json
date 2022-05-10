@@ -1,0 +1,1 @@
+{"name": "Map-Export", "version": "0.1.0", "factorio_version": "0.18", "date": "2020-03-20", "title": "Map Export", "author": "Quasar_0", "homepage": "", "description": "This mod let you export a surface to a file in the folder script-output.", "dependencies": ["base >= 0.18.12"]}

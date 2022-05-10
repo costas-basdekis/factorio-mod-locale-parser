@@ -1,0 +1,1 @@
+{"name": "StoneRefining", "version": "0.0.1", "title": "Stone Refining", "author": "freebit75", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod adds a new recipe that consumes stone and will somtimes produce an iron and/or copper ore."}

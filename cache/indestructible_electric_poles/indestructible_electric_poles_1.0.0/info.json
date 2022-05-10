@@ -1,0 +1,1 @@
+{"name": "indestructible_electric_poles", "version": "1.0.0", "title": "Indestructible electric poles", "author": "Dukrah", "description": "Adds indestructible electric poles. NOTICE: Poles will still be indestructible after the mod has been removed.", "homepage": "https://github.com/Dukrah/Indestructible-Energy-Poles", "factorio_version": "0.15", "dependencies": ["base"]}

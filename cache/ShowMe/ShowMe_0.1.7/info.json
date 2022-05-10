@@ -1,0 +1,1 @@
+{"name": "ShowMe", "version": "0.1.7", "title": "Show Me", "author": "Micah Switzer", "contact": "micah.switzer.dev@outlook.com", "homepage": "https://github.com/micahswitzer/ShowMe", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "This mod allows you to digitaly point to things without having to describe where they are!"}

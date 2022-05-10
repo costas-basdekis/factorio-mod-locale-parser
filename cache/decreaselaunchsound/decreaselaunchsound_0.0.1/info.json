@@ -1,0 +1,1 @@
+{"name": "decreaselaunchsound", "author": "Faltease", "version": "0.0.1", "title": "Decrease Rocket Launch Sound", "homepage": "", "description": "Have you ever been deafended standing next to a rocket silo when it launches? This mod decreases the sound of a rocket launching to save your ear drums.", "factorio_version": "0.15", "dependencies": ["base"]}

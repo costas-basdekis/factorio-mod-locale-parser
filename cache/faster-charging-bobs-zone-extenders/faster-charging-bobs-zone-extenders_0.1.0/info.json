@@ -1,0 +1,1 @@
+{"name": "faster-charging-bobs-zone-extenders", "version": "0.1.0", "factorio_version": "0.16", "title": "Faster Charging Bob's Logistics Zone Extenders", "author": "animamachinae", "contact": "", "homepage": "", "description": "Makes the internal buffer fill much faster.", "dependencies": ["base >= 0.16.0", "boblogistics >= 0.16.0"]}

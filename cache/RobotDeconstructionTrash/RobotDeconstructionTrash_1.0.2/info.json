@@ -1,0 +1,1 @@
+{"name": "RobotDeconstructionTrash", "version": "1.0.2", "factorio_version": "0.17", "title": "Robot Deconstruction Trash", "author": "Ahsous", "contact": "", "homepage": "", "description": "Deletes wood and stone when deconstructed by robots.", "dependencies": ["base >= 0.15.0"], "license": "MIT"}

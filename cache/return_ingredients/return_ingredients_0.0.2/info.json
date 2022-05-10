@@ -1,0 +1,1 @@
+{"name": "return_ingredients", "version": "0.0.2", "factorio_version": "1.1", "title": "Return Ingredients", "author": "Szentigrade", "contact": "https://discord.gg/kShyuZc", "homepage": "https://discord.gg/kShyuZc", "description": "When a building is mined you get back the ingredients instead of the building", "dependencies": ["base >= 1.1.0"]}

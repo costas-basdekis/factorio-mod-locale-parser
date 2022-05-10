@@ -1,0 +1,1 @@
+{"name": "FurnaceMiningDrillUpdated", "version": "0.0.3", "title": "Furnace Mining Drill (V1 patch)", "author": "DellAquila, Mat1k", "description": "An Electric Mining Drill that has a Electric Furnace, or an Eletric Furnace that has a Electric Mining Drill.", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

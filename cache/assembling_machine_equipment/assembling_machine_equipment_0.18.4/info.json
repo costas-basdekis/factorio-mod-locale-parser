@@ -1,0 +1,1 @@
+{"name": "assembling_machine_equipment", "author": "OwnlyMe & Arcani_Victus", "version": "0.18.4", "title": "Assembling Machine Equipment", "description": "Adds hand crafting penalties unless an assembling machine equipment is fitted into your modular armor.", "factorio_version": "0.18", "dependencies": ["base >= 0.18", "?RPGsystem"]}

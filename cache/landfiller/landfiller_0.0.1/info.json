@@ -1,0 +1,1 @@
+{"name": "landfiller", "version": "0.0.1", "title": "Landfiller", "author": "Goswin von Brederlow", "contact": "goswin-v-b@web.de", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "This mod adds a building (blue radar, gfx welcome) that will fill in surrounding water using landfill from an adjacent chest."}

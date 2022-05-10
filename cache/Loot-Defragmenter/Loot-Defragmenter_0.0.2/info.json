@@ -1,0 +1,1 @@
+{"name": "Loot-Defragmenter", "version": "0.0.2", "title": "Loot Defragmenter", "author": "sore68", "description": "Collection items on the ground in Roboport Construction Radius.", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"]}

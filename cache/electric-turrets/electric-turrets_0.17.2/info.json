@@ -1,0 +1,1 @@
+{"name": "electric-turrets", "version": "0.17.2", "factorio_version": "0.17", "title": "Electric Turrets", "author": "warped_jack", "dependencies": ["base >= 0.17"], "description": "Adds a small upgrade to gun turrets, electrified gun turrets. They require ammunition and power to work, for a slightly boosted fire rate."}

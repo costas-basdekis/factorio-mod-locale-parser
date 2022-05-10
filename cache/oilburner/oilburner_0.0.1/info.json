@@ -1,0 +1,1 @@
+{"name": "oilburner", "version": "0.0.1", "title": "Oilburner", "author": "saibotk", "contact": "info@saibotk.de", "homepage": "http://github.com/saibotk", "description": "You can place the burner at the end of a pipe to burn left over oil.", "factorio_version": "0.14", "dependencies": ["base >= 0.13.0"]}

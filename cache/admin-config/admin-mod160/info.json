@@ -1,0 +1,1 @@
+{"name": "admin-config", "version": "1.7.0", "title": "config", "author": "", "homepage": "", "description": "admin controls for personal server.", "factorio_version": "1.0", "dependencies": ["base >= 0.18.36"]}

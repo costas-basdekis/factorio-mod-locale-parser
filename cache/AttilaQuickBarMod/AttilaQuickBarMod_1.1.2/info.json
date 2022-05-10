@@ -1,0 +1,1 @@
+{"name": "AttilaQuickBarMod", "version": "1.1.2", "factorio_version": "1.1", "title": "Attila's QuickBar Mod", "author": "_Attila_", "contact": "Private", "homepage": "", "description": "Auto-links hand crafted item to first free quickbar slot if not already linked.", "dependencies": ["base >= 1.1.0"]}

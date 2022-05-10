@@ -1,0 +1,1 @@
+{"name": "fire-place", "version": "2.1.0", "title": "Fire Place", "author": "Champ Fire", "factorio_version": "1.1", "description": "Have a nice evening at a warm campfire.", "dependencies": ["base >= 1.1.0"]}

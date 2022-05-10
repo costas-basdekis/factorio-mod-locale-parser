@@ -1,0 +1,1 @@
+{"name": "HydrogenFuel", "title": "Hydrogen Fuel", "version": "1.0.0", "author": "Duffka", "factorio_version": "1.1", "contact": "N/A rn", "description": "Adds Hydrogen as a fuel sources", "dependencies": ["base >= 1.1.0"]}

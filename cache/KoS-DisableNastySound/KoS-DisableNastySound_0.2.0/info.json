@@ -1,0 +1,1 @@
+{"name": "KoS-DisableNastySound", "version": "0.2.0", "title": "KoS-DisableNastySound", "author": "Waster", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "This mod disables the nasty sound KoS keeps complaining about in her \"Entry Level to Megabase 3\" Series."}

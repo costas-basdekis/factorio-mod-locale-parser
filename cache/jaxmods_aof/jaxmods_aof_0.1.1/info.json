@@ -1,0 +1,1 @@
+{"name": "jaxmods_aof", "version": "0.1.1", "factorio_version": "0.14", "title": "Age of Factorio", "author": "Jaxterity", "contact": "", "homepage": "https://forums.factorio.com/viewtopic.php?f=notyet", "description": "Adds progression through ages of technology. (Not complete) Will feature new items and weapons, technologies and recipes.", "dependencies": ["base >= 0.14.0"]}

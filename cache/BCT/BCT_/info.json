@@ -1,0 +1,1 @@
+{"name": "BCT", "version": "0.1.23", "title": "Croi Tine", "author": "mcgohenn", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base", "?krastorio2", "?space-exploration-postprocess"], "description": "Private mod for personal server."}

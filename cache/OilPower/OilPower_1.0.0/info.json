@@ -1,0 +1,1 @@
+{"name": "OilPower", "version": "1.0.0", "title": "Oil Power", "author": "VanillaRainbow92", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.16", "? angelspetrochem >= 0.7.4"], "description": "This mod allows user to produce power using oil resources."}

@@ -1,0 +1,1 @@
+{"name": "MakeTheShotgunGreatAgain", "version": "1.0.0", "factorio_version": "0.17", "title": "Make The Shotgun Great Again", "author": "BlakeMW", "description": "Improves the Shotgun weapons and Shell projectiles to better compete with alternative weapons.", "dependencies": ["base >= 0.17.0"]}

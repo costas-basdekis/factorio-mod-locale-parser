@@ -1,0 +1,1 @@
+{"name": "DontLeft", "version": "0.0.1", "title": "Dont Left", "author": "darkfrei", "description": "Now you can't place belts to the west. Optional can't place north or south directions too. All right!", "dependencies": ["base"], "factorio_version": "0.16"}

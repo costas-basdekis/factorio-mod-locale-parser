@@ -1,0 +1,1 @@
+{"name": "DelayedRegen", "version": "1.0.1", "title": "Delayed Regeneration", "description": "Biters don't heal every tick, instead only healing when 'out of combat'. Configurable.", "factorio_version": "1.1", "dependencies": ["base"], "author": "Honktown", "contact": ""}

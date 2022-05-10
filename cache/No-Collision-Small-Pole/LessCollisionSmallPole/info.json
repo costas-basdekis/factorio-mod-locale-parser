@@ -1,0 +1,1 @@
+{"name": "No-Collision-Small-Pole", "version": "1.0.3", "title": "Less Collision Small Pole", "author": "DwarfTech", "contact": "", "homepage": "", "description": "Changes the small electric pole to have minimal collision with other objects, allowing its placement almost anywhere.", "dependencies": ["base"], "factorio_version": "1.1"}

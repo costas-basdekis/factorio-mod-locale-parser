@@ -1,0 +1,1 @@
+{"name": "SkipFirstHour", "version": "1.0.0", "title": "Skip First Hour", "author": "Aidan647", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.13"], "description": "More starting items to remove hand mining stage of the game and jump straight into trains. Does not affect research."}

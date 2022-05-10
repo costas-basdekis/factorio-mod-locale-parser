@@ -1,0 +1,1 @@
+{"name": "BigBehemoths", "version": "0.0.1", "title": "Big Behemoths", "description": "Changing the endgame combat: the mod adds big behemoths between 90% and 100% evolution", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "0.17"}

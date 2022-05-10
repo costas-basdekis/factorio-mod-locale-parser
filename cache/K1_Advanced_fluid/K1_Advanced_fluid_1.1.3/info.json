@@ -1,0 +1,1 @@
+{"name": "K1_Advanced_fluid", "version": "1.1.3", "title": "K1 Advanced fluid", "description": "Fluid storage Krastorio Legacy. Liquid storage like FS-50 and FS-200 whitch have 50k and 200k capacity.", "author": "Krastor, SuzukinCblH", "homepage": "https://mods.factorio.com/mod/K1_Advanced_fluid", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

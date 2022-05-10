@@ -1,0 +1,1 @@
+{"name": "GroverStart", "version": "1.1.0", "title": "GroverStart", "author": "Grover", "description": "Adds starting armour and robots. Armour is limited and solar powered to avoid being overpowered", "factorio_version": "1.1", "dependencies": ["base"]}

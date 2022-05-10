@@ -1,0 +1,1 @@
+{"name": "Longer-Wire-Reach", "version": "0.0.1", "factorio_version": "0.18", "title": "Longer Wire Reach", "author": "NexusNull", "contact": "", "homepage": "", "description": "adds 2 to the length of big electric power poles", "dependencies": ["base >= 0.18"]}

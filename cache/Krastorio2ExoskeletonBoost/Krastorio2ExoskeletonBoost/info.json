@@ -1,0 +1,1 @@
+{"name": "Krastorio2ExoskeletonBoost", "version": "0.1.0", "title": "Krastorio2 Exoskeleton Boost", "author": "shadox", "contact": "", "homepage": "", "description": "Boosts the Krastorio2 Exoskeletons speed bonus (60%, 120% and 200%)", "dependencies": ["base >= 1.1.0", "Krastorio2"], "factorio_version": "1.1"}

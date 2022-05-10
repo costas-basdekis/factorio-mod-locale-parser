@@ -1,0 +1,1 @@
+{"name": "Biter_Hates_Brick", "version": "1.0.0", "title": "Biter Hates Brick", "description": "Biters and spitters cannot going to the brick floor. Idea by gouki2", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "1.0"}

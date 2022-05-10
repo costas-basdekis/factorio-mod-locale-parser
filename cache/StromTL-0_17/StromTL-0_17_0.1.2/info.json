@@ -1,0 +1,1 @@
+{"version": "0.1.2", "homepage": "https://mods.factorio.com/mod/StromTL", "factorio_version": "0.17", "description": "This mod automatically takes time lapse screenshots of any placed entity.", "contact": "stromhurst@gmail.com", "name": "StromTL-0_17", "dependencies": ["base >= 0.17.0"], "author": "stromhurst", "title": "StromTimeLapse by stromhurst updated for 0.17"}

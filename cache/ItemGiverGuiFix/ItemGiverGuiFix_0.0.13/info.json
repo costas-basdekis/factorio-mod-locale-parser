@@ -1,0 +1,1 @@
+{"name": "ItemGiverGuiFix", "version": "0.0.13", "title": "Item Giver Gui (Fix)", "author": "coltonj96, krangpow", "contact": "", "homepage": "", "description": "A mod that adds a Gui that allows input of item names and amount to give/remove with auto complete when clicking on a suggested item", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0"]}

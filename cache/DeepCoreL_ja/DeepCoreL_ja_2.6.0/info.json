@@ -1,0 +1,1 @@
+{"name": "DeepCoreL_ja", "version": "2.6.0", "factorio_version": "1.1", "title": "DeepCoreL_ja", "author": "bird", "contact": "", "homepage": "https://mods.factorio.com/mod/DeepCoreL_ja", "dependencies": ["base >= 1.1", "vtk-deep-core-mining >= 2.7"], "description": "Deep core mining Locale Translations for Japan.\nDeep core mining\u306e\u65e5\u672c\u8a9e\u79c1\u8a33\u3002"}

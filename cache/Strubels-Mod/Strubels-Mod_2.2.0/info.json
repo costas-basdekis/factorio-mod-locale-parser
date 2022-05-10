@@ -1,0 +1,1 @@
+{"name": "Strubels-Mod", "version": "2.2.0", "factorio_version": "0.16", "title": "Strubels-Mod", "author": "Programming: 5trubel Grafik/Sound: Soup_cant_play", "contact": "admin@5trubel.de", "homepage": "https://5trubel.de", "description": "This Mods adds a Hydrogen-Bomb and some Walls", "license": "MIT", "dependencies": ["base >= 0.16"]}

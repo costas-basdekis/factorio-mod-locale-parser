@@ -1,0 +1,1 @@
+{"name": "RitnMiner", "version": "0.7.5", "title": "RitnMiner", "author": "Ritn", "description": "Add technologies Miner and others...", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "RitnLib >= 0.6", "? RitnLumberjack >= 0.7", "? RitnGlass >= 0.7", "? commuLogo >= 0.2", "? DiscoScience >= 1.0.0", "! MorePlaceableTiles >= 0.0.1"]}

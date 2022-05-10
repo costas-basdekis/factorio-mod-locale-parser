@@ -1,0 +1,1 @@
+{"name": "team-battles-pvp", "version": "0.0.7", "title": "Team Battles PVP", "author": "gabrielchl", "desscription": "The mod that tweaks the game to allow for better experience on the Team Battles PVP server.", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0", "lightArtillery >= 0.5", "aai-vehicles-chaingunner >= 0.6", "Artillery_Manual_Only >= 3.0.0"]}

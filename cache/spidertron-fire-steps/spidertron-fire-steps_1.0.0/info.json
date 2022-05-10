@@ -1,0 +1,1 @@
+{"name": "spidertron-fire-steps", "version": "1.0.1", "title": "Spidertron Fire Steps", "author": "TreeBearButt", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Spidertron leaves fire wherever it steps"}

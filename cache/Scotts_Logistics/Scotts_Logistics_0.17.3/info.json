@@ -1,0 +1,1 @@
+{"name": "Scotts_Logistics", "version": "0.17.3", "title": "Scotts Logistics", "author": "Red_dog95", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"], "description": "Early and midgame balancing of logistics. Help get your factory started with some drones! An early (but awful) alternative to robots."}

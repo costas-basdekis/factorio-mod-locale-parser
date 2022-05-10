@@ -1,0 +1,1 @@
+{"name": "AdvancedBurningMiningDrill", "version": "0.2.1", "title": "Advanced Burning Mining Drill", "description": "Adding 3x3 burning mining drill with high productivity and 5x5 drilling area", "author": "darkfrei", "license": "MIT", "dependencies": ["base >= 0.17"], "factorio_version": "0.17"}

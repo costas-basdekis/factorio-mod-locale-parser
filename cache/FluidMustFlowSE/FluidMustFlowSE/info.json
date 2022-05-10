@@ -1,0 +1,1 @@
+{"name": "FluidMustFlowSE", "version": "0.0.1", "title": "Fluid Must Flow for Space Exploration", "author": "Wild Braas", "homepage": "", "description": "Allow ducts from FluidMustFlow mod applicable in space", "dependencies": ["base >= 1.1", "FluidMustFlow >= 1.2.16", "space-exploration >= 0.5.40"], "factorio_version": "1.1"}

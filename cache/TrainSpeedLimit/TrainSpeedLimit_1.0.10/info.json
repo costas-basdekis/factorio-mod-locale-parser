@@ -1,0 +1,1 @@
+{"name": "TrainSpeedLimit", "version": "1.0.10", "factorio_version": "0.15", "title": "Train Speed Limit", "author": "IceDev", "description": "Introduces configurable speed limit signs for trains.", "dependencies": ["base >= 0.13.0"]}

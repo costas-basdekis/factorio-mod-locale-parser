@@ -1,0 +1,1 @@
+{"name": "Cannon_Spidertron", "version": "0.1.1", "title": "Cannon Spidertron", "author": "LuziferSenpai", "contact": "mods@luzifersenpai.de", "homepage": "luzifersenpai.de", "description": "Adds a spidertron, that shoots cannon shells.", "dependencies": ["base"], "factorio_version": "1.1"}

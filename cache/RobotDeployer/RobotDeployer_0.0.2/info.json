@@ -1,0 +1,1 @@
+{"name": "RobotDeployer", "version": "0.0.3", "title": "Robot Deployer", "author": "TheSeriusYoutuber", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base", "? WaiTex_Full"], "description": "Adds a special roboport that stores robots. Useful for robot mass production.Added WaiTex Support."}

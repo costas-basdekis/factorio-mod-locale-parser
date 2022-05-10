@@ -1,0 +1,1 @@
+{"name": "old-substation", "version": "1.1.0", "factorio_version": "1.1", "title": "Old Substation Texture for 1.1", "author": "DenebTM", "contact": "deneb@screee.ee", "description": "Replaces the substation texture with the one from version 0.16 and before.", "dependencies": ["base >= 1.1.0"]}

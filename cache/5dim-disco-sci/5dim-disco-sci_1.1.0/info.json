@@ -1,0 +1,1 @@
+{"name": "5dim-disco-sci", "version": "1.1.0", "factorio_version": "1.1", "title": "Disco Science bridge for 5Dim", "author": "nIronwolf", "contact": "", "homepage": "", "description": "Fixes up 5Dim labs to use Disco Science.", "dependencies": ["base >= 1.1.0", "5dim_core", "5dim_automation", "DiscoScience"]}

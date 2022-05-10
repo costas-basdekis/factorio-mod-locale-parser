@@ -1,0 +1,1 @@
+{"name": "Configurable_Fuel", "author": "Kal Zekdor", "version": "0.5.0", "factorio_version": "0.18", "title": "Configurable Fuel", "description": "Allows configuration of acceleration and max speed of fuels.", "dependencies": ["base >= 0.18.0", "? pycoalprocessing >= 1.5.7", "? pyrawores >= 1.9.5", "? aai-industry >= 0.4.13"]}

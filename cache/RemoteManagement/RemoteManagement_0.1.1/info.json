@@ -1,0 +1,1 @@
+{"name": "RemoteManagement", "version": "0.1.1", "title": "Remote Management", "author": "Adil", "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=40341&p=238962#p238962", "description": "Devices to view, build and keep track of happennings in remote areas.", "factorio_version": "0.14", "dependencies": ["base"]}

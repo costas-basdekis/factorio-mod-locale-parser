@@ -1,0 +1,1 @@
+{"name": "Small_Turret", "version": "0.0.1", "title": "Early Turret", "author": "EliSc", "homepage": "", "description": "Simple early game turret.", "factorio_version": "1.0", "dependencies": ["base >= 1.0", "Krastorio2"]}

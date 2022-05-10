@@ -1,0 +1,1 @@
+{"name": "LegacyResourceIcons", "version": "0.0.1", "title": "Legacy Resource Icons", "author": "IceTDrinker", "contact": "", "homepage": "https://github.com/IceTDrinker/factorio-legacy-ore-icons", "factorio_version": "0.17", "dependencies": ["base >= 0.17.46"], "description": "Changes icons for resources back to the pre 0.17.46 icons"}

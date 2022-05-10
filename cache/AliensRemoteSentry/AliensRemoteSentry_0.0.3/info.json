@@ -1,0 +1,1 @@
+{"name": "AliensRemoteSentry", "author": "Xantaxia", "version": "0.0.3", "title": "AliensRemoteSentry", "homepage": "", "description": "The Remote sentry sfx from Aliens.", "dependencies": ["base"], "factorio_version": "0.16"}

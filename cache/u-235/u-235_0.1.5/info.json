@@ -1,0 +1,1 @@
+{"name": "u-235", "version": "0.1.5", "title": "uranium-235", "author": "Alien", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "you can now craft uranium-235"}

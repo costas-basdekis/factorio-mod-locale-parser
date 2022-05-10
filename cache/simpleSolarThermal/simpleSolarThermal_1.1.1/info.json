@@ -1,0 +1,1 @@
+{"name": "simpleSolarThermal", "version": "1.1.1", "title": "Simple Solar Thermal Energy", "description": "A solar thermal plant that produces heat when the sun is shining. Uses CyberWizard2261's Thermal Solar Power code and TheSAguy's Bio Industries graphics.", "author": "Pithlit", "license": "MIT", "dependencies": ["base"], "factorio_version": "1.1"}

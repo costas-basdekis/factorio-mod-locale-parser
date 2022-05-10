@@ -1,0 +1,1 @@
+{"name": "KS-Combat-sniper-fix", "version": "0.0.2", "title": "KS Combat Sniper Fix", "author": "Mernom", "contact": "Mernom#3091", "homepage": "", "description": "Fixes projectile range for sniper weapons in KS Combat. Does not add any sniper weapons at the moment.", "dependencies": ["base >= 0.17.50", "KS_Combat"], "factorio_version": "0.17"}

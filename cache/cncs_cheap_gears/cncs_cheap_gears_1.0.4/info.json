@@ -1,0 +1,1 @@
+{"name": "cncs_cheap_gears", "version": "1.0.4", "title": "Cnc's Cheap Gear Wheels", "author": "cncr04s", "factorio_version": "1.1", "homepage": "https://mods.factorio.com/mod/cncs_cheap_gears", "dependencies": ["base >= 1.1.0"], "description": "This mod reduces the price of gear wheels to half of normal to 1 plate per gear."}

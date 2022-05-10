@@ -1,0 +1,1 @@
+{"name": "LaneBalancer", "version": "1.2.2", "title": "Lane Balancer", "author": "CaptainWHot", "contact": "N/A", "homepage": "none", "description": "Evenly balances input & output lanes on a belt. Like a splitter, but for the lanes on a single belt, underground-belt or splitter.", "dependencies": ["base >= 1.1.0"], "factorio_version": "1.1"}

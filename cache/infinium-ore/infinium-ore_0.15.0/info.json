@@ -1,0 +1,1 @@
+{"name": "infinium-ore", "version": "0.15.0", "factorio_version": "0.15", "title": "Infinium Ore", "author": "The_Evil_Pickle", "homepage": "www.tobiaskipps.com/mods/factorio", "description": "Multipurpose super-ore that can be turned into whatever ore you want.", "dependencies": ["base >= 0.14.0", "boblibrary >= 0.14.0", "? bobores >= 0.14.0"]}

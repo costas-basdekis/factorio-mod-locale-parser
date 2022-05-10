@@ -1,0 +1,1 @@
+{"name": "matryoshka-bugs", "version": "0.1.0", "title": "Matryoshka Bugs", "author": "ChickenCombo", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "This mod turns bugs into nested russian dolls. When a bug dies it spawns a lower level version of itself."}

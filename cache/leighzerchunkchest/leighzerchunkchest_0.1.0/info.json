@@ -1,0 +1,1 @@
+{"name": "leighzerchunkchest", "version": "0.1.0", "title": "Leighzer's Chunk Chest", "author": "Leighzer", "contact": "Please message me on the factorio forums my username is leighzer.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Small mod that adds a chunk sized (32x32) steel chest. Inspired by 3x3 Steel Chest by Endus322."}

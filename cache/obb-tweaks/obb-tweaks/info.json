@@ -1,0 +1,1 @@
+{"name": "obb-tweaks", "version": "1.0.0", "title": "Open Biter Battles Tweaks", "author": "Gerkiz", "contact": "Gerkiz#0001", "description": "Adjusts some elements in the game for Biter Battles.", "dependencies": ["base >= 1.0.0"], "factorio_version": "1.1"}

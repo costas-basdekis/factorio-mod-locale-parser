@@ -1,0 +1,1 @@
+{"name": "NoStarterItems", "version": "17.0.1", "title": "No Starter Items", "author": "FI", "description": "Removes all items in player's inventory, when creating or first-time joining a world", "factorio_version": "1.0", "dependencies": ["base", "? angelsrefining", "? apm_power", "NoFreeplayCutscene"]}

@@ -1,0 +1,1 @@
+{"name": "RPM_Belts", "version": "0.0.1", "factorio_version": "1.1", "title": "RPM-RW Belts", "author": "RPM RedSpy", "contact": "", "homepage": "", "description": "FOR THE EMPEROR!", "dependencies": ["base >= 1.1.0"]}

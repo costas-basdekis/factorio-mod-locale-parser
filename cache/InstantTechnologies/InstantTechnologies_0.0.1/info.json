@@ -1,0 +1,1 @@
+{"name": "InstantTechnologies", "description": "All technologies need only one second", "version": "0.0.1", "title": "Instant Technologies", "author": "darkfrei", "dependencies": ["base", "? bobplates", "? bobgreenhouse"], "factorio_version": "0.16"}

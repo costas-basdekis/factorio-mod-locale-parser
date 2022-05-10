@@ -1,0 +1,1 @@
+{"name": "Xagros_FIRST_AID_KIT", "version": "1.3.3", "title": "Xagros's First Aid Kit", "author": "Xagros", "contact": "rlgh0925@naver.com", "homepage": "http://tyrantk.tistory.com/", "factorio_version": "0.16", "date": "2018-05-19", "description": "Add items to recover the player's health to Factorio.", "dependencies": ["base"]}

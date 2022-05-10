@@ -1,0 +1,1 @@
+{"name": "RadioisotopeThermoelectricGenerator", "version": "2.0.0", "title": "Radioisotope Thermoelectric Generator", "author": "Semaphor", "contact": "", "homepage": "", "description": "Replaces the Fusion Reactor with a Radioisotope Thermoelectric Generator (RTG).", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "?Nuclear Fuel >= 1.0.0"]}

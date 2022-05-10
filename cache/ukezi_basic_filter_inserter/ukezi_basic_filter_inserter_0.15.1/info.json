@@ -1,0 +1,1 @@
+{"name": "ukezi_basic_filter_inserter", "version": "0.16.0", "factorio_version": "0.16", "title": "ukezi's basic filter inserter", "author": "ukezi", "contact": "", "homepage": "", "description": "A basic filter inserter, ideal for Angel's Refining in combination with Bob's mods.", "dependencies": ["base >= 0.16.0", "bobelectronics >=0.16.0", "boblibrary >=0.16.0"]}

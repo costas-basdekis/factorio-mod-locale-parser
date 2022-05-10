@@ -1,0 +1,1 @@
+{"name": "PumpjackChange", "version": "0.1.1", "factorio_version": "0.16", "title": "Pumpjack Change", "author": "Mel1646", "contact": "Mel#7041 (Discord)", "dependencies": ["base >= 0.16.51"], "homepage": "", "description": "Makes the default maximum output per cycle of the pumpjack match that of maximum pipe throughput of 12000/s."}

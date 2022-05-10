@@ -1,0 +1,1 @@
+{"name": "heat-furnace", "version": "0.0.5", "factorio_version": "0.18", "title": "Heat furnace", "author": "adamo", "description": "It's getting hot in here (so hot!), so take out all your coals.", "dependencies": ["base", "? adamo-cinefaction"]}

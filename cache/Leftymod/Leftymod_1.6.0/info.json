@@ -1,0 +1,1 @@
+{"name": "Leftymod", "version": "1.7.0", "factorio_version": "1.1", "title": "Leftymod", "author": "Bouncebag", "contact": "http://bouncebag.com/Contact.html", "homepage": "http://bouncebag.com/", "description": "Too much wood, not enough coal? Turn wood into carbon instead of coal. Got sulfur and carbon? Make plastic.", "dependencies": ["base >= 1.1.0", "bobplates >= 1.1.0"]}

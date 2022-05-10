@@ -1,0 +1,1 @@
+{"name": "disk", "version": "1.1.0", "factorio_version": "1.1", "title": "DISK", "author": "justarandomgeek", "homepage": "", "contact": "justarandomgeek@gmail.com", "description": "Dense Integrated Storage Kludge: A removable data storage device for circuit networks holding 512 circuit frames.", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "Munda_Ore_Change_Porting", "version": "1.1.0", "factorio_version": "1.1", "title": "Munda Ore Change", "author": "WipMod", "contact": "https://t.me/wipmod", "homepage": "mods.factorio.com/mods/WipMod/Munda_Ore_Change_Porting", "description": "Ore can be converted into (Ur-ore) using energy expenditure. Some mods are already supported.", "dependencies": ["base >= 1.1"]}

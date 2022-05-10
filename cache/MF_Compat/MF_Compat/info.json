@@ -1,0 +1,1 @@
+{"name": "MF_Compat", "version": "0.0.1", "title": "Mobile Factory: Compat", "author": "FaerAnne", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "MF_Base >= 0.5.0", "Krastorio2 >= 1.1.4"], "description": "Fixes some unfortunate collisions between Krastorio and Mobile Factory, Namely adding Dimesional Fluid pump support"}

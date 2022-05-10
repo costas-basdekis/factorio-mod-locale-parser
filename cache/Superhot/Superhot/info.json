@@ -1,0 +1,1 @@
+{"name": "Superhot", "version": "0.1.0", "title": "SuperHot", "author": "MrBesen", "contact": "https://git.mrbesen.de/mrbesen/superhot/issues", "homepage": "https://git.mrbesen.de/mrbesen/superhot", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod makes time go as fast as you move."}

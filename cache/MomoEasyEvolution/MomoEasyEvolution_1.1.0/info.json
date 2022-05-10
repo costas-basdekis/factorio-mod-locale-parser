@@ -1,0 +1,1 @@
+{"name": "MomoEasyEvolution", "version": "1.1.0", "factorio_version": "1.1", "title": "Momo Easy Evolution", "author": "Momosundeass", "homepage": "https://github.com/momosundeass/MomoTweak", "description": "Decrease bitter evolution overtime", "dependencies": ["base >= 1.1"]}

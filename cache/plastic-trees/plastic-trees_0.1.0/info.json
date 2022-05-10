@@ -1,0 +1,1 @@
+{"name": "plastic-trees", "version": "0.1.0", "title": "Plastic Trees", "author": "asoftbird", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds plantable plastic trees."}

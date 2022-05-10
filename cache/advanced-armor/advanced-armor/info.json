@@ -1,0 +1,1 @@
+{"name": "advanced-armor", "author": "Daniel Solyom", "version": "0.0.6", "title": "Advanced Armor", "description": "Advanced armor to enable you to focus on engineering during post win gameplay.", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.33"]}

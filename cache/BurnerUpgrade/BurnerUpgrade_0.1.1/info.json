@@ -1,0 +1,1 @@
+{"name": "BurnerUpgrade", "version": "0.1.1", "factorio_version": "0.14", "title": "Serith's Simple Burner Upgrade", "author": "SerithWing", "contact": "PM serithinflight on steam", "description": "Mod that Makes burner inserters upgrade to regular inserters and burner drills upgrade to eletric drills", "dependencies": ["base >= 0.13.0"]}

@@ -1,0 +1,1 @@
+{"name": "next-station", "version": "0.1.5", "title": "Next Station", "author": "kauron", "description": "Adds a hotkey to send the trains to their next station. First check if the player is mousing over a train and then the train the player is riding.", "factorio_version": "1.1", "dependencies": ["base >= 0.15.32"]}

@@ -1,0 +1,1 @@
+{"name": "Krastorio2-more-locomotives", "version": "11.0.0", "title": "Krastorio 2 - Additional Locomotives", "description": "Adds Krastorio 2 DT-fuel cell and antimatter fuel cell locomotives.", "author": "Lyko5", "contact": "https://gitlab.com/Lyko5", "factorio_version": "1.1", "dependencies": ["base >= 1.1.5", "Krastorio2 >= 1.0.15"]}

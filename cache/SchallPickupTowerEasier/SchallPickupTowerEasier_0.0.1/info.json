@@ -1,0 +1,1 @@
+{"name": "SchallPickupTowerEasier", "version": "0.0.1", "title": "SchallPickupTowerEasier", "author": "freebit75", "email": "", "homepage": "", "contact": "", "description": "Makes Schall's pickup towers easier to make earlier.", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0", "SchallPickupTower >= 0.18.0"]}

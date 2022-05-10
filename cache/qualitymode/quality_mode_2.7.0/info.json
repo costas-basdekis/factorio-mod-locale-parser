@@ -1,0 +1,1 @@
+{"name": "qualitymode", "version": "2.7.0", "title": "Quality Mode", "author": "Shadowcaster", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Various Quality of Life Changes that focus the game on automation and streamlining production"}

@@ -1,0 +1,1 @@
+{"name": "Fluidcubes", "version": "1.0.2", "title": "Fluid Cubes", "author": "Nullism", "dependencies": ["base >= 0.13.13"], "description": "Adds cubes for all fluids and updates all fluid recipes to use these cubes directly - modded or base.", "factorio_version": "0.14"}

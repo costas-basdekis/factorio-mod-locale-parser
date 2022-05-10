@@ -1,0 +1,1 @@
+{"name": "laser_tanks_updated", "version": "0.19.0", "title": "Laser Tanks", "author": "coolfarmer", "dependencies": ["base >= 1.1.0"], "description": "Vehicle Laser weapons, Electric Car, Tank, Train.", "factorio_version": "1.1"}

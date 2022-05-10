@@ -1,0 +1,1 @@
+{"name": "VinnieMod", "version": "1.5.1", "title": "VinnieMod", "author": "Vinnie", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "Teleporters"], "description": "See mod settings. Personal use only"}

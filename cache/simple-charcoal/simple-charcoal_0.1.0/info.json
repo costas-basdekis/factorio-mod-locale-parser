@@ -1,0 +1,1 @@
+{"name": "simple-charcoal", "version": "0.1.0", "title": "Simple Charcoal", "author": "Autolykos", "contact": "", "homepage": "", "license": "CC0", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Turn 2 wood into 1 coal using a smelter. No more, no less."}

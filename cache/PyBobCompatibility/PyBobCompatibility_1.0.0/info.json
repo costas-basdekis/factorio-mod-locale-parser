@@ -1,0 +1,1 @@
+{"name": "PyBobCompatibility", "description": "PyBobCompatibility", "version": "1.0.0", "factorio_version": "1.1", "title": "Fix duplicate small-parts ingredient", "author": "anon2k", "homepage": "", "contact": "anon2k@yandex.ru", "dependencies": ["base >= 1.1.0"]}

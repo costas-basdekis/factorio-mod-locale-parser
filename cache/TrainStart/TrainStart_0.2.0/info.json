@@ -1,0 +1,1 @@
+{"name": "TrainStart", "version": "0.2.0", "title": "Train Start", "author": "Carnivale", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.13"], "description": "Start with enough items to create a basic rail network."}

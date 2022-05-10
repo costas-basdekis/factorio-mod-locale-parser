@@ -1,0 +1,1 @@
+{"name": "ToggleMapEditor", "version": "1.0.0", "title": "Toggle Map Editor", "author": "TheBloke", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17.69", "stdlib >= 1.1.0"], "description": "Provides the ability to toggle in and out of Map Editor, via hotkey and Shortcut Bar icon."}

@@ -1,0 +1,1 @@
+{"name": "green-nightvision", "version": "0.0.1", "title": "green-nightvision", "author": "Casishur", "contact": "Casishur@g3ce.de", "homepage": "", "factorio_version": "1.1", "description": "changes the night vision to green", "dependencies": ["base >= 1.1.00"]}

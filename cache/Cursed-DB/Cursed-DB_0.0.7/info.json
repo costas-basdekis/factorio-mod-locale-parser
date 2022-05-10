@@ -1,0 +1,1 @@
+{"name": "Cursed-DB", "version": "0.0.7", "title": "Cursed Drill Boost", "author": "L0771", "contact": "https://discord.gg/PnQwT8W", "homepage": "https://discord.gg/PnQwT8W", "dependencies": ["base", "Cursed-FMD >= 0.1.7"], "description": "You can speed up your mining by adding water or lubricant to the drill", "factorio_version": "1.0"}

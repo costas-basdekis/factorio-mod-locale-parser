@@ -1,0 +1,1 @@
+{"name": "bekloppt-pack-qol", "version": "1.0.0", "factorio_version": "1.1", "title": "Bekloppt Pack QOL", "author": "DerNickname01", "description": "Modpack for me and my friends", "dependencies": ["base >= 1.1.0", "even-distribution >= 1.0.10", "jetpack >= 0.2.12", "Nanobots >= 3.2.15", "Waterfill_v17 >= 1.1.0"]}

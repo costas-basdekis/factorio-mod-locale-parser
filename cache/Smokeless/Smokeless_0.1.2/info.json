@@ -1,0 +1,1 @@
+{"name": "Smokeless", "version": "0.1.2", "title": "Smokeless", "author": "can00336", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"], "description": "Removes UPS-hogging smoke from the game."}

@@ -1,0 +1,1 @@
+{"name": "RoadRemoval", "version": "0.18.1", "title": "Road Removal", "author": "Syrchalis", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Reduces the time for removing stone bricks, concrete and refined concrete."}

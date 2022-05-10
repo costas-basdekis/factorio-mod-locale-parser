@@ -1,0 +1,1 @@
+{"name": "glowing-capsule", "version": "0.2.1", "title": "Glowing Capsule", "author": "Mooncat", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=43729", "description": "Adds glowing capsule, a solution for portable light source.", "factorio_version": "0.15", "dependencies": ["base >= 0.15"]}

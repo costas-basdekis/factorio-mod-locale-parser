@@ -1,0 +1,1 @@
+{"name": "RubberBelts", "version": "1.105.1", "title": "Rubber Belts", "author": "Reika", "contact": "", "homepage": "", "factorio_version": "1.1", "description": "Changes belts to be partly made of rubber instead of entirely iron.", "dependencies": ["base", "DragonIndustries"]}

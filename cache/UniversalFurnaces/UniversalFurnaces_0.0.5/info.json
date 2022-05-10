@@ -1,0 +1,1 @@
+{"name": "UniversalFurnaces", "version": "0.0.5", "title": "Universal Furnaces", "author": "Telemak", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod adds new versions of furnaces that accept mixed inputs to build non-specialized furnaces lines"}

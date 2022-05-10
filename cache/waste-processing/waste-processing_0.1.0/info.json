@@ -1,0 +1,1 @@
+{"name": "waste-processing", "version": "0.1.0", "factorio_version": "0.14", "title": "Waste Processing", "author": "John K", "contact": "jkeywo@yahoo.co.uk", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=34311", "description": "You now have to handle waste disposal properly.", "dependencies": ["base >= 0.14.0"]}

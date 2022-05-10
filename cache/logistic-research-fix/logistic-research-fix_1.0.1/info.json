@@ -1,0 +1,1 @@
+{"name": "logistic-research-fix", "version": "1.0.1", "title": "Logistic Research Fix", "author": "Kais", "contact": "", "homepage": "", "description": "Removes the production and high tech science pack requirements from the Logistic System research.", "factorio_version": "0.16", "dependencies": ["base >= 0.15.0"]}

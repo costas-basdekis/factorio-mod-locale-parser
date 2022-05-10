@@ -1,0 +1,1 @@
+{"name": "Handcrafting_Queue_Log", "version": "1.0.0", "title": "Handcrafting Queue Log", "author": "mogue", "description": "Stores a list of all items you handcraft for review or file export. Made to aid speedrunning build design. Default hotkey to open/close is F10.", "factorio_version": "1.0", "dependencies": ["base >= 1.0"]}

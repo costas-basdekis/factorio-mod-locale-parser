@@ -1,0 +1,1 @@
+{"name": "water-poles", "version": "0.0.4", "title": "Water Poles", "author": "_CodeGreen", "description": "Allows big electric poles to be placed on water.", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

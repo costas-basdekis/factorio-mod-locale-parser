@@ -1,0 +1,1 @@
+{"name": "kj_flag", "version": "1.1.0", "title": "King Jo's Flag", "author": "TheKingJo", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Animated flag that turns into the wind direction."}

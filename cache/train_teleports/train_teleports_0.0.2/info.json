@@ -1,0 +1,1 @@
+{"name": "train_teleports", "version": "0.0.2", "title": "Train Teleports (Alpha)", "author": "Phoenix27833", "homepage": "", "description": "Teleports trains through tunnels between clusterio instances.  Warning: work in progress alpha.", "factorio_version": "0.18", "dependencies": ["base", "clusterio_lib"]}

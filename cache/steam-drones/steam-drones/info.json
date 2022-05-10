@@ -1,0 +1,1 @@
+{"name": "steam-drones", "version": "0.0.6", "title": "Steam Transport Drones", "author": "Soggs", "contact": "", "homepage": "", "description": "Modifies Transport Drones to be available earlier and changes their fuel to steam.", "dependencies": ["base >= 0.18.0", "Transport_Drones >= 0.6.0", "? Krastorio2 >= 0.9.17"], "factorio_version": "1.1"}

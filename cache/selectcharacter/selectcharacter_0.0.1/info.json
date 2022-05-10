@@ -1,0 +1,1 @@
+{"name": "selectcharacter", "version": "0.0.1", "factorio_version": "0.14", "title": "Select your character", "author": "kij336", "contact": "kij336@naver.com", "description": "select your character.(now human and biter only)", "dependencies": ["base >= 0.14.0", "? color-picker >= 0.2.0"]}

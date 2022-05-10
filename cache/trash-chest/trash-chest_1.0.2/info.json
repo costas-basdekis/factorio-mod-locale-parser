@@ -1,0 +1,1 @@
+{"name": "trash-chest", "version": "1.0.2", "factorio_version": "1.1", "title": "trash", "author": "10514187", "contact": "", "homepage": "", "description": "trash del item.", "dependencies": ["base >= 0.15.37"]}

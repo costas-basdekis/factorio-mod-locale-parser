@@ -1,0 +1,1 @@
+{"name": "RepeatingIslands_Comp11", "version": "0.1.1", "title": "RepeatingIslands for 1.1", "author": "Big-IN", "description": "adds bigger islands that spawn in the ocean. Requires the Island map preset!", "factorio_version": "1.1", "dependencies": ["base >= 0.17.0"]}

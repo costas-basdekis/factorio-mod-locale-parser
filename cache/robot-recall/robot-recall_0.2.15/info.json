@@ -1,0 +1,1 @@
+{"name": "robot-recall", "version": "0.2.15", "title": "Robot Recall", "author": "343N", "contact": "343N#6969", "homepage": "http://github.com/343N/robot-recall", "factorio_version": "1.1", "dependencies": ["base"], "description": "Lets you recall all idle robots in your logistic network, or distribute bots among your network."}

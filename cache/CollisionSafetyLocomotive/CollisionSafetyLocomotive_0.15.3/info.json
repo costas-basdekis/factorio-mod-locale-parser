@@ -1,0 +1,1 @@
+{"name": "CollisionSafetyLocomotive", "version": "0.15.3", "factorio_version": "0.15", "title": "CollisionSafetyLocomotive", "author": "Die8, ep0d", "contact": "", "homepage": "http://www.fourslippers.com/factorio/", "description": "You will no longer worry that you will be run over on by super fast locomotive on a straight line.", "dependencies": ["base >= 0.15.00"]}

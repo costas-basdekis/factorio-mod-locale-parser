@@ -1,0 +1,1 @@
+{"name": "Chunked", "version": "0.1.2", "title": "Chunked", "author": "xSiN", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod adds various buildings with modified ranges to fit on the chunk grid."}

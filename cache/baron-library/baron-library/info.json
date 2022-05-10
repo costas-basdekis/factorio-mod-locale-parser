@@ -1,0 +1,1 @@
+{"name": "baron-library", "version": "1.1.19", "title": "Baron Library", "author": "Cogneato Switch", "contact": "CogneatoSwitch@gmail.com", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "Base library for Baron mods."}

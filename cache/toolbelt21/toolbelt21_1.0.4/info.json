@@ -1,0 +1,1 @@
+{"name": "toolbelt21", "title": "Toolbelt21", "factorio_version": "0.16", "author": "GrafKakashi", "version": "1.0.4", "dependencies": ["base >= 0.16.0"], "description": "Adds a new research that gets you a third tool belt."}

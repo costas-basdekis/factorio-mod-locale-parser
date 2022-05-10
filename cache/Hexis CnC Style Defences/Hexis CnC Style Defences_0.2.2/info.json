@@ -1,0 +1,1 @@
+{"name": "Hexis CnC Style Defences", "version": "0.2.2", "title": "Command and Conquer Style Defences", "author": "Hexicube", "contact": "N/A", "homepage": "N/A", "dependencies": ["base >= 0.17.0"], "factorio_version": "0.17", "description": "Adds extra forms of defence based on the Command and Conquer series."}

@@ -1,0 +1,1 @@
+{"name": "mesa_mods_aliens_1", "version": "0.0.1", "title": "mesa mods aliens 1", "author": "mesa", "description": "Adds swarm and charge biters to the game. Enabled by default (turn off mod to turn off biters).", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

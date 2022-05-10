@@ -1,0 +1,1 @@
+{"name": "unhappy_mod", "version": "0.1.1", "title": "Unhappy Mod", "author": "Ardagan", "contact": "TBD", "homepage": "TBD", "factorio_version": "0.16", "description": "Makes evolution proportional to amount of pollution per tick.", "dependencies": ["base >= 0.16.0"]}

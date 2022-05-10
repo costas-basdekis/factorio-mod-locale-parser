@@ -1,0 +1,1 @@
+{"name": "ArcEnemySwitch", "version": "0.1.18", "title": "Arc's Enemy Switch", "author": "Arc Ad\u00e1n", "contact": "hhackingmmonkey908@gmail.com", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.15"], "description": "This mod allows you to make yourself an enemy entity or not with a simple click."}

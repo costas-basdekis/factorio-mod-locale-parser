@@ -1,0 +1,1 @@
+{"name": "hatsune-miku-enrichment-process", "version": "0.0.0", "title": "Hatsune Miku Enrichment Process", "author": "guiot", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Mod that replaces the strangely-named 'Kovarex enrichment process' with 'Hatsune Miku enrichment process', in the honor of Hatsune Miku, Factorio's creator."}

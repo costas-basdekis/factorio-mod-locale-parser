@@ -1,0 +1,1 @@
+{"name": "handcraftcounter", "version": "3.0.2", "title": "HandCraft Counter", "author": "Refferic", "contact": "http://refferic.tv/", "homepage": " ", "description": "A simple mod which displays the total amount of items crafted by hand.", "factorio_version": "0.17", "dependencies": ["base >= 0.17"]}

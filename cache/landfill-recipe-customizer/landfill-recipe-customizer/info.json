@@ -1,0 +1,1 @@
+{"name": "landfill-recipe-customizer", "version": "1.1.3", "title": "Landfill Customization", "author": "Patriot", "description": "Allows the player to modify cost, amount crafted, stack size and in-world appearance of landfill.", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

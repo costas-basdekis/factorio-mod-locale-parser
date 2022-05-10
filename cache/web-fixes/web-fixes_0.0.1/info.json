@@ -1,0 +1,1 @@
+{"name": "web-fixes", "version": "0.0.1", "title": "Web's Fixes for Foltik", "author": "webadict", "factorio_version": "1.0", "dependencies": ["stdlib >= 1.4.1", "foltiks_spaghetti_modpack >= 0.3.16", "PyCoalTBaA >= 1.0.2"], "description": "This mod fixes some of the issues found in Foltik's Spaghetti modpack, and my friends wanted me to fix it."}

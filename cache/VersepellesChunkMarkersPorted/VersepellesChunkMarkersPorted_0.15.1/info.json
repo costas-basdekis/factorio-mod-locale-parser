@@ -1,0 +1,1 @@
+{"name": "VersepellesChunkMarkersPorted", "version": "0.15.1", "title": "Chunk Markers", "author": "Versepelles, Pandemoneus", "contact": "stevenbrelsford@gmail.com, Pandemoneus@gmx.de", "description": "Adds colored hazard concrete and rectangular marker tools to allow easy factory planning.", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

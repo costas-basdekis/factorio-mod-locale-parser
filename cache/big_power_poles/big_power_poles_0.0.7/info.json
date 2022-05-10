@@ -1,0 +1,1 @@
+{"name": "big_power_poles", "version": "0.0.7", "factorio_version": "1.1", "title": "Big Power Poles", "author": "3x1t_5tyl3", "contact": "", "homepage": "", "description": "Power Poles for max reach.", "dependencies": ["base >= 1.1"]}

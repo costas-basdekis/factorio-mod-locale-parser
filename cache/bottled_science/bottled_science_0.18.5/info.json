@@ -1,0 +1,1 @@
+{"name": "bottled_science", "version": "0.18.5", "title": "Bottled science", "author": "OwnlyMe & Arcani_Victus", "factorio_version": "0.18", "dependencies": ["base >= 0.18", "?Powered_Entities", "?deadlock-beltboxes-loaders"], "description": "Science is produced as a liquid and must be bottled for use in research. Settings enable custom item group and science barreling."}

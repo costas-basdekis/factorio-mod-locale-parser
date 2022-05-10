@@ -1,0 +1,1 @@
+{"name": "CookedCopper", "version": "0.0.4", "factorio_version": "0.17", "title": "CookedCopper", "author": "VikingDog", "homepage": "", "dependencies": ["base >= 0.17.00"], "description": "Based of EoRaptor's mod, FlastBurnace."}

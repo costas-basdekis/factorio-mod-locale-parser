@@ -1,0 +1,1 @@
+{"name": "SimpleFusion", "version": "1.0.2", "title": "Simple Modular Fusion Reactor", "author": "Croben", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Adds a fusion reactor that's available earlier, is smaller, but only provides 100 kw compared to a normal fusion reactor!"}

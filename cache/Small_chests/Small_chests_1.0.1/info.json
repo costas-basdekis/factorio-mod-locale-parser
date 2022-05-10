@@ -1,0 +1,1 @@
+{"name": "Small_chests", "version": "1.0.1", "title": "Small chests", "author": "Dwimenor Vali", "contact": "dwimenor.vali@posteo.net", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Little balance patch, so chests are not bigger then cargo wagon. Wooden chest (1 stack), Iron chest (2 stacks), Steel and logistic chests (4 stacks)"}

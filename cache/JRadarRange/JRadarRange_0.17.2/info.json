@@ -1,0 +1,1 @@
+{"name": "JRadarRange", "version": "0.17.2", "title": "JRadar Range", "author": "Tungsten33", "email": "", "homepage": "https://www.google.com", "contact": "", "description": "Displays nearest radar (in chunks) for optimal radar placement and coverage", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"]}

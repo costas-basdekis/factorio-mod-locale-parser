@@ -1,0 +1,1 @@
+{"name": "assembling-machine-up", "version": "0.1.3", "factorio_version": "0.18", "title": "Advanced assembly machines", "author": "badway", "contact": "", "homepage": "", "description": "Adds to the game advanced, high-speed machines for the Assembly of components that are 16 times higher than the vanilla machines 3 levels. Balanced.", "dependencies": ["base >= 0.16"]}

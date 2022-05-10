@@ -1,0 +1,1 @@
+{"name": "Insane-PvP", "version": "0.9.0", "factorio_version": "0.17", "title": "[Mod pack] Insane PvP", "author": "ZwerOxotnik", "homepage": "https://reddit.com/r/ZwerOxotnik", "description": "Mod pack for PvP (players vs players). You want so much engage.", "contact": "zweroxotnik@gmail.com", "dependencies": ["PvP-core", "RTS_PvP", "Advance-PvP", "! Soft-PvP"]}

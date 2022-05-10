@@ -1,0 +1,1 @@
+{"name": "warptorio_planet_smog", "version": "0.0.4", "title": "Warptorio2 Smog Planet", "description": "Now high pollution makes gray smog", "author": "darkfrei,Pyro-Fire", "license": "MIT", "dependencies": ["base", "warptorio2", "SmogVisualPollution"], "factorio_version": "0.17"}

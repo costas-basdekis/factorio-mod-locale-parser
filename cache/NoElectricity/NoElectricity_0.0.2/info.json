@@ -1,0 +1,1 @@
+{"name": "NoElectricity", "version": "0.0.2", "factorio_version": "0.17", "title": "No Electricity", "author": "Avongard", "description": "Electricity isn't needed.  Burner entities optional too.", "dependencies": ["base >= 0.16"]}

@@ -1,0 +1,1 @@
+{"name": "ElectricTrain-Rebalance-for-K2", "author": "nexcander", "version": "1.0.1", "title": "Electric Train Rebalance for Krastorio 2 with support 1.1", "description": "Rebalance Electric Train to better fit Krastorio 2's tech progression. Support 1.0 version and later.", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "Krastorio2", "ElectricTrain"]}

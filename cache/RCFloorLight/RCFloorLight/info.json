@@ -1,0 +1,1 @@
+{"name": "RCFloorLight", "version": "1.1.0", "title": "Red Circuit Floor Light", "author": "Michael Cowgill (ChurchOrganist)", "contact": "jmcowgill@gmail.com", "homepage": "", "description": "Creates a floorlight entity which displays the Red Circuit Logo", "dependencies": ["base >= 1.1.0"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "focused-technology-costs", "title": "Focused Technology Costs", "factorio_version": "0.17", "author": "EnigmaticAussie", "version": "0.0.1", "dependencies": ["base >= 0.17.50"], "description": "Adjusts science pack counts depending on the focus of the technology. Does not change all science costs, only select ones."}

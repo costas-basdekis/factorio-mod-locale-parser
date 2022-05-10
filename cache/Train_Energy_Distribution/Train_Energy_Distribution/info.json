@@ -1,0 +1,1 @@
+{"name": "Train_Energy_Distribution", "version": "1.0.2", "title": "Train Energy Distribution", "description": "Allows trains to evenly distribute energy between batteries within their grids. Quick mod made within two hours by request of a friend.", "author": "Robokat", "factorio_version": "1.1", "dependencies": ["base >= 1.0", "? VehicleGrid", "? SchallArmouredTrain"]}

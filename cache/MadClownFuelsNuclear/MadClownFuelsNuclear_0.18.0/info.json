@@ -1,0 +1,1 @@
+{"name": "MadClownFuelsNuclear", "version": "0.18.0", "factorio_version": "0.18", "title": "Mad Clown Fuel Category", "author": "triktor5", "contact": "", "homepage": "", "description": "Set the category of Mad Clown Fuels to nuclear fuel, so that they can be affected by ReStack", "dependencies": ["Clowns-AngelBob-Nuclear >= 1.1.13"]}

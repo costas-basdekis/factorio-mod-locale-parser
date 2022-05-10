@@ -1,0 +1,1 @@
+{"name": "ShowBotsOnMap", "description": "Now you can see your robots on the map", "version": "0.0.1", "title": "Show Bots On Map", "author": "darkfrei", "dependencies": ["base", "? bobplates", "? bobgreenhouse"], "factorio_version": "0.16"}

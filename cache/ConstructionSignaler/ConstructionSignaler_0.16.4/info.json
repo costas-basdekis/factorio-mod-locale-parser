@@ -1,0 +1,1 @@
+{"name": "ConstructionSignaler", "version": "0.16.4", "title": "Construction Signaler", "author": "codekitchen", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

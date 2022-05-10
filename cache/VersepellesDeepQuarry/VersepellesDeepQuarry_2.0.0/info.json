@@ -1,0 +1,1 @@
+{"name": "VersepellesDeepQuarry", "version": "2.0.0", "title": "Deep Quarry", "author": "Versepelles", "contact": "stevenbrelsford@gmail.com", "description": "Adds quarry buildings to the game, which mine ores without an ore patch.", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"]}

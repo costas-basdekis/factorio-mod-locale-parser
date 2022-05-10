@@ -1,0 +1,1 @@
+{"name": "Recolored-Enemies-White", "version": "0.0.1", "factorio_version": "0.15", "title": "Recolored Enemies(White)", "author": "MynameisIsis", "contact": "reddit.com/u/MynameisIsis", "homepage": "", "description": "Changes the default map color of enemies to white.", "dependencies": ["base >= 0.15.0"], "license": "MIT"}

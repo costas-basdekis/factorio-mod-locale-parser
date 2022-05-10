@@ -1,0 +1,1 @@
+{"name": "void-chest", "version": "0.0.1", "title": "Void chest", "author": "TBTerra", "description": "Adds UPS efficient void chests (much like the ones from creative mode but with 1/10th of the ups cost)", "factorio_version": "0.15", "dependencies": ["base >= 0.15"]}

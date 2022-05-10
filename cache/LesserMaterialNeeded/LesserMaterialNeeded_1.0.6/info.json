@@ -1,0 +1,1 @@
+{"name": "LesserMaterialNeeded", "version": "1.0.6", "title": "Lesser Material Needed", "author": "LanceSummers", "contact": "phntomgamer@cox.net", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Idea from Cheaper And More Circuits. 1.0.2 disables Plate Group that breaks other Mods"}

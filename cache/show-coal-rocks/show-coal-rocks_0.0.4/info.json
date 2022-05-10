@@ -1,0 +1,1 @@
+{"name": "show-coal-rocks", "version": "0.0.4", "factorio_version": "1.1", "date": "2020-04-25", "title": "Show Coal Rocks", "author": "Omnituens", "contact": "", "homepage": "", "dependencies": ["base >= 0.18.00"]}

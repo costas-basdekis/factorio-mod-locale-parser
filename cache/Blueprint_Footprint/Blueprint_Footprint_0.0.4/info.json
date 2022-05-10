@@ -1,0 +1,1 @@
+{"name": "Blueprint_Footprint", "version": "0.0.4", "title": "Blueprint Footprint", "author": "MostlyNumbers", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Adds a hotkey to place landfill beneath your blueprint."}

@@ -1,0 +1,1 @@
+{"name": "Better_Bobs_Solar", "version": "0.17.4", "title": "Better Bob's Solar Panels", "author": "hexagonhexagon", "description": "Makes Bob's solar panels and accumulators stronger. Also adds an option to remove the alternate solar panels/accumulators.", "dependencies": ["base >= 0.17", "boblibrary >= 0.17.5", "bobpower >= 0.17.10"], "factorio_version": "0.17"}

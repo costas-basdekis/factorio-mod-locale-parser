@@ -1,0 +1,1 @@
+{"name": "noplacer", "version": "1.1.2", "title": "noplacer", "author": "Erythion", "description": "Blacklist items from being placed. Startup setting to set which items to block, now without examples!", "factorio_version": "1.1", "dependencies": ["base"]}

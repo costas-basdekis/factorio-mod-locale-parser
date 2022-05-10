@@ -1,0 +1,1 @@
+{"name": "tree-feller", "version": "0.1.1", "title": "Tree Feller", "author": "hsp9513", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Tree Feller mod. Requires Shortcut for 1.1.\nAfter using tree feller, woods are dropped on ground. It also works on trees or rocks added by other mods."}

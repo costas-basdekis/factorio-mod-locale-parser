@@ -1,0 +1,1 @@
+{"name": "RocketTurretsNonBob", "version": "0.0.4", "title": "RocketTurrets Vannila Version", "author": "Kamsta99", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"], "description": "Adds rocket turrets"}

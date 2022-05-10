@@ -1,0 +1,1 @@
+{"name": "music", "version": "1.0.2", "title": "some music", "author": "Shadow", "contact": "music", "homepage": "http", "description": "tiberian sun firestorm/Parkan", "dependencies": ["base >= 1.0.0"], "factorio_version": "1.0"}

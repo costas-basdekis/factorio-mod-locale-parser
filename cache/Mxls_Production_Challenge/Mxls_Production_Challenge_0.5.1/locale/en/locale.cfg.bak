@@ -1,0 +1,330 @@
+[entity-name]
+
+item-group-name.mxlprod=MXL Production Challenge
+
+spanner=Spanner
+widget=Widget
+doodad=Doodad
+thingie=Thingie
+device=Device
+apparatus=Apparatus
+gizmo=Gizmo
+whachamacallit=Whachamacallit
+object=Object
+gadget=Gadget
+dermaflauge=Dermaflauge
+sprocket=Sprocket
+
+compressed_coal=Compressed Coal
+iron_bar=Iron Bar
+copper_bar=Copper Bar
+steel_bar=Steel Bar
+
+spring=Spring
+contraption=Contraption
+arch=Arch
+ring=Ring
+fuse=Fuse
+bolt=Bolt
+lever=Lever
+rivet=Rivet
+rod=Rod
+piston=Piston
+valve=Valve
+compressor=Compressor
+
+LYFC=Low Yield Fuel Cube
+folded_iron_bar=Folded Iron Bar
+folded_copper_bar=Folded Copper Bar
+folded_steel_bar=Folded Steel Bar
+
+condenser=Condenser
+green_button=Green Button
+red_button=Red Button
+scanner=Scanner
+wingnut=Wingnut
+magnetron=Magnetron
+compass=Compass
+drive_shaft=Drive Shaft
+turbine_blade=Turbine Blade
+steel_widget=Steel Widget
+dynamo=DYNAMO!
+resistor=Resistor
+fuel_tank=Fuel Tank
+flight_controls=Flight Controls
+neutrino_boards=Neutrino Boards
+display_module=Display Module
+
+
+[entity-description]
+Spanner=Used to build widgets.
+Widget=Used to build doodads.
+Doodad=Used to build thingies.
+Thingie=Used to build devices.
+Device=Used to build apparatus.
+Apparatus=Used to build gizmos.
+Gizmo=Used to build a whachamacallit.
+Whachamacallit=Used to build objects.
+Object=Used to build gadgets.
+Gadget=Used to build dermaflauge.
+Dermaflauge=Used to build sprockets.
+Sprocket=Used to build springs.
+
+compressed_coal=insert text here
+iron_bar=insert text here
+copper_bar=insert text here
+steel_bar=insert text here
+
+Spring=Used to build contraptions.
+Contraption=Used to build arches.
+Arch=Used to build rings.
+Ring=Used to build fuses.
+Fuse=Used to build bolts.
+Bolt=Used to build levers.
+Lever=Used to build rivets.
+Rivet=Used to win the game.
+rod=Used to build Piston
+piston=Used to build Valve
+valve=Used to build Compressor
+compressor=Used to build Condenser
+
+LYFC=insert text here
+folded_iron_bar=insert text here
+folded_copper_bar=insert text here
+folded_steel_bar=insert text here
+
+condenser=Used to build Green Button
+green_button=Used to build Red Button
+red_button=Used to build Scanner
+scanner=Used to build Wingnut
+wingnut=Used to build Magnetron
+magnetron=Used to build Compass
+compass=Used to build Drive Shaft
+drive_shaft=Used to build Turbine Blade
+turbine_blade=Used to build Steel Widget
+steel_widget=Used to build Dynamo
+dynamo=Used to be a good guy
+resistor=Used to build Fuel Tank
+fuel_tank=Used to build Flight Controls
+flight_controls=Used to build Neutrino Boards
+neutrino_boards=Used to build Display Module
+display_module=Used to win the game
+
+[item-name]
+
+item-group-name.mxlprod=MXL Production Challenge
+
+spanner=Spanner
+widget=Widget
+doodad=Doodad
+thingie=Thingie
+device=Device
+apparatus=Apparatus
+gizmo=Gizmo
+whachamacallit=Whachamacallit
+object=Object
+gadget=Gadget
+dermaflauge=Dermaflauge
+sprocket=Sprocket
+
+compressed_coal=Compressed Coal
+iron_bar=Iron Bar
+copper_bar=Copper Bar
+steel_bar=Steel Bar
+
+spring=Spring
+contraption=Contraption
+arch=Arch
+ring=Ring
+fuse=Fuse
+bolt=Bolt
+lever=Lever
+rivet=Rivet
+rod=Rod
+piston=Piston
+valve=Valve
+compressor=Compressor
+
+LYFC=Low Yield Fuel Cube
+folded_iron_bar=Folded Iron Bar
+folded_copper_bar=Folded Copper Bar
+folded_steel_bar=Folded Steel Bar
+
+condenser=Condenser
+green_button=Green Button
+red_button=Red Button
+scanner=Scanner
+wingnut=Wingnut
+magnetron=Magnetron
+compass=Compass
+drive_shaft=Drive Shaft
+turbine_blade=Turbine Blade
+steel_widget=Steel Widget
+dynamo=DYNAMO!
+resistor=Resistor
+fuel_tank=Fuel Tank
+flight_controls=Flight Controls
+neutrino_boards=Neutrino Boards
+display_module=Display Module
+
+[recipe-name]
+spanner=Spanner
+widget=Widget
+doodad=Doodad
+thingie=Thingie
+device=Device
+apparatus=Apparatus
+gizmo=Gizmo
+whachamacallit=Whachamacallit
+object=Object
+gadget=Gadgetfa
+dermaflauge=Dermaflauge
+sprocket=Sprocket
+
+compressed_coal=Compressed Coal
+iron_bar=Iron Bar
+copper_bar=Copper Bar
+steel_bar=Steel Bar
+
+spring=Spring
+contraption=Contraption
+arch=Arch
+ring=Ring
+fuse=Fuse
+bolt=Bolt
+lever=Lever
+rivet=Rivet
+rod=Rod
+piston=Piston
+valve=Valve
+compressor=Compressor
+
+LYFC=Low Yield Fuel Cube
+folded_iron_bar=Folded Iron Bar
+folded_copper_bar=Folded Copper Bar
+folded_steel_bar=Folded Steel Bar
+
+condenser=Condenser
+green_button=Green Button
+red_button=Red Button
+scanner=Scanner
+wingnut=Wingnut
+magnetron=Magnetron
+compass=Compass
+drive_shaft=Drive Shaft
+turbine_blade=Turbine Blade
+steel_widget=Steel Widget
+dynamo=DYNAMO!
+resistor=Resistor
+fuel_tank=Fuel Tank
+flight_controls=Flight Controls
+neutrino_boards=Neutrino Boards
+display_module=Display Module
+
+[technology-name]
+spanner=Spanners
+widget=Widgets
+doodad=Doodads
+thingie=Thingies
+device=Devices
+apparatus=Apparatus
+gizmo=Gizmos
+whachamacallit=Whachamacallits
+object=Objects
+gadget=Gadgets
+dermaflauge=Dermaflauges
+sprocket=Sprockets
+
+compressed_coal=Compressed Coal
+iron_bar=Iron Bar
+copper_bar=Copper Bar
+steel_bar=Steel Bar
+
+spring=Springs
+contraption=Contraptions
+arch=Arches
+ring=Rings
+fuse=Fuses
+bolt=Bolts
+lever=Levers
+rivet=Rivets
+rod=Rod
+piston=Piston
+valve=Valve
+compressor=Compressor
+
+LYFC=Low Yield Fuel Cube
+folded_iron_bar=Folded Iron Bar
+folded_copper_bar=Folded Copper Bar
+folded_steel_bar=Folded Steel Bar
+
+condenser=Condenser
+green_button=Green Button
+red_button=Red Button
+scanner=Scanner
+wingnut=Wingnut
+magnetron=Magnetron
+compass=Compass
+drive_shaft=Drive Shaft
+turbine_blade=Turbine Blade
+steel_widget=Steel Widget
+dynamo=DYNAMO!
+resistor=Resistor
+fuel_tank=Fuel Tank
+flight_controls=Flight Controls
+neutrino_boards=Neutrino Boards
+display_module=Display Module
+
+[technology-description]
+spanner=Used to build Widgets
+widget=Used to build Doodads
+doodad=Used to build Thingies
+thingie=Used to build Devices
+device=Used to build Apparatus
+apparatus=Used to build Gizmos
+gizmo=Used to build Whachamacallits
+whachamacallit=Used to build Objects
+object=Used to build Gadgets
+gadget=Used to build Dermaflauges
+dermaflauge=Used to build Sprockets
+sprocket=Used to build Springs
+
+compressed_coal=insert text here
+iron_bar=insert text here
+copper_bar=insert text here
+steel_bar=insert text here
+
+spring=Used to build Contraptions
+contraption=Used to build Arches
+arch=Used to build Rings
+ring=Used to build Fuses
+fuse=Used to build Bolts
+bolt=Used to build Levers
+lever=Used to build Rivets
+rivet=Used to build rod
+rod=Used to build Piston
+piston=Used to build Valve
+valve=Used to build Compressor
+compressor=Used to build Condenser
+
+LYFC=insert text here
+folded_iron_bar=insert text here
+folded_copper_bar=insert text here
+folded_steel_bar=insert text here
+
+condenser=Used to build Green Button
+green_button=Used to build Red Button
+red_button=Used to build Scanner
+scanner=Used to build Wingnut
+wingnut=Used to build Magnetron
+magnetron=Used to build Compass
+compass=Used to build Drive Shaft
+drive_shaft=Used to build Turbine Blade
+turbine_blade=Used to build Steel Widget
+steel_widget=Used to build Dynamo
+dynamo=Used to be a good guy
+resistor=Used to build Fuel Tank
+fuel_tank=Used to build Flight Controls
+flight_controls=Used to build Neutrino Boards
+neutrino_boards=Used to build Display Module
+display_module=Used to win the game

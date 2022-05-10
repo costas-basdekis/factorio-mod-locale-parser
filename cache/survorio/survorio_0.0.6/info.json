@@ -1,0 +1,1 @@
+{"name": "survorio", "version": "0.0.6", "date": "2022-04-18", "title": "Survorio", "author": "maroder", "dependencies": ["base >= 1.1"], "description": "Survorio turns Factorio into a survival game, by added life support requirements.", "factorio_version": "1.1"}

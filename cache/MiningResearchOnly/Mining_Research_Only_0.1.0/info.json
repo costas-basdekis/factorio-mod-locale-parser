@@ -1,0 +1,1 @@
+{"name": "MiningResearchOnly", "version": "0.1.0", "title": "Mining Research Only", "author": "intertoothh", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"], "description": "Automatically research mining prod for megabases, based on can070124's mod."}

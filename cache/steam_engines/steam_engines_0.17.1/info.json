@@ -1,0 +1,1 @@
+{"name": "steam_engines", "version": "0.17.1", "title": "Steam Engines", "author": "Mat1k", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Reduces Steam Engine's consumption and power output"}

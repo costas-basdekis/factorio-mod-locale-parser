@@ -1,0 +1,1 @@
+{"name": "Strubels-Mod-HBomb", "version": "1.1.0", "factorio_version": "1.1", "title": "Strubels-Mod-HBomb", "author": "Programming: 5trubel; Graphics: Soup_cant_play", "contact": "info@5trubel.de", "homepage": "https://5trubel.de", "description": "Adds the Mystic Hydrogen-Bomb", "license": "MIT", "dependencies": ["base >= 1.1", "Strubels-Mod-Core >= 0.18.1"]}

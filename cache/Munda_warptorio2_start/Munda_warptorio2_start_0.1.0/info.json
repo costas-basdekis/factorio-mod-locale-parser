@@ -1,0 +1,1 @@
+{"name": "Munda_warptorio2_start", "version": "0.1.0", "title": "Mundas Warptorio2 Start", "author": "Munda", "contact": "", "homepage": "", "description": "Grundausstattung an Logistik-Robotern und Verteidigung.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.50"]}

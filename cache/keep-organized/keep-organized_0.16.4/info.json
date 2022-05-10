@@ -1,0 +1,1 @@
+{"name": "keep-organized", "version": "0.16.4", "title": "Keep Organized", "author": "Thaui", "description": "Quickbar keep organized if filter are set", "factorio_version": "0.16", "dependencies": ["base >= 0.16.21"]}

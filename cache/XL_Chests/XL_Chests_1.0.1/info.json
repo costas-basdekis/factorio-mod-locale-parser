@@ -1,0 +1,1 @@
+{"name": "XL_Chests", "version": "1.0.1", "factorio_version": "1.1", "title": "Extra Large Chests", "author": "Aephiex", "contact": "nope@null.com", "homepage": "https://nah.net", "description": "Adds 2x2, 3x3, and 4x4 version for all vanilla chests.\nThey each have x8, x27, and x64 storage.", "dependencies": ["base >= 0.16"]}

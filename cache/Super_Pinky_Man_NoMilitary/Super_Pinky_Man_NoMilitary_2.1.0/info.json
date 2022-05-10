@@ -1,0 +1,1 @@
+{"name": "Super_Pinky_Man_NoMilitary", "version": "2.1.0", "title": "SPM No Military", "author": "SuperPinkyMan", "homepage": "https://mods.factorio.com/user/SuperPinkyMan", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0", "(?) angelspetrochem"], "description": "This mod removes military technologies from the tree for alienless runs."}

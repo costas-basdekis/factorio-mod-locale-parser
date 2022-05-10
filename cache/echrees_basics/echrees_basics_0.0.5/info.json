@@ -1,0 +1,1 @@
+{"name": "echrees_basics", "version": "0.0.5", "factorio_version": "0.17", "title": "Echree's Base Mod", "author": "Echree", "contact": "", "homepage": "", "description": "Base for other Mods. Remove the 3 furnaces and add 3 new ones", "dependencies": ["base >= 0.17.0", "boblibrary >= 0.17.0"]}

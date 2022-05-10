@@ -1,0 +1,1 @@
+{"name": "BotSpeed", "version": "0.3.0", "title": "Increased Bot Speed", "author": "Andre Castelo", "contact": "andrecastelo@gmail.com", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "This mod increases the base bot speed so it is no so tedious to wait for them to build stuff."}

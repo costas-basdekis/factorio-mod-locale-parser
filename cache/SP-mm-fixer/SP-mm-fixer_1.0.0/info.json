@@ -1,0 +1,1 @@
+{"name": "SP-mm-fixer", "factorio_version": "0.17", "version": "1.0.0", "title": "SP's MM Fixer", "author": "SuicideParty", "homepage": "There is no", "description": "Fixes crash of MaintenanceMadness", "dependencies": ["base >= 0.17.70", "MaintenanceMadness"]}

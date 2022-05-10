@@ -1,0 +1,1 @@
+{"name": "Roboport_MK0", "version": "0.9.0", "title": "Roboport MK0", "author": "Morozkin A.D", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "This mod add Roboport MK0. It differs from the standard roboport with a small construction area and fast drones charging."}

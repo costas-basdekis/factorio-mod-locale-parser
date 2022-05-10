@@ -1,0 +1,1 @@
+{"name": "modular_gamer_storage", "version": "0.3.7", "title": "Modular Gamer Storage", "author": "gamerred", "contact": "", "homepage": "", "description": "Modular storage is a storage system that can store and show a lot of resources. and can be imported and exported in multiple ways", "factorio_version": "1.1", "dependencies": ["stdlib >= 1.4.0"]}

@@ -1,0 +1,1 @@
+{"name": "basicbots16", "version": "0.2.0", "factorio_version": "0.16", "title": "Basic robots mod - 0.16", "author": "sushi.at (Ulyssessword)", "contact": "", "homepage": "", "description": "Adds basic robots. (Upgraded to 0.16, original work from Ulyssessword)", "dependencies": ["base >= 0.16.0"]}

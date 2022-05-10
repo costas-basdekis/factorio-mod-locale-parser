@@ -1,0 +1,1 @@
+{"name": "lottmsc", "version": "0.0.1", "title": "Advanced simple compress", "author": "lottery248", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18", "SimpleCompress >= 0.18.2"], "description": "ideal mod that lets you store intermediates in a compact fashion, requires Simple Compress due to the stack configuration."}

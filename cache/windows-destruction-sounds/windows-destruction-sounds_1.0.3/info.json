@@ -1,0 +1,1 @@
+{"name": "windows-destruction-sounds", "version": "1.0.3", "title": "Windows Destruction Sounds", "author": "Maxreader", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.17"], "description": "Error. You might want to go fix that.\nReplaces several sounds with Windows XP ones, especially those involved in things blowing up"}

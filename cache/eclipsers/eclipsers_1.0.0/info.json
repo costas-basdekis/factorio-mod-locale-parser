@@ -1,0 +1,1 @@
+{"name": "eclipsers", "version": "1.0.0", "title": "Eclipsers Adjustments", "author": "Cody", "email": "williams.c@gmail.com", "contact": "", "homepage": "", "description": "Adds Larger stack Size. And Vehicle Grid. And other adjustments for server", "factorio_version": "1.0", "dependencies": ["base >= 1.0"]}

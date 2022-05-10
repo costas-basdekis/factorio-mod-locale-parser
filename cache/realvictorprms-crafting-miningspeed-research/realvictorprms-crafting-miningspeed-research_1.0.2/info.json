@@ -1,0 +1,1 @@
+{"name": "realvictorprms-crafting-miningspeed-research", "version": "1.0.2", "title": "Mining and Crafting Speed Research", "author": "realvictorprm", "description": "Adds researches to upgrade the mining and crafting speed of your character", "dependencies": ["base >= 0.17"], "factorio_version": "0.17"}

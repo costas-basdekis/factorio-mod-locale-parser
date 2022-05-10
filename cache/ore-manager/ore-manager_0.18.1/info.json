@@ -1,0 +1,1 @@
+{"name": "ore-manager", "version": "0.18.1", "title": "Ore Manager", "author": "adamius", "description": "Ore patches aren't always in the right place. Now you can move them out of the way with precision.", "dependencies": ["base"], "factorio_version": "0.18"}

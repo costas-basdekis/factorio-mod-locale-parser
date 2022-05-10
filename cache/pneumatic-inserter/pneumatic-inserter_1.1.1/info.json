@@ -1,0 +1,1 @@
+{"name": "pneumatic-inserter", "version": "1.1.1", "title": "Steam powered Inserter", "description": "Adds a steam powered inserter. Unlocked by Pneumatics technology.", "author": "Pithlit", "license": "MIT", "dependencies": ["base", "?burner-long-handed-inserter", "?adamo-pipes"], "factorio_version": "1.1"}

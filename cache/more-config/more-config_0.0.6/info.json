@@ -1,0 +1,1 @@
+{"name": "more-config", "version": "0.0.6", "factorio_version": "0.17", "title": "More config", "author": "Aidan647", "contact": "kirillkotka@gmail.com", "homepage": "https://mods.factorio.com/mods", "description": "Adds lot of settings", "dependencies": ["base", "?ezlib", "?faster_dron_charge"]}

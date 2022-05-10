@@ -1,0 +1,1 @@
+{"name": "ukezi_Construction_Drones_IR_Compatibility", "version": "0.17.0", "factorio_version": "0.17", "title": "Ukezi's compatibility fix between Construction Drones and Industrial Revolution", "author": "ukezi", "dependencies": ["base >= 0.17.0", "IndustrialRevolution"], "contact": "", "description": "Compatibility between Construction Drones and Industrial Revolution"}

@@ -1,0 +1,1 @@
+{"name": "slow-trains", "version": "0.0.4", "title": "Slow Trains", "author": "saltlands", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Reduces max speed and acceleration of trains, and increases braking distance, to be a bit more realistic."}

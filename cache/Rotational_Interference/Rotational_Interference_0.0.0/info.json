@@ -1,0 +1,1 @@
+{"name": "Rotational_Interference", "title": "Rotational Interference", "author": "ntakcat", "version": "0.0.0", "contact": "", "homepage": "", "description": "Modify the rotation period of the planet.", "dependencies": ["base >= 1.1.0"], "factorio_version": "1.1"}

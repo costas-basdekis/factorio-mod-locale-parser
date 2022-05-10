@@ -1,0 +1,1 @@
+{"name": "ExplorationVehicle", "version": "2.0.0", "title": "Exploration Vehicle", "author": "Versepelles", "contact": "stevenbrelsford@gmail.com", "description": "Cars now automatically clear impeding trees and rocks.", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"]}

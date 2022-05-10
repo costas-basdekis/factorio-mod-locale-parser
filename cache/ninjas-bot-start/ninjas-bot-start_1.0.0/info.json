@@ -1,0 +1,1 @@
+{"name": "ninjas-bot-start", "version": "1.0.0", "factorio_version": "1.0", "title": "Ninja's Bot Start", "author": "bendb918, Ninja_5tyl3", "description": "Gives the player basic items to use robots at the start of the game.", "dependencies": ["base"]}

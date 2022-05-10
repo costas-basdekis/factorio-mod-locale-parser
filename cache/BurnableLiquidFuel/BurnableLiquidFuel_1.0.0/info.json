@@ -1,0 +1,1 @@
+{"name": "BurnableLiquidFuel", "version": "1.0.0", "factorio_version": "0.15", "title": "Burnable Liquid Fuel", "author": "Pasukaru", "homepage": "", "dependencies": ["base", "bobplates"], "description": "Liquid fuel barrels from Bob's Metals, Chemicals and Intermediates (bobplates) can now actually be used as fuel."}

@@ -1,0 +1,1 @@
+{"name": "Solar-Lamp", "version": "0.1.9", "title": "Solar Lamp", "author": "Endus322", "contact": "Discord: Endus322#8144", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "A self-powered lamp. No cables attached!"}

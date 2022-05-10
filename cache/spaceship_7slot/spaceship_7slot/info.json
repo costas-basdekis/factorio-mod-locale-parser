@@ -1,0 +1,1 @@
+{"name": "spaceship_7slot", "version": "3.14.15", "factorio_version": "1.1", "title": "spaceship 7 slot", "description": "take the spaceship,put it on moon", "author": "meifray", "dependencies": ["! tinted-spaceship", "! tinted-spaceship-Revived", "(?) spaceship_vechicle"]}

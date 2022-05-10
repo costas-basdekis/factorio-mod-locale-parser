@@ -1,0 +1,1 @@
+{"name": "angelslocaleja", "version": "0.16.0", "factorio_version": "0.16", "title": "Angel's Locale Translations for ja", "author": "Die8", "contact": "", "homepage": "http://www.fourslippers.com/factorio/", "description": "Adds a translation from English to Japanese for Angel's mods.", "dependencies": ["base >= 0.16.0"]}

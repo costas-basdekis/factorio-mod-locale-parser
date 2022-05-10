@@ -1,0 +1,1 @@
+{"name": "Pizza", "version": "1.0.0", "title": "Pizza", "author": "Billhoff", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "This mod adds a pizza container."}

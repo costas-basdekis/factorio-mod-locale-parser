@@ -1,0 +1,1 @@
+{"name": "modular-buildings", "version": "0.16.5", "factorio_version": "0.16", "title": "Modular Buildings", "author": "TheStaplergun", "contact": "TheStaplergun 2.0#6920 (DISCORD)", "homepage": "", "description": "Adds modular buildings.", "dependencies": ["base >= 0.16.0"]}

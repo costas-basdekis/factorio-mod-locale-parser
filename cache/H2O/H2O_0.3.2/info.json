@@ -1,0 +1,1 @@
+{"name": "H2O", "version": "0.3.2", "factorio_version": "0.18", "title": "H2O", "author": "Trainwreck", "description": "Combines water and steam into a single fluid - H2O.", "dependencies": ["base >= 0.18.0"]}

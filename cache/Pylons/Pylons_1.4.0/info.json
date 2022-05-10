@@ -1,0 +1,1 @@
+{"name": "Pylons", "version": "1.4.0", "factorio_version": "1.1", "title": "Pylons mod", "author": "DEMONGO1154", "description": "Add protoss pylon's (1x2 buildings & 2X3 to distribute power) from StarCraft.", "dependencies": ["base >= 1.1.0"]}

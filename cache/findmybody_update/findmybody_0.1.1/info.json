@@ -1,0 +1,1 @@
+{"name": "findmybody_update", "version": "0.1.1", "title": "FindMyBody 1.1 Update", "author": "Fishbus", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "Marks where you died on the map"}

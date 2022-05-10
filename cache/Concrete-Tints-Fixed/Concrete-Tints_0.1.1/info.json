@@ -1,0 +1,1 @@
+{"name": "Concrete-Tints-Fixed", "version": "0.1.1", "title": "Concrete Tints", "author": "royalmustard (Memium Association)", "contact": "dev@memium.de", "homepage": "https://mods.factorio.com/mod/Concrete-Tints", "factorio_version": "0.18", "dependencies": ["base >= 0.18.18"], "description": "Create recipes for the new 0.18 concrete color."}

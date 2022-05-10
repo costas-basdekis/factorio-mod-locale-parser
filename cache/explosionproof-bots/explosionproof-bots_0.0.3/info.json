@@ -1,0 +1,1 @@
+{"name": "explosionproof-bots", "version": "0.0.3", "factorio_version": "0.18", "title": "Explosion Proof Bots", "author": "Jazzblue181", "description": "Fixes the construction bots stupidly flying into explosion by giving them 100% explosion resistance. Thanks to fireproof-bot and special thanks for NuclearRobots ;)", "date": "2020-04-30", "dependencies": ["base"]}

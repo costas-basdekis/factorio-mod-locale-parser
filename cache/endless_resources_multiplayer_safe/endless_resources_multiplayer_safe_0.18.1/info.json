@@ -1,0 +1,1 @@
+{"name": "endless_resources_multiplayer_safe", "version": "0.18.1", "title": "Endless Resources - multiplayer safe", "author": "phoenice", "description": "Makes all solid resource deposits yield 100%. Inspired by Philuminati and xxnoobmanxx. Desync-free for version 0.17 and minerals don't have yields above 100%.", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

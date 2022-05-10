@@ -1,0 +1,1 @@
+{"name": "forestry", "version": "0.0.7", "title": "Forestry", "author": "mad_engineer", "factorio_version": "1.1", "description": "Greenhouse: YES. Bees: YES. Genetic modifications: YES. Ores from combs: Hell YES! Build your own bees plant to get ores from bee combs", "dependencies": ["base >= 1.1"]}

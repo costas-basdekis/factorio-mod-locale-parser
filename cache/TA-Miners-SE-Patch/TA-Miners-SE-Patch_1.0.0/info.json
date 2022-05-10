@@ -1,0 +1,1 @@
+{"name": "TA-Miners-SE-Patch", "version": "1.0.0", "title": "TA Miners SE Patch", "author": "Wretlaw120", "description": "Title.", "factorio_version": "1.1", "dependencies": ["base", "WipMod_TA-miners", "space-exploration"]}

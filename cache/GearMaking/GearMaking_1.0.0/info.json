@@ -1,0 +1,1 @@
+{"name": "GearMaking", "version": "1.0.0", "title": "Powerlego's Gear-Making Mod", "author": "powerlego", "description": "Mod that improves crafting of Iron Gear, based on Q's Cable-Making Mod", "factorio_version": "0.17", "dependencies": ["(?) bobassembly", "(?) bobmodules"]}

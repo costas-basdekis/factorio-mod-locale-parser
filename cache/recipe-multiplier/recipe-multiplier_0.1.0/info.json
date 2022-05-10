@@ -1,0 +1,1 @@
+{"name": "recipe-multiplier", "version": "0.1.0", "title": "Recipe Multiplier", "author": "Hornwitser", "contact": "Hornwitser#6431 on Discord", "description": "Multiply the ingredient costs of all recipes", "factorio_version": "1.0", "dependencies": ["base"]}

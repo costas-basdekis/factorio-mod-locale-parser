@@ -1,0 +1,1 @@
+{"name": "VisionRadar", "version": "1.2.1", "title": "VisionRadar", "author": "Kenira", "dependencies": ["base >= 1.1.0"], "description": "Adds a radar that does not scan, but reveals a larger area than the normal radar.", "factorio_version": "1.1"}

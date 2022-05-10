@@ -1,0 +1,1 @@
+{"name": "start-kit", "version": "0.3.1", "title": "Starter pack", "author": "ZaXeLoN", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Starter kit to skip coal part of the game."}

@@ -1,0 +1,1 @@
+{"name": "Poweruparmor", "author": "Raygew", "version": "0.14.14", "title": "Power Up Armor", "description": "Extends the slots on Mk1 and Mk2 power armor. Also adds 10x the durability and increases the resistances.  This is overkill for those who like to build not fight.", "homepage": "nothing here!", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"]}

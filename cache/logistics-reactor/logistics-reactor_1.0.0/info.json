@@ -1,0 +1,1 @@
+{"name": "logistics-reactor", "version": "1.0.0", "title": "Logistics Reactor", "description": "Deliver nuclear fuel by bot.", "author": "illysune", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"], "license": "CC-BY-NC 4.0"}

@@ -1,0 +1,1 @@
+{"name": "market2_autobuy", "version": "0.18.7", "title": "Market - AutoBuy", "author": "OwnlyMe", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base", "market2 >= 0.18.27"], "description": "Emulates the game's 'cheat mode' behaviour, just a bit better and that you have to pay for everything"}

@@ -1,0 +1,1 @@
+{"name": "TeamCoop", "version": "4.0.2", "title": "TeamCoop", "author": "Darkcry", "contact": "", "homepage": "", "description": "Teams can build their own Factory with separate research. By default the rocket silo can not be build by players but there is one randomly spawned in the world", "factorio_version": "1.1", "dependencies": ["base >= 0.17.0", "? rso-mod >= 4.0.3"]}

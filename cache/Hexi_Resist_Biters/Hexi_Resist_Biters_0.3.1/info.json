@@ -1,0 +1,1 @@
+{"name": "Hexi_Resist_Biters", "version": "0.3.1", "title": "Hexi's Resistant Biters", "author": "Hexicube", "contact": "", "homepage": "", "dependencies": ["base >= 0.17.0"], "factorio_version": "0.17", "description": "Adds different types of Biter/Spitter that resist different types of damage, to encourage varied defences."}

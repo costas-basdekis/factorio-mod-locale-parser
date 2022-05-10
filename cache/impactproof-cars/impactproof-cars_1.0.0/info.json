@@ -1,0 +1,1 @@
+{"name": "impactproof-cars", "version": "1.0.0", "factorio_version": "0.16", "title": "Impact Proof Cars", "author": "CandySnakes", "description": "Prevents all car type vehicles from taking impact damage.", "homepage": "http://candysnakes.com", "date": "2018-11-28", "dependencies": ["base >= 0.16"]}

@@ -1,0 +1,1 @@
+{"name": "AdjustableSciencesBobs", "version": "0.1.7", "title": "Adjustable Science Bobs", "author": "BlueNova", "factorio_version": "0.16", "description": "Adds Bobs Logistics Science Pack to Adjustable Science Mod", "dependencies": ["base >= 0.16.0", "AdjustableSciences >= 0.1.7", "boblogistics >= 0.16.0"]}

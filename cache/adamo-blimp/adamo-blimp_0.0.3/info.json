@@ -1,0 +1,1 @@
+{"name": "adamo-blimp", "version": "0.0.3", "title": "Battle Blimp", "author": "none", "dependencies": ["base", "M-Dirigible"], "description": "The Templar march.", "factorio_version": "0.17"}

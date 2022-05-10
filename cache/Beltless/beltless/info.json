@@ -1,0 +1,1 @@
+{"name": "Beltless", "version": "0.1.0", "title": "Beltless", "author": "DrDozer", "contact": "turingatemyhamster@gmail.com", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "This mod removes belts from the game."}

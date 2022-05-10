@@ -1,0 +1,1 @@
+{"name": "DeadlocksStackingForMomo", "version": "1.1.1", "title": "Deadlock Stacking for MomoTweak", "author": "sproott", "dependencies": ["base >= 1.0", "MomosTweak", "(?)deadlock-beltboxes-loaders >= 2.3.5"], "description": "Adds stacking for intermediate products introduced in MomoTweak.", "factorio_version": "1.1"}

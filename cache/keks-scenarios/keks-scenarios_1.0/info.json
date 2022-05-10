@@ -1,0 +1,1 @@
+{"name": "keks-scenarios", "version": "1.0.0", "factorio_version": "0.17", "title": "Keklord's Scenario Pack", "author": "Keklord", "contact": "discord.gg/cKKccKn", "homepage": "", "description": "Just a collection of random scenarios I make. Only one so far but there should be more in the future. Scenarios currently included are: SpiralV3", "dependencies": ["base >= 0.17.62"]}

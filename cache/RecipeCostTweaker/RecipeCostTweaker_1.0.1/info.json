@@ -1,0 +1,1 @@
+{"name": "RecipeCostTweaker", "version": "1.0.1", "title": "Vill's Recipe Cost Tweaker", "author": "Villfuk02", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.19"], "description": "This mod simply multiplies all ingredient amounts in all recipes by a set value to increase or decrease game difficulty."}

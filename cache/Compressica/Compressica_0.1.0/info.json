@@ -1,0 +1,1 @@
+{"name": "Compressica", "version": "0.1.0", "title": "Compressica", "author": "Timmeh", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod adds various 'compressing' recipes, allowing you to transport compact items."}

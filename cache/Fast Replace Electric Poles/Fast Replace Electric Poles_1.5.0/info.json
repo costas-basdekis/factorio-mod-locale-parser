@@ -1,0 +1,1 @@
+{"name": "Fast Replace Electric Poles", "version": "1.5.0", "factorio_version": "0.15", "title": "Fast Replace Electric Poles", "author": "Doomquill", "license": "https://opensource.org/licenses/MIT", "description": "Allows fast replacing of small electric poles to medium electric poles", "dependencies": ["base >= 0.15"]}

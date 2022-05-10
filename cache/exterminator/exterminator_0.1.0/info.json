@@ -1,0 +1,1 @@
+{"name": "exterminator", "version": "0.1.0", "title": "Exterminator", "author": "Jouki", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Get your UPS back by annihilating the units."}

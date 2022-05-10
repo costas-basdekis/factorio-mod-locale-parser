@@ -1,0 +1,1 @@
+{"name": "memebots", "version": "1.2.10", "factorio_version": "0.18", "title": "Meme Bots", "author": "StormyStrife", "contact": "https://twitter.com/StrifeStormy", "homepage": "", "description": "The robots make different noises now. Code copied by hand from 321freddy's mod Bot Buzz, so if that has problems, so will this one. First mod.", "dependencies": ["base >= 0.18.22"]}

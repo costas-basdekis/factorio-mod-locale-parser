@@ -1,0 +1,1 @@
+{"name": "one-health", "version": "0.1.1", "title": "One Health", "factorio_version": "0.17", "author": "pfg", "contact": "pfgithub on github", "homepage": "https://github.com/pfgithub/one-health", "description": "A mod that makes all created entities start with one health", "dependencies": ["base >= 0.16.0"]}

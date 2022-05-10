@@ -1,0 +1,1 @@
+{"name": "Kux-Deadlock-Stacking-Bio_Industries", "version": "2.3.0", "title": "Deadlock Stacking for Bio Industries ", "author": "Kuxynator", "dependencies": ["base", "Bio_Industries"], "description": "Provides stacking and or crating recipes for some Bio Industries items.", "factorio_version": "1.1"}

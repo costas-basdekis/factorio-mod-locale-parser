@@ -1,0 +1,1 @@
+{"name": "fpc_BigChest", "version": "1.0.3", "title": "fpc_\u8d85\u7ea7\u7bb1\u5b50", "author": "fpc987", "description": "\u589e\u52a04\u79cd\u5bb9\u91cf\u4e3a1000\u7684\u7bb1\u5b50\uff0c\u88ab\u52a8\u4f9b\u8d27\uff08\u7ea2\u7bb1\uff09\u80fd\u529b\u3002\u5360\u5730\u5206\u522b\u4e3a1x36,20x20\uff0c4x2\uff0c25x2", "factorio_version": "1.1", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "super", "version": "0.0.7", "title": "\u8d85\u7ea7\u673a\u5668\u548c\u65e0\u9650\u7814\u7a76", "author": "alex", "contact": "none", "homepage": "https://mods.factorio.com/mod/super", "description": "\u589e\u52a0\u4e86\u591a\u79cd100\u500d\u901f\u5ea6\u673a\u5668\u548c\u591a\u9879\u65e0\u9650\u7814\u7a76", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

@@ -1,0 +1,1 @@
+{"name": "advanced-equipment-exoskeleton-only", "version": "0.0.1", "title": "Advanced Equipment (Exoskeleton Only)", "author": "Merikolus", "factorio_version": "1.0", "dependencies": ["base >= 1.0", "advanced-equipment >= 0.0.7"], "description": "Disables everything except for the Exoskeleton and Fusion Reactor MK2 in Daniel Solyom's Advanced Equipment mod."}

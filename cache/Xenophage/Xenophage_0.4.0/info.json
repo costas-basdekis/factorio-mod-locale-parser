@@ -1,0 +1,1 @@
+{"name": "Xenophage", "version": "0.4.0", "title": "Xenophage", "author": "Demosthenex", "contributors": "xargs", "contact": "demo@demosthenes.org", "homepage": "", "description": "Adds an endgame research to kill all bugs, permanently.", "factorio_version": "0.16", "dependencies": ["base >= 0.16"]}

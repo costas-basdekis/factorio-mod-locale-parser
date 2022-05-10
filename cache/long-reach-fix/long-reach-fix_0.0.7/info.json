@@ -1,0 +1,1 @@
+{"name": "long-reach-fix", "version": "0.0.7", "title": "Long Reach Fix", "author": "James Aguilar", "contact": "aguilar.james@gmail.com", "homepage": "http://github.com/jaguilar", "description": "You can reach anything you can see. You can build anywhere you can see.", "factorio_version": "0.15", "dependencies": ["base >= 0.13.0"]}

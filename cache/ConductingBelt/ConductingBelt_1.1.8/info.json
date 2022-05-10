@@ -1,0 +1,1 @@
+{"name": "ConductingBelt", "version": "1.1.8", "title": "Conducting Belt", "description": "This belt is conducter for electricity", "author": "darkfrei", "dependencies": ["base", "? DeadlockStacking"], "factorio_version": "1.1"}

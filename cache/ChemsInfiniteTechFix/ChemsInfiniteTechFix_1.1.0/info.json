@@ -1,0 +1,1 @@
+{"name": "ChemsInfiniteTechFix", "version": "1.1.0", "factorio_version": "1.1", "title": "Chems Infinite Tech Fix", "author": "Chembot", "description": "Fixes infinite tech compatibility issues. Fixes the error Infinite research followed by level x.", "dependencies": ["base"]}

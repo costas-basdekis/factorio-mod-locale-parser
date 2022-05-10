@@ -1,0 +1,1 @@
+{"name": "ClearNightvision", "version": "1.0.1", "factorio_version": "1.0", "title": "Clear nightvision", "author": "Got", "description": "When using the nightvision equipment, the color tone will stay the same as at sunset instead of changing into the hard on the eye desaturated one.", "dependencies": ["base >= 0.18", "! colorimetric-luts"]}

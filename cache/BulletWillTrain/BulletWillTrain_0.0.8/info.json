@@ -1,0 +1,1 @@
+{"name": "BulletWillTrain", "version": "0.0.8", "title": "High Speed Bullet Train Mod", "author": "cfmdobbie", "contact": "http://www.cfmdobbie.org", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "homepage": "http://www.cfmdobbie.org", "description": "Simple mod to add a high-speed and extra-threatening bullet train to Factorio, for ElricM"}

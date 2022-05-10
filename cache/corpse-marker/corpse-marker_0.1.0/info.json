@@ -1,0 +1,1 @@
+{"name": "corpse-marker", "version": "0.1.0", "title": "Corpse Marker", "author": "Niklas Helander", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "This mod adds a marker to your corpse."}

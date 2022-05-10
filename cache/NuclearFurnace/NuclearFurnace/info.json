@@ -1,0 +1,1 @@
+{"name": "NuclearFurnace", "version": "1.1.2", "title": "Nuclear Furnace", "description": "New Nuclear Furnace with nuclear fuel makes smelting much faster. Smelting direct on the nuclear core!", "author": "darkfrei", "license": "MIT", "dependencies": ["base", "? Clowns-Nuclear", "? Nuclear Fuel", "? PlutoniumEnergy"], "factorio_version": "1.1"}

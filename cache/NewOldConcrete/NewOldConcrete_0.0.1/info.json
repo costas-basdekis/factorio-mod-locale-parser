@@ -1,0 +1,1 @@
+{"name": "NewOldConcrete", "version": "0.0.1", "title": "NewOldConcrete", "author": "Kumpu", "dependencies": ["base >= 0.16"], "factorio_version": "0.16", "description": "Replaces the new 0.16 concrete sprites with their 0.15 counterparts."}

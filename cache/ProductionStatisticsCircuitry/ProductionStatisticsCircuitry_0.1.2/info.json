@@ -1,0 +1,1 @@
+{"name": "ProductionStatisticsCircuitry", "version": "0.1.2", "title": "Production/Logistic Statistics Circuitry", "author": "DARKHAWX", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod adds two new constant combinators that outputs production statistics and logistics statistics."}

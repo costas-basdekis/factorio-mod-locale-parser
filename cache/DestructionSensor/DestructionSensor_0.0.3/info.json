@@ -1,0 +1,1 @@
+{"name": "DestructionSensor", "version": "0.0.3", "title": "Destruction Sensor", "author": "Foxite", "contact": "the@dirkkok.nl", "homepage": "", "factorio_version": "1.0", "dependencies": ["base >= 1.0.0"], "description": "Adds a circuit device that emits a signal when a nearby friendly entity is damaged or destroyed by an enemy."}

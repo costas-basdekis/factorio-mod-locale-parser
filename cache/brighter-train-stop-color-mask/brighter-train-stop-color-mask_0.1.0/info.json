@@ -1,0 +1,1 @@
+{"name": "brighter-train-stop-color-mask", "version": "0.1.0", "title": "Brighter Color Mask - Train Stop", "author": "Mooncat", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=45899", "description": "Brightens the color mask of vanilla train stop.", "factorio_version": "0.15", "dependencies": ["base >= 0.15"]}

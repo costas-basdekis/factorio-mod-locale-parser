@@ -1,0 +1,1 @@
+{"name": "LiquidsGenerators", "version": "0.14.0", "factorio_version": "0.14", "title": "Liquids Generators", "author": "Apriori", "contact": "-", "homepage": "-", "description": "Structure to generate liquids. Generates liquid that is inside.", "dependencies": ["base >= 0.13"]}

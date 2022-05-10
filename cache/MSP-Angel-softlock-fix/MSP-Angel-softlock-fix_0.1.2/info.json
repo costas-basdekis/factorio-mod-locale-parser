@@ -1,0 +1,1 @@
+{"name": "MSP-Angel-softlock-fix", "version": "0.1.2", "title": "MSP Angel softlock fix", "author": "Longren", "description": "Fixes some softlocks caused by other mods like Angel-refining.", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "MoreSciencePacks-for1_1 >= 0.1.22", "? angelsrefining >= 0.11", "? pyrawores >= 2.2.7"]}

@@ -1,0 +1,1 @@
+{"name": "nekoGreenhouse", "version": "0.1.2", "title": "Neko's Greenhouse", "author": "GreyNeko", "contact": "GreyNeko@gmail.com", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0", "bobgreenhouse >= 0.16.0"], "changes": "Added the cheaper recipe for raw wood", "description": "This mod overrides the seedling and raw wood recipes from bob"}

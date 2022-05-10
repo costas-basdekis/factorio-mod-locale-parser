@@ -1,0 +1,1 @@
+{"name": "MilitaryScienceCost", "version": "0.0.1", "title": "Military Science Cost", "author": "Meade", "description": "Removes need for Gun Turret and Piercing Ammo, adds need of 5x Regular Ammo and 5x Grenades instead.", "dependencies": ["base"], "factorio_version": "0.16"}

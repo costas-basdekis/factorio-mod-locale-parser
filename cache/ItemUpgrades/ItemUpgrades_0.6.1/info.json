@@ -1,0 +1,1 @@
+{"name": "ItemUpgrades", "version": "0.6.1", "factorio_version": "1.1", "title": "Item Upgrades", "author": "TKM", "contact": "Discord: TKM #8610", "description": "Adds upgrade recipes for many items\n(e.g. Wood chest -> Iron chest).\nWorks with bobs and angels.\nCan be added to existing save.", "dependencies": ["base >= 0.17.0"]}

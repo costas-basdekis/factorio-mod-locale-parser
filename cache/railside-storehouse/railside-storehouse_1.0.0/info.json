@@ -1,0 +1,1 @@
+{"name": "railside-storehouse", "version": "1.0.0", "title": "Railside Storehouses", "author": "Steel Dragon GM", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "A simple way to store materials at train stations."}

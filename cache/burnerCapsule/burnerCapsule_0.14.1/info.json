@@ -1,0 +1,1 @@
+{"name": "burnerCapsule", "version": "0.14.1", "factorio_version": "0.14", "title": "Burner Capsules", "author": "Slayer1557", "description": "New capsule that creates a flamethrower combat robot", "dependencies": ["base >= 0.14.0"]}

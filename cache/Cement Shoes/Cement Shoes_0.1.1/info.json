@@ -1,0 +1,1 @@
+{"name": "Cement Shoes", "author": "EntropySpark", "version": "0.1.1", "title": "Cement Shoes", "description": "Modular equipment to automatically place concrete and other tiles from your inventory as you walk.", "factorio_version": "0.16", "dependencies": ["base >= 0.15.0"]}

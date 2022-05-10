@@ -1,0 +1,1 @@
+{"name": "johnburnerindustries", "version": "0.17.1", "title": "John's Burner Industries", "author": "VelvetRemedy", "contact": "johnmloos1995@gmail.com", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "converts most electric items to burners."}

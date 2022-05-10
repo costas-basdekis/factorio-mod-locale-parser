@@ -1,0 +1,1 @@
+{"name": "smaller_train_stop_collision", "version": "0.18.1", "title": "Smaller Train Stop Collision", "author": "OwnlyMe", "description": "1x1 collision box for train stops, instead of 2x2", "factorio_version": "0.18", "dependencies": []}

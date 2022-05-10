@@ -1,0 +1,1 @@
+{"name": "more-colours", "version": "0.0.2", "title": "More Colours", "author": "zx64", "homepage": "N/A", "description": "Add extra colours for lamps.", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

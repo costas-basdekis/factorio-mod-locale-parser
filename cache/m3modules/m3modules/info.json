@@ -1,0 +1,1 @@
+{"name": "m3modules", "version": "0.18.0", "factorio_version": "0.18", "title": "T4 Modules", "author": "m3tt", "contact": "", "homepage": "", "description": "Tier 4 vanilla modules", "dependencies": ["base >= 0.18.0"]}

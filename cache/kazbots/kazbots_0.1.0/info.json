@@ -1,0 +1,1 @@
+{"name": "kazbots", "version": "0.1.0", "title": "Increased Bot Stats", "author": "Andre Castelo + Modifications by Kaz", "contact": "andrecastelo@gmail.com and Kazbolt", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod increases the base bot speed and load size so it is no so tedious to wait for them to build stuff."}

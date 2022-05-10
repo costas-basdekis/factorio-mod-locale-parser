@@ -1,0 +1,1 @@
+{"name": "GN Evil Recipes", "version": "0.0.3", "factorio_version": "0.15", "title": "GuiltyNeko's Evil Recipes", "author": "GuiltyNeko", "contributors": "", "homepage": "", "description": "Hey kid. Yeah, you. You want a furnace from ten stone bricks instead of five stone? I got some of that over here...", "dependencies": ["base >= 0.15.0", "? marathomaton >= 0.0.1"]}

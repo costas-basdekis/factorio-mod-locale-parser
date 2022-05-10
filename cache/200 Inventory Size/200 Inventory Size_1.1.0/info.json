@@ -1,0 +1,1 @@
+{"name": "200 Inventory Size", "title": "200 Inventory size", "author": "Black Dragon", "contact": "", "homepage": "https://mods.factorio.com/mod/200%20Inventory%20Size", "description": "Increase the player's main inventory size to 200.", "version": "1.1.0", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

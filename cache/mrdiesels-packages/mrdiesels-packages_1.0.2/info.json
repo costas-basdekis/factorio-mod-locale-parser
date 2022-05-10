@@ -1,0 +1,1 @@
+{"name": "mrdiesels-packages", "version": "1.0.2", "title": "MrDiesels Packages", "author": "MrDiesel", "contact": "https://twitter.com/AKAlex_YT", "description": "Adds Packed Items", "dependencies": ["base >= 1.0.0"], "factorio_version": "1.0"}

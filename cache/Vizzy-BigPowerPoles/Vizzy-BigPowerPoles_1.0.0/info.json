@@ -1,0 +1,1 @@
+{"name": "Vizzy-BigPowerPoles", "version": "1.0.0", "title": "Vizzy - Big Power Poles", "author": "Vizzy", "description": "Extends wires of Big electric poles to 32.", "factorio_version": "0.15", "dependencies": ["base >= 0.15.18"]}

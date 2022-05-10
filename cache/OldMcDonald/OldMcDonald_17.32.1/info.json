@@ -1,0 +1,1 @@
+{"name": "OldMcDonald", "version": "17.32.1", "title": "Old McDonald", "author": "jackd23", "contact": "d.mon@gmx.net", "homepage": "http://www.jackd23.de/factorio/oldmcdonald", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "? bobpower >= 0.17.0"], "description": "Something about milking pigs."}

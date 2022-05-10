@@ -1,0 +1,1 @@
+{"name": "VehicleTrails", "version": "1.1.1", "title": "Vehicle Trails", "description": "Vehicles leave trails", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "1.1"}

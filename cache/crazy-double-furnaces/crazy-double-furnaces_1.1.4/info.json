@@ -1,0 +1,1 @@
+{"name": "crazy-double-furnaces", "version": "1.2.4", "title": "Crazy's Double Electric Furnaces", "author": "Crazy", "homepage": "", "description": "Adds higher tier versions of the eletric furnaces using double smelting", "factorio_version": "0.18", "dependencies": ["base", "DoubleFurnace >= 0.2.1", "Electric Furnaces >= 2.4.4"]}

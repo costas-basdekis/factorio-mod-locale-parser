@@ -1,0 +1,1 @@
+{"name": "GrenadeLauncher", "version": "0.2.0", "title": "Grenade Launcher", "author": "Scepheo", "contact": "", "homepage": "https://github.com/Scepheo/Factorio-Grenade-Launcher", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Adds a grenade launcher, for added early-game offensive power."}

@@ -1,0 +1,1 @@
+{"name": "ClosestFirstOneDotOne", "version": "1.1.0", "title": "Closest First for 1.1", "author": "_italics_", "contact": "", "homepage": "https://github.com/audun/factorio-closestfirst", "factorio_version": "1.1", "dependencies": ["base >= 0.16"], "description": "Lets personal construction bots save energy and time by building and deconstructing close things first"}

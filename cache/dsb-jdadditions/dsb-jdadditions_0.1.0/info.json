@@ -1,0 +1,1 @@
+{"name": "dsb-jdadditions", "version": "0.1.0", "title": "dsb-jdadditions", "author": "JD", "factorio_version": "0.18", "dependencies": ["base >= 0.18", "deadlock-beltboxes-loaders >= 2.3.5"], "description": "Adds stuff I think should already be stackable"}

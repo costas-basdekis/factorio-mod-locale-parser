@@ -1,0 +1,1 @@
+{"name": "LessUPS", "version": "0.0.1", "title": "Less UPS", "author": "psznm", "contact": "psznm@seznam.cz", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Speeds up evrything 2x, meant to play at half speed to save UPS."}

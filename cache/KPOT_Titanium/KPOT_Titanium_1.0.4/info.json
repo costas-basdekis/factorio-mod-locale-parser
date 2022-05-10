@@ -1,0 +1,1 @@
+{"name": "KPOT_Titanium", "version": "1.0.4", "title": "KPOT's Titanium Mod", "author": "KPOToff", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"], "description": "This mod adds mineable titanium ore to the map and some applications."}

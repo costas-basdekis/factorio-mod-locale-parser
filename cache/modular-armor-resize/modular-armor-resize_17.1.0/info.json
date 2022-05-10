@@ -1,0 +1,1 @@
+{"name": "modular-armor-resize", "version": "17.1.0", "title": "Modular Armor Resize", "author": "Ranakastrasz", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Rescale Modualar and Power armor grid size to neatly fit 2x2 equipment."}

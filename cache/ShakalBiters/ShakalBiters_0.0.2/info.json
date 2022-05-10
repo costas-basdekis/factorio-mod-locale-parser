@@ -1,0 +1,1 @@
+{"name": "ShakalBiters", "version": "0.0.2", "title": "Shakal Biters", "author": "voldkost", "contact": "gildor#0256", "homepage": "", "factorio_version": "0.16", "description": "Replaces biters with jackal aka Shakal", "dependencies": ["base >= 0.16"]}

@@ -1,0 +1,1 @@
+{"name": "Fire-Electronics", "version": "1.2.0", "title": "Fire Electronics", "author": "James Fire", "homepage": "", "description": "Redoes circuit production to include a bit of real-world processes.", "factorio_version": "1.1", "dependencies": ["base >= 0.18.0", "? bzsilicon", "? bobplates", "? bobmodules", "? bobwarfare", "LSlib"]}

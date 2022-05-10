@@ -1,0 +1,1 @@
+{"name": "wooden-floors", "version": "0.0.1", "title": "Gamma's Wooden Floors", "author": "GammaDelta", "description": "Adds wooden and polished wooden floors so you have something to do with all that wood.", "factorio_version": "0.15", "dependencies": ["base >= 0.15"]}

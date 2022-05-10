@@ -1,0 +1,1 @@
+{"name": "Tankbuff", "author": "PD", "version": "0.0.1", "title": "Tankbuff", "description": "Increased Tank Gun Range and Damage.", "homepage": "nothing here!", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"]}

@@ -1,0 +1,1 @@
+{"name": "VehicleGridReduced", "version": "0.2.1", "title": "Vehicle Grid Reduced", "author": "Serialtasted", "contact": "", "homepage": "", "description": "Adds an equipment grid to any base or modded vehicle without grid. Car: 4x2 | Tanks: 6x2 | Locomotives: 6x4 | Wagons: 8x4 | Artillery Wagons: 8x6", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

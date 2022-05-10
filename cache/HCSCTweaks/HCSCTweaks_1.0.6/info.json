@@ -1,0 +1,1 @@
+{"name": "HCSCTweaks", "version": "1.0.6", "title": "Hardcorio:SC2 Tweaks", "author": "Stentorian", "contact": "", "homepage": "", "dependencies": ["base >= 0.17.0", "hardcorio"], "description": "Ammo stack sizes increased. Mags have more rounds in them. Magazine recipes yield less mags to compensate. Makes matter compression optional.", "factorio_version": "0.17"}

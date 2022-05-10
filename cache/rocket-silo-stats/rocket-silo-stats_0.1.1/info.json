@@ -1,0 +1,1 @@
+{"name": "rocket-silo-stats", "version": "0.1.1", "factorio_version": "1.1", "title": "Rocket Silo Stats", "author": "curiosity-a", "contact": "", "homepage": "", "description": "Adds a side panel to keep track of the number of items launched in rocket payloads. Can be hidden with a button or a hotkey. Configurable.", "dependencies": ["base >= 1.1.1"]}

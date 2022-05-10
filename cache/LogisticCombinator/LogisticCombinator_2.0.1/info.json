@@ -1,0 +1,1 @@
+{"name": "LogisticCombinator", "version": "2.0.1", "title": "Logistic Combinator", "author": "SixFive7", "contact": "jori@huisman.io", "homepage": "https://www.netwerkplek.com/", "description": "A combinator signalling the items from the logistic network it is placed in.", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

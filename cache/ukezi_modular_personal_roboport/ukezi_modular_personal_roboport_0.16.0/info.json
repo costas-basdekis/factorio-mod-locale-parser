@@ -1,0 +1,1 @@
+{"name": "ukezi_modular_personal_roboport", "version": "0.16.0", "factorio_version": "0.16", "title": "ukezi's modular personal roboport", "author": "ukezi", "dependencies": ["base >= 0.16.0"], "contact": "", "description": "A modular personal roboport with a configurable number of tiers."}

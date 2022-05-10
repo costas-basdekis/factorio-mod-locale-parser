@@ -1,0 +1,1 @@
+{"name": "a-space-exploration-fixer", "version": "0.0.1", "factorio_version": "0.17", "title": "Space Exploration Nauvis Resource fixer", "author": "Dr_MarkEy", "description": "Fixes the resource limit on nauvis introduced in space exploration that many people dislike.", "homepage": "", "dependencies": ["base >= 0.17.65"]}

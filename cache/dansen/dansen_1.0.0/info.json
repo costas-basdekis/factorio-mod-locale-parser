@@ -1,0 +1,1 @@
+{"name": "dansen", "version": "1.0.0", "title": "Dansen Labs", "author": "eightIQengineer, HJ, Mandalore", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "An update to HJ's Caramelldansen Lab. 'Makes labs a bit more... caramel'"}

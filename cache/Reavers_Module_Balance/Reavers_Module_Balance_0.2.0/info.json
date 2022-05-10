@@ -1,0 +1,1 @@
+{"name": "Reavers_Module_Balance", "version": "0.2.0", "title": "Reaver's Module Balance", "author": "thereaverofdarkness", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Rebalances modules to be more viable at all levels as well as viable both in combinations or with only one type used."}

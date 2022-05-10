@@ -1,0 +1,1 @@
+{"name": "galindell-world", "version": "0.0.4", "title": "Galindell World", "author": "Galindell", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Life is Factorio. 12 factions are fighting for the planet. 4 aliens, 4 human, 4 robotic."}

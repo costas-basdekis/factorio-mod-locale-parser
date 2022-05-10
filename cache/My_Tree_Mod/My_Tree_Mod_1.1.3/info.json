@@ -1,0 +1,1 @@
+{"name": "My_Tree_Mod", "version": "1.1.3", "factorio_version": "0.17", "title": "My Tree Mod", "author": "SamuelCombrinck", "contact": "", "homepage": "https://mods.factorio.com/mod/My_Tree_Mod", "description": "Craft and plant (blue-printable) tree saplings that grow into trees, and automate it with the Recursive Blueprints mod.", "dependencies": ["base >= 0.14.0"]}

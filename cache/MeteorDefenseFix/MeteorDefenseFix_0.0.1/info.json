@@ -1,0 +1,1 @@
+{"name": "MeteorDefenseFix", "version": "0.0.1", "factorio_version": "1.1", "title": "Meteor Defense Fix", "author": "Zenoxide", "description": "Fix Auto Logisitcs for Meteor defense installations in Space Exploration", "dependencies": ["base", "space-exploration >= 0.5.90", "EndgameCombat >= 1.105.1"]}

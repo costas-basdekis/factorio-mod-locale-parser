@@ -1,0 +1,1 @@
+{"name": "Moar_Roboports", "version": "1.0.1", "title": "Special Roboports", "author": "becks0815", "description": "Adds speciel roboports for Base extension and bot based production ", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0"]}

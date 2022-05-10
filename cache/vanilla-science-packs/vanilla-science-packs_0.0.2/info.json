@@ -1,0 +1,1 @@
+{"name": "vanilla-science-packs", "version": "0.0.2", "factorio_version": "1.1", "title": "Vanilla-Science-Packs", "author": "V453000", "contact": "", "homepage": "", "description": "Reverts science pack icons. Useful when some other mod changes them and you don't want that.", "dependencies": ["base >= 1.0.0", "(?) space-exploration"]}

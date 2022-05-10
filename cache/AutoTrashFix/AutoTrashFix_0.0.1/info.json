@@ -1,0 +1,1 @@
+{"name": "AutoTrashFix", "version": "0.0.1", "title": "Auto Trash Fix", "author": "Tain", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "If you request an item with count > auto trash count, increases auto trash count."}

@@ -1,0 +1,1 @@
+{"name": "Spidertron-Start", "version": "1.1.0", "title": "Spidertron Start", "author": "swap", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Start with Spidertron and a remote controller"}

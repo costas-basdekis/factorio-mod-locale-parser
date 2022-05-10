@@ -1,0 +1,1 @@
+{"name": "ships-zcomp-compatibility-patch", "version": "0.1.0", "title": "Cargo Ships + Omnicompression Compatibility Patch", "author": "Erythion", "description": "Reduces icon sizes to 32 to match up to Omni standards. Who needs 96x icons, anyway?", "dependencies": ["base >= 0.16", "omnimatter_compression >= 2.0.10", "cargo-ships >= 0.0.24"], "factorio_version": "0.16"}

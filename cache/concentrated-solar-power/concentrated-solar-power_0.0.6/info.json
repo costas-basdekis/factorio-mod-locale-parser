@@ -1,0 +1,1 @@
+{"name": "concentrated-solar-power", "version": "0.0.6", "title": "Concentrated Solar Power", "author": "NindyBun", "homepage": "", "description": "Using the heat of the sun to generate power.", "factorio_version": "1.1", "dependencies": ["base >= 1.0"]}

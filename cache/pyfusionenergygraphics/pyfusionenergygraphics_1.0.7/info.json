@@ -1,0 +1,1 @@
+{"name": "pyfusionenergygraphics", "version": "1.0.7", "factorio_version": "1.1", "title": "Pyanodons Fusion Energy Graphics", "author": "Pyanodon, Nexela, Kingarthur", "contact": "", "homepage": "", "description": "contains the graphics for Pyanodons Fusion Energy", "dependencies": ["stdlib >= 1.0.0"], "package": {"ignore": [], "scripts": {}}}

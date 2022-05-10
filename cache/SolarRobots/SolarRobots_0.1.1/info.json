@@ -1,0 +1,1 @@
+{"name": "SolarRobots", "version": "0.1.1", "title": "Solar Robots", "author": "TripleDogDare", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Adds solar panels to robots so they can work longer during the day. Needs new sprites but uses tint to help make them look different."}

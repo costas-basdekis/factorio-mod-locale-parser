@@ -1,0 +1,1 @@
+{"name": "Barrel-Recipes", "factorio_version": "0.17", "version": "1.2.0", "title": "Barrel Recipes", "description": "Adds alternative recipes that instead use barreled fluids.", "author": "andreinafactory", "dependencies": ["base"]}

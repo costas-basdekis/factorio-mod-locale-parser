@@ -1,0 +1,1 @@
+{"name": "signalsplittercombinator", "version": "0.0.2", "factorio_version": "0.16", "title": "Signal Splitter Combinator", "author": "Cadde", "homepage": "", "contact": "no-contact@not-an-email.com", "description": "A combinator that allows you to pick ONE signal from the network via it's index.", "dependencies": ["base >= 0.16.0"]}

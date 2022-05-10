@@ -1,0 +1,1 @@
+{"name": "HydraulicPumpjacks", "version": "0.1.2", "title": "Hydraulic Pumpjacks", "author": "darkfrei", "description": "Adds new pumpjack and deep crude oil, that needs water for high speed oil production", "dependencies": ["base"], "factorio_version": "0.16"}

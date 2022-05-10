@@ -1,0 +1,1 @@
+{"name": "cheap-miniloader", "version": "0.2.1", "title": "Cheap Miniloader", "author": "Charlie He", "factorio_version": "0.18", "dependencies": ["base >= 0.18.3", "miniloader >= 1.11.3"], "description": "A mod that reduces the cost of miniloaders to that of deadlock loaders, allowing you to start building your train network before red circuits."}

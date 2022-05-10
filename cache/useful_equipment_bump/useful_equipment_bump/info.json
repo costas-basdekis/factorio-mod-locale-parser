@@ -1,0 +1,1 @@
+{"title": "Useful equipment(v1.1)", "author": "NightOps", "name": "useful_equipment_bump", "version": "1.2.1", "description": "Additional useful modules for your armor with modular grid system", "homepage": "https://mods.factorio.com/user/NightOps", "factorio_version": "1.1", "dependencies": ["base >= 0.18"]}

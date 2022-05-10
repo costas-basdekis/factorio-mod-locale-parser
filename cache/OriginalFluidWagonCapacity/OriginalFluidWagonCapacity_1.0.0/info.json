@@ -1,0 +1,1 @@
+{"name": "OriginalFluidWagonCapacity", "version": "1.0.0", "title": "Original Fluid Wagon Capacity", "author": "Saltamontes", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod changes the fluid wagon stats back to what they were before 0.16.8 (75k capacity, recipe of 3 tanks and 3000 weight)"}

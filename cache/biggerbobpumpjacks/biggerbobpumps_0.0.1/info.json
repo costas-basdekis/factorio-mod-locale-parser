@@ -1,0 +1,1 @@
+{"name": "biggerbobpumpjacks", "version": "1.0.0", "factorio_version": "0.17", "title": "Bigger Bob's Pumpjacks", "author": "animamachinae", "contact": "animamachinae@gmail.com", "homepage": "", "dependencies": ["base >= 0.17.29", "bobmining >= 0.17.0"], "description": "Increases the fluidbox size of Bob's pumpjacks. May break balance, use at your own risk!"}

@@ -1,0 +1,1 @@
+{"name": "Burner-Challenge", "version": "0.1.2", "title": "Burner Challenge", "author": "AJ213", "contact": "", "homepage": "https://www.youtube.com/channel/UCGGGZQpb6FBUsbyO7ExIMMg", "description": "Can you beat one of the hardest challenges in Factorio's history?", "factorio_version": "0.14", "dependencies": ["base >= 0.11.1"]}

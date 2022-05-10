@@ -1,0 +1,1 @@
+{"name": "Research-Planner", "description": "Let you plan your future researches.", "version": "0.3.2", "title": "Research Planner", "author": "Adrien 'Larandar' DUDOUIT-EXPOSITO", "contact": "adrien@dudouit.me", "homepage": "https://mods.factorio.com/mod/Research-Planner", "factorio_version": "1.0", "dependencies": ["base >= 1.0.0", "stdlib >= 1.4.0"]}

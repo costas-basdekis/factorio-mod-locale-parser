@@ -1,0 +1,1 @@
+{"name": "Better_Thermal_Water", "version": "0.17.2", "title": "Earlier Thermal Water", "author": "hexagonhexagon", "description": "Makes the thermal water extractor recipe available 1 tier earlier in AngelBob's.", "dependencies": ["base >= 0.17", "bobplates >= 0.17.11", "angelsrefining >= 0.10.14", "boblibrary >= 0.17.5"], "factorio_version": "0.17"}

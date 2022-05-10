@@ -1,0 +1,1 @@
+{"name": "pyscience", "version": "0.0.2", "title": "PyScience", "author": "romtos", "description": "Extends the Science Production of PyCoal/PyFusion with ScienceCostTweaker", "factorio_version": "0.16", "dependencies": ["base", "pycoalprocessing", "pyfusionenergy", "bobplates", "?PyCoalTBaA", "?aai-industry-sp0"]}

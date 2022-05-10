@@ -1,0 +1,1 @@
+{"name": "StoneAge_affecting_Beacon", "version": "1.0.1", "title": "StoneAge Affecting Beacon", "author": "Copper Boltwire", "homepage": "https://mods.factorio.com/mod/StoneAge_affecting_Beacon", "description": "Makes beacons affect Burner Drills, Stone & Steel Furnaces and Assembling Machines 1, 2 & 3.", "factorio_version": "1.0", "dependencies": ["base >= 0.18.36"]}

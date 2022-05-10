@@ -1,0 +1,1 @@
+{"name": "OmniMatter_Ore_Deblocker", "version": "0.16.2", "title": "Omnimatter Ore Deblocker", "author": "Kremnari", "description": "Turns Omnimatter into a rarer ore and allows all Angels/Clowns ores to spawn", "factorio_version": "0.16", "dependencies": ["omnimatter >= 1.4.0", "angelsrefining >= 0.9.0", "? Clowns-Extended-Minerals >= 1.0.6", "? bobores >= 0.16.0"]}

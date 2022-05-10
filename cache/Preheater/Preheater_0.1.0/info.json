@@ -1,0 +1,1 @@
+{"name": "Preheater", "version": "0.1.0", "title": "Preheater", "author": "can00336", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"], "description": "Allows water to be preheated via a preheater instead of turning to steam."}

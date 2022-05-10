@@ -1,0 +1,1 @@
+{"name": "biterproof", "version": "19.0.1", "factorio_version": "1.1", "title": "Biter-proofing", "author": "calcwizard", "homepage": "", "dependencies": [], "description": "Stops biters from chewing on your power lines by making them invincible.\n\nCan also affect rails and belts. By default only affects newly-placed entities but can be applied retroactively."}

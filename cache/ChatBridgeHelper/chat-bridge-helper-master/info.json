@@ -1,0 +1,1 @@
+{"name": "ChatBridgeHelper", "title": "Chat Bridge Helper", "version": "0.1.3", "author": "A_D", "contact": "A_D on espernet", "homepage": "git.ferricyanide.solutions/A_D/goGoGameBot", "factorio_version": "0.18", "dependencies": ["base >= 0.17"], "description": "This mod exists to provide access to prefix-free chat for chat bridges without completely disabling achievements"}

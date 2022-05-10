@@ -1,0 +1,1 @@
+{"name": "SameTierBraiding", "version": "1.0.0", "title": "Same Tier Braiding", "author": "Lukeluke", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Adds new transport belts with the same speed as existing ones to enable braiding of belts with the same speed."}

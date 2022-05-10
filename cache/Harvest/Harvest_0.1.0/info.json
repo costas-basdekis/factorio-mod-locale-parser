@@ -1,0 +1,1 @@
+{"name": "Harvest", "version": "0.1.0", "title": "Harvest", "author": "nulvinge", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.15", "Arborium >= 0.16.0"], "description": "Plant and harvest trees"}

@@ -1,0 +1,1 @@
+{"name": "Ragu-xm-ramp-fix", "version": "0.1.1", "title": "Xander(2.X) and Rampant compatability improvements", "author": "Ragu", "factorio_version": "0.17", "dependencies": ["xander-mod-th >= 2.2.4", "Rampant >= 0.17.28"], "description": "change for resistance for Xander walls and armors to match rampant enemy damage types"}

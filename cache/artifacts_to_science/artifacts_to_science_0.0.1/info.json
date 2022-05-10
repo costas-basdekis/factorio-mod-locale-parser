@@ -1,0 +1,1 @@
+{"name": "artifacts_to_science", "version": "0.0.1", "title": "Artifacts to science", "author": "Antihutka", "contact": "antihutka@gmail.com", "homepage": "http://hammy.sk/", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "bobenemies >= 0.17.0"], "description": "This mod adds a recipe to convert Bob's colored alien artifacts to science."}

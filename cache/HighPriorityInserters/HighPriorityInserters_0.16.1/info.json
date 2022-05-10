@@ -1,0 +1,1 @@
+{"name": "HighPriorityInserters", "version": "0.16.1", "title": "high priority long-handed inserters", "author": "siniox", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "higher power input priority for long-handed inserters"}

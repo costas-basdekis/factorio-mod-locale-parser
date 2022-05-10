@@ -1,0 +1,1 @@
+{"name": "Perfectly-Valid-Prototypes", "version": "0.0.1", "factorio_version": "0.18", "title": "Perfectly Valid Prototypes", "author": "mrudat", "contact": "", "dependencies": ["base >= 0.18.0"], "homepage": "", "description": "A set of entirely valid (but strange) prototype definitions to stress-test mods adherance to the specification."}

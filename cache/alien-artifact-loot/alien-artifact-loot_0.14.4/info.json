@@ -1,0 +1,1 @@
+{"name": "alien-artifact-loot", "title": "Alien Artifact Loot", "author": "CppMonkey", "contact": "parsons151185@gmail.com", "homepage": "https://github.com/cppmonkey/FactorioAlienLoot", "description": "Makes alien units drop Alien Artifacts when they die", "dependencies": ["base"], "version": "0.14.4", "factorio_version": "0.14"}

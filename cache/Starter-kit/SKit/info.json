@@ -1,0 +1,1 @@
+{"name": "Starter-kit", "version": "0.1.6", "factorio_version": "0.16", "title": "FDE Starter Kit", "author": "Soultechnology", "description": "A Basic Modular armor Assisted-Start and respawn setup", "dependencies": ["base >= 0.16.0"]}

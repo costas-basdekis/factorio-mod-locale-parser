@@ -1,0 +1,1 @@
+{"name": "day-x", "version": "0.16.0", "factorio_version": "0.16", "title": "Day X", "author": "Trifire", "description": "This is a simple mod which displays a count of game-days you've spent in your factory. It also comes with a 24h clock.", "dependencies": ["base >= 0.16.0"]}

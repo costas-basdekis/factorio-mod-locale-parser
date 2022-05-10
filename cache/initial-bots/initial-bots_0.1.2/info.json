@@ -1,0 +1,1 @@
+{"name": "initial-bots", "version": "0.1.2", "factorio_version": "0.17", "title": "Initial Bots", "author": "bkohrs", "description": "Gives the player a few bots to start the game", "dependencies": ["base >= 0.17.0", "? boblogistics >= 0.17.0"]}

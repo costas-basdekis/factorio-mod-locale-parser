@@ -1,0 +1,1 @@
+{"name": "freerobodocking", "version": "0.1.0", "title": "Free Robodocking", "author": "Ranakastrasz", "dependencies": ["base >= 1.1.0"], "description": "Lets robots dock regardless of power level, but still recharge if staying out.", "factorio_version": "1.1"}

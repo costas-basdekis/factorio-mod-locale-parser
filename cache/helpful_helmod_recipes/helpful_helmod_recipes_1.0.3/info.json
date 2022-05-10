@@ -1,0 +1,1 @@
+{"name": "helpful_helmod_recipes", "version": "1.0.3", "factorio_version": "0.18", "title": "Helpful Helmod Recipes", "author": "Sopel", "contact": "", "homepage": "", "description": "Adds hidden recipes for every item/fluid allowing voiding/sourcing items in helmod (only with output or only with input).", "dependencies": ["base >= 0.18.0", "? void_info", "? fnei"]}

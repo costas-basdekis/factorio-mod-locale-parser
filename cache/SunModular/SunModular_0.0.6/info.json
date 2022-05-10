@@ -1,0 +1,1 @@
+{"name": "SunModular", "version": "0.0.6", "title": "SunModular", "author": "Sunnova", "homepage": "", "description": "Modular Chests, and Logistic Modular Chests, lengths 6 to 55, steps of 7", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

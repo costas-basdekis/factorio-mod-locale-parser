@@ -1,0 +1,1 @@
+{"name": "vlads_AutoTime", "version": "1.0.2", "title": "Vlads Auto Time", "author": "Vlad", "description": "Automatically slowsdown time when you do nothing so you can think about it, adds fast-slow speed shortcut, adds speed multiplier button. For single player only.", "homepage": "", "contact": "", "dependencies": ["base >= 0.17.0"], "factorio_version": "0.17"}

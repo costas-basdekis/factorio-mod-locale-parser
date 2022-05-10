@@ -1,0 +1,1 @@
+{"name": "Bot_Servicing", "version": "1.4.8", "title": "Bot Servicing", "author": "Mylon", "contact": "https://forums.factorio.com/viewtopic.php?f=95&t=38757", "homepage": "https://www.patreon.com/mylon", "description": "Robots occasionally break and need to be serviced.", "factorio_version": "1.1", "dependencies": ["base >= 0.4.1", "(?)Krastorio2"]}

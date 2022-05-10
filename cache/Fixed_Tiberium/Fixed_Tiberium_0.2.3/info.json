@@ -1,0 +1,1 @@
+{"name": "Fixed_Tiberium", "version": "0.2.3", "title": "Fixed Tiberium", "author": "SAH4001", "contact": "Spencer.huston5@gmail.com", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Origonaly by Zillo7 fixed by SAH4001. Adds Tiberium - Harvest it to convert it to other ores."}

@@ -1,0 +1,1 @@
+{"name": "Ore_Conversion", "version": "0.2.1", "title": "Ore Conversion", "author": "Cyfagy", "contact": "", "homepage": "", "description": "Ore can convertet into Rich Stone and than into another Ore. Works with Bob, Angel's, MadClown, 5Dim Ores.", "factorio_version": "1.1", "dependencies": ["base >= 0.18"]}

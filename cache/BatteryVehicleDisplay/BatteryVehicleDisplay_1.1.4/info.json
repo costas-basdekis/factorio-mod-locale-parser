@@ -1,0 +1,1 @@
+{"name": "BatteryVehicleDisplay", "version": "1.1.4", "title": "Battery Vehicle Display", "description": "Shows how much the vehicle has electrical energy", "author": "darkfrei", "license": "MIT", "factorio_version": "1.1", "dependencies": ["base", "? VehicleGrid"]}

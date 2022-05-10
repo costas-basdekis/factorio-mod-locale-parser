@@ -1,0 +1,1 @@
+{"name": "NEW_Custom_Hand_Crafting_Speed", "version": "1.0.4", "title": "NEW_Custom_Hand_Crafting_Speed", "author": "tianmaq", "homepage": "", "dependencies": ["base >= 0.18.0"], "description": "Allows you to set a desired hand crafting multiplier for your player.", "factorio_version": "0.18"}

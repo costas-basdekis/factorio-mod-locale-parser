@@ -1,0 +1,1 @@
+{"name": "ImprovedOre", "version": "0.0.6", "title": "Improved Ores", "author": "Soultechnology", "contact": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "less 'arcady' look for recources iron,copper,uranium, and oil"}

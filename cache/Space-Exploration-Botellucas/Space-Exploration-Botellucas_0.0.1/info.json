@@ -1,0 +1,1 @@
+{"name": "Space-Exploration-Botellucas", "version": "0.0.1", "title": "Create space science from rocket science", "author": "Dicren&Exensor", "factorio_version": "1.0", "description": "Create space science from rocket science", "dependencies": ["space-exploration >= 0.4.28"]}

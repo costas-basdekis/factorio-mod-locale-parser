@@ -1,0 +1,1 @@
+{"name": "manifold-pumps", "version": "0.0.5", "title": "Manifold Pumps", "author": "wakjah", "contact": "https://github.com/wakjah/FactorioManifold", "homepage": "https://mods.factorio.com/mod/manifold-pumps", "description": "Adds pumps with multiple inputs and outputs.", "factorio_version": "1.1", "dependencies": ["base >= 0.17.0", "? boblogistics >= 0.17.1"]}

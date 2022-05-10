@@ -1,0 +1,1 @@
+{"name": "BobFusionRobots", "author": "nagapito", "version": "0.0.4", "factorio_version": "0.15", "title": "Fusion Robots for Bob's", "homepage": "", "description": "Expensive robots that don't need to recharge adpated for Bob's mods.", "dependencies": ["base >= 0.15.0", "boblibrary >= 0.15.6", "boblogistics >= 0.15.5", "bobelectronics >= 0.15.0", "? bobplates >= 0.15.6"]}

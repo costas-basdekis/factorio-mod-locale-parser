@@ -1,0 +1,1 @@
+{"name": "iper-belt", "version": "0.0.9", "factorio_version": "1.1", "date": "2020-07-21", "title": "iper belt", "author": "Grifonice99", "contributers": "Fleny113", "dependencies": ["base >= 1.0.0", "? Random_Utilities >= 2.0.0"]}

@@ -1,0 +1,1 @@
+{"name": "spaceblock", "version": "0.3.9", "title": "Spaceblock", "author": "PyroFire", "dependencies": ["base >= 1.1", "! warptorio2", "! SeaBlock", "! starshiptorio", "! stacktorio", "(?) omnimatter", "(?) DyWorld"], "description": "Seablock but without the sea", "factorio_version": "1.1", "homepage": "https://www.patreon.com/pyrofire"}

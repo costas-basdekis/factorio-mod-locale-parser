@@ -1,0 +1,1 @@
+{"name": "steambarrel", "version": "1.1.0", "title": "Steam Barreling", "author": "Mobius1", "description": "Enables barreling of steam", "factorio_version": "1.1", "dependencies": ["base >= 0.16.0"], "homepage": "https://forums.factorio.com/viewtopic.php?f=91&t=48728"}

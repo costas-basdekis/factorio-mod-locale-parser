@@ -1,0 +1,1 @@
+{"name": "discovery_tree", "version": "1.0.4", "title": "Discovery Tree", "author": "Villfuk02", "dependencies": ["base >= 1.1.19", "? space-exploration-postprocess", "? Krastorio2"], "description": "Hides technologies until the prerequisites are researched, for a greater sense of discovery.\nBest with mods you don't know yet!", "factorio_version": "1.1"}

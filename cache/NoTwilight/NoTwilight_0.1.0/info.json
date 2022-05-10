@@ -1,0 +1,1 @@
+{"name": "NoTwilight", "version": "0.1.0", "title": "No Twilight", "contact": "", "author": "cooky173", "homepage": "", "description": "Removes the day to night and night to day transition in order to stop the lights going off too soon. Maintains day light equivalent of 0.72", "dependencies": ["base >= 0.16"], "factorio_version": "0.16"}

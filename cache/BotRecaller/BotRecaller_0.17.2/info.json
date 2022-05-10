@@ -1,0 +1,1 @@
+{"name": "BotRecaller", "version": "0.17.3", "title": "Bot Recaller", "author": "Sebbi", "contact": "https://github.com/sebbi08/BotRecaller", "homepage": "https://github.com/sebbi08/BotRecaller", "description": "Utility mod to help recall/collect bots within a network.", "factorio_version": "0.17", "dependencies": ["base >= 0.4.1"]}

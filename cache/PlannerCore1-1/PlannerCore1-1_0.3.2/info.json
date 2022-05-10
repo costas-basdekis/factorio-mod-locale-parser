@@ -1,0 +1,1 @@
+{"name": "PlannerCore1-1", "version": "0.3.2", "title": "PlannerCore for 1.1", "author": "ChucklesTheBeard", "description": "Core for planner series of mods.\nOriginal by bob809\nWill be obsoleted if bob809 updates their version.", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "! PlannerCore"]}

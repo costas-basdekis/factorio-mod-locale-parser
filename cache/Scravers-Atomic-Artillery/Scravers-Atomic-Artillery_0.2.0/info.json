@@ -1,0 +1,1 @@
+{"name": "Scravers-Atomic-Artillery", "version": "0.2.0", "title": "Scravers Atomic Artillery", "author": "Scravers", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds a new turret to launch nuclear shells, and a new remote for targeting."}

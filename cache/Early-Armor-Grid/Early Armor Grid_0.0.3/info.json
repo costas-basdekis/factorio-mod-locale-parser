@@ -1,0 +1,1 @@
+{"name": "Early-Armor-Grid", "version": "0.0.3", "factorio_version": "1.1", "title": "Early Armor Grid", "author": "dtoxic", "contact": "", "homepage": "", "description": "Adds quipment grid to Light & Heavy Armor", "dependencies": ["base >= 1.1"]}

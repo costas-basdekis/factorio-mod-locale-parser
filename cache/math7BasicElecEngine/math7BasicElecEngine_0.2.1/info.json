@@ -1,0 +1,1 @@
+{"name": "math7BasicElecEngine", "version": "0.2.1", "factorio_version": "1.1", "title": "math7 basic electric engine unit", "author": "Mathematics7", "description": "Adds a recipe for basic electric engine that is added to the cost of inserters, assemblers and more.", "dependencies": ["base >= 0.14.0", "math7-library >= 0.2.0", "? bobassembly", "? RubberBelts"]}

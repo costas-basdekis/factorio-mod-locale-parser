@@ -1,0 +1,1 @@
+{"name": "ShowRoboportLimits", "version": "0.1.1", "title": "Show Roboport Limits", "description": " ", "author": "darkfrei", "license": "MIT", "dependencies": ["base", "? sixbit_lamps"], "factorio_version": "0.18"}

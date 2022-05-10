@@ -1,0 +1,1 @@
+{"name": "light_armour_fire", "version": "0.1.1", "title": "Flaming armor!", "author": "You", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod makes light armour leave behind damaging fire as you walk around."}

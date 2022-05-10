@@ -1,0 +1,1 @@
+{"name": "uniturret", "version": "0.18.28", "title": "Universal Turret", "author": "OwnlyMe", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base", "?railgun_revival", "?Turret-Shields"], "description": "One Turret, Any Ammo."}

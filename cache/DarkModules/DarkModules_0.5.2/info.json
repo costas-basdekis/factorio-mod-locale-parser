@@ -1,0 +1,1 @@
+{"name": "DarkModules", "version": "0.5.2", "title": "DarkModules", "author": "Dark_K1", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod adds in modules which are adding only positive effects and allows add modules to be used in beacons."}

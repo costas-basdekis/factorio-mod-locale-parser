@@ -1,0 +1,1 @@
+{"name": "train-stop-defaults", "version": "1.0.2", "title": "Train Stop Defaults", "author": "utoxin", "description": "A simple mod that allows you to specify defaults for placed train stops. Currently, this just means the train limits.", "dependencies": ["base >= 1.1", "flib >= 0.8"], "factorio_version": "1.1"}

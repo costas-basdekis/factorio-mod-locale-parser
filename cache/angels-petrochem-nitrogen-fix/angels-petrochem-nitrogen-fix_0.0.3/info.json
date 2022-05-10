@@ -1,0 +1,1 @@
+{"name": "angels-petrochem-nitrogen-fix", "version": "0.0.3", "factorio_version": "0.16", "title": "Angels petrochem nitrogen fix", "author": "Neemys", "description": "Easier nitrogen recipe", "dependencies": ["base >= 0.16.0", "angelspetrochem >= 0.5.10"], "license": "GNU GPLv3"}

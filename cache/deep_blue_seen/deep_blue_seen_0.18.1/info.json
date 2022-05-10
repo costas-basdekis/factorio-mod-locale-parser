@@ -1,0 +1,1 @@
+{"name": "deep_blue_seen", "version": "0.18.1", "title": "Deep Blue Seen", "author": "steinio", "contact": "steinio @ https://forums.factorio.com/", "homepage": "https://mods.factorio.com/user/steinio", "description": "Drop deconstruction planner, blueprints or blueprint books to ground and they are gone.", "dependencies": ["base"], "factorio_version": "0.18"}

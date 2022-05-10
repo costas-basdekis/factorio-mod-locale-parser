@@ -1,0 +1,1 @@
+{"name": "AdvancedEndlessResources", "version": "1.1.1", "title": "Advanced Endless Resources", "author": "_ImPat", "description": "All Resources now have yields. Compatible with old worlds where ammount is already below 50. For more info and credit visit this mod on mods.factorio.com", "factorio_version": "0.14", "dependencies": ["base >= 0.13"]}

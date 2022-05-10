@@ -1,0 +1,1 @@
+{"name": "startwithtin", "version": "1.0.0", "title": "Start With Tin", "author": "Bedrockbreaker", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15", "bobplates >= 0.15.0"], "description": "When starting a new game, adds 4 tin plates to main inventory. Allows one to create the lab to process further tin."}

@@ -1,0 +1,1 @@
+{"name": "Better-Energy-production", "version": "0.2.3", "title": "Better Energy production", "author": "emirate.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.35", "? Better-Repair-Packs", "? space-exploration", "? Krastorio2"], "description": "Adds various energy production buildings."}

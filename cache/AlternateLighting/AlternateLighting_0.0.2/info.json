@@ -1,0 +1,1 @@
+{"name": "AlternateLighting", "version": "0.0.2", "title": "Alternate Lighting", "author": "Vas", "contact": "Discord: Vas#1890", "homepage": "https://mods.factorio.com/mod/AlternateLighting", "description": "Changes lighting and adds new lights to the game.", "dependencies": ["base >= 0.16.0"], "factorio_version": "0.16"}

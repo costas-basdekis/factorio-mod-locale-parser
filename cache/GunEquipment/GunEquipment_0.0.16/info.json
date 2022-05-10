@@ -1,0 +1,1 @@
+{"name": "GunEquipment", "version": "0.0.16", "title": "Gun Equipment", "author": "DeznekCZ", "contact": "www.facebook.com/DeznekCZ", "homepage": "", "description": "Mode add automatic guns applyable to equipment grid.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "(?) Krastorio2 >= 1.0.0"]}

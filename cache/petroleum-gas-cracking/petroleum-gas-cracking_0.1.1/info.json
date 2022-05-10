@@ -1,0 +1,1 @@
+{"name": "petroleum-gas-cracking", "version": "0.1.1", "title": "Petroleum Gas cracking", "author": "gentil", "description": "Add 2 recipes to crack the oil gas, to obtain heavy or light oil.", "factorio_version": "0.17", "dependencies": ["base >= 0.17"]}

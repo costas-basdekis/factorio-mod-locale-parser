@@ -1,0 +1,1 @@
+{"name": "BetterRefineU235", "version": "0.0.2", "title": "Better refine U235", "author": "Luke", "homepage": "none", "description": "Changes the refine propability of Uranium 235", "factorio_version": "1.1", "dependencies": ["base >= 1.1.26", "! super-generous-recipes"]}

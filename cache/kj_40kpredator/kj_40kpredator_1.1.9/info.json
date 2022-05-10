@@ -1,0 +1,1 @@
+{"name": "kj_40kpredator", "version": "1.1.9", "title": "King Jo's Warhammer 40K Predator Tank", "author": "TheKingJo", "contact": "", "homepage": "", "description": "Adds a Warhammer 40K Predator Annihilator Tank.", "factorio_version": "1.1", "dependencies": ["base", "kj_fuel >= 1.1.0", "? space-exploration >= 0.5.57"]}

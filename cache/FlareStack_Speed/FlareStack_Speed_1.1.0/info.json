@@ -1,0 +1,1 @@
+{"name": "FlareStack_Speed", "version": "1.1.0", "title": "Flare Stack Speed Tweak", "author": "ptx0", "contact": "", "homepage": "", "description": "Flare Stack Incinerator is much faster.", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0", "Flare Stack"]}

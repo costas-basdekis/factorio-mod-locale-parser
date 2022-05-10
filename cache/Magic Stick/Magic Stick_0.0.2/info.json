@@ -1,0 +1,1 @@
+{"name": "Magic Stick", "author": "zifnab06", "version": "0.0.2", "title": "Magic Stick", "description": "Magic Stick that mines quickly", "homepage": "none", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"]}

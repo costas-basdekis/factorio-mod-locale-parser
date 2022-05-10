@@ -1,0 +1,1 @@
+{"name": "Piggy-Initial-Scan", "version": "1.0.0", "factorio_version": "0.17", "title": "PiggyWhiskey's Initial Scan", "author": "PiggyWhiskey", "description": "This mod scans around the starting area when you start a new game. 0.17 Port from Klonan's mod", "homepage": "n/a", "date": "04.04.2019", "dependencies": ["base >= 0.17.0"]}

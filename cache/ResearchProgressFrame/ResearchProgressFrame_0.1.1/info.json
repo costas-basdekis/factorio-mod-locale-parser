@@ -1,0 +1,1 @@
+{"name": "ResearchProgressFrame", "version": "0.1.1", "title": "ResearchProgressFrame", "author": "Grokzen", "description": "A simple addon that adds a gui frame that shows the current % of your research. It also shows 'Estimated Time to Completion'", "factorio_version": "0.15", "dependencies": ["base"]}

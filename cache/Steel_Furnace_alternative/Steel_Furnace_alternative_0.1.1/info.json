@@ -1,0 +1,1 @@
+{"name": "Steel_Furnace_alternative", "version": "0.1.1", "title": "Steel_Furnace_alternative", "author": "julius1701", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "This mod changes the recipe for the steel furnace to use the stone furnace as ingredient and to have lower steel and stone brick requirements."}

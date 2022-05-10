@@ -1,0 +1,1 @@
+{"name": "DeepDigging", "version": "0.2.0", "factorio_version": "1.1", "title": "Deep Digging", "author": "Me", "contact": "viper5030@hotmail.com", "homepage": "", "description": "All normally non-infinite resources are infinite with varying yields that dimish over time", "dependencies": ["base >= 1.1.0"]}

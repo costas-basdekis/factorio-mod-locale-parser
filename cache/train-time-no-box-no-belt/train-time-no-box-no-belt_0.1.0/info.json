@@ -1,0 +1,1 @@
+{"name": "train-time-no-box-no-belt", "version": "0.1.0", "title": "Train Time! No Boxes, no Belts", "author": "You", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "This mod removes all boxes and belts (except yellow belts which cannot be placed). Roboports and logistic robots are also removed as they need boxes to function."}

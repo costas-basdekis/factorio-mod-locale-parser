@@ -1,0 +1,1 @@
+{"name": "ChangeTag", "version": "0.0.1", "title": "ChangeTag", "author": "Puretide", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Allows administrators to change the tags and colour of other players via console commands"}

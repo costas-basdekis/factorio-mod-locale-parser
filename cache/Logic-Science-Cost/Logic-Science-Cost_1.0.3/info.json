@@ -1,0 +1,1 @@
+{"name": "Logic-Science-Cost", "version": "1.0.3", "title": "Logic Science Cost", "author": "Rebecca-x", "description": "Change the science recipe to mix it up! Get inserters, furnace and rail out of our packs", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

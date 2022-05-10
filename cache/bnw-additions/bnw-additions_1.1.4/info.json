@@ -1,0 +1,1 @@
+{"name": "bnw-additions", "version": "1.1.4", "factorio_version": "1.1", "title": "Brave New World Additions", "author": "Sladki", "description": "QoL addon for Brave New World mod: fast placing ghost power lines, loop through Roboports, quickly move to a Radar from the map, prevent changing Assemblers recipes spilling items around.", "dependencies": ["base >= 1.1.0"]}

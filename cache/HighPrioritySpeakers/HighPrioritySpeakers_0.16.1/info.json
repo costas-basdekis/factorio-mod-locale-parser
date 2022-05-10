@@ -1,0 +1,1 @@
+{"name": "HighPrioritySpeakers", "version": "0.16.1", "title": "high priority speakers", "author": "siniox", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "higher power input priority for speakers"}

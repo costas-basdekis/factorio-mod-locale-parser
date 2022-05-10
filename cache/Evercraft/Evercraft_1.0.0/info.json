@@ -1,0 +1,1 @@
+{"name": "Evercraft", "version": "1.0.0", "title": "Evercraft", "author": "Mylon", "contact": "forum PM", "homepage": "https://www.patreon.com/mylon", "description": "Recipes take proportionally longer to craft", "factorio_version": "1.1", "dependencies": ["base >= 0.4.1"]}

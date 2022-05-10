@@ -1,0 +1,1 @@
+{"name": "StackSizeCombinator", "title": "Stack Size Combinator", "author": "SkywardRay", "description": "This mod adds a combinator that outputs the stack size of every item.", "contact": "", "homepage": "https://github.com/SkywardRay/StackSizeCombinator", "version": "0.1.2", "factorio_version": "0.17", "dependencies": ["base >= 0.16"]}

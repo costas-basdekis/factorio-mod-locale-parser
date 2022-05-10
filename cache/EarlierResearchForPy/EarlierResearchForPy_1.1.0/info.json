@@ -1,0 +1,1 @@
+{"name": "EarlierResearchForPy", "version": "1.1.0", "factorio_version": "1.1", "title": "Earlier Research For Py", "author": "billbo99", "description": "As Py takes so long to go from one science to another, allow some technologies to have multiple steps per science pack", "dependencies": ["? Transport_Drones", "? Mining_Drones"]}

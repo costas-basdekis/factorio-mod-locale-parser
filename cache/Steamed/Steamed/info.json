@@ -1,0 +1,1 @@
+{"name": "Steamed", "description": "Production line and mining drills need steam instead of electric energy.", "version": "1.0.2", "title": "Steamed", "author": "darkfrei", "dependencies": ["base", "? SteamCooling"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "armor-grid-1x1", "version": "0.4.0", "title": "armor grid", "author": "GLADIADOR", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Faz o equipamento 1x1."}

@@ -1,0 +1,1 @@
+{"name": "Stack-Size-Info", "version": "0.18.1", "title": "Stack Size Info", "author": "steinio", "homepage": "https://mods.factorio.com/user/steinio", "description": "Shows stack size of items in tooltip.", "factorio_version": "0.18", "dependencies": ["base"]}

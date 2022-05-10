@@ -1,0 +1,1 @@
+{"name": "ToggleSpeedBoost", "author": "Snouz", "version": "1.0.1", "title": "Toggle Speed Boost", "homepage": "", "description": "Adds a configurable button to speed the game up.", "factorio_version": "1.1", "dependencies": ["base", "(?)TimeButtons", "(?)TimeTools", "(?)Kux-SpeedButtons"]}

@@ -1,0 +1,1 @@
+{"name": "waterbased-pollution-filter", "version": "0.6.0", "title": "Water-based pollution filter", "author": "Kenia Nya", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Adds in a way to clear pollution using a water filter technique."}

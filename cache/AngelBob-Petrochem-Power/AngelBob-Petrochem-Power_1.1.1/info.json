@@ -1,0 +1,1 @@
+{"name": "AngelBob-Petrochem-Power", "version": "1.1.1", "title": "AngelBob Petrochem Power", "author": "trexxet", "description": "Adds fuel value to NGL & Syngas.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "bobpower >= 1.1.0", "angelspetrochem >= 0.9.17"]}

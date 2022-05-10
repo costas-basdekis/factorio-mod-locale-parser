@@ -1,0 +1,1 @@
+{"name": "CW-hydrogen-power", "version": "0.2.11", "title": "Hydrogen Power Systems", "author": "CyberWizard2261", "description": "Using the power of univese's most common element", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0", "? CW-thermal-solar-power >= 0.2.5"]}

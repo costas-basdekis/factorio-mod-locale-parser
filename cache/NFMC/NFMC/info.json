@@ -1,0 +1,1 @@
+{"name": "NFMC", "title": "Nobodys Factorio Mod Compilation", "contact": "nobody@nightforge.net", "author": "Nobody", "version": "1.1.0", "factorio_version": "1.1", "description": "A compilation of various mods for my own use.", "dependencies": ["base >= 1.1.0"]}

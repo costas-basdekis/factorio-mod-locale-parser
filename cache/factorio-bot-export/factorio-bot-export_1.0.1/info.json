@@ -1,0 +1,1 @@
+{"name": "factorio-bot-export", "version": "1.0.1", "title": "Factorio Bot Data Export", "author": "miffels & Phoscur", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod exports some event data to files to be picked up by factorio-bot"}

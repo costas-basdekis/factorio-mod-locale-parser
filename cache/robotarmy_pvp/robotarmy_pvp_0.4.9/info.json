@@ -1,0 +1,1 @@
+{"name": "robotarmy_pvp", "version": "0.4.9", "title": "Robot Army PvP", "author": "Kyranzor, Skorpyo", "contact": "kyranzor@gmail.com", "homepage": "https://github.com/kyranf/robotarmyfactorio", "description": "PvP version of Robot Army. Original mod by Kyranzor and modified by Skorpyo", "dependencies": ["base >= 1.1.5", "Unit_Control >= 0.1.0"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "FactorioExtended-Plus-Power", "version": "1.1.0", "factorio_version": "1.1", "date": "2020-11-21", "title": "FactorioExtended Plus-Power", "author": "jimmyjon711 (Original Author: Nath Gamer)", "contributers": "billbo99", "homepage": "", "description": "", "dependencies": ["base >= 1.1.0", "FactorioExtended-Plus-Core >= 1.1.0"]}

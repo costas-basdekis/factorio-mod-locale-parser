@@ -1,0 +1,1 @@
+{"name": "alzax_helper_items", "version": "0.0.1", "title": "Alkor's and ZaXeLoN's helper items", "author": "alkor_shikyaro", "contact": "alkor@alkor.pw", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod adds some helper items to the end-game"}

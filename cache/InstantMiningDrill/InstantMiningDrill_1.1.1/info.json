@@ -1,0 +1,1 @@
+{"name": "InstantMiningDrill", "version": "1.1.1", "title": "Instant Mining Drill", "description": "Mining drills have much higher power and some bigger mining area, the balance is not changed", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "1.1"}

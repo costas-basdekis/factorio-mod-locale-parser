@@ -1,0 +1,1 @@
+{"name": "ir-synthetic-gems", "version": "1.0.0", "title": "Industrial Revolution: synthetic gems", "author": "MrJet (=SA333)", "homepage": "", "description": "Add new way to product gems", "factorio_version": "0.17", "dependencies": ["base >= 0.17.13", "IndustrialRevolution >= 1.0.12"]}

@@ -1,0 +1,1 @@
+{"name": "QwrtLamp", "version": "0.3.0", "title": "Alex's RGB Lamp", "author": "qqwertt", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "! SchallLampContrast"], "description": "Adds a new lamp with fully customizable colors."}

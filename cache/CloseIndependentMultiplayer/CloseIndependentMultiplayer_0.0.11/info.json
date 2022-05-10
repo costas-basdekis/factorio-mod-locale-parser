@@ -1,0 +1,1 @@
+{"name": "CloseIndependentMultiplayer", "version": "0.0.11", "title": "Close Independent Multiplayer", "author": "Contradictator", "factorio_version": "0.18", "description": "Attempts to make per-player enemies that focus only on their player target, unless attacked."}

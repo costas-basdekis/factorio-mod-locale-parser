@@ -1,0 +1,1 @@
+{"name": "Dirigible", "version": "0.0.4", "factorio_version": "0.16", "title": "Dirigible", "author": "SPolygon", "homepage": "", "dependencies": ["base >= 0.16.0"], "description": "Blimps, airships, aerostats, whatever you wanna call them..."}

@@ -1,0 +1,1 @@
+{"name": "CommuGuideMod", "version": "1.2.1", "title": "Commu GuideMod", "author": "Ritn", "contact": "", "homepage": "http://mods.join.factorio-francophone.ovh", "factorio_version": "1.1", "dependencies": ["base >= 0.18", "CreativeItems", "! creative-mod"], "description": "Ce mod permet d'ajouter une \u00e9quipe 'Guide' avec le Creative mod actif."}

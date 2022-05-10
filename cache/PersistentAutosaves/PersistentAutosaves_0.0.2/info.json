@@ -1,0 +1,1 @@
+{"name": "PersistentAutosaves", "version": "0.0.2", "title": "Persistent Autosaves", "author": "ChemicalRascal", "contact": "nod.helm@gmail.com", "homepage": "", "factorio_version": "1.0", "dependencies": ["base >= 1.0.0"], "description": "Adds additional autosaves, that don't overwrite each other."}

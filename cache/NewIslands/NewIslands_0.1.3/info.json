@@ -1,0 +1,1 @@
+{"name": "NewIslands", "description": "New terrain generation, more rivers and islands between them.", "version": "0.1.3", "title": "New Islands", "author": "darkfrei", "dependencies": ["base", "? Extra_Floors", "? alien-biomes"], "factorio_version": "0.18"}

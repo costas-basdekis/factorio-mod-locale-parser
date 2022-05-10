@@ -1,0 +1,1 @@
+{"name": "FactoReach", "version": "1.0.1", "title": "FactoReach", "author": "SphynxLoL", "contact": "Twitch.tv/SphynxLoL", "homepage": "Twitch.tv/SphynxLoL", "description": "Mine, interact, or build anywhere on your screen!", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

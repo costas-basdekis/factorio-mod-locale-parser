@@ -1,0 +1,1 @@
+{"name": "chest", "version": "2.0.0", "title": "BiusArt Ammo Loader+ graphics", "author": "", "homepage": "", "description": "Just changes the Ammo Loader+ sprite.", "factorio_version": "0.18", "dependencies": ["base >= 0.17", "ammo-loader"]}

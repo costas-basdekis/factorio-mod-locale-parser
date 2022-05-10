@@ -1,0 +1,1 @@
+{"name": "tmp-ignore-me-grenade-yeet", "version": "1.1.0", "title": "Temp Grenade Yeet", "author": "haselkern", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Instead of placing grenades and other explosives on the ground, inserters will yeet them into the distance."}

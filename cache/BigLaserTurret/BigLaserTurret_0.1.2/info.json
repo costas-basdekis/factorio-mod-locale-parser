@@ -1,0 +1,1 @@
+{"name": "BigLaserTurret", "version": "0.1.2", "title": "Big Laser Turret", "author": "Adiking03", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Adds a Big Laser Turret"}

@@ -1,0 +1,1 @@
+{"name": "kj_40kbaneblade", "version": "1.1.7", "title": "King Jo's Warhammer 40K Baneblade Tank", "author": "TheKingJo", "contact": "", "homepage": "", "description": "Adds a Warhammer 40K Baneblade Tank.", "factorio_version": "1.1", "dependencies": ["base", "kj_fuel >= 1.1.0", "? space-exploration >= 0.5.57", "? kj_40klemanruss > 1.1.0", "? kj_40kpredator > 1.1.0"]}

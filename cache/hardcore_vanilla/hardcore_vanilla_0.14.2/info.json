@@ -1,0 +1,1 @@
+{"name": "hardcore_vanilla", "version": "0.14.2", "factorio_version": "0.14", "title": "hardcore_vanilla", "author": "die_8_,ep0d", "contact": "", "homepage": "http://www.fourslippers.com/factorio/", "description": "hardcore recipes, hardcore generator, hardcore smog, and so on...", "dependencies": ["base >= 0.14.00"]}

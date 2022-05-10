@@ -1,0 +1,1 @@
+{"name": "FartsAndScreams", "version": "1.0.0", "title": "Farts and Screams", "author": "RunawayDev", "contact": "https://www.reddit.com/user/RunawayDev", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Replaces weapon sounds with farts and biter deaths with male human screams."}

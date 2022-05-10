@@ -1,0 +1,1 @@
+{"name": "CeeTomRebalance", "version": "0.0.1", "title": "CeeTom's Rebalance", "author": "CeeTom", "contact": "", "homepage": "https://github.com/CeeTom/FactorioRebalance", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Changes some research & crafting, specifically removing sticks and bricks and making concrete critical."}

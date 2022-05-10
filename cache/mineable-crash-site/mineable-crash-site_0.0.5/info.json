@@ -1,0 +1,1 @@
+{"name": "mineable-crash-site", "version": "0.0.5", "title": "Mineable Crash Site", "author": "klugemonkey", "contact": "klugemonkey#4045", "description": "This mod modifies the existing crash site object prototypes to allow mining with animation.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "? Krastorio2"]}

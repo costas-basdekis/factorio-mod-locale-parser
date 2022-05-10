@@ -1,0 +1,1 @@
+{"name": "ParallelWorlds", "version": "0.8.0", "title": "Parallel Worlds", "author": "Wolfs Hollow", "description": "Creates several identical surfaces that you can travel between", "factorio_version": "1.1", "dependencies": ["base >= 0.18", "Surfaces_API"]}

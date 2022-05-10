@@ -1,0 +1,1 @@
+{"name": "robosubstation", "version": "0.3.0", "factorio_version": "1.1", "title": "Robosubstation", "author": "dorfl", "contact": "Dorfl <ceramic.atheist@gmail.com>", "homepage": "https://gitlab.com/aerosuidae/robosubstation", "description": "A Substation with robot recharge ports.", "dependencies": ["base >= 1.1.0"]}

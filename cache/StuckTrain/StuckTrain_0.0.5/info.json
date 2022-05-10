@@ -1,0 +1,1 @@
+{"name": "StuckTrain", "version": "0.0.5", "title": "Stuck on a train", "author": "felsspat", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.16"], "description": "You are stuck on a train and have to build your base from the train."}

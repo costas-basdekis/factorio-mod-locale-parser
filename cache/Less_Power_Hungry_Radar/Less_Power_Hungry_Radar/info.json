@@ -1,0 +1,1 @@
+{"name": "Less_Power_Hungry_Radar", "version": "0.1.1", "title": "Less Power Hungry Radar", "author": "thinkcraftpl", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Radars now consume 30kW, not 300kW"}

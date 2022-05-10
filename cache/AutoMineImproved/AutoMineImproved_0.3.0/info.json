@@ -1,0 +1,1 @@
+{"name": "AutoMineImproved", "version": "0.3.0", "title": "Automatic Mine Layer", "author": "Sebastian", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.15"], "description": "Automatically Place Miners On Ore Patches"}

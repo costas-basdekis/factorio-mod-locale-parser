@@ -1,0 +1,1 @@
+{"name": "DeadlocksStackingForOmni", "version": "1.1.0", "factorio_version": "1.1", "title": "Deadlock Stacking for Omni", "description": "Add stacked items for Omni", "author": "sproott", "homepage": "", "dependencies": ["base", "omnimatter", "? deadlock-beltboxes-loaders", "? DeadlockCrating"]}

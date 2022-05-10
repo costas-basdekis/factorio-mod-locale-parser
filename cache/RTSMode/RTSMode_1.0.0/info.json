@@ -1,0 +1,1 @@
+{"name": "RTSMode", "version": "1.0.0", "title": "RTS Mode", "author": "Stiny", "contact": "stiny@stiny.org", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod sets you in RTS Mode."}

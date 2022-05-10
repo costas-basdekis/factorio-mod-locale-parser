@@ -1,0 +1,1 @@
+{"name": "LR_Turret", "version": "1.1.1", "title": "Long Range Turret", "author": "Yehn", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Provides research to unlock a mid tier turret between basic gun turrets and lasers: Longer range and greater durability, but at the cost of much slower traverse speed and fire rate."}

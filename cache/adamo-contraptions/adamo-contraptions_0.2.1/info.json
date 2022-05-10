@@ -1,0 +1,1 @@
+{"name": "adamo-contraptions", "version": "0.2.1", "factorio_version": "1.0", "title": "Adamo Accessories", "author": "none", "description": "Oh, you'd be surprised at the things you can learn while you're doing alterations.", "dependencies": ["base", "? adamo-nuclear", "? Nuclear Fission Armor"]}

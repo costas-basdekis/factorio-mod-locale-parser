@@ -1,0 +1,1 @@
+{"name": "robotworld-continued-japaneseTranslation", "version": "1.0.0", "title": "Robot World Continued Japanese Translation", "author": "kznmk2", "description": "Robot World Continued \u306e\u975e\u516c\u5f0f\u65e5\u672c\u8a9e\u5316\u30d5\u30a1\u30a4\u30eb", "factorio_version": "0.18", "dependencies": ["base >= 0.18.13", "robotworld-continued >= 0.18.8"]}

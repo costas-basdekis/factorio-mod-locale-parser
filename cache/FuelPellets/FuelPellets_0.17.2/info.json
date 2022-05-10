@@ -1,0 +1,1 @@
+{"name": "FuelPellets", "version": "0.17.2", "factorio_version": "0.17", "title": "Fuel Pellets", "author": "SPolygon", "homepage": "", "dependencies": ["base >= 0.17.0"], "description": "Easy way to merge coal and solid fuel into your factory fuel system"}

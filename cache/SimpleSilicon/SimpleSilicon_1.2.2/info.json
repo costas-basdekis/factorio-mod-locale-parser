@@ -1,0 +1,1 @@
+{"name": "SimpleSilicon", "version": "1.2.2", "title": "Simple Silicon", "author": "Arcitos", "homepage": "", "description": "Extends the way circuits and solar panels are manufactured in a simple yet challenging way. All recipes are balanced and vanilla compatible.", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

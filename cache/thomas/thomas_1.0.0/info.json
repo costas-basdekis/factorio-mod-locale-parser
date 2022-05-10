@@ -1,0 +1,1 @@
+{"name": "thomas", "version": "1.0.0", "title": "Thomas", "author": "dudebro420", "contact": "", "homepage": "https://mods.factorio.com/mod/thomas", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Adds Thomas as a locomotive. High res only"}

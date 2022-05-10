@@ -1,0 +1,1 @@
+{"name": "TidyFactory", "version": "2.0.3", "title": "Tidy Factory", "description": "This mod enable electrical equipments to connect other equipments directry. You don't need to put electric poles between machines to spread machines anymore.", "author": "ryogak", "contact": "https://github.com/RyogaK", "dependencies": ["base"], "factorio_version": "0.17"}

@@ -1,0 +1,1 @@
+{"name": "telokis-map-presets", "version": "1.0.0", "title": "Telokis Map Presets", "author": "Telokis", "contact": "telokis0@gmail.com", "homepage": "", "description": "Some handy presets I often use", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

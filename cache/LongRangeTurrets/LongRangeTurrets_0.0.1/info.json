@@ -1,0 +1,1 @@
+{"name": "LongRangeTurrets", "version": "0.0.1", "factorio_version": "0.17", "title": "Long Range Turrets", "author": "mman0385 (edit by Fire_Fly)", "license": "https://unlicense.org/", "description": "Laser and Gun Turrets have more range.", "dependencies": ["base >= 0.17"]}

@@ -1,0 +1,1 @@
+{"name": "CustomModule", "version": "0.0.2", "title": "Custom Modules", "author": "hizi", "description": "Mod that adds a new type of module, with increase production speed without affecting pollution. Warning! Affecting gameplay so much!", "factorio_version": "0.15", "dependencies": ["base >= 0.15"]}

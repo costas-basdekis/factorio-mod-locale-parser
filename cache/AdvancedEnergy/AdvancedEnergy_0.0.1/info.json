@@ -1,0 +1,1 @@
+{"name": "AdvancedEnergy", "version": "0.0.1", "title": "Advanced Energy", "author": "Agent039", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "My first created mod. This mod adds more better energy-items like Solar-Panels or Accumulators."}

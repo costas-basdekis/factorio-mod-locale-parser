@@ -1,0 +1,1 @@
+{"name": "Space_Pack_200", "version": "0.1.2", "title": "Space Science Pack 200", "author": "LuziferSenpai", "contact": "mods@luzifersenpai.de", "homepage": "luzifersenpai.de", "description": "Changes the Stack Size of Space Science Packs from 1k to 200 and its still 1k inside the Rocket.", "dependencies": ["base"], "factorio_version": "1.1"}

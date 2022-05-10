@@ -1,0 +1,1 @@
+{"name": "flipfloptrainmode", "version": "0.0.2", "title": "Flip-Flop Train Driving Mode", "author": "Honktown", "contact": "", "homepage": "", "description": "adds a hotkey to toggle driving mode of trains (CONTROL + R default)", "factorio_version": "1.1", "dependencies": ["base"]}

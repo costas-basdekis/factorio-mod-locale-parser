@@ -1,0 +1,1 @@
+{"name": "TreeCleaner", "version": "0.1.2", "title": "Tree Cleaner", "author": "GPS", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod marks dead trees for deconstruction."}

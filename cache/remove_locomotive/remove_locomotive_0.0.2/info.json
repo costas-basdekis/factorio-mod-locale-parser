@@ -1,0 +1,1 @@
+{"name": "remove_locomotive", "version": "0.0.2", "title": "Remove locomotive", "author": "Maxikaaz", "description": "Intended to use with YI_railway", "dependencies": ["base >= 1.0", "?yi_railway >= 0.0"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "recursive-science", "version": "2020.11.29", "date": "2020.11.29", "title": "Recursive Science", "author": "EnigmaticAussie", "dependencies": ["base >= 1.0.0"], "description": "Adds more complex science pack recipes, based on preceeding science packs.", "factorio_version": "1.1"}

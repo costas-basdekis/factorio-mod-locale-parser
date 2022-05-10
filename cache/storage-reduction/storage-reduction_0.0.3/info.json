@@ -1,0 +1,1 @@
+{"name": "storage-reduction", "version": "0.0.3", "title": "Storage Reduction", "author": "saltlands", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Reduces size of storage chests and cargo wagons to encourage big, long trains."}

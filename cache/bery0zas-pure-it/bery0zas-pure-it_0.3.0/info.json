@@ -1,0 +1,1 @@
+{"name": "bery0zas-pure-it", "version": "0.3.0", "title": "Bery0za's Pure It", "author": "Bery0za", "contact": "bereznevtree@yandex.ru", "homepage": "https://bery0za.com/2020/10/20/pure-it/", "factorio_version": "1.1", "dependencies": ["base >= 0.17", "? angelsrefining >= 0.11.19", "? bobplates >= 1.1.2"], "description": "Real world air filtering!"}

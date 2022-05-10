@@ -1,0 +1,1 @@
+{"name": "BigWinter", "version": "1.1.2", "title": "Big Winter", "description": "The Nauvis has permanent winter; the mod changes graphics to winter theme", "author": "darkfrei", "dependencies": ["base", "? Ice"], "factorio_version": "1.1"}

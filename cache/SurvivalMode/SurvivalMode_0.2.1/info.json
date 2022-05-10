@@ -1,0 +1,1 @@
+{"name": "SurvivalMode", "version": "0.2.1", "title": "Survival Mode", "author": "Robby", "contact": "robby891@gmail.com", "homepage": "http://factorio.com", "description": "Survival Mode. Biters only attack at night, regardless of pollution levels, and come in waves. Survive for as long as you can.", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15.16"}

@@ -1,0 +1,1 @@
+{"name": "Hardcore_Survival", "version": "0.9.7", "title": "Hardcore Survival", "author": "Mylon", "contact": "forum PM", "homepage": "https://forums.factorio.com/viewtopic.php?f=95&t=38757", "description": "Biters come to attack YOU.  Frequently and often.", "factorio_version": "0.14", "dependencies": ["base >= 0.4.1"]}

@@ -1,0 +1,1 @@
+{"name": "SolarPanelEquipmentMK2", "author": "OwnlyMe", "version": "0.18.1", "title": "SolarPanelEquipmentMK2", "description": "Simple solar panel equipment with 2x power (Research cost: 500x RGBY)", "factorio_version": "0.18", "dependencies": ["base"]}

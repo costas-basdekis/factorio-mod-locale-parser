@@ -1,0 +1,1 @@
+{"name": "Large_Pole_wirereach", "version": "0.1.0", "factorio_version": "0.16", "title": "Large Pole wirereach", "author": "Feye", "description": "Large Electric Pole's wire reach upped to 32 to match chunk size", "dependencies": ["base >= 0.16.20"], "license": "MIT"}

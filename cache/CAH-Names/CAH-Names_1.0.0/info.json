@@ -1,0 +1,1 @@
+{"name": "CAH-Names", "version": "1.0.0", "title": "Cards Against Humanity Names for Buildings", "author": "Kijiro", "contact": "www.factorioforums.com", "homepage": "", "description": "Replace backer entity names with white Cards Against Humanity cards", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"], "liscense": "Unlicensed"}

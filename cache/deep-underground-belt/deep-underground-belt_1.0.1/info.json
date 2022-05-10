@@ -1,0 +1,1 @@
+{"name": "deep-underground-belt", "version": "1.0.1", "title": "Deep underground belt", "author": "w1102", "factorio_version": "1.1", "homepage": "https://mods.factorio.com/mod/deep-underground-belt", "dependencies": ["base >= 1.0"], "description": "duplicate the  unerground belt entity to do 2 underground belts in one line"}

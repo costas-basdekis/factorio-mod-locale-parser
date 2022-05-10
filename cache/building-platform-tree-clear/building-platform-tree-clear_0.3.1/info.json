@@ -1,0 +1,1 @@
+{"name": "building-platform-tree-clear", "version": "0.3.1", "title": "Building Platform Tree Clear", "author": "Earendel", "dependencies": ["base >= 0.16.0", "building-platform >= 1.0.2", "TreeChallenge >= 0.3.1"], "description": "Removes trees from building platforms for better use with the Tree Challenge mod.", "factorio_version": "0.16"}

@@ -1,0 +1,1 @@
+{"name": "SamTrain", "version": "0.1.8", "title": "Sam's Trains (ALPHA)", "author": "kiasyn", "contact": "", "homepage": "https://github.com/kiasyn/SamTrain", "description": "A simple, easy-to-use, no circuits required train scheduler for people who just want their trains to work.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.59", "stdlib >= 1.2.2"]}

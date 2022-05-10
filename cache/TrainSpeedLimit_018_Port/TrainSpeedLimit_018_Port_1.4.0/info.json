@@ -1,0 +1,1 @@
+{"name": "TrainSpeedLimit_018_Port", "version": "1.4.0", "factorio_version": "1.1", "title": "Train Speed Limit", "author": "jvj24601, IceDev, Serialtasted, TornBreeze", "description": "Introduces configurable speed limit signs for trains. Updated for 0.18 compatibility.", "dependencies": ["base >= 1.1.0"]}

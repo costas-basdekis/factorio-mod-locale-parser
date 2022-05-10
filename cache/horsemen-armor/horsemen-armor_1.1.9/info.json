@@ -1,0 +1,1 @@
+{"name": "horsemen-armor", "version": "1.1.9", "title": "Horsemen Armor", "author": "lemondrop81", "factorio_version": "1.1", "dependencies": ["base", "boblibrary >= 1.1.4"], "description": "This mod adds the armor for the horsemen of the apocalypse, along with signature ammo and fuel. "}

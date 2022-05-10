@@ -1,0 +1,1 @@
+{"name": "mining-wagon", "version": "0.18.0", "title": "Mining wagons", "author": "adamius", "description": "Adds various mining wagons to support mining of ores/fluids/water directly into a wagon using electric drills, pumps and equivalents built-in.", "dependencies": ["base"], "factorio_version": "0.18"}

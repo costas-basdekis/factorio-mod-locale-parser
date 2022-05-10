@@ -1,0 +1,1 @@
+{"name": "more-virtual-signals", "title": "More virtual signals", "factorio_version": "0.15", "author": "teemu", "version": "1.0.0", "dependencies": ["base >= 0.15.0"], "description": "Adds more signals to represent things like time, battery, fuel, etc. Also includes signal types for warnings."}

@@ -1,0 +1,1 @@
+{"name": "pyhightechrealmode", "version": "0.0.1", "factorio_version": "0.17", "title": "PyHighTech realistic mode", "author": "aklesey1, KingArthur", "contact": "", "homepage": "", "description": "", "dependencies": ["base >= 0.13.0", "pyhightech >= 1.0.0"]}

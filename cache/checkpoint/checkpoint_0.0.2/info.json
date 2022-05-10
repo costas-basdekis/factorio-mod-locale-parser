@@ -1,0 +1,1 @@
+{"name": "checkpoint", "version": "0.0.2", "factorio_version": "0.14", "title": "checkpoint", "author": "kij336", "contact": "kij336@naver.com", "description": "make checkpoint and text on map, also can navigate", "dependencies": "base >= 0.14.0"}

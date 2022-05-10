@@ -1,0 +1,1 @@
+{"name": "high-definition-pipes", "version": "0.1.10", "factorio_version": "0.16", "title": "High definition pipes", "author": "Cadde", "homepage": "", "contact": "no-contact@not-an-email.com", "description": "Total graphical replacement for pipes.", "dependencies": ["base >= 0.16.0", "? boblogistics >= 0.16.23"]}

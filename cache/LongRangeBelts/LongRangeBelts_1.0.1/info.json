@@ -1,0 +1,1 @@
+{"name": "LongRangeBelts", "version": "1.0.1", "factorio_version": "1.1", "title": "LongRangeBelts", "author": "UgurG", "contact": "", "homepage": "", "description": "Adds long range underground belts", "dependencies": ["base >= 1.1.0"]}

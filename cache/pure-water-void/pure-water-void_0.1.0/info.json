@@ -1,0 +1,1 @@
+{"name": "pure-water-void", "version": "0.1.0", "title": "Bob's Mods: Pure Water Void", "author": "asoftbird", "factorio_version": "1.1", "dependencies": ["base >= 1.0", "bobplates >= 1.1.2"], "description": "Adds a recipe for pure water to the Gas Venting Pump"}

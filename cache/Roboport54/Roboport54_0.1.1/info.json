@@ -1,0 +1,1 @@
+{"name": "Roboport54", "version": "0.1.1", "title": "Roboport 54", "author": "Oleg Eterevsky", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.17"], "description": "Sets the roboport supply area to 54x54 to align it with the 18x18 grid of substations."}

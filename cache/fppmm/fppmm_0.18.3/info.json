@@ -1,0 +1,1 @@
+{"name": "fppmm", "version": "0.18.3", "factorio_version": "1.1", "title": "Factorio Plus Plus - Minced Mines", "author": "Kintharo", "contact": "Discord: Kintharo #3081", "description": "For more mixed ore diversity in Factorio Plus Plus", "dependencies": ["base >= 1.0", "fpp >= 0.18.18"]}

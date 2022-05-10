@@ -1,0 +1,1 @@
+{"name": "Extended_Crashsite", "version": "0.1.0", "factorio_version": "1.0", "title": "Extended crash site", "author": "npc_strider(morley376)", "contact": "", "homepage": "http://steamcommunity.com/id/morley376", "dependencies": ["base >= 1.0.0"], "description": "The crash site now has basic assemblers, lab, fuel cell and containers from the spaceship"}

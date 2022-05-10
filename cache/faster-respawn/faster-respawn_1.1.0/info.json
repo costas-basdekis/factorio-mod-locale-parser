@@ -1,0 +1,1 @@
+{"name": "faster-respawn", "version": "1.1.0", "title": "Faster Respawn", "author": "Jelmergu", "homepage": "https://github.com/Jelmergu/factorio-faster-respawn", "factorio_version": "1.1", "dependencies": ["base >= 0.17.0"], "description": "Tired of having to wait until you can take revenge on the biter that killed you. This mod makes you respawn instantly"}

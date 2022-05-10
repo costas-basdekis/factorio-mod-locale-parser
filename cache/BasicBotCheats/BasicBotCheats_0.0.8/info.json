@@ -1,0 +1,1 @@
+{"name": "BasicBotCheats", "version": "0.0.8", "title": "Basic Bot Cheats", "author": "Lord Flame Stryke", "contact": "flamestryke@gmail.com", "homepage": "", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "This mod makes working with bots easier right from the start."}

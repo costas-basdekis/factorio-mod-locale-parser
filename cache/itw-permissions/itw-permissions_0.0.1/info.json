@@ -1,0 +1,1 @@
+{"name": "itw-permissions", "version": "0.0.1", "title": "Game Owner only Research", "author": "abregado", "contact": "contact@benbuckton.com", "homepage": "", "description": "Only the first player can change the research.", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15"}

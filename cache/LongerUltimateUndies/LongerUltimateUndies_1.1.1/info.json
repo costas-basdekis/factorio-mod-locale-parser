@@ -1,0 +1,1 @@
+{"name": "LongerUltimateUndies", "version": "1.1.1", "title": "Longer Ultimate underground belt.", "author": "ptx0", "contact": "", "homepage": "", "description": "Extend length to 155", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0", "UltimateBelts"]}

@@ -1,0 +1,1 @@
+{"name": "fpc_basegui", "version": "0.0.1", "title": "fpc_\u57fa\u7840\u9762\u677f", "author": "fpc987", "factorio_version": "0.17", "dependencies": ["base >= 0.16"], "description": "\u7528\u4e8e\u521b\u5efa\u4e00\u4e2a\u9762\u677f,\u4f9b\u5176\u4ed6mod\u4f7f\u7528"}

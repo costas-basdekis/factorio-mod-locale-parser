@@ -1,0 +1,1 @@
+{"name": "INMSound", "version": "1.3.0", "factorio_version": "1.1", "title": "INM Sound", "author": "Z0usan", "description": "Play meme sounds.", "dependencies": ["base >= 1.1", "play-use-any-sound >= 1.5.1"]}

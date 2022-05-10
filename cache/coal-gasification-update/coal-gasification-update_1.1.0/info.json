@@ -1,0 +1,1 @@
+{"name": "coal-gasification-update", "version": "1.1.0", "title": "Coal Gasification Update", "author": "Autolykos, nobake", "contact": "", "homepage": "", "factorio_version": "1.1", "description": "Precursor to Coal Liquefaction, turns Coal into Petroleum Gas and Solid Fuel.", "dependencies": ["base", "? Wood_Gasification"]}

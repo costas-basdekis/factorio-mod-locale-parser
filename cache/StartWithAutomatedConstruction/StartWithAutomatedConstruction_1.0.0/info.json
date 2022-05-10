@@ -1,0 +1,1 @@
+{"name": "StartWithAutomatedConstruction", "version": "1.0.0", "title": "Start With Automated Construction", "author": "gadgamonguy", "contact": "", "homepage": "", "factorio_version": "0.14", "dependencies": ["base >= 0.14"], "description": "Just starts you off the technology 'Automated Construction' for blueprint mods."}

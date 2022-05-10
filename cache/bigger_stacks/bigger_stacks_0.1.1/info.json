@@ -1,0 +1,1 @@
+{"name": "bigger_stacks", "version": "0.1.1", "factorio_version": "0.14", "title": "Bigger Stacks", "author": "Worstcase", "contact": "", "homepage": "", "description": "Bigger item stacks", "dependencies": ["base >= 0.14.0"]}

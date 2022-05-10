@@ -1,0 +1,1 @@
+{"name": "Logistic-Gun-Turret", "version": "1.1.0", "title": "Logistic Gun Turret", "description": "This mod adds a Logistic Interface that attaches to gun turrets, to keep them stocked with ammo.", "author": "Bl4ckmail/Robokat/CaptainWHot", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

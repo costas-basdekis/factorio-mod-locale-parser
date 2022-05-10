@@ -1,0 +1,1 @@
+{"name": "CommandExecute", "author": "Krzaku", "version": "1.0.1", "factorio_version": "0.16", "title": "Command Execute", "description": "Simple mod that executes any LUA command if sent as a chat message that starts with \"./c \". It does this without disabling achievements like the built-in \"/c\" command.", "dependencies": ["base >= 0.16.0"]}

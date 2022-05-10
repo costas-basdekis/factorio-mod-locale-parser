@@ -1,0 +1,1 @@
+{"name": "Sonic_Screw_Driver", "version": "1.0.0", "title": "Sonic Screwdriver", "author": "steinio", "homepage": "", "description": "Changes the repair pack to a sonic screwdriver.", "factorio_version": "1.0", "dependencies": ["base"]}

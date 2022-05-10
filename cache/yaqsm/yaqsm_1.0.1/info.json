@@ -1,0 +1,1 @@
+{"name": "yaqsm", "version": "1.0.1", "factorio_version": "0.17", "title": "Yet another Quickstart Mod", "author": "vibes81", "contact": "", "homepage": "", "description": "Adds an array of items based on selected settings", "dependencies": ["base >= 0.17"]}

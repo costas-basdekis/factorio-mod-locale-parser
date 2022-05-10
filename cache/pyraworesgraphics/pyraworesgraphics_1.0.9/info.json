@@ -1,0 +1,1 @@
+{"name": "pyraworesgraphics", "version": "1.0.9", "factorio_version": "1.1", "title": "Pyanodons Raw Ores Graphics", "author": "Pyanodon, Nexela, Kingarthur", "contact": "", "homepage": "", "description": "Contains the graphics for Pyanodons Raw Ores", "dependencies": ["stdlib >= 1.0.0"], "package": {"ignore": [], "scripts": {}}}

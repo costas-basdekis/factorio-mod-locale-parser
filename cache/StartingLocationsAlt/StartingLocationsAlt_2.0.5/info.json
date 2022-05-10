@@ -1,0 +1,1 @@
+{"name": "StartingLocationsAlt", "version": "2.0.5", "factorio_version": "0.18", "title": "StartingLocations (Alternate)", "author": "SilentSean", "contact": "", "homepage": "", "dependencies": ["base >= 0.18", "rso-mod >= 6.0.0"], "description": ""}

@@ -1,0 +1,1 @@
+{"name": "vf-extended", "version": "1.0.1", "title": "[VF] Extended", "author": "vadimf", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15", "description": "Extends length of underground belts/pipes, poles/wires reach, chests/wagons capacity and more."}

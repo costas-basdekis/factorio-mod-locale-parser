@@ -1,0 +1,1 @@
+{"name": "ResourceTagger", "version": "0.1.0", "title": "Resource Tagger", "author": "werty_dm", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "This is a convenience mod that enables you to easily tag an item icon on the map."}

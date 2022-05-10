@@ -1,0 +1,1 @@
+{"name": "reduce_damage_flash", "version": "1.1.0", "factorio_version": "1.1", "title": "Reduce Damage Flash", "author": "perfectwill", "dependencies": ["base"], "description": "Reduce the intensity of screen flashing red when taking damage. Helps gaming under low light conditions!"}

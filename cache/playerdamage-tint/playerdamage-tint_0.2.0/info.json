@@ -1,0 +1,1 @@
+{"name": "playerdamage-tint", "version": "0.2.0", "title": "Player damage tint", "author": "daniel34", "dependencies": ["base >= 0.16"], "factorio_version": "0.16", "description": "Removes/modifies the red screen tint that alerts you that your player character is under attack and losing health. You can set the color (red/green/blue) and intensity in the mod settings."}

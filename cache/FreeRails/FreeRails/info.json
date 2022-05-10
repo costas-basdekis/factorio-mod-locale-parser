@@ -1,0 +1,1 @@
+{"name": "FreeRails", "version": "1.0.3", "factorio_version": "1.0", "title": "FreeRails", "author": "nt1soc", "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=101593", "homepage": "", "dependencies": ["? LogisticTrainNetwork >= 1.13.9"], "description": "Rails, signals and trains are free."}

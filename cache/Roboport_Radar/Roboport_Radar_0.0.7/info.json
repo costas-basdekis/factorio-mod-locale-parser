@@ -1,0 +1,1 @@
+{"name": "Roboport_Radar", "version": "0.0.7", "title": "Roboport Radar", "author": "Martin Rudat", "contact": "", "homepage": "", "description": "Adds a radar to all roboports that constantly charts their construction area", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0", "rusty-locale >= 0.0.1"]}

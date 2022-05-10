@@ -1,0 +1,1 @@
+{"name": "CircuitLoggerFix", "version": "0.16.8", "title": "Circuit Logger 0.16 Update", "author": "Michal Novotny, Hal Gentz", "homepage": "", "dependencies": ["base >= 0.16"], "description": "For logging circuit network signals on each tick.", "factorio_version": "0.16"}

@@ -1,0 +1,1 @@
+{"name": "Reavers_RGB_Radars", "version": "0.3.2", "title": "Reaver's RGB Radars", "author": "thereaverofdarkness", "dependencies": ["base >= 0.16.0"], "description": "Adds three new radar types with varying specialties.", "factorio_version": "0.16"}

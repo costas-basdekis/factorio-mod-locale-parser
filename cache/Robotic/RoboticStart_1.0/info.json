@@ -1,0 +1,1 @@
+{"name": "Robotic", "version": "1.0.0", "factorio_version": "0.17", "title": "Roboitc Start", "author": "Cenamderi", "description": "Gives the player basic items to use robots at the start of the game.", "dependencies": ["base >= 0.17.0"]}

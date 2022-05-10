@@ -1,0 +1,1 @@
+{"name": "reach-button", "version": "0.0.2", "title": "Reach Button", "description": "Based on Far Reach, workaround for settings being not applied when you add or update other mods. Adds in-game button that restores far reach settings with just one click.", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"], "author": "Fexx / staviq", "contact": "", "homepage": ""}

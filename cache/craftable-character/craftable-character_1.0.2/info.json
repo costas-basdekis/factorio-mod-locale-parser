@@ -1,0 +1,1 @@
+{"name": "craftable-character", "version": "1.0.2", "factorio_version": "1.1", "title": "Craftable Character", "author": "laftur", "contact": "laftur.jeremy@gmail.com", "homepage": "", "description": "Create extra bodies and leave them lying about! Also install Persistent Character to switch between bodies, or don't. I don't know your life.", "dependencies": ["base"]}

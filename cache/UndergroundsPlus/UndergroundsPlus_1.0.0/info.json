@@ -1,0 +1,1 @@
+{"name": "UndergroundsPlus", "author": "MaverickMF", "version": "1.0.0", "title": "UndergroundsPlus", "description": "The Mod adds longer distance versions of belts, pipes and electric poles.", "dependencies": ["base >= 1.1"], "factorio_version": "1.1"}

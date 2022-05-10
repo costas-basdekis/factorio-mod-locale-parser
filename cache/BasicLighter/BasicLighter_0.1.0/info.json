@@ -1,0 +1,1 @@
+{"name": "BasicLighter", "version": "0.1.0", "title": "Basic Lighter", "author": "goodolflip", "contact": "osimon922@gmail.com", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "This mod adds in a basic early-game lighter to start fires."}

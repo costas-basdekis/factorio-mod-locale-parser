@@ -1,0 +1,1 @@
+{"name": "Furnace_upgradable", "version": "1.0.2", "title": "Furnace upgradable", "author": "FacelessGER", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "Furnaces are upgradable now (alternative recipe)."}

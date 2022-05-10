@@ -1,0 +1,1 @@
+{"name": "InfiniteInventoryResearch", "version": "0.1.1", "title": "Infinite Inventory Research", "author": "Carb", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod adds infinite researchs for character logistic slots, character trash slots, toolbelt rows, and backpack slots."}

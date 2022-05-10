@@ -1,0 +1,1 @@
+{"name": "lesaispasuberquelquechose", "version": "0.1.6", "title": "Tomato and Vitauh's Uber Chest", "author": "Vitauh", "contact": "Please message me on the factorio forums my username is Vitauh.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Small mod that adds a uber sized (32x32) steel chest. Inspired by 3x3 chunk chest by leizer"}

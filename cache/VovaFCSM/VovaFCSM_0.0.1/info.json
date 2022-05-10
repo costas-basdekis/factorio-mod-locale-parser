@@ -1,0 +1,1 @@
+{"name": "VovaFCSM", "version": "0.0.1", "title": "VovaFCSM", "description": "My first mode", "author": "VovdFCSM", "contact": "https://VovaFCSM", "factorio_version": "0.18", "dependencies": ["base >= 0.18.13"]}

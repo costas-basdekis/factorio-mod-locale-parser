@@ -1,0 +1,1 @@
+{"name": "factorimon", "version": "0.1.0", "title": "FactoriMon", "author": "Daid", "description": "Adds the ability to capture, breed and battle with aliens. All in the name of progress!", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=48797", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

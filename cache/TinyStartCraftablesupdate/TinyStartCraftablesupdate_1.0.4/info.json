@@ -1,0 +1,1 @@
+{"name": "TinyStartCraftablesupdate", "version": "1.0.4", "title": "Tiny Start Craftables 1.1", "author": "DwarfTech, GeneralTank", "contact": "", "homepage": "", "description": "Tiny Start addon that adds recipes for Tiny Armor Mk0, and an upgrade from Tiny Armor Mk2 to Modular Armor.", "dependencies": ["base", "TinyStart"], "factorio_version": "1.1"}

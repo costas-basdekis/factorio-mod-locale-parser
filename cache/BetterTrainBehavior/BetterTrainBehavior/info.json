@@ -1,0 +1,1 @@
+{"name": "BetterTrainBehavior", "version": "0.0.2", "title": "Better Train Behavior", "author": "Raidwas", "contact": "", "factorio_version": "1.1", "dependencies": ["base"], "description": "Changes trains behavior so they will skip a station if the \"wait until\" condition is already met"}

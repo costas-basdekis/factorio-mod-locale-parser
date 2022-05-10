@@ -1,0 +1,1 @@
+{"name": "super-logistics", "version": "0.1.2", "title": "Super Logistics", "author": "somelizard", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Allows combining some entities into a more powerful super entity to save space. Combine x amount of entities to create one entity that is x times more powerful."}

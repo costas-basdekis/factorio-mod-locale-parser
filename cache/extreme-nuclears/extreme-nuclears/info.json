@@ -1,0 +1,1 @@
+{"name": "extreme-nuclears", "version": "0.0.6", "title": "Extreme Nuclears", "author": "grifonice99", "factorio_version": "1.1", "description": "DISCLAIMER: this is a earlyaccess version and the texture could be badly done or the icons not inherent to that object. \nThis mod add: one reactor, four heat exchanger and four converter.", "dependencies": ["base >= 1.1.0"]}

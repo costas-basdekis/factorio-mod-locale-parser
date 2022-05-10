@@ -1,0 +1,1 @@
+{"name": "mocombat", "version": "0.6.26", "title": "MoCombat", "author": "Ludsoe", "contact": "", "homepage": "", "description": "Adds more to factorio's combat.", "dependencies": ["base", "? mopower", "? CartmenCompleteOverhaul"], "factorio_version": "0.15"}

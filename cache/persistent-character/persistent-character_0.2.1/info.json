@@ -1,0 +1,1 @@
+{"name": "persistent-character", "version": "0.2.1", "title": "Persistent Character", "author": "laftur", "contact": "laftur.jeremy@gmail.com", "homepage": "", "description": "Prevents characters from disappearing on logout. By default, characters left behind are shared with the team.", "factorio_version": "1.1", "dependencies": ["base"]}

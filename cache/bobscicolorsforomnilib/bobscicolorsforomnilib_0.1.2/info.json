@@ -1,0 +1,1 @@
+{"name": "bobscicolorsforomnilib", "version": "0.1.2", "title": "Bob's alternative science colors for Omnilib", "author": "_-_-_", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.17", "omnilib >= 3.18"], "description": "Fixes bob's alternative science colors to work with omnilib (omnilib specifically overrides it)"}

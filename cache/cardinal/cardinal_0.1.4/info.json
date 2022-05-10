@@ -1,0 +1,1 @@
+{"name": "cardinal", "title": "Cardinal", "description": "Cardinal - Vehicle assist tool for convenient and subtle auto-alignment while driving.", "author": "Nimphious", "contact": "Nimphious@gmail.com", "homepage": "https://nimphio.us/factorio/cardinal", "version": "0.1.4", "factorio_version": "1.1", "dependencies": ["base >= 0.17.0"]}

@@ -1,0 +1,1 @@
+{"name": "artillery-equality", "version": "1.1.1", "title": "Artillery Equality for Vanilla Only", "author": "jeff.s", "description": "Boosts automatic firing range of vanilla artillery turrets and wagons to match manual firing range (default; configurable)", "factorio_version": "1.1", "dependencies": ["base"]}

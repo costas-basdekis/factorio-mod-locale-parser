@@ -1,0 +1,1 @@
+{"name": "bobassembly-bigger", "version": "0.2.0", "factorio_version": "0.18", "title": "Bigger Bob's Assembling machines", "author": "SuperSandro2000", "homepage": "", "dependencies": ["base >= 0.18.0", "bobassembly >= 0.18.0", "? ShinyBobGFX >= 0.18.0"], "description": "This mod adds a bigger Assembling Machine 6."}

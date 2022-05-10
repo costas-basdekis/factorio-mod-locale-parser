@@ -1,0 +1,1 @@
+{"name": "Landfill_plus", "version": "1.0.19", "title": "Landfill plus", "author": "Prehistoric", "description": "Allows the player to break landfill and enable various other landfill related tweaks.", "factorio_version": "1.1", "dependencies": ["base >= 1.0"]}

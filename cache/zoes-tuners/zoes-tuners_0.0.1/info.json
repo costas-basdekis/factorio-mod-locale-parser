@@ -1,0 +1,1 @@
+{"name": "zoes-tuners", "version": "0.0.1", "title": "Zo\u00eb's Tuners", "author": "TheStraying11", "contact": "Zo\u00eb#4754, zoerycroft@gmail.com", "homepage": "http://www.studiolucia.uk/factorio/mods/tuners", "description": "Makes stack sizes, and/or furnace speeds higher (or lower! [configurable])", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

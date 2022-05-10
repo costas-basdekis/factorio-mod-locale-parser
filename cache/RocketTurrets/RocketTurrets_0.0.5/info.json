@@ -1,0 +1,1 @@
+{"name": "RocketTurrets", "version": "0.0.5", "title": "RocketTurrets", "author": "Kamsta99", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.16.0", "boblibrary >= 0.16.3", "bobplates >= 0.16.0", "bobelectronics >= 0.16.0"], "description": "Adds Bob materials based rocket turrets"}

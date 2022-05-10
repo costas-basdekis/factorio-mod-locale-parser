@@ -1,0 +1,1 @@
+{"name": "fragile", "version": "1.0.0", "title": "Fragile: The 1HP Challenge", "author": "jeFFeSS", "description": "Everything has 1 hit-point of health and NO resistance to damage! Buildings, trees, vehicles, biters, you. All one scratch away from catastrophe.", "factorio_version": "1.1", "dependencies": ["base"]}

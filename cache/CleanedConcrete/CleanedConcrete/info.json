@@ -1,0 +1,1 @@
+{"name": "CleanedConcrete", "version": "1.0.2", "title": "Cleaned Concrete", "author": "JusticeDroid", "description": "Removes all ground decoration when placing stone path, concrete or refined concrete", "factorio_version": "1.1", "dependencies": ["base >= 0.18.0"]}

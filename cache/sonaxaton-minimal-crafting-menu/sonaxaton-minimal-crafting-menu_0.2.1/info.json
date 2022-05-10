@@ -1,0 +1,1 @@
+{"name": "sonaxaton-minimal-crafting-menu", "version": "0.2.1", "title": "Minimal Crafting Menu", "author": "sonaxaton", "homepage": "https://mods.factorio.com/mod/sonaxaton-minimal-crafting-menu", "description": "Reduces clutter in the crafting menu by hiding recipes that aren't craftable by hand.", "factorio_version": "1.1", "dependencies": ["? pypetroleumhandling"]}

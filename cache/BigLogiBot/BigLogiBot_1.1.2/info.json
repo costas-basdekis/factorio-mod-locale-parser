@@ -1,0 +1,1 @@
+{"name": "BigLogiBot", "version": "1.1.2", "title": "Big Logistic Robot", "author": "DellAquila, ptx0", "description": "This new robot has the capacity of 4 logistic robots, 60% the speed, need 40% more charge time and has 50% damage resistance. Takes your items for longer without needing to charge.", "factorio_version": "1.1", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "Cursed-BCR-v1dot1", "version": "0.1.6", "title": "Cursed Multi tasking Construction Robots v1.1", "author": "L0771", "dependencies": ["base >= 0.18.0"], "factorio_version": "1.1", "description": "Add a technology to build and mine more entities or tiles with every construction robot."}

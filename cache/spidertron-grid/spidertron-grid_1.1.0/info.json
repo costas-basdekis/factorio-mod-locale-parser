@@ -1,0 +1,1 @@
+{"name": "spidertron-grid", "version": "1.1.0", "title": "Spidertron grid n inventory modification", "author": "", "homepage": "", "description": "changing spidertron grid to 20 * 10 and inventory to 140", "dependencies": ["base>=1.1.0"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "MoreCircuits", "version": "0.2.0", "title": "More Circuits", "author": "Wizado", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base>=0.17"], "description": "Users can set the amount of Circuits made in an assembly machine. Default amount made is 2. Based on RedSnowFox's mod."}

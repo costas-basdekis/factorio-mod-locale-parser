@@ -1,0 +1,1 @@
+{"name": "Primium", "version": "0.15.3", "factorio_version": "0.15", "title": "Primium", "author": "Reddit user cpaca0", "homepage": "Denied.", "dependencies": ["base >= 0.15.0", "Easy_API >= 0.15.0"], "description": "Adds 'Primium bar' which does nothing. Usable for other mods."}

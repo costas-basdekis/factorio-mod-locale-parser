@@ -1,0 +1,1 @@
+{"name": "ReEnhancedArtillerySounds", "version": "1.1.4", "title": "ReEnhanced Artillery Sounds", "author": "EpicBobRoss & Kynaro", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.16"], "description": "Changes Artillery Cannon sounds to have more volume and distant sounds."}

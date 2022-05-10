@@ -1,0 +1,1 @@
+{"name": "BurnItAll", "version": "0.1.0", "title": "Burn it all!", "author": "lf", "description": "Restore burnability to items which are no longer flammable in 0.17, as well as the burner mining drill", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"]}

@@ -1,0 +1,1 @@
+{"name": "pipelayer", "title": "Pipelayer", "description": "Route your pipes freely underground.", "factorio_version": "1.1", "author": "Therax", "version": "0.5.1", "dependencies": ["? PickerPipeTools", "? space-exploration >= 0.3.0"]}

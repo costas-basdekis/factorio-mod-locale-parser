@@ -1,0 +1,1 @@
+{"name": "BallBiters", "version": "0.1.3", "title": "Ball Biters", "author": "darkfrei", "description": "New graphics for enemies, they are balls", "dependencies": ["base", "? BadBiters"], "factorio_version": "0.17"}

@@ -1,0 +1,1 @@
+{"name": "FAR", "version": "0.0.5", "title": "FAR - Basic PVP", "author": "Arg-Arthur_MP", "contact": "argentina.arthur.mp@gmail.com", "homepage": "https://www.facebook.com/factorioArgentina/", "description": "Basic PVP", "factorio_version": "0.14", "dependencies": ["base >= 0.14"]}

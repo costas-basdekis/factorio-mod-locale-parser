@@ -1,0 +1,1 @@
+{"name": "RandomGameImprovements", "version": "0.0.7", "title": "Random Game Improvements/Changes", "author": "Stever", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Alters some base things in the game that I think should be improved/changed (while attempting to maintain game balance)."}

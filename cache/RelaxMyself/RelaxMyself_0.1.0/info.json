@@ -1,0 +1,1 @@
+{"name": "RelaxMyself", "version": "0.1.0", "title": "RelaxMyself", "author": "sunist", "contact": "sunist@sunist.cn", "homepage": "https://github.com/sunist-c/factoriomod-relaxmyself", "description": "This is a cheat mod which contains some strong weapons and some changes of mining and smelting.", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0"]}

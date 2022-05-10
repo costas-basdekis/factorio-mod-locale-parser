@@ -1,0 +1,1 @@
+{"name": "ZloyNoInfinite", "author": "Zloy", "version": "0.1.2", "factorio_version": "1.1", "title": "No Infinite Fluids + Ores (Bob's and Angel's)", "homepage": "", "description": "Oil and ores wells are no longer infinite. But you still need fluids or acid to get it.", "dependencies": ["base", "? bobores", "? angelspetrochem", "? angelsinfiniteores", "? angelsrefining"]}

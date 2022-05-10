@@ -1,0 +1,1 @@
+{"name": "Long-Underground-Belts", "version": "0.2.0", "factorio_version": "1.1", "title": "Long-Underground-Belts", "author": "V453000", "contact": "", "homepage": "", "description": "Yellow and red underground belts get the same max length as the Express underground belt.", "dependencies": ["base"]}

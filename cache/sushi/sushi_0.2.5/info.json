@@ -1,0 +1,1 @@
+{"name": "sushi", "version": "0.2.5", "title": "Sushi Mod", "author": "Xaetral", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.17"], "description": "For all your sushi belt needs :D"}

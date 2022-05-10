@@ -1,0 +1,1 @@
+{"name": "deadlock-stacking-icon-update", "version": "0.1.0", "title": "Deadlock stacking - Icon update", "author": "Mernom", "contact": "Mernom#3091", "homepage": "", "description": "Updates the stacked icons using the new vanilla icons as a base.\nPowered by Billbo's icon generation lua script.", "dependencies": ["deadlock-beltboxes-loaders"], "factorio_version": "0.18"}

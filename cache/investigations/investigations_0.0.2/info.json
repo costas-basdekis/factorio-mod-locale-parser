@@ -1,0 +1,1 @@
+{"name": "investigations", "version": "0.0.2", "title": "Investigations", "author": "isHavvy", "contact": "is.havvy@gmail.com", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Unlocking certain technologies for research requires investigating related items."}

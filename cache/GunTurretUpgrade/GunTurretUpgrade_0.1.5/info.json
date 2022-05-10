@@ -1,0 +1,1 @@
+{"name": "GunTurretUpgrade", "version": "0.1.5", "title": "Gun Turret Upgrade", "author": "thereaverofdarkness", "dependencies": ["base >= 1.1"], "description": "Adds advanced gun turret which has more health and range.", "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "nekochests", "version": "0.0.3", "factorio_version": "0.16", "title": "Neko's Chests", "author": "GreyNeko", "contact": "GreyNeko210@gmail.com", "webpage": "", "changes": "Updated for 0.16", "description": "Mod that adds two big chests, one of them has a green touch to it!", "dependencies": ["base >= 0.16.0"]}

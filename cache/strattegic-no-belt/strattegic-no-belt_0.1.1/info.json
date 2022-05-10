@@ -1,0 +1,1 @@
+{"name": "strattegic-no-belt", "version": "0.1.1", "title": "No-Belt Mode", "author": "strattegic", "factorio_version": "1.0", "description": "Removes all belts from the game. Let's see how that goes.", "dependencies": ["? FactorioExtended-Plus-Transport >=1.0", "? deadlock-beltboxes-loaders >=2.3.6", "? bobinserters >=1.0.0"]}

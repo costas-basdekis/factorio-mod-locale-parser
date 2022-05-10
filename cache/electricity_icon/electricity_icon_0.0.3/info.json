@@ -1,0 +1,1 @@
+{"name": "electricity_icon", "version": "0.0.3", "title": "Subspace Electricity Icon Fix", "author": "n0t49a1n", "contact": "astralinc@gmail.com", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "subspace_storage >=1.99.8"], "description": "Changes the icon of Electricity to a useable icon for clusterio web page"}

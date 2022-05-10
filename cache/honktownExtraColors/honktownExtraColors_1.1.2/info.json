@@ -1,0 +1,1 @@
+{"name": "honktownExtraColors", "version": "1.1.2", "title": "Extra Colors", "author": "Honktown", "contact": "", "homepage": "", "factorio_version": "1.1", "description": "Extra player colors with /color (see command usage)\n /colorize for other color-able things (locomotive, train-stop, car/tank, spider-tron)", "dependencies": ["base"]}

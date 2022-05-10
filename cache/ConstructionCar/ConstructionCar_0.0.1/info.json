@@ -1,0 +1,1 @@
+{"name": "ConstructionCar", "description": "New building vehicle on the start", "version": "0.0.1", "title": "Construction Car", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.16"}

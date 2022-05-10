@@ -1,0 +1,1 @@
+{"name": "Schall_LabModules", "version": "1.1.0", "title": "Schall's Scaled Lab Module Slot Count Tweak", "author": "ptx0", "contact": "", "homepage": "", "description": "Schall's machines have a configurable module slot count.", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0", "SchallMachineScaling"]}

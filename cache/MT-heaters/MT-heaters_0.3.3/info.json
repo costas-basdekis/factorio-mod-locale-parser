@@ -1,0 +1,1 @@
+{"name": "MT-heaters", "version": "0.3.3", "title": "MT Heaters", "author": "Midnighttiger", "dependencies": ["base", "? Krastorio2", "? KS_Power"], "description": "Burn Solid and Liquids to create heat, convert electric to heat, Melt certain ores to molten state to then cast", "factorio_version": "1.1"}

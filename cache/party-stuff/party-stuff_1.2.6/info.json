@@ -1,0 +1,1 @@
+{"name": "party-stuff", "version": "1.2.6", "factorio_version": "1.1", "title": "Party stuff", "author": "ZwerOxotnik", "contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik#7117", "homepage": "https://www.reddit.com/r/ZwerOxotnik/", "description": "Adds new sounds (162). All sounds can be used in programmable speakers!", "dependencies": ["zk-lib"]}

@@ -1,0 +1,1 @@
+{"name": "pyromaniac", "version": "0.0.1", "title": "Pyromaniac", "author": "bitsbytes", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds more options for committing war crimes against your enemies using advanced flammables."}

@@ -1,0 +1,1 @@
+{"name": "Quantum_Warehousing", "version": "0.4.2", "factorio_version": "1.1", "title": "Quantum Warehousing", "author": "Altaric", "contact": "", "homepage": "https://mods.factorio.com/mod/Quantum_Warehousing", "description": "Changes some chests to hide their content for better UPS.", "dependencies": ["base >= 1.0.0", "? Warehousing >= 0.3.1", "? pyindustry >= 1.4.7"]}

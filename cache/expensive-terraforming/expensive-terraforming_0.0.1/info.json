@@ -1,0 +1,1 @@
+{"name": "expensive-terraforming", "version": "0.0.1", "title": "Terraforming should be expensive", "author": "Illiander", "email": "", "homepage": "", "contact": "", "description": "Terraforming the planet should be expensive.  Landfill is too cheap.", "factorio_version": "0.18", "dependencies": ["base >= 0.18.2", "? Explosive Excavation", "? Dectorio"]}

@@ -1,0 +1,1 @@
+{"name": "Pressure-Plate", "version": "1.1.2", "factorio_version": "0.17", "title": "Pressure-Plate", "author": "Slasherbane", "contact": "", "homepage": "", "description": "Add pressure-plate !!!!", "dependencies": ["stdlib >= 1.2.2"]}

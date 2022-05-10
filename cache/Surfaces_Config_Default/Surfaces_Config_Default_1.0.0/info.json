@@ -1,0 +1,1 @@
+{"name": "Surfaces_Config_Default", "version": "1.0.0", "title": "Surfaces Default Configuration", "author": "Danacus", "description": "Default configuration mod for Surfaces.", "factorio_version": "1.1", "dependencies": ["base >= 0.17.51", "Surfaces_API", "Surfaces_Original", "Surfaces_Transport"]}

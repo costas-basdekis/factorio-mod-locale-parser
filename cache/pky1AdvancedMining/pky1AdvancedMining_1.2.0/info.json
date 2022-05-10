@@ -1,0 +1,1 @@
+{"name": "pky1AdvancedMining", "version": "1.2.0", "factorio_version": "0.16", "title": "PokeyOne's Advanced Mining Mod", "author": "PokeyOne", "contact": "pokeyonesoftware@gmail.com", "homepage": "", "description": "Adds more advanced and faster mining drills", "dependencies": ["base >= 0.16.0", "pky1Core >= 1.2.0"]}

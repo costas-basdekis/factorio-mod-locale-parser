@@ -1,0 +1,1 @@
+{"name": "very-long-handed-inserter", "version": "1.0.2", "title": "Very long handed inserter", "author": "w1102", "description": "Adds a few inserter with a 3 tile reach", "homepage": "https://mods.factorio.com/mod/deep-underground-belt", "factorio_version": "1.1", "dependencies": ["base >= 1.0"]}

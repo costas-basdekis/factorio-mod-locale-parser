@@ -1,0 +1,1 @@
+{"name": "magimods-assets", "version": "1.0.1", "title": "MagiMods Assets", "author": "Magiya", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Graphics and Sounds for Magiya's Mods."}

@@ -1,0 +1,1 @@
+{"name": "PersonalTransformer", "version": "0.1.3", "title": "Personal Transformer", "author": "Xalos", "description": "Allows you to charge your power armor from the electric network, and vice versa.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.50"]}

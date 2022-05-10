@@ -1,0 +1,1 @@
+{"name": "no_rocket_silo_stats", "version": "0.18.2", "title": "No rocket silo stats", "author": "OwnlyMe", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base"], "description": "Removes the gui for rocket silo stats"}

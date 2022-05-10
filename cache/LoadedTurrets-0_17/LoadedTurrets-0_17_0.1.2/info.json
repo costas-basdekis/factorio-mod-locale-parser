@@ -1,0 +1,1 @@
+{"dependencies": ["base >= 0.17.0"], "description": "Turrets can be created to contain some ammo from the start.", "version": "0.1.2", "name": "LoadedTurrets-0_17", "title": "LoadedTurrets by CaveGrinder updated for 0.17", "homepage": "https://mods.factorio.com/mod/LoadedTurrets", "factorio_version": "0.17", "author": "CaveGrinder"}

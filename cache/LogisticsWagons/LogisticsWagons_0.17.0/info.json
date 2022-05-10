@@ -1,0 +1,1 @@
+{"name": "LogisticsWagons", "version": "0.17.0", "title": "Logistics Wagons", "author": "1000101", "homepage": "https://github.com/ForsakenShell/LogisticsWagons", "dependencies": ["base >= 0.17.0"], "factorio_version": "0.17", "description": "Wagons for the logistics network"}

@@ -1,0 +1,1 @@
+{"name": "750InventorySize", "version": "0.0.5", "title": "750 Inventory Size", "author": "czeqwerty", "email": "half.life.3.mlok@seznam.cz", "homepage": "half.life.3.mlok@seznam.cz", "contact": "half.life.3.mlok@seznam.cz", "description": "Increase the player inventory size.", "factorio_version": "0.18", "dependencies": ["base >= 0.18.2"]}

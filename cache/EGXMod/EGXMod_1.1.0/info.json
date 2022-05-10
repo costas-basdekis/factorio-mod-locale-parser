@@ -1,0 +1,1 @@
+{"name": "EGXMod", "version": "1.1.0", "title": "End-game Extension", "author": "Apple0726", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Extends end game"}

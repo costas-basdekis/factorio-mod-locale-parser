@@ -1,0 +1,1 @@
+{"author": "itam and hankocz", "dependencies": ["base >= 1.0"], "description": "Protect the rocket silo. When the rocket launch is destroyed, the game fails. ", "factorio_version": "1.1", "name": "Moutain_Denfense_Crazy", "title": "Mountian_defenes_1.6.9", "version": "1.7.2"}

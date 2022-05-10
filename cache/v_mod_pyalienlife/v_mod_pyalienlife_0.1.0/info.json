@@ -1,0 +1,1 @@
+{"name": "v_mod_pyalienlife", "version": "0.1.0", "title": "\u81ea\u7528py\u6c49\u5316\u5305", "author": "vtao", "description": "\u6c49\u5316\u4e00\u4e9bpy\u5f02\u661f\u751f\u547d", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0", "? zh-CN >= 0.1"]}

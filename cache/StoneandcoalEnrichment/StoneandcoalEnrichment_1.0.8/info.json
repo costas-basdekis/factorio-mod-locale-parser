@@ -1,0 +1,1 @@
+{"name": "StoneandcoalEnrichment", "version": "1.0.8", "title": "Stone and coal Enrichment", "author": "demongo1154", "contact": "", "homepage": "", "factorio_version": "1.1", "description": "This mod adds a new centrifuge recipe that consumes stone OR coal and outputs various ores.", "dependencies": ["base >= 1.1.1", "? pylons mod", "? DeepMineALT"]}

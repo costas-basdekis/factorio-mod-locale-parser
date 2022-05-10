@@ -1,0 +1,1 @@
+{"name": "spicy-teeth-core_assets", "version": "1.2.0", "factorio_version": "0.17", "title": "Spicy Teeth - Core_assets", "author": "SparkliTwizzl", "description": "Adds any audio/visual assets needed by Core.", "dependencies": ["base >= 0.17.0"]}

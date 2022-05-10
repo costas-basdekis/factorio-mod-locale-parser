@@ -1,0 +1,1 @@
+{"name": "power-priority", "version": "0.0.2", "title": "Power Priority", "author": "Mernom", "dependencies": ["base"], "description": "Allows changing the priorities of power generators, to build a hierarchy between them.", "factorio_version": "1.1"}

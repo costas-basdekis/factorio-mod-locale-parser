@@ -1,0 +1,1 @@
+{"name": "AngelBobPySea", "version": "0.1.7", "factorio_version": "1.1", "title": "AngelBobPySea", "author": "taizan", "description": "Contains dependencies on  Angel and Bob and PyAlienLife and SeaBlock mods, solve dead lock", "dependencies": ["base", "AngelBobPy", "YA-SeaBlock"]}

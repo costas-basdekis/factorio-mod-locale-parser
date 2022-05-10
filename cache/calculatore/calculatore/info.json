@@ -1,0 +1,1 @@
+{"name": "calculatore", "version": "1.0.0", "title": "Calculatore", "author": "GravityIO", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "It calculates mafs with /calc"}

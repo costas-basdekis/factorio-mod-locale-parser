@@ -1,0 +1,1 @@
+{"name": "tweaks4bobs", "title": "Tweaks for Bobs Mods", "version": "0.0.1", "factorio_version": "0.16", "author": "Stefan T", "description": "Tweaks for bobs mods. Currently it changes the robochests to recharge more bots.", "homepage": "https://github.com/StefanTT/factorio-tweaks4bobs", "license": "GNU LGPLv3", "dependencies": ["base >= 0.16.0", "boblogistics >= 0.16.3"]}

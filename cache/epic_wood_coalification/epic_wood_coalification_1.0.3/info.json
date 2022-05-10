@@ -1,0 +1,1 @@
+{"name": "epic_wood_coalification", "version": "1.0.3", "title": "Wood Coalification", "author": "Epic", "contact": "twitch.tv/epicgamingvideos", "homepage": "http://twitch.tv/epicgamingvideos", "description": "Adds a recipe for turning a 100 wood into 5 coal with 20 oil.", "dependencies": ["base >= 0.15"], "factorio_version": "0.15"}

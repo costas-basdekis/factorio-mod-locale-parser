@@ -1,0 +1,1 @@
+{"name": "Liftoff", "version": "0.1.10", "title": "Liftoff", "author": "Adil", "contact": "", "homepage": "https://forums.factorio.com/viewtopic.php?f=94&t=31563", "description": "Provides means to apply liftoff mechanics to various planes.", "factorio_version": "0.14", "dependencies": ["base", "Aircraft >= 1.0.7"]}

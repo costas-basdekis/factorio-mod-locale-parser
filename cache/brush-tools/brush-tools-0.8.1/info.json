@@ -1,0 +1,1 @@
+{"name": "brush-tools", "version": "0.8.1", "factorio_version": "1.1", "title": "Brush tools [ALPHA]", "author": "ZwerOxotnik", "contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik#7117", "source": "https://github.com/ZwerOxotnik/brush-tools", "homepage": "https://www.reddit.com/r/ZwerOxotnik/", "description": "See locale/*", "dependencies": ["zk-lib >= 0.10.0"]}

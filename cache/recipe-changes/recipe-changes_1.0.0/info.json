@@ -1,0 +1,1 @@
+{"name": "recipe-changes", "version": "1.0.1", "factorio_version": "0.15", "title": "Recipe Changes", "author": "liviu910", "contact": "discord: ThePlaceWherePwnedNoobsGo#4138 , otherwise none", "homepage": "", "description": "This mods changes a lot of recipes.", "dependencies": ["base >= 0.15.0"]}

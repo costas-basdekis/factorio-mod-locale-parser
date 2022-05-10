@@ -1,0 +1,1 @@
+{"name": "MoreConcreteSlot", "version": "0.1.2", "title": "MoreConcreteSlot", "author": "Ray-Fox", "description": "Mod that changes the maximum number of concrete in a single slot from 100 to 500", "contact": "https://github.com/franzqat/MoreConcreteSlot", "homepage": "https://github.com/franzqat/MoreConcreteSlot", "factorio_version": "0.15", "dependencies": ["base >= 0.13.0"]}

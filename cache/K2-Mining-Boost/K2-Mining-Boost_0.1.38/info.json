@@ -1,0 +1,1 @@
+{"name": "K2-Mining-Boost", "title": "K2-Mining-Boost", "version": "0.1.38", "author": "", "contact": "", "factorio_version": "1.1", "dependencies": ["base >= 0.1.0", "Krastorio2 >= 1.1.4", "bobmining >= 1.1.3"], "description": ""}

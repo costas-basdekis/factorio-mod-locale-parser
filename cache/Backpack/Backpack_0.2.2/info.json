@@ -1,0 +1,1 @@
+{"name": "Backpack", "version": "0.2.2", "title": "Backpack", "author": "julius1701", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "This mod adds in an backpack which is worn instead of an armor and a powered version with its own grid."}

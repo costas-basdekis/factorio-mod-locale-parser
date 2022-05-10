@@ -1,0 +1,1 @@
+{"name": "Minertool", "version": "1.2.0", "factorio_version": "0.18", "title": "Minertool", "author": "Slasherbane", "description": "A beautiful quality of life mod with various tool to up easily your factory", "dependencies": ["base >= 0.18.13"]}

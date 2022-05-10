@@ -1,0 +1,1 @@
+{"name": "Nanobots-IR", "version": "0.0.5", "title": "Nanobots for Industrial Revolution", "author": "Trblz", "homepage": "https://mods.factorio.com/mod/Nanobots-IR", "description": "Adds compatibility for Nanobots 3 to Industrial Revolution 0.9", "factorio_version": "0.17", "dependencies": ["base >= 0.17.35", "IndustrialRevolution >= 0.9.999", "Nanobots >= 3.1.0"]}

@@ -1,0 +1,1 @@
+{"name": "ScienceThree", "version": "0.0.1", "title": "Science Three", "author": "Meade", "description": "Removes drills for Science Pack 3.", "dependencies": ["base"], "factorio_version": "0.16"}

@@ -1,0 +1,1 @@
+{"name": "BadBiters", "version": "0.0.6", "title": "Bad Biters", "author": "darkfrei", "description": "New biters with better resistance to some damage types", "dependencies": ["base"], "factorio_version": "0.16"}

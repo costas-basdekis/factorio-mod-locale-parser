@@ -1,0 +1,1 @@
+{"name": "landfill-blueprints", "version": "0.1.0", "title": "Landfill Blueprints", "author": "TheEdenCrazy", "contact": "", "homepage": "", "description": "Makes landfill blueprintable again.", "dependencies": ["base"], "factorio_version": "0.14"}

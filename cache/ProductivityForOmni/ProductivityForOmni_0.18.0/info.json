@@ -1,0 +1,1 @@
+{"name": "ProductivityForOmni", "version": "0.18.0", "factorio_version": "0.18", "title": "Productivity For Omni", "author": "triktor5", "contact": "", "homepage": "", "description": "Adds productivity as an allowed effect for the omni buildings that initially do not allow it", "dependencies": ["? omnimatter >= 3.18.5", "? omnimatter_wood >= 3.18.3"]}

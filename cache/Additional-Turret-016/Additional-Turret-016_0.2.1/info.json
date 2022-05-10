@@ -1,0 +1,1 @@
+{"name": "Additional-Turret-016", "version": "0.2.1", "factorio_version": "0.16", "title": "Additional turrets", "author": "sore68, Serialtasted", "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=30865", "description": "Adds more turrets and shells.", "dependencies": ["base >= 0.16", "? Macromanaged_Turrets", "? bobplates", "? bobwarfare", "? angelspetrochem"]}

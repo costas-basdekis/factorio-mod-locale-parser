@@ -1,0 +1,1 @@
+{"name": "Crazy_Advanced_Radar", "version": "0.18.3", "title": "Advanced Radar for Factorio 0.18 (crazy port)", "author": "Captain Crazy", "homepage": "", "description": "Port to 0.18 of Malcolm Cooks' AdvancedRadar mod. Advanced radar with greater range, speed, and power consumption.", "dependencies": ["base >= 0.18"], "factorio_version": "0.18"}

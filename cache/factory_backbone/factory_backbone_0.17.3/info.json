@@ -1,0 +1,1 @@
+{"name": "factory_backbone", "version": "0.17.3", "factorio_version": "0.17", "title": "Factory Backbone", "author": "anarchyinc", "contact": "www.evilangel.com", "description": "Lights, Power, Logistics. The essential backbone to any factory", "dependencies": ["base >= 0.17.0", "? boblibrary >= 0.17.0", "? boblogistics >= 0.17.0", "? anarchy >= 0.17.0"]}

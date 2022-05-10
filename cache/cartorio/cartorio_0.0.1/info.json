@@ -1,0 +1,1 @@
+{"name": "cartorio", "version": "0.0.1", "title": "Cartorio", "author": "PyroFire", "dependencies": ["base >= 0.18"], "description": "Factorio but cars are your life now", "factorio_version": "0.18", "homepage": "http://patreon.com/pyrofire"}

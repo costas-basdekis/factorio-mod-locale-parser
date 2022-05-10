@@ -1,0 +1,1 @@
+{"name": "SlowMining", "version": "0.1.1", "title": "Slow Mining", "author": "psznm", "contact": "psznm@seznam.cz", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.17"], "description": "This slows down mining and oil extraction, also decreases emissions and power usage accordingly."}

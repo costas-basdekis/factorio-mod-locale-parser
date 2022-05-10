@@ -1,0 +1,1 @@
+{"name": "TurretCombinator", "version": "0.0.1", "title": "Turret Combinator", "author": "Stever", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds a combinator entity that will output information from nearby turrets to the circuit network."}

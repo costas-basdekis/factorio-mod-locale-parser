@@ -1,0 +1,1 @@
+{"name": "uranium-beltsv1", "version": "0.1.4", "factorio_version": "1.1", "title": "Uranium Belts", "author": "Spieker", "contact": "Spieker#8025", "description": "Adds really really fast belts that are made with uranium", "dependencies": ["base >= 0.17.0"]}

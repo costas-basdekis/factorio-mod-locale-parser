@@ -1,0 +1,1 @@
+{"name": "BEP", "version": "14.1.00", "title": "Black Eagles Package", "author": "Black Eagles", "description": "Extend the game with some complex processes and some realy heavy weapons like Minigun and more Tanks", "dependencies": ["base >= 0.14"], "factorio_version": "0.14"}

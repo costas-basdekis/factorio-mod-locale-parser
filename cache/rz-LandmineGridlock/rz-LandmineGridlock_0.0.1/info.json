@@ -1,0 +1,1 @@
+{"name": "rz-LandmineGridlock", "version": "0.0.1", "title": "Landmine Gridlock", "author": "RusselRaZe", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base"], "description": "Landmines will be locked to the grid. Includes modded landmines. Inspired by Doctor_Goose's mod with same name."}

@@ -1,0 +1,1 @@
+{"name": "pvp_mpmod", "version": "0.1.3", "title": "PvP MP Mod Pack", "author": "Skorpyo", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["robotarmy_pvp", "Flammable_Oils_QUICKFIX_pvp", "Reinforced-Walls-fix", "base >= 0.15"], "description": "PvP Mod Pack by Skorpyo"}

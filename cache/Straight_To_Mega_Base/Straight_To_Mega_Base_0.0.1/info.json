@@ -1,0 +1,1 @@
+{"name": "Straight_To_Mega_Base", "author": "JohnW", "version": "0.0.3", "title": "Straight To MegaBase", "description": "Crash landed on a distance planet you choose the items your ship was carring so you can build a megabase", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17.35"]}

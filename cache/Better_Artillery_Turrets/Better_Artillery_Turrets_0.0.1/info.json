@@ -1,0 +1,1 @@
+{"name": "Better_Artillery_Turrets", "version": "0.0.1", "title": "Better Artillery Turrets", "author": "Illiander", "contact": "", "homepage": "", "factorio_version": "1.0", "description": "Makes Stationary Artillery worth it again.", "dependencies": ["base >= 1.0"]}

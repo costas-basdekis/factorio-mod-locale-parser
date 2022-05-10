@@ -1,0 +1,1 @@
+{"name": "lg-machines", "author": "Leuf", "version": "0.1.3", "title": "Large Machines Mod", "description": "Enlarges Assemblers, Chemical Plants, and Furnaces to force the player to fit their factory to the terrain", "factorio_version": "0.15", "dependencies": ["base"]}

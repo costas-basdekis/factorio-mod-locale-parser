@@ -1,0 +1,1 @@
+{"name": "FactorioEMC", "version": "0.0.4", "title": "Factorio EMC", "author": "Zombieland4942", "factorio_version": "1.1", "description": "Provides machines, items and fluids to bring EMC/Matter from Minecraft/Krastorio2 into Factorio.", "dependencies": ["? zombiesextended-core", "?deadlock-beltboxes-loaders"]}

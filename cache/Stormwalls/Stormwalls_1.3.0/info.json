@@ -1,0 +1,1 @@
+{"name": "Stormwalls", "version": "1.3.0", "title": "Stormwalls", "author": "Degraine", "homepage": "", "dependencies": ["base >= 0.18.0"], "description": "Electrically powered walls.", "factorio_version": "0.18"}

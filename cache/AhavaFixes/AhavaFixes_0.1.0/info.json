@@ -1,0 +1,1 @@
+{"name": "AhavaFixes", "version": "0.1.0", "title": "Ahava Fuxes", "author": "Ahava", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "aai-industry >= 0.1.0", "space-exploration >= 0.1.90", "Krastorio >= 1.4.44"], "description": "Recipe fixes and stuff"}

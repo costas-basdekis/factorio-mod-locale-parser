@@ -1,0 +1,1 @@
+{"name": "PlaceableOffGrid", "version": "0.1.14", "title": "Placeable-off-grid", "author": "JohnTheCoolingFan", "contact": "https://discord.gg/KPnETvMDYk", "homepage": "https://discord.gg/KPnETvMDYk", "dependencies": ["base >= 1.1.0"], "description": "Allows you to place-off-grid every entity in the game", "factorio_version": "1.1"}

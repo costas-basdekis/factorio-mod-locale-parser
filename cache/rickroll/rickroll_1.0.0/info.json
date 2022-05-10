@@ -1,0 +1,1 @@
+{"name": "rickroll", "version": "1.0.0", "title": "RickRoll", "author": "DaveMcW", "description": "Programmable speaker plays clips from 'Never Gonna Give You Up'", "factorio_version": "0.15", "dependencies": ["base >= 0.15"]}

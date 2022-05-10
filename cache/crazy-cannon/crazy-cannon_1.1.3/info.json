@@ -1,0 +1,1 @@
+{"name": "crazy-cannon", "version": "1.2.3", "title": "Crazy's Cannon Turret Mk2", "author": "Crazy", "homepage": "", "description": "Adds an advanced cannon turret.", "factorio_version": "0.18", "dependencies": ["base >= 0.17", "vtk-cannon-turret >= 1.5.0"]}

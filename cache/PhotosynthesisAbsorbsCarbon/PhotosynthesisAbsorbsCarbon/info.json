@@ -1,0 +1,1 @@
+{"name": "PhotosynthesisAbsorbsCarbon", "version": "1.2.1", "title": "Photosynthesis Absorbs Carbon", "author": "DwarfTech", "contact": "", "homepage": "", "description": "One stop shop for BioTech mod configurability.", "dependencies": ["base", "BioTech"], "factorio_version": "1.1"}

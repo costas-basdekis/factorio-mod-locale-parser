@@ -1,0 +1,1 @@
+{"name": "Pre-Fusion", "version": "16.1.0", "title": "Pre-Fusion", "author": "Ranakastrasz", "contact": "~", "homepage": "https://forums.factorio.com/viewtopic.php?f=94&t=32708", "description": "Increases Solar Panel Output.", "dependencies": ["base"], "factorio_version": "0.16"}

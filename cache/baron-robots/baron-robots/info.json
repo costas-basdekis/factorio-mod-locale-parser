@@ -1,0 +1,1 @@
+{"name": "baron-robots", "version": "1.0.2", "title": "Baron Robots", "author": "Cogneato Switch", "contact": "CogneatoSwitch@gmail.com", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18", "baron-library >= 0.18"], "description": "Adds recipes to insert modules into robots."}

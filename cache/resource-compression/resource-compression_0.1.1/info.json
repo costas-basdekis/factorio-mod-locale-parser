@@ -1,0 +1,1 @@
+{"name": "resource-compression", "version": "0.1.1", "factorio_version": "0.14", "title": "Resource Compression", "author": "Cody Pollard", "contact": "codypollardeve@gmail.com", "description": "Resource compression for long distance hauling and longer burning coal", "dependencies": ["base >= 0.14.0"]}

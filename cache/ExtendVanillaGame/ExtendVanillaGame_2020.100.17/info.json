@@ -1,0 +1,1 @@
+{"name": "ExtendVanillaGame", "version": "2020.100.17", "title": "Extend Vanilla Game", "author": "Ferby", "contact": "", "homepage": "", "description": "This mod stays very close to the vanilla game but extends it with a lots longer and harder endgame. Every tweak is documented and customizable.", "dependencies": ["base >= 1.1.0"], "factorio_version": "1.1"}

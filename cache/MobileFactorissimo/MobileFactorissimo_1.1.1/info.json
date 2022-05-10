@@ -1,0 +1,1 @@
+{"name": "MobileFactorissimo", "version": "1.1.1", "title": "Mobile Factorissimo", "description": "Every vehicle has internal building surface", "author": "darkfrei", "dependencies": ["base", "? LinkedBelts"], "factorio_version": "1.1"}

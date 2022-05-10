@@ -1,0 +1,1 @@
+{"name": "k2-sentinel-mk2", "version": "0.1.0", "factorio_version": "1.1", "title": "Krastorio Sentinel MK2", "author": "Shadox", "description": "Add a new tier of Krastorio2 Sentinel MK2", "dependencies": ["base >= 1.1.0", "Krastorio2 >= 1.1.4"], "homepage": ""}

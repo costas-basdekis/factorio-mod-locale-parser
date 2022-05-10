@@ -1,0 +1,1 @@
+{"name": "NoFreeplayCutscene", "version": "1.0.3", "factorio_version": "1.1", "title": "No Freeplay Cutscene", "author": "morsk", "dependencies": ["base >= 1.1"], "description": "Skip freeplay intro cutscene and/or crash site generation."}

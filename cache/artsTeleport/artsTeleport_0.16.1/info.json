@@ -1,0 +1,1 @@
+{"name": "artsTeleport", "version": "0.16.1", "title": "Art's Teleport", "author": "aspd199", "contact": "admin@art8620.com", "homepage": "https://mods.factorio.com/mods/aspd199", "description": "Add a magic item, let the player teleport!", "factorio_version": "0.16", "dependencies": ["artsCore >= 0.8.0", "rpgsProperty >= 0.16.3"]}

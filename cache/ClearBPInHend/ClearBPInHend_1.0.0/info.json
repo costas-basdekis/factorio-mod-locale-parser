@@ -1,0 +1,1 @@
+{"name": "ClearBPInHend", "version": "1.0.0", "title": "ClearBPInHend", "author": "DIN", "contact": "", "homepage": "", "description": "Use hot key to clear blueprint in ur hend", "dependencies": ["base >= 0.15"], "factorio_version": "0.16"}

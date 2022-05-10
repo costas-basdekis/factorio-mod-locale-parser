@@ -1,0 +1,1 @@
+{"name": "z_yira_american", "title": "YIR - Americans", "version": "1.1.13", "date": "2021-09-23", "author": "Yuoki Tani", "factorio_version": "1.1", "dependencies": ["base >= 0.18", "yi_railway >= 1.1.28"], "description": "adds some EMD-F7, and other American-Stylish-Stuff"}

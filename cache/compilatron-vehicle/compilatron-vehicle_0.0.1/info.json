@@ -1,0 +1,1 @@
+{"name": "compilatron-vehicle", "version": "0.0.1", "factorio_version": "0.17", "title": "Compilatron Vehicle", "author": "adamius", "dependencies": ["base"], "description": "Compilatron as a vehicle."}

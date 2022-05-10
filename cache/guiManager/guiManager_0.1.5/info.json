@@ -1,0 +1,1 @@
+{"name": "guiManager", "title": "GUI Manager", "version": "0.1.5", "author": "unhott", "contact": "unhott@hotmail.com", "description": "Manage GUIs added by mods", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

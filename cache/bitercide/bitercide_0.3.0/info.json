@@ -1,0 +1,1 @@
+{"name": "bitercide", "version": "0.3.0", "factorio_version": "1.1", "title": "Bitercide", "author": "dorfl", "contact": "Dorfl <ceramic.atheist@gmail.com>", "homepage": "https://gitlab.com/aerosuidae/bitercide", "description": "Aerosol poison dispersed by an airburst bomb launched in a rocket. Range starts at 1km with infinite research.", "dependencies": ["base >= 1.1.0"]}

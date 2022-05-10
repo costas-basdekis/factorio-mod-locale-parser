@@ -1,0 +1,1 @@
+{"name": "z-Chems-MSP-Softlock-Fix", "version": "1.1.0", "title": "Chem's MSP Softlock Fix", "author": "Chembot", "homepage": "", "dependencies": ["base >= 0.18", "? MoreSciencePacks>=0.1.14"], "description": "A mod that fixes the two annoying softlocks that you get from MSP with bobs+angels", "factorio_version": "1.1"}

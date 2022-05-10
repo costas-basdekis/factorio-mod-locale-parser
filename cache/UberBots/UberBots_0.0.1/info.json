@@ -1,0 +1,1 @@
+{"name": "UberBots", "version": "0.0.1", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "title": "Uber Bots", "author": "Primogenitor", "contact": "", "homepage": "", "description": "Robots have x10 charge. Roboports have x16 area, can fully charge 4 bots, and charge x10 as fast."}

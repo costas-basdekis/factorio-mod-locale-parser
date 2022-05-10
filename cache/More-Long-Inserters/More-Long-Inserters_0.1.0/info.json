@@ -1,0 +1,1 @@
+{"name": "More-Long-Inserters", "version": "0.1.0", "title": "More Long Inserters", "author": "The Card Czar", "factorio_version": "1.0", "contact": "thecardczaryt@gmail.com", "homepage": "https://discord.gg/vC8U2N8", "dependencies": ["base >= 1.0"], "description": "Adds more long inserters to the game, similar to the fast/filter/stack inserters."}

@@ -1,0 +1,1 @@
+{"name": "SnisStandardMod", "author": "DjSni", "version": "0.4.0", "title": "Snis Standard Mod", "description": "Adds several mods to Factorio. (Like more Toolbelts, larger Inventory, Loader, amm)", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

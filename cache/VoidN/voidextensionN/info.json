@@ -1,0 +1,1 @@
+{"name": "VoidN", "version": "0.17.0", "title": "VoidN", "author": "Nushroom", "contact": "", "homepage": "http://www.factorio.com", "description": "Modified version.", "factorio_version": "0.17", "dependencies": ["base >= 0.11.1", "? bobores >= 0.17.5", "angelsrefining >= 0.10.3"]}

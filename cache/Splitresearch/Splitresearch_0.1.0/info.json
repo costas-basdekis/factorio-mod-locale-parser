@@ -1,0 +1,1 @@
+{"name": "Splitresearch", "version": "0.1.0", "title": "Splitresearch", "author": "Rayleigh", "license": "MIT License", "description": "Splits vanilla research into more techs, to make research take longer", "dependencies": ["base >= 0.17.0"], "factorio_version": "0.17"}

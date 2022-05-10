@@ -1,0 +1,1 @@
+{"name": "Ore_Conversion_Plant", "author": "R-PL", "version": "1.0.5", "title": "Ore Conversion Plant", "homepage": "", "description": "Too much iron? Need copper? or the other way round? Mix up your excess to produce what you need", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

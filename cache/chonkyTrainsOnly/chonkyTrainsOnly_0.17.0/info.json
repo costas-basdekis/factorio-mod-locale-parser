@@ -1,0 +1,1 @@
+{"name": "chonkyTrainsOnly", "version": "0.17.0", "title": "Chonky Trains Only", "author": "Soggs", "description": "Completely replaces trains with the chonky versions.", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "chonky-trains >= 0.3.0"]}

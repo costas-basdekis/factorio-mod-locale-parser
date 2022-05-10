@@ -1,0 +1,1 @@
+{"title": "Nepgear ReNepped", "name": "NepgearReNepped", "author": "exoticcinnamon", "version": "1.1.5", "factorio_version": "1.1", "contact": "Check the mod portal \"Discussions\" tab (link below).", "license": "MIT License", "description": "Replaces the engineer with Nepgear.", "dependencies": ["base >= 1.1.0"]}

@@ -1,0 +1,1 @@
+{"name": "cheddar", "version": "1.0.0", "title": "Get that Cheddar!", "author": "BuilderOfAges", "contact": "https://forums.factorio.com/viewtopic.php?f=190&t=63242", "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=63242", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Iron ore is now cheese, iron plates are melted cheese."}

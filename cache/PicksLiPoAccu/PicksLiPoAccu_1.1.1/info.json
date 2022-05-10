@@ -1,0 +1,1 @@
+{"name": "PicksLiPoAccu", "version": "1.1.1", "title": "Picklock's Lithium Polymer Accumulator", "author": "Picklock", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "PicksBaseMod >= 1.1.1"], "description": "This mod integrates a new type of accumulator to the game."}

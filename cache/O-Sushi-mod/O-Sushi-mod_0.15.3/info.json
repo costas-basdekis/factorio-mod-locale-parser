@@ -1,0 +1,1 @@
+{"name": "O-Sushi-mod", "version": "0.15.3", "factorio_version": "0.15", "title": "O-Sushi-mod", "author": "die_8_,ep0d", "contact": "", "homepage": "http://www.fourslippers.com/factorio/", "description": "Add sushi system.(The concept of hunger is added.)", "dependencies": ["base >= 0.15.00"]}

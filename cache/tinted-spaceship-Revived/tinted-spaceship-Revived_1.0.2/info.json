@@ -1,0 +1,1 @@
+{"name": "tinted-spaceship-Revived", "version": "1.0.2", "title": "Tinted Spaceship Revived", "author": "Kreeg", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "Tints the spaceship and crash site debris to match the player's color."}

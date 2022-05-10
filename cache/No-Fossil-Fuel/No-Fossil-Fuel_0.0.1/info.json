@@ -1,0 +1,1 @@
+{"name": "No-Fossil-Fuel", "version": "0.0.1", "title": "No Fossil Fuel", "author": "Yoyobuae", "contact": "yoyobuae@gmail.com", "homepage": "https://mods.factorio.com/mods/yoyobuae/No-Fossil-Fuel", "description": "Disables burning of coal, solid fuel and rocket fuel", "factorio_version": "0.14", "dependencies": ["base >= 0.14.21"]}

@@ -1,0 +1,1 @@
+{"name": "inventory-repair", "version": "19.0.1", "factorio_version": "1.1", "title": "Inventory Repair", "author": "calcwizard", "dependencies": ["base"], "description": "Repairs damaged items in your inventory directly with repair packs."}

@@ -1,0 +1,1 @@
+{"name": "_no_duplicate_item_ingredients", "title": "No duplicate item ingredients", "description": "Fixes the error by the error /Duplicate item ingredients are not allowed/", "version": "0.0.1", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.17"}

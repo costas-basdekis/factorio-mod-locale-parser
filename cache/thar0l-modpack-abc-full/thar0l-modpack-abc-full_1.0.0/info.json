@@ -1,0 +1,1 @@
+{"name": "thar0l-modpack-abc-full", "version": "1.0.0", "factorio_version": "1.1", "title": "Tharol's Angel/Bob/MadClown/AAI and QOL modpack", "author": "Thar0l", "description": "Tharol's modpack of Angels, Bobs, MadClown01s, AAI and different QOL mods", "dependencies": ["base >= 1.1.0", "thar0l-modpack-abc-base", "thar0l-modpack-abc-qol"]}

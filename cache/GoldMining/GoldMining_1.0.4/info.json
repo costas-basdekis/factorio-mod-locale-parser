@@ -1,0 +1,1 @@
+{"name": "GoldMining", "version": "1.0.4", "title": "Gold mining", "author": "Jonas", "contact": "", "homepage": "", "factorio_version": "0.17", "description": "Adds gold mining to the game", "dependencies": ["base >= 0.17.0"]}

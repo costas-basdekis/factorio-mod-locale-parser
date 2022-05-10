@@ -1,0 +1,1 @@
+{"name": "MineralGoo", "description": "Proof of concept. When the entity is destroyed, a new ore appears. ", "version": "0.1.0", "title": "Mineral Goo", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.16"}

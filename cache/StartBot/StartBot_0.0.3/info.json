@@ -1,0 +1,1 @@
+{"name": "StartBot", "version": "0.0.3", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "title": "Start Bot", "author": "epoch_ym", "homepage": "", "description": "\u65b0\u624b\u673a\u5668\u4eba"}

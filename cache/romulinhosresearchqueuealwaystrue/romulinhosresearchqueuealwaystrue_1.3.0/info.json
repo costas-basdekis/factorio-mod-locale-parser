@@ -1,0 +1,1 @@
+{"name": "romulinhosresearchqueuealwaystrue", "version": "1.3.0", "factorio_version": "1.1", "title": "Romulinho's Research Queue Always True", "author": "Romulinho", "description": "For those like me that forgot to set Research Queue 'always' before starting the game and only realized that when it was too late", "dependencies": ["base >= 1.1.0"]}

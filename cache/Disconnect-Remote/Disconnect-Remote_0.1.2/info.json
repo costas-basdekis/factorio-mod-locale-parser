@@ -1,0 +1,1 @@
+{"name": "Disconnect-Remote", "version": "0.1.2", "title": "Disconnect Spidertron Remote", "author": "Endus322", "contact": "Discord: Endus322#8144", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Allows you to disconnect your Spidertron remote."}

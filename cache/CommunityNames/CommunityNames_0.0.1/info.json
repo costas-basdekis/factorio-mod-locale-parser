@@ -1,0 +1,1 @@
+{"name": "CommunityNames", "version": "0.0.1", "title": "Community Names", "author": "Yokmp", "factorio_version": "0.18", "dependencies": ["base >= 0.17"], "description": "Renames Things."}

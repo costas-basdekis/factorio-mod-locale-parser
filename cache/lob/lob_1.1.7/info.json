@@ -1,0 +1,1 @@
+{"name": "lob", "version": "1.1.7", "title": "Lob", "author": "notnotmelon", "description": "Adds 2x1 thrower inserters that can throw items up to 16 tiles. Can also void items by throwing them into water. A fork of Renai Transportation", "factorio_version": "1.1", "dependencies": ["base", "?RenaiTransportation"]}

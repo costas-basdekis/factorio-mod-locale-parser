@@ -1,0 +1,1 @@
+{"name": "dirtybarrels", "version": "1.1.0", "factorio_version": "1.1", "title": "Dirty Barrels", "author": "TwistedSoul", "description": "Barrels need to be cleaned before using them again.", "homepage": "https://git.thecodecache.net/factorio/dirty-barrels", "contact": "http://www.thecodecache.net/", "dependencies": ["base >= 1.0", "? bobplates >= 1.0.2"]}

@@ -1,0 +1,1 @@
+{"name": "better_smelting", "version": "0.1.0", "factorio_version": "0.17", "title": "Echree's better smelting", "author": "Echree", "contact": "", "homepage": "", "dependencies": ["base >= 0.17.0", "echrees_basics >=0.0.5"]}

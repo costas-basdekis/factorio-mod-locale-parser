@@ -1,0 +1,1 @@
+{"name": "DeathCounter", "author": "magu5026", "version": "0.16.2", "title": "Death Counter", "description": "Death Counter", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

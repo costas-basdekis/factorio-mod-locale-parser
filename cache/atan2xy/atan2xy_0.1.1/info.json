@@ -1,0 +1,1 @@
+{"name": "atan2xy", "version": "0.1.1", "title": "atan2 noise expression", "author": "Honktown", "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=75210", "homepage": "", "description": "atan2 noise expression, usable with (x,y) or other noise-expression variables. Examples in data.lua", "factorio_version": "0.17", "dependencies": ["base >= 0.17"]}

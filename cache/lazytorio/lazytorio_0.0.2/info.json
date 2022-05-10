@@ -1,0 +1,1 @@
+{"name": "lazytorio", "version": "0.0.2", "title": "Lazytorio", "author": "PyroFire", "dependencies": ["base >= 0.17"], "description": "Factorio but every time you hand-craft something it gets more expensive", "factorio_version": "0.17", "homepage": "none"}

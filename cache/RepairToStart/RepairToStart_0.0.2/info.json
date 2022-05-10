@@ -1,0 +1,1 @@
+{"name": "RepairToStart", "description": "New buildings have only one hit point; repair to start them", "version": "0.0.2", "title": "Repair To Start", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.16"}

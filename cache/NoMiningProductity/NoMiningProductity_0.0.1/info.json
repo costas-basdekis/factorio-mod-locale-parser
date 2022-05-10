@@ -1,0 +1,1 @@
+{"name": "NoMiningProductity", "version": "0.0.1", "title": "No Mining Productivity", "author": "ElectroBot", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Disables mining productivity research."}

@@ -1,0 +1,1 @@
+{"name": "ExtraStrengthPipes", "version": "0.1.0", "factorio_version": "0.17", "title": "Extra Strength Pipes", "author": "faraway9911", "contact": "liubowei@gmail.com", "homepage": "", "dependencies": ["base >= 0.17.1"], "description": "Makes vanilla pipes 80% resistant to alien acid."}

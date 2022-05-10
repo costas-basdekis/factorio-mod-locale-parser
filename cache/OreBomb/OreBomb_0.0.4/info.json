@@ -1,0 +1,1 @@
+{"name": "OreBomb", "version": "0.0.4", "title": "Ore Bomb", "author": "Nebelwolfi", "description": "Bombs that generate ore patches.", "homepage": "", "contact": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

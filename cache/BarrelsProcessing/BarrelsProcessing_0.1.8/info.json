@@ -1,0 +1,1 @@
+{"name": "BarrelsProcessing", "version": "0.1.8", "title": "Barrels Processing", "description": "Adds Barrels-Processors for chemical processing with barrels", "author": "darkfrei", "license": "MIT", "dependencies": ["base", "? BarrelRecycling"], "factorio_version": "0.17"}

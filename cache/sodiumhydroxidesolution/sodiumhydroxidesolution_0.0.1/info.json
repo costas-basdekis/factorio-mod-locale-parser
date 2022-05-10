@@ -1,0 +1,1 @@
+{"name": "sodiumhydroxidesolution", "version": "0.0.2", "title": "Sodium Hydroxide Solution", "author": "Indirium", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15", "angelspetrochem >= 0.6.1"], "description": "This mod adds a way to turn Sodium Hydroxide into solution allowing you to void it using a clarifier."}

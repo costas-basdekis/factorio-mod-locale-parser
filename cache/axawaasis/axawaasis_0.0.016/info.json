@@ -1,0 +1,1 @@
+{"name": "axawaasis", "version": "0.0.016", "title": "Axawaasis tweaks", "author": "Axawaasis", "description": "Mod for private game. Do not install this.", "factorio_version": "1.0", "dependencies": ["base >= 1.0.0", "angelspetrochem >= 0.9.14", "angelsindustries >= 0.4.6"]}

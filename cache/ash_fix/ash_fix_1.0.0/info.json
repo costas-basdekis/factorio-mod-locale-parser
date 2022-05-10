@@ -1,0 +1,1 @@
+{"name": "ash_fix", "version": "1.0.0", "factorio_version": "1.1", "title": "Ash Hydrogen Fix", "author": "Noble", "contact": "", "homepage": "", "dependencies": ["base >= 1.1.0", "space-exploration >= 0.5.39"], "description": "A fix for Hydrogen for in Ash's modpack"}

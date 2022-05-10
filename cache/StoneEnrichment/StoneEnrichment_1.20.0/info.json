@@ -1,0 +1,1 @@
+{"name": "StoneEnrichment", "version": "1.20.0", "title": "Stone Enrichment", "author": "SammoSammo", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod adds a new centrifuge recipe that consumes stone and will occasionally produce an iron and/or copper ore."}

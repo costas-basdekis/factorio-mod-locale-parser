@@ -1,0 +1,1 @@
+{"name": "auto-barrelling", "version": "1.0.6", "factorio_version": "0.15", "title": "Auto Barrelling", "author": "ElecNinja", "description": "Auto Barrelling machine will automatically barrel any given liquid without having to select a recipe. Supports all modded items", "dependencies": ["base >= 0.15", "? angelspetrochem >= 0.5.0"]}

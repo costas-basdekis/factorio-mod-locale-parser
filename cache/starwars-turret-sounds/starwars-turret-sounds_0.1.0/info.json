@@ -1,0 +1,1 @@
+{"name": "starwars-turret-sounds", "version": "0.1.0", "title": "Star Wars Turret Sounds", "author": "oof2win2", "description": "This mod changes the laser turret shooting sound to be a tie fighter laser from Star Wars", "dependencies": ["base >= 1.0.0"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "kj_cybertruck", "version": "1.1.4", "title": "King Jo's Cybertruck", "author": "TheKingJo", "contact": "", "homepage": "", "description": "Adds the Cybertruck.", "factorio_version": "1.1", "dependencies": ["base", "kj_fuel >= 1.1.0", "(?) Krastorio2 >= 1.1.0"]}

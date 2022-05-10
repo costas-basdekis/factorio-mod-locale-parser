@@ -1,0 +1,1 @@
+{"name": "WideChests_AAI_Containers_Fix", "version": "1.0.0", "title": "Merging Chests AAI Containers & Warehouses Fix", "author": "Dr_Pepper", "description": "Restores vanilla steel chests because they are used by Merging Chests", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "WideChests >= 3.3.0", "aai-containers >= 0.2.7", "?IndustrialRevolution >= 1.1.26"]}

@@ -1,0 +1,1 @@
+{"name": "burner-long-handed-inserter", "version": "1.1.0", "title": "Burner Long Handed Inserter", "description": "Adds a burner powered long handed inserter. Unlocked with logistics technology.", "author": "Pithlit", "license": "MIT", "dependencies": ["base"], "factorio_version": "1.1"}

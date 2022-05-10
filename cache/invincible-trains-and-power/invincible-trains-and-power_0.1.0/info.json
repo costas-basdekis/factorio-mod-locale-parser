@@ -1,0 +1,1 @@
+{"name": "invincible-trains-and-power", "version": "0.1.0", "factorio_version": "0.14", "title": "Invincible Trains and Large Power Lines", "author": "Olix", "contact": "", "homepage": "", "description": "Makes diesel locomotives, cargo wagons and large power lines invincible.", "dependencies": ["base >= 0.13.0"]}

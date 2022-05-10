@@ -1,0 +1,1 @@
+{"name": "SkipToTrains", "version": "0.0.2", "title": "Skip To Trains", "author": "erikdekamps", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Gives you the items and research to start building trains. Modified version of ananyzyr's SkipSpaghettiPhase."}

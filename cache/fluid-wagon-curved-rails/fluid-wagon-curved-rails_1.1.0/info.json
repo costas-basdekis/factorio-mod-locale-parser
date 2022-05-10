@@ -1,0 +1,1 @@
+{"name": "fluid-wagon-curved-rails", "version": "1.1.0", "title": "Fluid Wagons on Curved Rails", "author": "adam_bise", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod disables the pump arm graphic, and increases pump-fluid wagon alignment tolerance."}

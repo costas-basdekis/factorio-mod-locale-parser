@@ -1,0 +1,1 @@
+{"name": "faucet", "version": "1.1.0", "title": "Evaporation", "author": "jazziebgd", "contact": "dinoivankov@gmail.com", "homepage": "https://github.com/jazziebgd/evaporation", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Adds technologies, buildings and items that make ridding of excess gases and fluids easy through evaporation."}

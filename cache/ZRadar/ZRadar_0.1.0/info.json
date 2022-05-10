@@ -1,0 +1,1 @@
+{"name": "ZRadar", "version": "0.1.0", "title": "Z Radar", "author": "Zholtar", "contact": "maxime@elevage-vct.be", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Adds 2 improved and balanced Radars to the game."}

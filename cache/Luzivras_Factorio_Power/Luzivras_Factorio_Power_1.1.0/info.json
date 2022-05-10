@@ -1,0 +1,1 @@
+{"name": "Luzivras_Factorio_Power", "version": "1.1.0", "factorio_version": "1.1", "title": "Luzivras Factorio Power", "author": "YouTube_Luzivras", "contact": "https://discord.gg/BNq4Can", "description": "Adds Solarpannels and Accumulators MK 1-8 Adds Electric Boilers.", "dependencies": ["Luzivras_Factorio_Core >= 1.1.0"]}

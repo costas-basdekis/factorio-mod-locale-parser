@@ -1,0 +1,1 @@
+{"name": "pky1Core", "version": "1.2.0", "factorio_version": "0.16", "title": "PokeyOne's Core Mod", "author": "PokeyOne", "contact": "pokeyonesoftware@gmail.com", "description": "Core mod required for all PokeyOne mods", "dependencies": ["base >= 0.16.0"]}

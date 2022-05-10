@@ -1,0 +1,1 @@
+{"name": "circuitissimo", "version": "0.1.4", "title": "Circuitissimo", "author": "PyroFire", "dependencies": ["base >= 1.1"], "description": "A composite combinator combined with combinations of combinators from a combinator combinator", "factorio_version": "1.1", "homepage": "http://patreon.com/pyrofire"}

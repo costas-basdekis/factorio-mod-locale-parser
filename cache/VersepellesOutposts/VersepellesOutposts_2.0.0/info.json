@@ -1,0 +1,1 @@
+{"name": "VersepellesOutposts", "version": "2.0.0", "title": "Outposts", "author": "Versepelles", "contact": "stevenbrelsford@gmail.com", "description": "Adds far-flung outposts to encourage exploration, expansion, and networking on a large scale.", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"]}

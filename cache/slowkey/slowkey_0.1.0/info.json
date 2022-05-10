@@ -1,0 +1,1 @@
+{"name": "slowkey", "version": "0.1.0", "factorio_version": "0.14", "title": "SlowKey", "author": "lf", "contact": "factorio-mods@lfcode.ca", "homepage": "", "description": "Adds a hotkey to slow the player down", "dependencies": ["base >= 0.14.0"]}

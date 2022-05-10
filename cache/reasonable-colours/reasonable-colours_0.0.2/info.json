@@ -1,0 +1,1 @@
+{"name": "reasonable-colours", "version": "0.0.2", "factorio_version": "1.0", "title": "Reasonable Colours", "author": "Crumpet", "contact": "", "homepage": "", "description": "Change the colours of inserters and assemblers to match belt tiers. Idea from https://forums.factorio.com/viewtopic.php?f=15&t=44975", "dependencies": ["base >= 1.0.0"]}

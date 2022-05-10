@@ -1,0 +1,1 @@
+{"name": "CustomCommandsExample", "version": "0.0.3", "title": "Custom Commands Example", "author": "coltonj96", "contact": "https://discord.gg/3mcvkXM", "homepage": "", "description": "Example usage of CustomCommands Api", "factorio_version": "0.14", "dependencies": ["base >= 0.11.1", "? CustomCommands = 0.0.3"]}

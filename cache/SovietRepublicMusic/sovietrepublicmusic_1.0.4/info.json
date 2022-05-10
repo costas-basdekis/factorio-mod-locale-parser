@@ -1,0 +1,1 @@
+{"name": "SovietRepublicMusic", "version": "1.0.4", "title": "Soviet Republic Music", "author": "Artanis_Mattias", "contact": "gorlovdiman@gmail.com", "homepage": "", "description": "Added music from Soviet Republic.", "dependencies": ["base >= 0.18"], "factorio_version": "1.1"}

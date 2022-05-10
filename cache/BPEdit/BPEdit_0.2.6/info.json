@@ -1,0 +1,1 @@
+{"name": "BPEdit", "version": "0.2.6", "title": "Blueprint Editor", "author": "Bigfootmech", "contact": "bigfootmech@gmail.com", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=53634", "factorio_version": "0.15", "dependencies": ["base >= 0.15.37"], "description": "A mod for editing/updating/modifying existing blueprints without placing them in to the world first."}

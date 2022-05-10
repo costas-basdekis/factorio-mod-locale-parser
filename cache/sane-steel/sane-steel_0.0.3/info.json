@@ -1,0 +1,1 @@
+{"name": "sane-steel", "version": "0.0.3", "title": "Sane Steel", "author": "mkaito", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "Make steel smelting take 4 iron plates instead of 5, 8 instead of 10 in expensive mode."}

@@ -1,0 +1,1 @@
+{"name": "Loader-Furnace", "version": "6.1.1", "title": "Loader Furnace", "description": "New furnaces, fitted for loaders using.", "author": "darkfrei", "license": "MIT", "dependencies": ["base", "? DoubleSpeedBelts"], "factorio_version": "1.1"}

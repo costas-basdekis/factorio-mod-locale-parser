@@ -1,0 +1,1 @@
+{"name": "RitnLogo", "version": "1.1.0", "title": "RitnLogo", "author": "TinouHD", "contact": "", "homepage": "https://www.twitch.tv/ritntv", "factorio_version": "1.1", "dependencies": ["base >= 0.17", "? CommuLogo"], "description": "Twitch : RitnTV - https://www.twitch.tv/ritntv"}

@@ -1,0 +1,1 @@
+{"name": "deadlock-stacking-crafting-bio_industries", "version": "0.0.1", "factorio_version": "0.16", "title": "Deadlock's Crating and Stacking for Bio Industries mods", "author": "Relik77", "homepage": "", "dependencies": ["base", "? DeadlockStacking", "? DeadlockCrating", "Bio_Industries >= 2.6.3"], "description": "Adds recipes for stacking & crating from Bio Industries Mod"}

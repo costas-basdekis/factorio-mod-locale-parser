@@ -1,0 +1,1 @@
+{"name": "pump-compatability", "version": "1.0.0", "factorio_version": "1.1", "title": "pump compatability", "author": "", "contact": "", "homepage": "", "description": "pump compatability for k2 space exploration and bobs logistics", "dependencies": ["base >= 1.1"]}

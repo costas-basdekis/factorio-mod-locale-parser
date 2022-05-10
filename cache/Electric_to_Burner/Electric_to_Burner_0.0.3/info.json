@@ -1,0 +1,1 @@
+{"name": "Electric_to_Burner", "version": "0.0.3", "title": "Electric to Burner", "author": "Lu__Lu", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "Bio_Industries >= 0.17.32"], "description": "Replace electricity-using entities with Burners."}

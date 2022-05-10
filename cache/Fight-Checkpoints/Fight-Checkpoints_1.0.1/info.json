@@ -1,0 +1,1 @@
+{"name": "Fight-Checkpoints", "version": "1.0.1", "title": "Fight Checkpoints", "description": "Create a checkpoint save when a character or a driven vehicle take damage. Also, have some options.", "author": "Linver", "contact": "https://discord.gg/sUmpTHN", "factorio_version": "0.18", "dependencies": ["base >= 0.18.31"]}

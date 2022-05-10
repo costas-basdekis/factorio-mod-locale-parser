@@ -1,0 +1,1 @@
+{"name": "TanksK2andK2SETweaks", "version": "0.2.2", "title": "Tanks Tweaks for Krastorio2 and Space Exploration", "author": "GeneralTank", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "Krastorio2 >= 1.2.10", "? space-exploration-postprocess"], "description": "Various tweaks combing mods by Xon, MrFactorio, and Quezler"}

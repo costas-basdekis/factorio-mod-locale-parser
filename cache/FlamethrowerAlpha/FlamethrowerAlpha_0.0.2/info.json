@@ -1,0 +1,1 @@
+{"name": "FlamethrowerAlpha", "version": "0.0.2", "title": "Flamethrower Turret Alpha", "author": "darkfrei", "description": "New Flamethrower turret: Needs flamethrower ammo instead of pipe connection", "dependencies": ["base"], "factorio_version": "0.16"}

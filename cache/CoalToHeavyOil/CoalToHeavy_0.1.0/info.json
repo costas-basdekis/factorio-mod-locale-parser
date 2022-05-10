@@ -1,0 +1,1 @@
+{"name": "CoalToHeavyOil", "version": "0.1.0", "factorio_version": "0.15", "title": "Crack Coal to Heavy Update", "author": "Nemreg09", "description": "Adds a recipe that can crack Coal into Heavy Oil at a Chemical Plant.", "dependencies": ["base >= 0.15"]}

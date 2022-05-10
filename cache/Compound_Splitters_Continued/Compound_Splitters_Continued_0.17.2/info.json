@@ -1,0 +1,1 @@
+{"name": "Compound_Splitters_Continued", "version": "0.17.2", "title": "Compound Splitters Continued", "author": "themadgunman", "contact": "", "homepage": "", "description": "A Mod to allow for variable lane splitters with programmable behaviour.", "dependencies": ["base >= 0.17.0"], "factorio_version": "0.17"}

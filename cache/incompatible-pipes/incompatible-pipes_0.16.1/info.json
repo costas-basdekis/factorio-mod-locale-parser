@@ -1,0 +1,1 @@
+{"name": "incompatible-pipes", "version": "0.16.1", "factorio_version": "0.16", "title": "Incompatible Pipes", "author": "sticklord", "contact": "", "homepage": "", "description": "Pipes no longer connects to pipes of a different material.", "dependencies": ["base >= 0.16.0", "? boblogistics >= 0.16.0"]}

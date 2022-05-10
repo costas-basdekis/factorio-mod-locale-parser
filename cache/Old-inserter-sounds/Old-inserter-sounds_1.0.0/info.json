@@ -1,0 +1,1 @@
+{"name": "Old-inserter-sounds", "version": "1.0.0", "title": "Old inserter sounds", "author": "Alstorp", "dependencies": ["base >= 0.18"], "factorio_version": "0.18", "description": "Replaces the new inserter sounds introduced in 0.18 with the old ones, pre-0.18"}

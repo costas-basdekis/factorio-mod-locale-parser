@@ -1,0 +1,1 @@
+{"name": "Combat_by_Samuel", "version": "1.1.1", "factorio_version": "0.17", "title": "Combat by Samuel", "author": "SamuelCombrinck", "contact": "", "homepage": "", "description": "Sniper and shotgun Turrets, Uranium shotgun ammo, A Sniper Gun, and more to come.", "dependencies": ["base >= 0.14.0"]}

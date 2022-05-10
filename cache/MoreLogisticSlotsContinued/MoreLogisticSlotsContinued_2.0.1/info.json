@@ -1,0 +1,1 @@
+{"name": "MoreLogisticSlotsContinued", "version": "2.0.1", "title": "More Logistic Slots Continued", "author": "Mimos", "description": "Adds 4 additional researches for logistic slots. Based on Tyrindors work.", "factorio_version": "0.18", "dependencies": ["base >= 0.17.39"]}

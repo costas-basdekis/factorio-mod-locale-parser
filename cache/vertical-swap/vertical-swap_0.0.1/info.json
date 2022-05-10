@@ -1,0 +1,1 @@
+{"name": "vertical-swap", "version": "0.0.1", "factorio_version": "0.17", "title": "Vertical Swap", "author": "Amuxix", "homepage": "", "description": "Adds an hotkey that swaps the slots 1-5 with slots 6-10 of each quick bar.", "dependencies": ["base >= 0.17"]}

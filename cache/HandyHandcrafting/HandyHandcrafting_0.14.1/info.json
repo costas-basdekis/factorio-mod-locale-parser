@@ -1,0 +1,1 @@
+{"name": "HandyHandcrafting", "version": "0.14.1", "factorio_version": "0.14", "title": "Handy Handcrafting", "author": "Frn", "description": "Handcraft things that normally take an assembly machine!", "dependencies": ["base >= 0.14.0"]}

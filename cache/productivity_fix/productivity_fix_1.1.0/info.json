@@ -1,0 +1,1 @@
+{"name": "productivity_fix", "version": "1.1.0", "factorio_version": "1.1", "title": "Productivity Fix", "author": "goupkook", "contact": "", "description": "Allows productivity modules with non intermediate recipies and in beacons.", "dependencies": ["base >= 1.1"]}

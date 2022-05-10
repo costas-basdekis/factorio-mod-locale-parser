@@ -1,0 +1,1 @@
+{"name": "mining-ingredients-only", "version": "1.1.1", "title": "Mining returns ingredients only", "author": "ptx0", "contact": "", "homepage": "", "description": "With this mod, mining buildings will return the items required to craft it instead of the actual entity being mined.", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0"]}

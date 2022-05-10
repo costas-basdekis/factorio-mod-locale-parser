@@ -1,0 +1,1 @@
+{"name": "remote-switch", "version": "2.0.5", "title": "Remote Switch", "author": "Darkcry", "contact": "", "homepage": "", "description": "Adds new constant combinators which can be toggled remotely", "factorio_version": "1.1", "dependencies": ["base >= 0.18.0"]}

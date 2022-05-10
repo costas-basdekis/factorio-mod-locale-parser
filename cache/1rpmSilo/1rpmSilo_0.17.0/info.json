@@ -1,0 +1,1 @@
+{"name": "1rpmSilo", "version": "0.17.0", "factorio_version": "0.17", "title": "1rpm Silo", "author": "Ober3550", "contact": "", "dependencies": ["base >= 0.17.47"], "homepage": "", "description": "Makes Fully Beaconed Silos produce 1rpm"}

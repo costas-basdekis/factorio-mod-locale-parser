@@ -1,0 +1,1 @@
+{"name": "PABA-modpack-fix", "version": "0.0.1", "title": "PABA Modpack Fixes", "author": "Ordpus", "homepage": "", "description": "A fix for my own modpack", "factorio_version": "0.16", "dependencies": ["base >= 0.16", "morebobs", "boblibrary", "pyscience", "Clowns-Science"]}

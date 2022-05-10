@@ -1,0 +1,1 @@
+{"name": "Hidden_Loot", "version": "0.0.3", "title": "Hidden Loot", "author": "Gerkiz", "contact": "Gerkiz#0001", "description": "This mod adds some hidden loot when mining trees or rocks.", "dependencies": ["base >= 1.0.0"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "MovingWorms", "version": "0.0.1", "title": "Moving Worms", "author": "darkfrei", "description": "Worms can slowly move", "dependencies": ["base"], "factorio_version": "0.16"}

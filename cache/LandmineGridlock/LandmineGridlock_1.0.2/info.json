@@ -1,0 +1,1 @@
+{"name": "LandmineGridlock", "version": "1.0.3", "title": "Landmine Gridlock", "author": "Doctor_Goose", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Locks landmines to the building grid."}

@@ -1,0 +1,1 @@
+{"name": "hl-Rocket-turret", "version": "0.1.2", "factorio_version": "1.1", "title": "\u706b\u7bad\u70ae\u5854(Rocket turret)", "author": "hlittlezero", "contact": "qq805900824", "homepage": "", "description": "\u589e\u52a0\u4e00\u6b3e\u53d1\u5c04\u539f\u7248\u706b\u7bad\u5f39\u7684\u706b\u7bad\u70ae\u5854\u3002", "dependencies": ["base >= 1.1"]}

@@ -1,0 +1,1 @@
+{"name": "drone-roads", "version": "0.0.5", "factorio_version": "1.1", "title": "Drone Road Changer", "author": "Illiander", "description": "Lets you change what tile transport drones use as road", "dependencies": ["base >= 0.18.0", "AsphaltPaving", "Transport_Drones"]}

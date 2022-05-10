@@ -1,0 +1,1 @@
+{"name": "tog_ii", "version": "0.0.0", "title": "Tog II roboport", "author": "immortal_sniper1", "contact": "zerefulquirra@gmail.com", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "homepage": "none", "description": "Adds a  roboport-tank with large internal storage "}

@@ -1,0 +1,1 @@
+{"name": "Acid-Proof-Items", "version": "0.0.1", "factorio_version": "0.14", "title": "Acid Proof Items", "author": "PythonProtocol", "homepage": "", "dependencies": ["base >= 0.14.0"], "description": "Spitter proof items!"}

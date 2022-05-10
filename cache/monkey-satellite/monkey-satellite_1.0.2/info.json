@@ -1,0 +1,1 @@
+{"name": "monkey-satellite", "version": "1.0.2", "title": "Monkey Satellite", "author": "ckhawks", "homepage": "https://github.com/ckhawks/monkey-satellite", "description": "Turns Satellites into Monkeys so you can launch them to space.", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

@@ -1,0 +1,1 @@
+{"name": "zskfurnace", "version": "0.16.35", "title": "ZeSowK Furnaces", "author": "ZeSowK", "contact": "http://google.fr", "homepage": "http://google.fr", "description": "Insane Furnaces and pickaxes", "factorio_version": "0.16", "dependencies": ["base >= 0.16.36"]}

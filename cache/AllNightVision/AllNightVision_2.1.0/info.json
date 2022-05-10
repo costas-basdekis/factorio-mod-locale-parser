@@ -1,0 +1,1 @@
+{"name": "AllNightVision", "version": "2.1.0", "title": "All Night Vision", "author": "Doomquill", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.17"], "description": "Increases the power buffer in the Night Vision equipment to make them last all night even with no other batteries."}

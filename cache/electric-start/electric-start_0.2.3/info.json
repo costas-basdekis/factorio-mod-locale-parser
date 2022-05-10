@@ -1,0 +1,1 @@
+{"name": "electric-start", "version": "0.2.3", "title": "Electric Start", "author": "Abregado", "contact": "contact@benbuckton.com", "homepage": "http://factorio.com", "description": "Start with more items so automation can begin immediately. For use with No handcrafting mods.", "dependencies": ["base >= 0.17.0"], "factorio_version": "0.17"}

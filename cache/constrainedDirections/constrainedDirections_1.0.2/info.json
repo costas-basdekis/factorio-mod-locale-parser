@@ -1,0 +1,1 @@
+{"name": "constrainedDirections", "version": "1.0.2", "title": "Constrained Directions", "author": "Johnicholas Hines", "description": "Inserters and belts must move items east or south. Furthermore, trains must not carry cargo east or south.", "factorio_version": "1.1", "dependencies": ["base"]}

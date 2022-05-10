@@ -1,0 +1,1 @@
+{"name": "ships_extended", "title": "Ships Extended", "version": "0.0.7", "factorio_version": "0.16", "author": "IceDev, jessefjxm", "description": "Adds ships.", "dependencies": ["base >= 0.16.0", "?bobplates >= 0.16", "?bobwarfare >= 0.16"]}

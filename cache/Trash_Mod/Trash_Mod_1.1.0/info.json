@@ -1,0 +1,1 @@
+{"name": "Trash_Mod", "version": "1.1.0", "factorio_version": "1.1", "title": "\uc4f0\ub808\uae30\ud1b5(trashcan)", "author": "ikamusme", "contact": "", "description": "\uc5b4\ub5a4 \uc544\uc774\ud15c\uc774\ub4e0\uc9c0 \uac04\uc5d0 \ud655\uc2e4\ud558\uac8c \ud30c\uad34 \uc2dc\ucf1c\uc90d\ub2c8\ub2e4.(destroys any item)", "dependencies": ["base >= 1.1"]}

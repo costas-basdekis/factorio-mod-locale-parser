@@ -1,0 +1,1 @@
+{"name": "PrivateBufferChest", "version": "0.0.5", "title": "Private Buffer Chest", "author": "darkfrei", "description": "Proof of concept, this chest has same requests as you", "dependencies": ["base", "? boblogistics >= 0.16.0", "? Warehousing >= 0.1.0"], "factorio_version": "0.16"}

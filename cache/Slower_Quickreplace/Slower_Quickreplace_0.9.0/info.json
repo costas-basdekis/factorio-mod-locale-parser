@@ -1,0 +1,1 @@
+{"name": "Slower_Quickreplace", "version": "0.9.0", "factorio_version": "0.16", "title": "Slower Quickreplace", "author": "ChCole", "contact": "", "homepage": "", "dependencies": ["base >= 0.16"], "description": "No more replacing Splitters and Underground Belts while dragging"}

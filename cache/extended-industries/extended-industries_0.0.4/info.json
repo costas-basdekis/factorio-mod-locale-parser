@@ -1,0 +1,1 @@
+{"name": "extended-industries", "version": "0.0.4", "title": "Extended Industries", "author": "rude_grass", "description": "Adds new minable resources like aluminium, quartz and lithium, new intermediate products and changes recipies to be a little bit more complex", "dependencies": ["base >= 0.17"], "factorio_version": "0.17"}

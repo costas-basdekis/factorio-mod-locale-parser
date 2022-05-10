@@ -1,0 +1,1 @@
+{"name": "vibrant-trains", "version": "1.0.1", "title": "Vibrant Trains", "author": "Valkhiya", "homepage": "", "description": "Makes train colors more vibrant and saturated.", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

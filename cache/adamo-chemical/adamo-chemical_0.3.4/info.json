@@ -1,0 +1,1 @@
+{"name": "adamo-chemical", "version": "0.3.4", "title": "Adamo Chemical", "author": "adamo", "dependencies": ["base", "SimpleSilicon", "? informatron"], "description": "Chemical reverse engineering.", "factorio_version": "1.0"}

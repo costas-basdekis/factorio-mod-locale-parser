@@ -1,0 +1,1 @@
+{"name": "ivi-tweaks-hardCrafting", "version": "1.0.0", "title": "ivi's tweaks for \"Hard crafting\"", "author": "ividyon", "factorio_version": "1.1", "dependencies": ["base >= 0.18.0", "hardCrafting >= 1.0.1"], "description": "Re-balances incinerators in the \"Hard crafting\" mod to allow managing high amounts of byproducts at the start of the game."}

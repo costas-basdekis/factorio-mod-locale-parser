@@ -1,0 +1,1 @@
+{"name": "MultiConcrete", "version": "0.1.2", "title": "MultiConcrete", "description": "Concrete and Hazard Concrete is the same thing, just rotate it before placement", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "0.18"}

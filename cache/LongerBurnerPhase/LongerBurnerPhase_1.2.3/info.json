@@ -1,0 +1,1 @@
+{"name": "LongerBurnerPhase", "version": "1.2.3", "title": "Q's Longer Burner Phase Mod", "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=63627", "author": "Q", "description": "This mod stretches out the burner phase and moves electricity to later in the game.", "factorio_version": "1.1", "dependencies": ["base >= 0.18.34"]}

@@ -1,0 +1,1 @@
+{"name": "IceOreCompress", "version": "0.1.4", "title": "Ice Ore compress", "author": "Kompostschaf(base mod from Zaflis)", "description": "Adds recipes to compress,decompress and smelt Ice-Ore", "factorio_version": "0.18", "dependencies": ["base", "IceOre"]}

@@ -1,0 +1,1 @@
+{"name": "ConstantCombinatorCopySettings", "version": "0.0.2", "factorio_version": "0.17", "title": "ConstantCombinatorCopy", "author": "Atoboldom", "homepage": "", "dependencies": ["base >= 0.17.0"], "description": "Allow assembly machines recipes to be copied to constant combinator settings"}

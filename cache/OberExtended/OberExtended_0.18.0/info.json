@@ -1,0 +1,1 @@
+{"name": "OberExtended", "author": "Ober3550", "version": "0.18.0", "title": "Ober Extended", "description": "Makes many small changes to vanilla machines and inserters to allow for a more optimised end game", "factorio_version": "0.18", "dependencies": ["base"]}

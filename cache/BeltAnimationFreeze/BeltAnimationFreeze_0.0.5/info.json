@@ -1,0 +1,1 @@
+{"name": "BeltAnimationFreeze", "version": "0.0.5", "factorio_version": "0.18", "title": "Belt Animation Freeze", "author": "Avongard", "description": "Freezes belt animations for people who get migraines or suffer sensory overload, like in autism", "dependencies": ["base >= 0.16"]}

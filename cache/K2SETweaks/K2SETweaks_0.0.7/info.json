@@ -1,0 +1,1 @@
+{"name": "K2SETweaks", "version": "0.0.7", "title": "Krastorio2 and Space Exploration - various tweaks", "author": "Xon1", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base", "Krastorio2 >= 1.2.0", "Krastorio2Assets >= 1.1.0", "space-exploration-postprocess"], "description": "Various tweaks used on Sufficient Velocity community server"}

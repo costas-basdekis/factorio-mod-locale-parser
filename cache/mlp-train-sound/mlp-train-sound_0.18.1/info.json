@@ -1,0 +1,1 @@
+{"name": "mlp-train-sound", "version": "0.18.1", "title": "My Little Pony Train Sound", "author": "VelvetRemedy", "contact": "johnmloos1995@gmail.com", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Changes the sound of the locomotive to be more cute."}

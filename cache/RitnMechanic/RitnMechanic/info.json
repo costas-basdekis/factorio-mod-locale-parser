@@ -1,0 +1,1 @@
+{"name": "RitnMechanic", "version": "0.7.2", "title": "RitnMechanic", "author": "Ritn", "description": "Add technologies mechanics and others...", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "RitnLib >= 0.6", "RitnElectronic >= 0.7", "RitnPurple >= 2.0", "? DeadlockLargerLamp >= 1.3.1", "? VehicleWagon2 >= 1.2.11", "? beautiful_bridge_railway"]}

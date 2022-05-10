@@ -1,0 +1,1 @@
+{"name": "flamethrower-turret-require-flamethrower", "version": "1.1.0", "title": "flamethrower-turret-require-flamethrower", "author": "adam_bise", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds flamethrower to the flamethrower turret recipe."}

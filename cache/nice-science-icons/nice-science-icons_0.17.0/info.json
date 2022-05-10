@@ -1,0 +1,1 @@
+{"name": "nice-science-icons", "version": "0.17.0", "factorio_version": "0.17", "title": "Nice science icons", "author": "DrD_AVEL", "description": "Some alternate icon pack for science that looks nicer for me", "dependencies": ["base >= 0.17.0"]}

@@ -1,0 +1,1 @@
+{"name": "cookies", "version": "0.0.1", "title": "Cookies!", "author": "Julian Webb", "homepage": "https://github.com/JulianWebb/cookies-mod/", "description": "Yummy Cookies", "factorio_version": "0.17", "dependencies": ["base >= 0.17.53"]}

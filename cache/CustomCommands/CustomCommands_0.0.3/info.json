@@ -1,0 +1,1 @@
+{"name": "CustomCommands", "version": "0.0.3", "title": "Custom Commands API", "author": "coltonj96", "contact": "https://discord.gg/qp7TW3E", "homepage": "", "description": "An Api for mod developers to add customized commands via a gui", "factorio_version": "0.14", "dependencies": ["base >= 0.11.1"]}

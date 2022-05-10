@@ -1,0 +1,1 @@
+{"name": "upgrade-planner-instant", "version": "0.18.0", "title": "Instant Upgrade Planner", "author": "Roang", "description": "Instantly upgrade buildings with items from you inventory.", "homepage": "https://github.com/Roang-zero1/upgrade-planner-instant", "dependencies": ["base >= 0.18", "stdlib >= 1.0.2"], "factorio_version": "0.18"}

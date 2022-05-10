@@ -1,0 +1,1 @@
+{"name": "PersonalFurnace", "version": "0.2.0", "title": "LoaderFurnace", "description": "PLEASE_IGNORE", "author": "darkfrei", "license": "MIT", "dependencies": ["base >= 0.17"], "factorio_version": "0.17"}

@@ -1,0 +1,1 @@
+{"name": "NullVector", "version": "0.4.0", "title": "NullVector", "author": "andruud", "contact": "andruud@gmail.com", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Disables research when only one player is connected"}

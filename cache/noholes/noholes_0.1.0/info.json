@@ -1,0 +1,1 @@
+{"name": "noholes", "version": "0.1.0", "title": "No holes", "author": "daniel34", "homepage": "", "description": "Replaces the worm and spawner graphics to more neutral ones for Trypophobia. Original by Adil.", "factorio_version": "0.16", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "OreGalore", "version": "0.2.3", "title": "Ore Galore", "author": "can00336", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"], "description": "Ore everywhere."}

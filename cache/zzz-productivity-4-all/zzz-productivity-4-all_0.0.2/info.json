@@ -1,0 +1,1 @@
+{"name": "zzz-productivity-4-all", "version": "0.0.2", "title": "Productivity4All", "author": "ToastOrBeToasted", "factorio_version": "0.18", "dependencies": ["base >= 0.18", "? techno"], "description": "Allow productivity modules on all recipes, as well as on beacons"}

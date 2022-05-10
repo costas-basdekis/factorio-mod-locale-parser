@@ -1,0 +1,1 @@
+{"name": "Reavers_Storage", "version": "1.0.0", "factorio_version": "1.0", "title": "Reaver's Storage", "author": "thereaverofdarkness, Anoyomouse & dgw, Kynaro, ACryInShame, YuokiTani, steinio, blauball", "contact": "", "homepage": "", "description": "Combines multiple storage mods into one custom mod-pack.", "dependencies": ["base >= 1.0.0"]}

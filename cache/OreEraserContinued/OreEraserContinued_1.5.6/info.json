@@ -1,0 +1,1 @@
+{"name": "OreEraserContinued", "version": "1.5.6", "title": "Ore Eraser (fixed+re-published)", "author": "Xav101 / CaptainWHot / Nordee / Tergiver", "contact": "N/A", "description": "Adds the Ore Eraser toolbox shortcut which allows you to erase ore from the map.", "dependencies": ["base >= 1.1.0"], "factorio_version": "1.1"}

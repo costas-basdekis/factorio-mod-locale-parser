@@ -1,0 +1,1 @@
+{"name": "shmfaststart", "version": "0.16.1", "title": "Shaman's Fast start", "author": "shm13 (Nikolay Shamanovich)", "contact": "shm013@yandex.ru", "homepage": "https://github.com/Shm13", "factorio_version": "0.16", "description": "Add some items at game start - skip first hour. Based on Aidan647 'Skip first hour' mod", "dependencies": ["base >= 0.16.0"]}

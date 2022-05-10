@@ -1,0 +1,1 @@
+{"name": "Built-in-Beacons", "version": "0.3.1", "factorio_version": "1.1", "title": "Built-in-Beacons", "author": "V453000", "contact": "", "homepage": "", "description": "Adds production which structures simulate being fully beaconed, and Fullspeed productivity modules for them. Does not change any vanilla entities.", "dependencies": ["base"]}

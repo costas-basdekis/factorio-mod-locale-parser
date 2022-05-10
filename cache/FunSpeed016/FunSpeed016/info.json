@@ -1,0 +1,1 @@
+{"name": "FunSpeed016", "version": "1.0.5", "factorio_version": "0.16", "title": "FunSpeed016", "author": "DanielZlotin (Port By Ofek256)", "contact": "www.factorioforums.com", "homepage": "https://forums.factorio.com", "description": "faster crafting, faster mining", "dependencies": ["base >= 0.13.9"], "license": "MIT"}

@@ -1,0 +1,1 @@
+{"name": "CatMiningAndSmelting", "version": "0.1.5", "title": "Cat's Mining and Smelting", "author": "Cattman423", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "? Krastorio2", "! IndustrialRevolution", "! IndustrialRevolution2", "! Electric Furnaces"], "description": "Changes drills to be more powerful and makes all furnaces 3x3"}

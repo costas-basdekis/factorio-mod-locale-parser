@@ -1,0 +1,1 @@
+{"name": "wood-start", "version": "0.0.1", "title": "Wood Start", "author": "DaveMcW", "description": "Adds a stack of wood to your starting inventory. Now you can play without trees!", "factorio_version": "0.16", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "NoBuildErrorsUpdate", "version": "1.0.1", "title": "No Build Errors Update", "author": "Xalos, SuperSandro2000", "description": "Removes construction errors.", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

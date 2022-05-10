@@ -1,0 +1,1 @@
+{"name": "osha_safety", "version": "0.0.5", "title": "OSHA Safety", "author": "OSHA-Jackson", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "OSHA approved safety improvements"}

@@ -1,0 +1,1 @@
+{"name": "solidfuel_disposal", "author": "Atlas1205", "version": "1.1.3", "factorio_version": "1.1", "title": "Solid Fuel Disposal", "homepage": "", "description": "Makes excess solid fuel useful and easier to dispose of.", "dependencies": ["base", "? angelspetrochem"]}

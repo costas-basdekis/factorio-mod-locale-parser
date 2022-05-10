@@ -1,0 +1,1 @@
+{"name": "PsionicCapsules", "version": "0.0.2", "title": "Psionic Capsules", "description": "Special capsules make enemy biters not more friendly to another enemy biters", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "0.17"}

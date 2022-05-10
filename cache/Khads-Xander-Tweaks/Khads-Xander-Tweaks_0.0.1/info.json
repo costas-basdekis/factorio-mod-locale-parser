@@ -1,0 +1,1 @@
+{"name": "Khads-Xander-Tweaks", "version": "0.0.1", "factorio_version": "0.18", "title": "Khad's Xander Tweaks", "author": "Khadgarion", "homepage": "", "dependencies": ["base", "xander-mod = 3.4.3"], "description": "Small tweaks the Xander Mod by repofme1"}

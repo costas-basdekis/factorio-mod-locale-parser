@@ -1,0 +1,1 @@
+{"name": "spawn-point-selector", "version": "0.1.0", "title": "Spawn Point Selector", "author": "Blank", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "When start a map it lets you pick a starting location. No more island spawns."}

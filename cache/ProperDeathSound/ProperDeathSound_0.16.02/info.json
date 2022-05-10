@@ -1,0 +1,1 @@
+{"name": "ProperDeathSound", "version": "0.16.02", "title": "Proper Death Sound", "author": "oofoofoof", "contact": "aaaaaaa#9411 on discord", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Changes the sound played on death (or any defeat) to the infamous Roblox 'Oof' sound."}

@@ -1,0 +1,1 @@
+{"name": "no-hand-intermediates", "version": "0.0.3", "title": "No Hand Intermediates", "author": "abregado", "contact": "contact@benbuckton.com", "homepage": "", "description": "Players can no longer craft intermediate items by hand to encourage early automation.", "dependencies": ["base >= 0.17.0", "? electric-start >= 0.0.3"], "factorio_version": "0.17"}

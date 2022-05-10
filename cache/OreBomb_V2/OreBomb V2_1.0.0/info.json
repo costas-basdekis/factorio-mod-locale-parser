@@ -1,0 +1,1 @@
+{"name": "OreBomb_V2", "version": "1.0.0", "factorio_version": "0.17", "title": "Ore Bomb V2", "author": "Kevink8", "contact": "", "homepage": "", "description": "Bombs that generate ore patches. \n\n\nOriginal mod by Nebelwolfi", "dependencies": ["base >= 0.17.0"]}

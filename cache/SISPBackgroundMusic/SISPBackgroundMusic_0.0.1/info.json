@@ -1,0 +1,1 @@
+{"name": "SISPBackgroundMusic", "version": "0.0.1", "factorio_version": "1.1", "title": "SI SP Background Music", "author": "Sidoupiar", "homepage": "http://www.sidoupiar.com", "description": "Now you can add some musics which you like into game as background music", "dependencies": ["SICoreFunctionLibrary >= 0.4.5"]}

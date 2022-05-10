@@ -1,0 +1,1 @@
+{"name": "Extremevery-long-handed-inserter", "version": "1.0.0", "title": "ExtremeVery long handed inserter", "author": "w1102", "description": "Adds a few inserter with a 3 tile reach", "factorio_version": "1.0", "dependencies": ["base >= 1.0"]}

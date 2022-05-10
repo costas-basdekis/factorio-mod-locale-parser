@@ -1,0 +1,1 @@
+{"name": "SimpleGodModule", "version": "0.6.1", "title": "Simple God Module", "author": "Bassad", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0", "? bobmodules"], "description": "Adds just a new Module; a God Module"}

@@ -1,0 +1,1 @@
+{"name": "PyQualityLife", "version": "0.0.1", "factorio_version": "0.16", "title": "Py Quality Life", "author": "Sworn", "contact": "", "homepage": "", "description": "Make some very small change to the hand-crafting time so you don't get bored waiting for it.", "dependencies": ["base >= 00.16", "pycoalprocessing >= 1.0.13"]}

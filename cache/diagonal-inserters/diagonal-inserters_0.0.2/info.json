@@ -1,0 +1,1 @@
+{"name": "diagonal-inserters", "version": "0.0.2", "title": "Diagonal Inserters", "author": "hawk", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod contains an Inserter-Package with Inserters that grabs and let go diagonal."}

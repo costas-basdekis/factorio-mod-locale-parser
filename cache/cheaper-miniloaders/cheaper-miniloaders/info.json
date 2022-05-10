@@ -1,0 +1,1 @@
+{"name": "cheaper-miniloaders", "version": "1.0.0", "title": "Cheaper Miniloaders", "author": "Soggs", "contact": "", "homepage": "", "description": "Reduces the inserter cost of miniloaders.", "dependencies": ["base >= 1.0.0", "miniloader >= 1.13"], "factorio_version": "1.1"}

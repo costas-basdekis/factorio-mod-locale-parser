@@ -1,0 +1,1 @@
+{"name": "ModuleRequester_RecipeOverride", "version": "1.1.0", "title": "Module Requester Recipe Override", "author": "Wyrrrd", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "module-requestor >= 1.1.0"], "description": "Removes cost for crafting Module Requesters"}

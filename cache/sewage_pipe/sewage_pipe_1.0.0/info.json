@@ -1,0 +1,1 @@
+{"name": "sewage_pipe", "version": "1.0.0", "factorio_version": "0.14", "title": "Sewage Pipe", "author": "Bizobinator88", "description": "Adds a sewage pipe, which dumps liquids into the water, but generates a lot of pollution", "dependencies": ["base >= 0.14.0", "? bobplates >= 0.14.0", "? Bio_Industries >= 1.4.8", "? Natural_Evolution_Buildings >= 6.4.0"]}

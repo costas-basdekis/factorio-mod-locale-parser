@@ -1,0 +1,1 @@
+{"name": "whitelist", "version": "0.1.2", "title": "Whitelist Mod", "author": "wenga", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod enables whitlisting if you don't have access to the servers start parameters"}

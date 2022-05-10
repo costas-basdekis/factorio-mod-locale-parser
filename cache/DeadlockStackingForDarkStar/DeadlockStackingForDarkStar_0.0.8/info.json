@@ -1,0 +1,1 @@
+{"name": "DeadlockStackingForDarkStar", "version": "0.0.8", "factorio_version": "1.0", "title": "Deadlock Stacking For DarkStar utilities", "author": "billbo99", "homepage": "", "dependencies": ["base", "deadlock-beltboxes-loaders >= 2.3.0", "rusty-locale", "Darkstar_utilities"], "description": "Add stacked items for Darkstar utilities"}

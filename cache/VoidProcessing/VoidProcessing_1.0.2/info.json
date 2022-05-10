@@ -1,0 +1,1 @@
+{"name": "VoidProcessing", "version": "1.0.2", "factorio_version": "0.17", "title": "Void Processing", "author": "RustyNova016", "contact": "", "homepage": "", "description": "Add void processing to go along my others mods", "dependencies": ["base", "? AlienSpaceScience >= 0.0.8"]}

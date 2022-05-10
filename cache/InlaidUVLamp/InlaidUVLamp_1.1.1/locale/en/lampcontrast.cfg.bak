@@ -1,0 +1,38 @@
+;Added mod-description -- remove it, if you want to -- but check the changes and correct the description in info.json first!
+[mod-description]
+;SchallLampContrast=Replace the vanilla lamp graphics for higher contrast signal display.\nNow vehicle are no longer colliding with lamps, so safe to drive over!\nAlso allows configuration on colour signals, including priority order on colours
+SchallLampContrast=Replace the vanilla lamp graphics for higher contrast signal display.\nVehicles no longer collide with lamps, so lamps are safe to drive over!\nAlso allows configuration of colour signals, including their priority.
+
+[mod-setting-name]
+lampcontrast-base-style=Lamp style
+lampcontrast-glow-size=Lamp glow size (3)
+lampcontrast-color-reorder=Priority order on colour signals
+lampcontrast-color-white-enable=Use color on White signal
+lampcontrast-color-grey-enable=Use color on Grey signal
+lampcontrast-color-black-enable=Use color on Black signal
+lampcontrast-color-white-order=Priority on White signal
+lampcontrast-color-grey-order=Priority on Grey signal
+lampcontrast-color-black-order=Priority on Black signal
+
+[mod-setting-description]
+lampcontrast-base-style="Concrete": Matching with concrete tile.\n"Black": High contrast for signal display.
+;lampcontrast-glow-size=3: (Default) Low value gives clearer signal disply.\n6: Vanilla setting.
+lampcontrast-glow-size=3: (Default) Low value gives clearer signal display.\n6: Vanilla setting.
+lampcontrast-color-reorder="Unchanged": (Default) Red > Green > Blue > Yellow > Pink (Magenta) > Cyan\n"Hue (Red first)": Red > Yellow > Green > Cyan > Blue > Pink\n"Hue (Red last)": Pink > Blue > Cyan > Green > Yellow > Red
+;Capitalized color names in the following, so they are the same as those under [mod-setting-name]!
+;lampcontrast-color-white-enable=Color for white signal = (100, 100, 100).
+lampcontrast-color-white-enable=Color for White signal = (100, 100, 100).
+;lampcontrast-color-grey-enable=Color for grey signal = (50, 50, 50).
+lampcontrast-color-grey-enable=Color for Grey signal = (50, 50, 50).
+;lampcontrast-color-black-enable=Color for black signal = (0, 0, 0).
+lampcontrast-color-black-enable=Color for Black signal = (0, 0, 0).
+lampcontrast-color-white-order=Only apply if enabled.\nH1 > H2 > H3 > Base signals > L1 > L2 > L3
+lampcontrast-color-grey-order=Only apply if enabled.\nH1 > H2 > H3 > Base signals > L1 > L2 > L3
+lampcontrast-color-black-order=Only apply if enabled.\nH1 > H2 > H3 > Base signals > L1 > L2 > L3
+
+[string-mod-setting]
+lampcontrast-base-style-concrete=Concrete
+lampcontrast-base-style-black=Black
+lampcontrast-color-reorder-unchanged=Unchanged
+lampcontrast-color-reorder-hue-ascend=Hue (Red first)
+lampcontrast-color-reorder-hue-descend=Hue (Red last)

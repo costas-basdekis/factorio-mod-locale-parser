@@ -1,0 +1,1 @@
+{"name": "Everbuild", "version": "1.0.1", "title": "Everbuild", "author": "Mylon", "contact": "forum PM", "homepage": "https://www.patreon.com/mylon", "description": "Robots take time to construct", "factorio_version": "1.1", "dependencies": ["base >= 0.4.1"]}

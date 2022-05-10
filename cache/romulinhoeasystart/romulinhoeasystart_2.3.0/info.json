@@ -1,0 +1,1 @@
+{"name": "romulinhoeasystart", "version": "2.3.0", "factorio_version": "1.1", "title": "Romulinho's Easy Start", "author": "Romulinho", "description": "Ain't nobody got time for that.", "dependencies": ["base >= 1.1.0"]}

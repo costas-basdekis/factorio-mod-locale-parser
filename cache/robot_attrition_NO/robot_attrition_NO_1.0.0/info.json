@@ -1,0 +1,1 @@
+{"name": "robot_attrition_NO", "version": "1.0.0", "title": "Robot Attrition?NO!", "author": "LYARAIN", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "robot_attrition>=0.5.0"], "description": "WOW!..."}

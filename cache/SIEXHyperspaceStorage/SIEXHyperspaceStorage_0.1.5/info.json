@@ -1,0 +1,1 @@
+{"name": "SIEXHyperspaceStorage", "version": "0.1.5", "factorio_version": "1.1", "title": "SI EX Hyperspace Storage", "author": "Sidoupiar", "homepage": "http://www.sidoupiar.com", "description": "Committed to providing the ultimate solution for storage and logistics", "dependencies": ["SICoreFunctionLibrary >= 0.4.1"]}

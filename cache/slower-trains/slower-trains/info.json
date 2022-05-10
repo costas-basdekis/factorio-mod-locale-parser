@@ -1,0 +1,1 @@
+{"name": "slower-trains", "version": "1.0.2", "title": "Slower train acceleration", "author": "Cyres", "description": "Reduces breaking force and acceleration of all locomotives, even if modded", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

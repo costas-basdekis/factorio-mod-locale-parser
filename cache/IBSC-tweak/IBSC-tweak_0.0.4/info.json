@@ -1,0 +1,1 @@
+{"name": "IBSC-tweak", "version": "0.0.4", "factorio_version": "0.16", "title": "IBSC Tweaks", "author": "Stormcaller", "contact": "", "homepage": "", "description": "collection of minor tweaks to Bob/Angel", "dependencies": ["base >= 0.15.0", "angelssmelting >= 0.3.5", "angelsrefining >= 0.7.17", "bobelectronics >= 0.16.0", "angelspetrochem >= 0.7.9"]}

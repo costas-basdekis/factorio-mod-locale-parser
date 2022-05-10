@@ -1,0 +1,1 @@
+{"name": "BiggerStackSizesModdedv2", "version": "1.0.2", "title": "Bigger Stack Sizes Modded v2", "author": "Suprnova74", "description": "Makes item stack sizes bigger. Clone of SableDrake's, just enabled for .018+", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

@@ -1,0 +1,1 @@
+{"name": "FlareStack-SE", "version": "1.0.3", "title": "Flare Stack-SE", "author": "Thanks GotLag", "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=21586", "description": "fix with SE.its can be placed on space now.and also allow beacon effect(not productivity). ", "factorio_version": "1.1", "dependencies": ["? Flare Stack > 2.2.0", "? space-exploration>=0.5.40"]}

@@ -1,0 +1,1 @@
+{"name": "ClearCharacterLogisticSlots", "version": "0.1.0", "title": "Clear Character logistic slots", "author": "Odhrean", "contact": "", "homepage": "", "description": "Adds a Hotkey to clear all Character logistic slots", "factorio_version": "0.15", "dependencies": ["base >= 0.4.1"]}

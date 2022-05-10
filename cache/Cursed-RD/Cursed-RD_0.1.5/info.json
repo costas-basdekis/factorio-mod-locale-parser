@@ -1,0 +1,1 @@
+{"name": "Cursed-RD", "version": "0.1.5", "title": "Cursed Resources Displacer", "author": "L0771", "contact": "https://discord.gg/PnQwT8W", "homepage": "https://discord.gg/PnQwT8W", "dependencies": ["base", "?Krastorio2"], "description": "Add a entity to displace resources, only move the field, don't mine or remove it.\n", "factorio_version": "1.0"}

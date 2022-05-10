@@ -1,0 +1,1 @@
+{"name": "uranium-belts-18", "version": "0.1.5", "factorio_version": "0.18", "title": "Uranium Belts .18", "author": "Dante_589", "contact": "Dante589#3892", "description": "Adds really really fast belts that are made with uranium. Originally by Spieker, Updated to .17 by nucleargen, Updated to .18 by Dante_589", "dependencies": ["base >= 0.18.0"]}

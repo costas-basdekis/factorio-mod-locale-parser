@@ -1,0 +1,1 @@
+{"name": "da-calc", "version": "0.18.6", "title": "Desk Accessories - Calculator", "author": "adamius", "description": "4 function desktop style calculator for the engineer who can't leave their world.", "dependencies": ["base"], "factorio_version": "0.18"}

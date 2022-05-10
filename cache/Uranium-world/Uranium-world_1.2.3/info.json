@@ -1,0 +1,1 @@
+{"name": "Uranium-world", "version": "1.2.3", "title": "uranium world", "factorio_version": "1.1", "author": "sebetron", "dependencies": ["base >= 1.1", "? BetterInserters >= 1.3.0"], "description": "another world made out of uranium, adding uranium assembling machines, uranium servers and much more! Now also with thorium!"}

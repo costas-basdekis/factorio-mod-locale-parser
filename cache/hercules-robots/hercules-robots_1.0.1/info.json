@@ -1,0 +1,1 @@
+{"name": "hercules-robots", "author": "Aossk", "version": "1.0.1", "title": "Hercules Robots", "homepage": "", "description": "High tier robots that are faster carry more and have better stats overall.", "dependencies": ["base"], "factorio_version": "1.1"}

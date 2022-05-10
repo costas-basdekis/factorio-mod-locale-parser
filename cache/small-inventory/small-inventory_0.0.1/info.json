@@ -1,0 +1,1 @@
+{"name": "small-inventory", "version": "0.0.1", "title": "Smaller Player Inventory", "author": "abregado", "contact": "contact@benbuckton.com", "homepage": "", "description": "Players have only 20 slots of inventory space, but Toolbelt is researched at the beginning to help with this.", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15"}

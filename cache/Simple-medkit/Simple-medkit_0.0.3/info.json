@@ -1,0 +1,1 @@
+{"name": "Simple-medkit", "version": "0.0.3", "date": "2020-08-15", "title": "Simple medkits", "author": "Shakal_play", "email": "", "contact": "", "homepage": "", "description": "Adds two different medkits, which restore 70 hp and 130 hp.", "factorio_version": "0.18", "dependencies": ["base >= 0.18.22"]}

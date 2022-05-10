@@ -1,0 +1,1 @@
+{"name": "Sea Wood", "version": "0.0.1", "title": "Sea Wood", "author": "MtotheM", "contact": "MtotheM@Discord", "factorio_version": "0.15", "description": "a small mod that unlocks Raw wood in use with other mods not included in Sea Block Pack.", "dependencies": ["base >= 0.15.0", "angelsbioprocessing >= 0.4.0", "angelsrefining >= 0.7.0", "? A Sea Block Config >= 0.1.0"]}

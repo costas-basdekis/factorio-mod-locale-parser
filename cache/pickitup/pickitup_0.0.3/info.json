@@ -1,0 +1,1 @@
+{"name": "pickitup", "version": "0.0.3", "title": "Pick It Up", "author": "Honktown", "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=75210", "homepage": "", "description": "When mining an inserter, also mine an item it dropped on the ground before-hand", "factorio_version": "1.1", "dependencies": ["base"]}

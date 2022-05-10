@@ -1,0 +1,1 @@
+{"name": "sarperen_quantum_kimberlite", "version": "0.0.15", "factorio_version": "0.18", "title": "Sarperen Quantum Kimberlite", "author": "KingArthur", "contact": "PM on the Factorio Forums", "homepage": "", "description": "Meme mod to add renewable kimberlite to pymods", "dependencies": ["base >= 0.17.0", "pyhightech >= 1.0.0", "pyrawores >= 1.1.2"]}

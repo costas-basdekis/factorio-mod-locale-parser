@@ -1,0 +1,1 @@
+{"name": "StartWithLab", "version": "16.51.1", "title": "Start With Lab", "author": "H4N9U1", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "When Starting a new game, add lab  to player's inventory. Resolve the compatibility issue between Bob's Mod and 5Dim Mod."}

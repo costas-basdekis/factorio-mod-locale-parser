@@ -1,0 +1,1 @@
+{"name": "vlads_cheap_rails", "version": "1.0.1", "title": "vlads_cheap_rails", "author": "Vlad", "homepage": "", "description": "Cheap rails", "factorio_version": "0.17", "dependencies": ["base >= 0.17"]}

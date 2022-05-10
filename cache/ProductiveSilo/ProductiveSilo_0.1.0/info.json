@@ -1,0 +1,1 @@
+{"name": "ProductiveSilo", "version": "0.1.0", "factorio_version": "0.17", "title": "Productive Silo", "author": "Vatharian", "contact": "", "homepage": "", "description": "This mod changes number of module slots in Rocket Silo from 4 to 6", "dependencies": ["base >= 0.17.0"]}

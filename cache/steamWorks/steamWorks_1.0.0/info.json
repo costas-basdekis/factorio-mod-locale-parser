@@ -1,0 +1,1 @@
+{"name": "steamWorks", "version": "1.0.0", "title": "Steam Works", "author": "ksmonkey123", "factorio_version": "1.1", "dependencies": ["base >= 1.1.5", "? steamTrains >= 1.0.0"]}

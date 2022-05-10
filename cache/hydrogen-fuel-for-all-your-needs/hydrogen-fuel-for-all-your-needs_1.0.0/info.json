@@ -1,0 +1,1 @@
+{"name": "hydrogen-fuel-for-all-your-needs", "version": "1.0.0", "factorio_version": "0.15", "title": "Hydrogen fuel", "author": "Frontrider", "description": "Hydrogen fuel, for all your needs.", "homepage": "", "dependencies": ["base >= 0.15.0"]}

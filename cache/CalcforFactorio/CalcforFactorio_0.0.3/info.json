@@ -1,0 +1,1 @@
+{"name": "CalcforFactorio", "version": "0.0.3", "title": "Calculator for Factorio", "author": "Brian Ballsun-Stanton", "contact": "brian@drbbs.org", "homepage": "https://github.com/Denubis/CalcforFactorio", "description": "Calculator inside of factorio for doing maths in.", "factorio_version": "0.14", "dependencies": ["base >= 0.4.1"]}

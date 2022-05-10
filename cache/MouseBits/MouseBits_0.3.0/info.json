@@ -1,0 +1,1 @@
+{"name": "MouseBits", "version": "0.3.0", "title": "Mouse Bits", "author": "Akka-Wakka", "contact": "", "homepage": "https://github.com/AkkaWakka/MouseBits", "description": "Force placement in straigt lines, in patterns, or with spacing.", "factorio_version": "0.14", "dependencies": ["base >= 0.14"]}

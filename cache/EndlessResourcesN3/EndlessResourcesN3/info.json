@@ -1,0 +1,1 @@
+{"name": "EndlessResourcesN3", "version": "0.4.46", "title": "Endless ResourcesN3", "author": "Nushroom", "contact": "", "homepage": "http://www.factorio.com", "description": "Modified version of Endless resources with full yield, just added some other mod compatibility.", "factorio_version": "1.0", "dependencies": ["base >= 0.11.1", "space-exploration >= 0.4.26"]}

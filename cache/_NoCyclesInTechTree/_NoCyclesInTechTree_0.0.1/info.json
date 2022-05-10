@@ -1,0 +1,1 @@
+{"name": "_NoCyclesInTechTree", "version": "0.0.1", "title": "No Cycles In Tech Tree", "author": "darkfrei", "description": "If Cycle in technology tree was detected, disable this technologies", "dependencies": ["base", "? bobelectronics", "? angelsrefining", "? angelspetrochem", "? angelssmelting", "? SeaBlock"], "factorio_version": "0.16"}

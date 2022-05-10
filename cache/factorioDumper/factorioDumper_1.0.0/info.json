@@ -1,0 +1,1 @@
+{"name": "factorioDumper", "version": "1.0.0", "title": "Factorio Data Dumper", "author": "HenryFBP", "contact": "HenryFBP@gmail.com", "homepage": "https://github.com/HenryFBP/factorio_dumper/", "factorio_version": "0.15.0", "dependencies": ["base >= 0.15.0"], "description": "Allows dumping recipes and recipe tree to csv/text files, as well as other data."}

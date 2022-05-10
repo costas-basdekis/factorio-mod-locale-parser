@@ -1,0 +1,1 @@
+{"name": "jae-oil-ohtwo", "author": "jae", "version": "0.0.1", "title": "JAE's Low Bottom Oil", "description": "When placing a pumpjack, set the oil patch so that it bottoms out at 0.2/s", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

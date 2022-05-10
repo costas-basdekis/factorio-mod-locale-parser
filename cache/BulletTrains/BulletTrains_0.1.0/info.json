@@ -1,0 +1,1 @@
+{"name": "BulletTrains", "version": "0.1.0", "title": "Bullet Trains", "author": "Hermitude", "contact": "", "homepage": "http://www.factorio.com/", "factorio_version": "0.17", "dependencies": ["base >= 0.16"], "description": "Makes trains into lightweight and hyper-fast bullet trains that travel at 8x normal speed but only carry 40% of their normal capacity."}

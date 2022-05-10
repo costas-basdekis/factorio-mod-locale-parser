@@ -1,0 +1,1 @@
+{"name": "StoneWaterWellAndSE", "version": "1.0.0", "factorio_version": "1.1", "title": "Stone Water Well and Space Exploration", "author": "Thiske", "description": "Adds compatibility between stone water well and space exporation", "dependencies": ["base >= 1.1.27", "space-exploration >= 0.5.40", "? StoneWaterWell >= 1.20.1", "? WaterWell >= 1.1.2"]}

@@ -1,0 +1,1 @@
+{"name": "TrainScheduleSignals", "version": "1.2.1", "title": "Train Schedule Signals", "author": "Helfima", "contact": "", "homepage": "", "description": "Simple ways of scheduling trains.", "dependencies": ["base >= 1.1.0", "? Train_Control_Signals"], "factorio_version": "1.1"}

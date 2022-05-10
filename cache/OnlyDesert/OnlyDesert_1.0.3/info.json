@@ -1,0 +1,1 @@
+{"name": "OnlyDesert", "description": "Desert planet: there is only desert, sand or dirt tiles on this planet", "version": "1.0.3", "title": "Only Desert", "author": "darkfrei", "dependencies": ["base", "!NoDesert"], "factorio_version": "1.0"}

@@ -1,0 +1,1 @@
+{"name": "biterbullets", "version": "1.1.0", "title": "Biter Bullets", "author": "Honktown", "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=75210", "homepage": "", "description": "Custom munitions for shooting aliens.", "factorio_version": "1.1", "dependencies": ["base"]}

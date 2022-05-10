@@ -1,0 +1,1 @@
+{"name": "2xCraftingSpeed", "version": "0.0.1", "title": "2x Crafting Speed", "author": "czeqwerty", "email": "half.life.3.mlok@seznam.cz", "homepage": "half.life.3.mlok@seznam.cz", "contact": "half.life.3.mlok@seznam.cz", "description": "Increase the player's crafting speed from 1 to 2", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

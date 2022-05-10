@@ -1,0 +1,1 @@
+{"name": "nf_day_extender", "version": "1.0.1", "title": "Non-Freezing Day Extender", "author": "mx-2", "homepage": "", "description": "Customize day length. Before removing this mod, set daytime-factor back to 1!", "factorio_version": "0.17", "dependencies": ["base >= 0.17.69"], "license": "GNU GPLv3"}

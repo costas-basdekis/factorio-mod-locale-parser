@@ -1,0 +1,1 @@
+{"name": "WoodBioFuels", "version": "0.3.0", "factorio_version": "1.1", "title": "Wood Bio Fuels", "author": "bredroll", "contact": "inorton@gmail.com", "homepage": "https://gitlab.com/inorton/factorio-wood-biofuel", "description": "Process wood into coal and light oil or gas", "dependencies": ["base >= 1.1.0", "boblibrary >= 1.1.0", "bobgreenhouse >= 1.1.0"]}

@@ -1,0 +1,1 @@
+{"name": "nuclear_train", "version": "1.1.0", "title": "Nuclear Locomotive", "author": "Wise", "description": "Adds a Powerful locomotive to travel long distances quickly and efficiently, powered by uranium cells, Speeds up to 600Km/h", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

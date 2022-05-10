@@ -1,0 +1,1 @@
+{"name": "Throwable-Pistols", "version": "1.1.1", "factorio_version": "1.1", "title": "Throwable Pistols", "author": "Illiander", "description": "Lets you throw your pistols at the biters.", "dependencies": ["base >= 1.0"]}

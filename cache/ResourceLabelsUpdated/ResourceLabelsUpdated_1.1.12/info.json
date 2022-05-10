@@ -1,0 +1,1 @@
+{"name": "ResourceLabelsUpdated", "version": "1.1.12", "title": "Resource Labels Updated", "author": "sproott", "contact": "", "homepage": "", "Licence": "MIT", "description": "Adds icons to resources on the map, optionally with a label and the resource count.", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "stdlib"]}

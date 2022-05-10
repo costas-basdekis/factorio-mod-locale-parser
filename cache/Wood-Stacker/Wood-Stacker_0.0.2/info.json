@@ -1,0 +1,1 @@
+{"name": "Wood-Stacker", "version": "0.0.2", "title": "Wood Stacker", "author": "HJk", "homepage": "", "description": "Compress Woods to 1 inventory space", "factorio_version": "0.16", "dependencies": ["base >= 0.15.0"]}

@@ -1,0 +1,1 @@
+{"name": "pathological", "version": "0.18.0", "factorio_version": "0.18", "title": "Pathological", "author": "justarandomgeek", "homepage": "", "contact": "justarandomgeek@gmail.com", "description": "Allows adjustment of rail pathing weights", "dependencies": ["base"]}

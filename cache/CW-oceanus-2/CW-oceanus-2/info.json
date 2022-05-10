@@ -1,0 +1,1 @@
+{"name": "CW-oceanus-2", "version": "0.0.5", "title": "Oceanus 2", "author": "CyberWizard", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Adds a a game mode where you landed in an oceanic planet and ways to get materials from sea water but, can you still launch a rocket with only water?"}

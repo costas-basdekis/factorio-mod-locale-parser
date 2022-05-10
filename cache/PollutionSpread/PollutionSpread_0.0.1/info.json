@@ -1,0 +1,1 @@
+{"name": "PollutionSpread", "version": "0.0.1", "title": "Pollution Spread", "author": "Malcolm Cooks, laige", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"], "description": "Changes the spread of pollution and how much pollution is absorbed by trees."}

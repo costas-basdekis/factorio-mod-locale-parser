@@ -1,0 +1,1 @@
+{"name": "windturbines-2", "version": "1.1.0", "title": "Wind Turbines 2", "author": "OwnlyMe, Manuel Baesler", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Animated wind turbines that turn into wind direction"}

@@ -1,0 +1,1 @@
+{"name": "MassFabrication", "version": "0.16.1", "title": "Mass Fabrication", "author": "mckilljoy", "contact": "Ping me on the Discussion thread!", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Convert matter into energy and vice versa"}

@@ -1,0 +1,1 @@
+{"name": "matts-biotech-changes", "version": "0.2.0", "title": "Matt's BioTech Changes", "author": "CG-Matt", "homepage": "", "description": "Just a small mod that changes some of the textures from the BioTech mod to better fit with the vanilla art style.", "factorio_version": "1.1", "dependencies": ["base >= 0.18", "BioTech >= 1.01"]}

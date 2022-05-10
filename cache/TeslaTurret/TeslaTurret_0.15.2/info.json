@@ -1,0 +1,1 @@
+{"name": "TeslaTurret", "version": "0.15.2", "title": "Tesla Turret", "author": "Xerus - Original Authors: dnatabar and Souler", "contact": "Xerus @ Factorio Forums", "factorio_version": "0.15", "description": "This mod adds a powerful Tesla Turret with custom graphics and animations", "dependencies": ["base >= 0.15.0"]}

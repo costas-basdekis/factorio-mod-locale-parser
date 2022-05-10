@@ -1,0 +1,1 @@
+{"name": "IndustrialRevolutionRebalance", "version": "1.0.0", "title": "Industrial Revolution Rebalance", "author": "Urthen", "homepage": "", "description": "Industrial Revolution Rebalance", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "IndustrialRevolution >= 2.0.3"]}

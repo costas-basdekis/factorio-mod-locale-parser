@@ -1,0 +1,1 @@
+{"name": "starshiptorio", "version": "0.1.6", "title": "Starshiptorio", "author": "PyroFire", "dependencies": ["base >= 0.17", "! space-exploration", "! warptorio2", "! SeaBlock", "! spaceblock"], "description": "FTL but it's actually factorio", "factorio_version": "0.17", "homepage": "https://www.patreon.com/pyrofire"}

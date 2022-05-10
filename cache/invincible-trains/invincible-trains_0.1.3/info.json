@@ -1,0 +1,1 @@
+{"name": "invincible-trains", "version": "0.1.3", "factorio_version": "1.0", "title": "Invincible Trains", "author": "Z-em and Olix", "contact": "", "homepage": "", "description": "Makes diesel locomotives, cargo wagons and large power lines invincible.", "dependencies": ["base >= 0.13.0"]}

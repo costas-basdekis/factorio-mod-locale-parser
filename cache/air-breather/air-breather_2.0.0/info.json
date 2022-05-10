@@ -1,0 +1,1 @@
+{"name": "air-breather", "version": "2.0.0", "author": "Bel Air", "title": "Air Breather", "description": "organic spawner breaths air", "factorio_version": "1.1", "dependencies": ["base"]}

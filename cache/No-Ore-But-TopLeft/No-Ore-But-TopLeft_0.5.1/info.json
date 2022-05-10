@@ -1,0 +1,1 @@
+{"name": "No-Ore-But-TopLeft", "version": "0.5.1", "title": "No Ore But TopLeft", "author": "mumu1000 inspired by S.Konikovsky", "dependencies": ["base"], "description": "Removes all resources from the surface of the planet apart from those on the Top Left Side. Edited so the starting area can be spared by setting a customizable offset.S", "factorio_version": "0.17"}

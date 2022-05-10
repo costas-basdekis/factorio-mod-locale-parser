@@ -1,0 +1,1 @@
+{"name": "subterra", "version": "0.6.2", "factorio_version": "0.17", "title": "SubTerra", "author": "Daedeross", "homepage": "https://github.com/Daedeross/Subterra", "contact": "n/a", "description": "Adds a subterranean layers and special entities to place there.", "dependencies": ["base >= 0.17.0", "? rso-mod"]}

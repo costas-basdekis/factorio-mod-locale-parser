@@ -1,0 +1,1 @@
+{"name": "povertylogistics", "version": "0.17.0", "title": "Poverty Logistics", "author": "Dave", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["boblogistics >= 0.17"], "description": "This mod renames all the \"Basic\" logistics items to be the poverty items they truly are."}

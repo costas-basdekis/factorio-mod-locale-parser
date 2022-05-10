@@ -1,0 +1,1 @@
+{"name": "Kepe2xMod", "version": "0.1.0", "title": "KepeMod - 2x Recipes", "author": "Kepe", "contact": "http://steamcommunity.com/id/KepsProfile/", "homepage": "http://steamcommunity.com/id/KepsProfile/", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Makes Recipes result 2x bigger!."}

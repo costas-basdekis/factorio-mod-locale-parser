@@ -1,0 +1,1 @@
+{"name": "chain-action", "version": "0.4.0", "title": "Chain Action", "author": "Donlac", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod adds actions to the effect the whole chains."}

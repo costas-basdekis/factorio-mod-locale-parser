@@ -1,0 +1,1 @@
+{"name": "chlew-welcome", "version": "1.0.0", "title": "Chlew Welcome", "author": "Mifczu", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "stdlib"], "description": "Show welcome message"}

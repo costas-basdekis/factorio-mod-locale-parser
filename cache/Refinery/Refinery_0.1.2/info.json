@@ -1,0 +1,1 @@
+{"name": "Refinery", "version": "0.1.2", "factorio_version": "0.17", "title": "Ore Refinery", "author": "Simbody", "contact": "", "homepage": "", "description": "End game technology. Refine your ores for doubled production.", "dependencies": ["base >= 0.17.0"]}

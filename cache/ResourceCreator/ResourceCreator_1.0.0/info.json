@@ -1,0 +1,1 @@
+{"name": "ResourceCreator", "version": "1.0.0", "title": "A creator for resources", "author": "Gordon Shumway", "contact": "alf@melmac.org", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod adds in recipes to create resources cheaply for testing purpose"}

@@ -1,0 +1,1 @@
+{"name": "Mining-Drones-Trucks", "version": "0.3.25", "title": "Mining Drones, but Trucks", "author": "Illiander, based on code by Klonan", "contact": "", "homepage": "", "description": "Adds mining drones and mining depots", "dependencies": ["base >= 0.18.27", "aai-vehicles-miner", "? A_Total_Automization_Illy_Varient"], "factorio_version": "0.18"}

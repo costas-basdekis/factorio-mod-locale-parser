@@ -1,0 +1,1 @@
+{"name": "Schall_BobMachines", "version": "1.1.1", "title": "Schall's Machine Scaling meets Bob's Mods", "author": "ptx0", "contact": "", "homepage": "", "description": "Schall's machines support Bob's crafting recipe categories.", "factorio_version": "1.1", "dependencies": ["base >= 1.0.0", "SchallMachineScaling"]}

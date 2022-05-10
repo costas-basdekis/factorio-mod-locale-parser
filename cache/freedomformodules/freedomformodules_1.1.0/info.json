@@ -1,0 +1,1 @@
+{"name": "freedomformodules", "version": "1.1.0", "title": "Freedom for modules", "author": "Calandiel", "homepage": "", "contact": "", "factorio_version": "1.1", "dependencies": ["base >= 0.16", "? bobmodules >= 0.16.0", "? quarry >= 1.6.0"], "description": "Makes modules more... interesting"}

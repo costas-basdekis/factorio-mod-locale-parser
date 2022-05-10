@@ -1,0 +1,1 @@
+{"name": "ir2fixes", "factorio_version": "1.1", "version": "0.0.1", "title": "IR2 FIXES", "author": "Kamsta99", "homepage": "", "description": "Fix some mods to work with IR2", "dependencies": ["base >= 1.1.0", "IndustrialRevolution >= 2.0.0", "? SamTrain_v18 >= 0.18.4", "? recursive-blueprints >= 1.1.1"]}

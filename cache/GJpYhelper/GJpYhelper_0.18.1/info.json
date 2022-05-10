@@ -1,0 +1,1 @@
+{"name": "GJpYhelper", "version": "0.18.1", "title": "Grumpys pY Helper", "author": "Chrisdec", "contact": "", "factorio_version": "0.18", "dependencies": ["base >= 0.17", "?pyfusionenergy >= 1.1.4", "?pyhightech >= 1.0.15", "?pyrawores >=1.1.12", "?pycoalprocessing"], "description": "Makes some basic things easier in pY. Stack inserters for example. Works in Vanilla too"}

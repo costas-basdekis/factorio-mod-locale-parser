@@ -1,0 +1,1 @@
+{"name": "InfiniteResearchSupply", "version": "0.1.0", "title": "Infinite Research Supply", "author": "Heathcliff26", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod adds a craftable chest that contains an infinite supply of science packs."}

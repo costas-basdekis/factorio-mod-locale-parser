@@ -1,0 +1,1 @@
+{"name": "NoLogisticsChallenge", "version": "0.1.1", "title": "NoLogisticsChallenge", "author": "Ritn", "description": "Retire toute la logistique du jeu. (vanilla)\n\nTake all logistics out of the game. (Vanilla)", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "RitnLib >= 0.5.2", "? BigLight"]}

@@ -1,0 +1,1 @@
+{"name": "an-extension", "version": "0.0.2", "title": "Adamo Nuclear Extension", "author": "zebediah49", "dependencies": ["base", "adamo-cinefaction", "adamo-nuclear"], "description": "Some extensions to Adamo's cinefaction and nuclear mods.", "factorio_version": "0.17"}

@@ -1,0 +1,1 @@
+{"name": "crash-landings", "version": "0.2.0", "title": "Crash Landings", "author": "Abregado", "contact": "contact@benbuckton.com", "homepage": "http://factorio.com", "description": "Adds random crash landings which contain high tech items, but cause pollution", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15"}

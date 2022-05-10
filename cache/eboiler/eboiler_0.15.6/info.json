@@ -1,0 +1,1 @@
+{"name": "eboiler", "version": "0.15.6", "title": "Electric Boiler", "author": "Timer67", "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=47956", "description": "Adds an Electric Boiler building", "factorio_version": "0.15", "dependencies": ["base >= 0.15.1"]}

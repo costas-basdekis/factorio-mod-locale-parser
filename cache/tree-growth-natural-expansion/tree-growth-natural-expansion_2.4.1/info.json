@@ -1,0 +1,1 @@
+{"name": "tree-growth-natural-expansion", "version": "2.4.1", "factorio_version": "0.17", "title": "Tree Growth: Natural expansion", "author": "Graveeater", "contact": "Graveeater on steam", "description": "Allows saplings to spawn near trees.", "dependencies": ["base >= 0.17.4", "tree-growth-core >= 2.2.0", "tree-growth-core < 3.0.0"]}

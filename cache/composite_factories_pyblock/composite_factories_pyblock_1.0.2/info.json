@@ -1,0 +1,1 @@
+{"name": "composite_factories_pyblock", "version": "1.0.2", "factorio_version": "1.1", "title": "Composite Factories: PyBlock", "author": "Sopel", "contact": "", "homepage": "", "description": "Add buildings that replace large structures for making basic stuff", "dependencies": ["base >= 1.0.0", "composite_factories_base >= 1.0.0", "PyBlock >= 0.2.0"]}

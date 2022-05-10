@@ -1,0 +1,1 @@
+{"name": "Advanced-Electric-Tweaked", "version": "0.0.3", "title": "Advanced Electric Tweaked", "contact": "", "author": "Neomore, thurak126, yobudal", "description": "Adds higher tiers of solar panels and accumulators. Higher tiers have increased cost.", "dependencies": ["base >= 0.15"], "factorio_version": "0.15"}

@@ -1,0 +1,1 @@
+{"name": "JumpPortal", "version": "1.0.1", "title": "Portal addon", "author": "Vyacheslav Shegai", "contact": "a@ldd.so", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.16"], "description": "This mod adds portals"}

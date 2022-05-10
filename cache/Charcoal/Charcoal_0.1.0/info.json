@@ -1,0 +1,1 @@
+{"name": "Charcoal", "version": "0.1.0", "title": "Charcoal", "author": "Ellomir", "contact": "ellomir@yahoo.fr", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "This mod add charcoal recipe made from raw wood through a charcoal burner."}

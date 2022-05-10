@@ -1,0 +1,1 @@
+{"name": "harvestorio", "version": "0.0.3", "title": "Harvestorio", "author": "PyroFire", "dependencies": ["base >= 0.17", "! NewGamePlus", "! Space Exploration", "! warptorio2"], "description": "Warptorio but instead of a platform you're a tank", "factorio_version": "0.17", "homepage": "none"}

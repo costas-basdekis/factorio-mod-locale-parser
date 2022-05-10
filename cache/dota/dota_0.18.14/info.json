@@ -1,0 +1,1 @@
+{"name": "dota", "version": "0.18.14", "title": "DotA", "author": "OwnlyMe", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base", "?spell-pack", "?rpg_items"], "description": "DotA!"}

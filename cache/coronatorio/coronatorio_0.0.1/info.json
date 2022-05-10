@@ -1,0 +1,1 @@
+{"name": "coronatorio", "version": "0.0.1", "title": "Coronatorio", "author": "PyroFire", "dependencies": ["base >= 0.18"], "description": "Factorio but you must socially isolate", "factorio_version": "0.18", "homepage": "http://patreon.com/pyrofire"}

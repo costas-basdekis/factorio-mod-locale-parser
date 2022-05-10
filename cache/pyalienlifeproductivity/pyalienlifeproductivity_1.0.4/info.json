@@ -1,0 +1,1 @@
+{"name": "pyalienlifeproductivity", "version": "1.0.4", "factorio_version": "1.1", "title": "del pyalienlife productivity", "author": "10514187", "contact": "", "homepage": "", "description": "del pyalienlife productivity.", "dependencies": ["base >= 0.15.37", "pyalienlife >= 1.0.0"]}

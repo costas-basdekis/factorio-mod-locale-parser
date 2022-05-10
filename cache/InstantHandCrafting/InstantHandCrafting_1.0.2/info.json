@@ -1,0 +1,1 @@
+{"name": "InstantHandCrafting", "version": "1.0.2", "title": "InstantHandCrafting", "description": "Makes hand crafting instant, but not free.", "factorio_version": "1.0", "dependencies": ["base >= 0.17.0"], "author": "Paulo12321", "contact": "", "homepage": ""}

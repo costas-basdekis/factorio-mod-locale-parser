@@ -1,0 +1,1 @@
+{"name": "FusionRobotics", "version": "0.1.2", "title": "FusionRobotics", "author": "Jamozed", "factorio_version": "0.18", "description": "FusionRobotics adds fusion powered robots to Factorio.", "dependencies": ["base >= 0.18"]}

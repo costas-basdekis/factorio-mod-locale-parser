@@ -1,0 +1,1 @@
+{"name": "void-block", "version": "1.1.1", "title": "The Void Block", "author": "Steel Dragon GM", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "void-miners >= 20.2.3", "? LandfillPainting >= 0.5.0", "? better-air-filtering >=0.3.2"], "description": "Standed with nothing but a pistol, your wits and a machine that makes rocks form smoke."}

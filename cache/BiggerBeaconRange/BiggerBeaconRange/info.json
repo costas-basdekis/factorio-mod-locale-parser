@@ -1,0 +1,1 @@
+{"name": "BiggerBeaconRange", "author": "IgnusEverburning", "version": "1.0.4", "title": "Bigger Beacon Range", "description": "Beacon has greater range", "factorio_version": "0.18", "dependencies": ["base >= 0.17.0"]}

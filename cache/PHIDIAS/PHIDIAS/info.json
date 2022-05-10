@@ -1,0 +1,1 @@
+{"name": "PHIDIAS", "version": "1.0.4", "factorio_version": "1.1", "date": "2021-08-13", "title": "PHIDIAS", "author": "PHIDIAS0303", "contributers": "", "homepage": "", "description": "Compound Solars, Accumulator, and Compound Armor Equipment.", "dependencies": ["base >= 1.1.0"]}

@@ -1,0 +1,1 @@
+{"name": "armor-frames", "version": "0.4.1", "date": "2021-12-18", "title": "Armor Frames", "author": "codemite", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Add armor variations for each tier with class themed abilities. Frame classes have the ability to interface with a 'Buddy' which provides extra functions on their respective class branches."}

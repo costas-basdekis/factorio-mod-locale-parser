@@ -1,0 +1,1 @@
+{"name": "BurroStart", "version": "0.2.3", "title": "BurroStart", "author": "BurroTile", "description": "Adds more starting items to skip the burner/pick phase. Adapted from AGoodStart by ViCticus and updated to .18.", "factorio_version": "1.0", "dependencies": ["base"]}

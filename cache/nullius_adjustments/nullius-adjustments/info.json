@@ -1,0 +1,1 @@
+{"name": "nullius_adjustments", "version": "0.0.7", "factorio_version": "1.1", "title": "Nullius Adjustments", "author": "IamLegend", "description": "Mod with adjustments for private playthrough", "homepage": "", "dependencies": ["nullius >= 1.0.5"]}

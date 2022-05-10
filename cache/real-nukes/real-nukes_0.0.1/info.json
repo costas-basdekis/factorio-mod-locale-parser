@@ -1,0 +1,1 @@
+{"name": "real-nukes", "version": "0.0.1", "title": "Realistic Nukes", "author": "Forty-Bot", "contact": "seanga2@gmail.com", "factorio_version": "0.16", "dependencies": ["base>=0.16"], "description": "Adds realistic (read: full size, not \"fun\" size) nuclear weapons"}

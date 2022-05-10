@@ -1,0 +1,1 @@
+{"name": "scriptable-drones", "version": "0.4.5", "title": "Scriptable Drones", "author": "TesseractCat", "contact": "idk find me ;)", "homepage": "http://tesseractc.at", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "This mod adds drones that can be programmed with Lua to do automatable tasks."}

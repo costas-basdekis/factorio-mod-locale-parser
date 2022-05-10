@@ -1,0 +1,1 @@
+{"name": "FusionReactorupdated", "author": "none", "version": "0.1.6", "title": "Fusion Reactor", "description": "only change is version", "homepage": "https://forums.factorio.com", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"]}

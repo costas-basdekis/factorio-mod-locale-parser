@@ -1,0 +1,1 @@
+{"name": "textbook-server-tweaks", "version": "0.1.0", "title": "textbook server tweaks", "author": "textbook", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "angelssmelting >= 0.6.14"], "description": "This is a private server mod that tweaks other mod values"}

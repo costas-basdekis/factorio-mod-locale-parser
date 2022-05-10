@@ -1,0 +1,1 @@
+{"name": "CW-orbital-solar-power", "version": "0.1.0", "title": "Orbital Solar Power", "author": "CyberWizard2261", "description": "The true power of solar light now 24H a day", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

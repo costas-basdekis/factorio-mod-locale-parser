@@ -1,0 +1,1 @@
+{"name": "OmniCrystal_Clowns", "version": "0.2.3", "factorio_version": "0.16", "title": "OmniCrystals for Clowns Minerals", "author": "Kremnari", "contact": "N/a", "homepage": "N/a", "description": "Adds Clowns processing to OmniCrystal", "dependencies": ["base >= 0.16.0", "omnimatter_crystal >= 2.0.0", "Clowns-Extended-Minerals >= 1.0.0"]}

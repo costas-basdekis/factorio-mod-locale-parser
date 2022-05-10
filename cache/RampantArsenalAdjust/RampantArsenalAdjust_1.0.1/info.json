@@ -1,0 +1,1 @@
+{"name": "RampantArsenalAdjust", "version": "1.0.1", "title": "Personal Patches for Rampant Arsenal", "author": "Dumdidldum", "factorio_version": "1.0", "dependencies": ["base >= 1.0", "RampantArsenal >= 1.0.0"]}

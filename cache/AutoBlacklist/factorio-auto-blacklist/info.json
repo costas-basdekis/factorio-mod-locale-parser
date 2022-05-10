@@ -1,0 +1,1 @@
+{"name": "AutoBlacklist", "version": "1.0.0", "factorio_version": "0.17", "title": "Auto Blacklist Inserters", "author": "derrick@rice.io", "homepage": "https://github.com/DerrickRice/factorio-auto-blacklist", "description": "Automatically set newly placed filter inserters to blacklist mode", "dependencies": ["base >= 0.17.13"]}

@@ -1,0 +1,1 @@
+{"name": "factorissimo-power-pole-addon", "version": "1.0.5", "title": "Factorissimo Power Pole Addon", "author": "notnotmelon", "homepage": "discord.gg/sbs", "factorio_version": "1.1", "description": "An addon to Factorissimo 2. In order to move power inside factory buildings you must now connect power poles to the factory power monitor", "dependencies": ["Factorissimo2"]}

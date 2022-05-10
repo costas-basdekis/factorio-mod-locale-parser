@@ -1,0 +1,1 @@
+{"name": "BlackModule", "version": "0.1.39", "title": "Black Module", "author": "L4zyF001", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Adds new Modules"}

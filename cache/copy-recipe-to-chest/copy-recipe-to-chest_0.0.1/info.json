@@ -1,0 +1,1 @@
+{"name": "copy-recipe-to-chest", "version": "0.0.1", "title": "Copy recipe to chest", "author": "MaX33333", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod adds ability to copy final product from assembler to logistic chest."}

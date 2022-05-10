@@ -1,0 +1,1 @@
+{"name": "political-plates", "version": "0.0.1", "title": "Political Plates", "author": "bitsbytes", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Turns iron and copper plates into Joe Biden and Donald Trump, respectively."}

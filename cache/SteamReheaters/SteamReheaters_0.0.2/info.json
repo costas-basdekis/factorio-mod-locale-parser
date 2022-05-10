@@ -1,0 +1,1 @@
+{"name": "SteamReheaters", "version": "0.0.2", "title": "Steam Reheaters", "description": "When your steam is too cold", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "0.18"}

@@ -1,0 +1,1 @@
+{"name": "UsefulMapColors", "version": "1.1.10", "title": "Useful Map Colors", "author": "Taehl", "contact": "email.Taehl@gmail.com", "homepage": "https://forums.factorio.com/viewtopic.php?f=144&t=32416", "description": "Consistently color-codes constructions on the map for clear recognition. Custom colors can be configured!", "factorio_version": "0.16", "dependencies": ["base"]}

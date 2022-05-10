@@ -1,0 +1,1 @@
+{"name": "pump-patch", "version": "0.1.0", "title": "Pump Patch", "author": "voidbreath", "factorio_version": "1.0", "dependencies": ["base >= 1.0", "boblogistics", "Krastorio2"], "description": "This mod (hopefully) forces pumps to be made with iron pipes again."}

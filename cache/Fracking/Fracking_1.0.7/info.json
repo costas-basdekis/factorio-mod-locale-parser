@@ -1,0 +1,1 @@
+{"name": "Fracking", "version": "1.0.7", "title": "Fracking", "author": "Mylon", "contact": "forum PM", "homepage": "https://www.patreon.com/mylon", "description": "Inject slurry into oil wells to get more oil out of them.", "factorio_version": "0.18", "dependencies": ["base >= 0.4.1"]}

@@ -1,0 +1,1 @@
+{"name": "No-Decoratives", "description": "Disables decoratives in new games", "version": "1.0.1", "title": "No Decoratives", "author": "natemiddleman", "dependencies": ["base"], "factorio_version": "0.17"}

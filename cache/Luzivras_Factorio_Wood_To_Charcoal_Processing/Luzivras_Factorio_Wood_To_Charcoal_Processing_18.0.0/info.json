@@ -1,0 +1,1 @@
+{"name": "Luzivras_Factorio_Wood_To_Charcoal_Processing", "version": "18.0.0", "factorio_version": "0.18", "title": "Luzivras Factorio To Charcoal Processing", "author": "YouTube_Luzivras", "contact": "https://discord.gg/BNq4Can", "description": "Process Wood into better Fuel", "dependencies": ["Luzivras_Factorio_Core >= 18.0.0"]}

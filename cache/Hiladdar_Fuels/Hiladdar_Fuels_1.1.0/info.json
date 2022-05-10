@@ -1,0 +1,1 @@
+{"name": "Hiladdar_Fuels", "version": "1.1.0", "factorio_version": "1.1", "title": "Hiladdar's Fuels", "author": "Hiladdar", "contact": "hiladdar@att.net", "dependencies": ["base >= 1.1.0"], "description": "This mod adds 4 new tiers of fuels. There are two versions of each fuel, one for trains and one modified for other vehicles."}

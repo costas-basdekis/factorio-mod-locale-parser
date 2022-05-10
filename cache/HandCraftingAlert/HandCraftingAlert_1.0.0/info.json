@@ -1,0 +1,1 @@
+{"name": "HandCraftingAlert", "version": "1.0.0", "factorio_version": "0.17", "title": "Hand Crafting Alert", "author": "Southpaw018", "contact": "moof@moofit.com", "dependencies": ["base >= 0.17.0"], "description": "This mod will send a message to all players when someone hand crafts an item. Useful for your Lazy Bastard runs."}

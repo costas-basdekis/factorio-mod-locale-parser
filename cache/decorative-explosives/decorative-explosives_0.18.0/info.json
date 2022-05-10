@@ -1,0 +1,1 @@
+{"name": "decorative-explosives", "version": "0.18.0", "title": "Decorative Explosives", "author": "adamius", "description": "Explosives for disposing of decoratives. Late game recipes.", "dependencies": ["base"], "factorio_version": "0.18"}

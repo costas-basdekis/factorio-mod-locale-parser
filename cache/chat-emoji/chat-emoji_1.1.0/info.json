@@ -1,0 +1,1 @@
+{"name": "chat-emoji", "version": "1.1.0", "title": "Chat Emoji", "author": "ArsStels & Artem00", "factorio_version": "1.1", "dependencies": ["base >= 1.0", "informatron >= 0.2.2"], "description": "This mod adds a lot of different emojis to your game's chat. To use them, you should open mod's tab in Informatron, where you will find full list of available emojis."}

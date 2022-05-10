@@ -1,0 +1,1 @@
+{"name": "powered_area", "version": "0.0.1", "title": "Powered Area", "description": "Increase supply area distance and maximum wire distance of electric-pole (medium electric-pole, big electric-pole, and substation)", "author": "Alphamplyer", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

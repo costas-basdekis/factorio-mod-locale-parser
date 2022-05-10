@@ -1,0 +1,1 @@
+{"name": "place-turret-loaded", "version": "0.1.0", "title": "Place Turret Loaded", "author": "SprocketMan", "factorio_version": "1.0", "dependencies": ["base >= 0.15"], "description": "When placing a gun turret, immediately load it with ammo from the player's inventory."}

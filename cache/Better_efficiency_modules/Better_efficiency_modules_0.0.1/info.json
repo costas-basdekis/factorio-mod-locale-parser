@@ -1,0 +1,1 @@
+{"name": "Better_efficiency_modules", "version": "0.0.1", "factorio_version": "0.18", "title": "Better Efficiency Modules", "author": "Cmers", "contact": "", "homepage": "", "description": "Buffs efficiency modules 2 and 3 to reduce power by 45% and 75% respectively, making them inline with the bonuses from speed and productivity", "dependencies": ["base >= 0.18.0"]}

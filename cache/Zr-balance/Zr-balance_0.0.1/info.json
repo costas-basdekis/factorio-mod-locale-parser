@@ -1,0 +1,1 @@
+{"name": "Zr-balance", "version": "0.0.1", "title": "Zr-balance", "author": "Zr4g0n", "description": "Rebalanced the millitary part of vanilla to make it more of a logistical challenge", "license": "MIT", "dependencies": ["base >= 0.17.66"], "factorio_version": "0.17"}

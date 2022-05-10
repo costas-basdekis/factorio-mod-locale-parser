@@ -1,0 +1,1 @@
+{"name": "SpecializedFuel", "version": "0.8.0", "title": "Specialized Fuel", "author": "Grokepeer", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.0", "SpFuMaterialPack >= 0.3.0"], "description": "Adds Xplosive, Panda, F1, Wing and HI fuel to achieve supersonic production speeds!"}

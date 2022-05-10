@@ -1,0 +1,1 @@
+{"name": "ZAdventure", "order": "z-01", "version": "2.17.2", "title": "[Z] Adventure", "factorio_version": "0.17", "author": "ZlovreD", "contact": "Discussion page on mods.factorio.com", "description": "Makes adventure more unpredictable.", "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=61538", "dependencies": ["base >= 0.17.36"]}

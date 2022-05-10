@@ -1,0 +1,1 @@
+{"name": "big-data-string", "version": "1.0.1", "title": "Big Data String Library", "author": "Big Daddy", "factorio_version": "1.1", "description": "Store up to 2 \u00d7 10\u00b2\u2078 chars long strings during data stage and read them during control stage"}

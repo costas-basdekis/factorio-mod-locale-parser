@@ -1,0 +1,1 @@
+{"name": "bring_back_old_science", "title": "Bring Back Old Sciences!", "version": "1.0.0", "date": "2018-05-31", "author": "StarRaid", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Changes all technologies so that they don't require the Military or Productivity science packs."}

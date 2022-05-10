@@ -1,0 +1,1 @@
+{"name": "NuclearSpitters", "version": "0.1.0", "title": "Nuclear Spitters", "author": "Longarmx", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "This mod allows behemoth spitters to spit small nuclear warheads. Good luck."}

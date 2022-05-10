@@ -1,0 +1,1 @@
+{"name": "KR2_RTF_Tree_to_Seed", "version": "2.3.6", "title": "Krastorio 2 to Robot Tree Farm", "author": "MarcusTral", "factorio_version": "1.0", "description": "Converts trees production to seeds production (Krastorio 2 to Robot Tree Farm)", "dependencies": ["Tral_robot_tree_farm", "Krastorio2 <= 1.0.19", "(?) alien-biomes"]}

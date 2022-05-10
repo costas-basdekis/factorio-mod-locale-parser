@@ -1,0 +1,1 @@
+{"name": "raw-calculator", "version": "0.1.0", "title": "Raw Calculator", "author": "RedRafe", "dependencies": ["base >= 1.1.0"], "description": "Compute total amount of raw resources needed to craft any item. Raw Calculator will find the shortest path (lowest cost) to craft any item. Intended use for mod developers, does not affect the game.", "factorio_version": "1.1"}

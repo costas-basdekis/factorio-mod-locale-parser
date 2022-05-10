@@ -1,0 +1,1 @@
+{"name": "StrikesOverhaulMod", "version": "0.16.39", "title": "Strikes Overhaul Mod", "author": "ZTStrike", "contact": "zt_strike@yahoo.com", "homepage": "", "description": "Changes many configurations, and also adds new items to the game.", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

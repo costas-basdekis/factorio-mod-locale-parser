@@ -1,0 +1,1 @@
+{"name": "SISPRepairSelf", "version": "0.0.2", "factorio_version": "1.1", "title": "SI SP Repair Self", "author": "Sidoupiar", "homepage": "http://www.sidoupiar.com", "description": "Now you can repair yourself by construction robots with using repair tools", "dependencies": ["SICoreFunctionLibrary >= 0.4.0"]}

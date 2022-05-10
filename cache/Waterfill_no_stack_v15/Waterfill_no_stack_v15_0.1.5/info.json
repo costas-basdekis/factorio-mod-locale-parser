@@ -1,0 +1,1 @@
+{"name": "Waterfill_no_stack_v15", "version": "0.1.5", "factorio_version": "0.15", "title": "Waterfill_no_stack", "author": "Delus", "homepage": "", "description": "Placeable water", "dependencies": ["base >= 0.13.0"]}

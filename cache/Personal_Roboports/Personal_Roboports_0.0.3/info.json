@@ -1,0 +1,1 @@
+{"name": "Personal_Roboports", "version": "0.0.3", "title": "Personal Roboports", "author": "Meridanus", "contact": "", "homepage": "", "dependencies": ["base >= 0.13.13"], "description": "Adds mk2 and mk3 tiers of personal roboports and slightly buff the fusion reactor power.\n Works best with Fusion Robots and Advanced Armor.", "factorio_version": "0.14"}

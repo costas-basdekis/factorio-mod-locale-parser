@@ -1,0 +1,1 @@
+{"name": "Concreep", "version": "1.4.6", "title": "Concreep", "author": "Mylon", "contact": "forum PM", "homepage": "https://www.patreon.com/mylon", "description": "Roboports automatically place and upgrade concrete within their reach.", "factorio_version": "1.1", "dependencies": ["base >= 0.4.1"]}

@@ -1,0 +1,1 @@
+{"name": "steel-chest-require-iron-chest", "version": "1.1.0", "title": "steel-chest-require-iron-chest", "author": "adam_bise", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds iron chest to the steel chest recipe."}

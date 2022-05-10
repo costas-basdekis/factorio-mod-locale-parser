@@ -1,0 +1,1 @@
+{"name": "Stackaaa", "author": "OzHawkeye", "version": "1.2.7", "factorio_version": "1.1", "title": "OzHawkeyes Stack Sizes For 1.1", "description": "Makes many stack sizes massively increased. Supports Bobs mods items.", "dependencies": ["base >= 0.17.0", "bobmining >=0.17.0", "boblogistics >=0.17.0", "bobplates >=0.17.0", "bobores >=0.17.0"]}

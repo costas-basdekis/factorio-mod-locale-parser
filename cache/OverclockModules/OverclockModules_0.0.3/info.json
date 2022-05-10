@@ -1,0 +1,1 @@
+{"name": "OverclockModules", "version": "0.0.3", "factorio_version": "0.14.0", "title": "Overclock Modules", "author": "Serjio", "dependencies": ["base", "andrew-modules >= 0.14.5"], "description": "REQUIRES ANDREW-MODULES TO WORK! Add overclock modules. They increase speed, and the downside: they greatly increase pollution (and consumption, just a little)."}

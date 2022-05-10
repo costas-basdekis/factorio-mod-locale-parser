@@ -1,0 +1,1 @@
+{"name": "ModuleRatioRework", "version": "0.1.1", "factorio_version": "0.15", "title": "Rebalanced modules", "author": "atti92", "contact": "", "homepage": "", "description": "Rebalanced modules", "dependencies": ["base >= 0.15.0"]}

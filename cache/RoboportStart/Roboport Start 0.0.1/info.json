@@ -1,0 +1,1 @@
+{"name": "RoboportStart", "version": "0.0.1", "title": "Roboport Start", "author": "Lord Flame Stryke", "contact": "flamestryke@gmail.com", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod applies changes made in other mods to protect against mod updates."}

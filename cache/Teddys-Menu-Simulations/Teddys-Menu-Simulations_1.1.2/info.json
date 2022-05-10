@@ -1,0 +1,1 @@
+{"name": "Teddys-Menu-Simulations", "version": "1.1.2", "title": "Teddy's Menu Simulations", "author": "Legitimate Teddy", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Adds more menu simulations on top of the base, while preserving the Factorio and Wube logos."}

@@ -1,0 +1,1 @@
+{"name": "Comfylatron", "version": "0.1.0", "factorio_version": "0.18", "title": "Comfylatron", "author": "MewMew", "contact": "", "homepage": "", "description": "A companion to make your engineer life as hard as possible.", "dependencies": ["base >= 0.17.0"]}

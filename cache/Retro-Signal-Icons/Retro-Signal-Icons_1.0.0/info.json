@@ -1,0 +1,1 @@
+{"name": "Retro-Signal-Icons", "version": "1.0.0", "factorio_version": "0.16", "title": "Retro Signal Icons", "author": "Skratic", "description": "Changes the signal icons to a more retro feel.", "dependencies": ["base >= 0.15"]}

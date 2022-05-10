@@ -1,0 +1,1 @@
+{"name": "BorderedAlertIcons", "version": "1.0.0", "factorio_version": "0.16", "title": "Bordered Alert Icons", "author": "Barhandar", "description": "Restores borders to alert icons, turning them back into glance-recognizable warning signs.", "homepage": "", "dependencies": ["base"]}

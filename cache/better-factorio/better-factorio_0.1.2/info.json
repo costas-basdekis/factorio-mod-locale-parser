@@ -1,0 +1,1 @@
+{"name": "better-factorio", "version": "0.1.2", "factorio_version": "1.0", "title": "Better Factorio", "author": "TheKiller101555", "contact": "no", "description": "Goal: Rename all of the items to 'better' names - Will update over time", "dependencies": ["base >= 1.0"]}

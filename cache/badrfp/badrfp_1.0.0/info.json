@@ -1,0 +1,1 @@
+{"name": "badrfp", "version": "1.0.0", "title": "Bad rfp aneutronic fusion does not require complex ai!", "author": "The Scout", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "Krastorio2 >= 1.0.0", "RealisticFusionPower >= 1.8.3"], "description": "Made for SE+K2+RFP, Removes ai cores from Aneutronic Fusion."}

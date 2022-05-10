@@ -1,0 +1,1 @@
+{"name": "all_belts", "version": "1.0.4", "title": "Belts Only Overhaul", "author": "Villfuk02", "dependencies": ["base >= 1.1.19", "miniloader", "more-miniloaders"], "description": "Belt overhaul mod. Belts only! (And loaders)", "factorio_version": "1.1"}

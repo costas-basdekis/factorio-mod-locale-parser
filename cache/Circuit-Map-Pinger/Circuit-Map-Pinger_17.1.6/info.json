@@ -1,0 +1,1 @@
+{"name": "Circuit-Map-Pinger", "version": "17.1.6", "title": "Circuit Map Pinger", "author": "SpaceCat~Chan", "contact": "patrick-irvold@hotmail.com", "homepage": "", "factorio_version": "0.17", "dependencies": ["base"], "website": "", "description": "Adds an item that allows you to ping the map using Circuit Networks"}

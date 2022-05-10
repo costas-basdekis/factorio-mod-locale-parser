@@ -1,0 +1,1 @@
+{"name": "InventoryShortcuts", "version": "1.0.0", "title": "InventoryShortcuts", "author": "AndreasTPC", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Adds a few keyboard shortcuts for easier inventory and blueprint management"}

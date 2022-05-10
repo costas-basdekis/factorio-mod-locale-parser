@@ -1,0 +1,1 @@
+{"name": "UnrestrictedProductivityModule", "version": "0.0.6", "factorio_version": "1.1", "title": "Unrestricted Productivity Module", "author": " anarchyinc", "description": "No Productivity Module Restrictions here. More Slots too if you want. Edited by usafphoenix for bobmodule & alien loot economy cross-compatability", "dependencies": ["base >= 0.16.0", "? bobmodules"]}

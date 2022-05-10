@@ -1,0 +1,1 @@
+{"name": "Booktorio-example", "version": "1.4.1", "title": "Booktorio Example", "description": "This is a an example mod for show how use Booktorio mod.", "author": "Linver", "contact": "https://discord.gg/sUmpTHN", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "Booktorio >= 1.0.0"]}

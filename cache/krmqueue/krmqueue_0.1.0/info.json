@@ -1,0 +1,1 @@
+{"name": "krmqueue", "version": "0.1.0", "title": "RCON MessageQueue", "author": "Kovus", "contact": "kovus@soulless.wtf", "homepage": "https://gitlab.com/FishBus/krmqueue", "license": "BSD 3-clause", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Provides commands and interface for message queues for RCON clients to push/pull data."}

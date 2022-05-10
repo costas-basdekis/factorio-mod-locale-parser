@@ -1,0 +1,1 @@
+{"name": "LaserTurretRangeUpgrade", "version": "0.1.1", "factorio_version": "0.15", "title": "Laser Turret Range Upgrade", "author": "AJRanney", "contact": "http://www.factorioforums.com/", "homepage": "http://www.factorioforums.com/", "description": "Laser Turret Range Upgrade", "dependencies": ["base >= 0.15.0"]}

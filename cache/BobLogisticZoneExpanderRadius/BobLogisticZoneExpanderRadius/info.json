@@ -1,0 +1,1 @@
+{"name": "BobLogisticZoneExpanderRadius", "version": "0.1.0", "title": "Bob Logistic Zone Expander Radius", "author": "shadox", "contact": "", "homepage": "", "description": "Slightly increases Zone Expanders and Roboports radius to fit chunks size (16, 32, 64, instead of 15, 30, 60, etc)", "dependencies": ["base >= 1.1.0", "boblogistics"], "factorio_version": "1.1"}

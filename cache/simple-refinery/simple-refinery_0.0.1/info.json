@@ -1,0 +1,1 @@
+{"name": "simple-refinery", "version": "0.0.1", "title": "Simple Refinery", "author": "black0hawk", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod changes the refinery recipes of Iron/Copper/Steel/Stone to simpler ones."}

@@ -1,0 +1,1 @@
+{"name": "AllaiznsUtil", "version": "0.0.2", "title": "Allaizn's Utilities", "author": "Allaizn", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod helps while designing bases. Only feature so far: offshore pumps can be placed anywhere"}

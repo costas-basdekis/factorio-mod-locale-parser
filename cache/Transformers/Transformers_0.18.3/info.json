@@ -1,0 +1,1 @@
+{"name": "Transformers", "version": "0.18.3", "title": "Transformers", "author": "OwnlyMe, Dexter Morgan, Penguin, Monty", "description": "Adds transformers for better control over the power grid", "factorio_version": "0.18", "dependencies": ["base"]}

@@ -1,0 +1,1 @@
+{"name": "space-exploration-brasil-locale", "version": "1.1.5", "title": "Tradu\u00e7\u00e3o Space Exploration portugu\u00eas Brasil", "author": "Vagner", "dependencies": ["base >= 1.1.0", "space-exploration >= 0.5.72"], "description": "Tradu\u00e7\u00e3o para o mod Space Exploration para o portugu\u00eas", "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "solar_adjust", "version": "0.0.1", "title": "Soalr Adjust", "author": "rude_grass", "description": "Adjustable solar output", "dependencies": ["base >= 0.16"], "factorio_version": "0.16"}

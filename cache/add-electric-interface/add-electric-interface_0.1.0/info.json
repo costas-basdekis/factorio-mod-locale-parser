@@ -1,0 +1,1 @@
+{"name": "add-electric-interface", "version": "0.1.0", "factorio_version": "0.15", "title": "Add Electric Interface", "author": "M16", "contact": "@M16#5636 in Discord, paypal.me/msixteen", "description": "adds the electric energy interface from the base game", "dependencies": ["base >= 0.15.0"]}

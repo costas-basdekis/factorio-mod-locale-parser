@@ -1,0 +1,1 @@
+{"name": "sl-biters-rebuild-their-bases", "version": "1.1.1", "factorio_version": "1.1", "title": "sl - Biters rebuild", "author": "slaugh7er", "dependencies": ["base >= 1.1.0"], "contact": "", "homepage": "", "description": "makes biters rebuild there bases that get destroyed"}

@@ -1,0 +1,1 @@
+{"name": "ingtweaks-lite", "version": "0.18.0", "title": "ingmarin's vanilla tweaks", "author": "ingmarins", "contact": "ingmarins@gmail.com", "factorio_version": "0.18", "dependencies": ["base", "?inginfopack", "?ingqolpack"], "description": "Option to burn Wooden chest and small electric pole again as well as recipe to make Stack filter inserter from Filter inserter"}

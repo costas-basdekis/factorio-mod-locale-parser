@@ -1,0 +1,1 @@
+{"name": "assembling-machine-electric", "version": "0.1.5", "title": "Electric Assembly Machine", "author": "Alex33", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Adds a Assembling-Machine that shares electricity arround/manage wire connections like a small electric pole."}

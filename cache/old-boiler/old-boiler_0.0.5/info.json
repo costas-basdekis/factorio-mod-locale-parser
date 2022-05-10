@@ -1,0 +1,1 @@
+{"name": "old-boiler", "version": "0.0.5", "title": "Old Boiler Mod", "author": "Haq1", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Mod that adds a old Factorio boiler"}

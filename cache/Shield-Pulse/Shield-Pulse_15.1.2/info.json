@@ -1,0 +1,1 @@
+{"name": "Shield-Pulse", "version": "15.1.2", "title": "Shield Pulse", "author": "Ranakastrasz", "contact": "~", "homepage": "https://forums.factorio.com/viewtopic.php?f=144&t=26473", "description": "Causes modular armor shields to display a special effect.", "dependencies": ["base"], "factorio_version": "0.15"}

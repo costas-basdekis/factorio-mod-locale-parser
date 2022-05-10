@@ -1,0 +1,1 @@
+{"name": "far-reach", "version": "1.1.2", "title": "Far Reach", "description": "Build, interact and mine on the entire screen. Distances are customizable. Substitute for non-maintained mods like Long Reach.", "factorio_version": "1.1", "dependencies": ["base >= 0.15.0"], "author": "Fexx", "contact": "", "homepage": ""}

@@ -1,0 +1,1 @@
+{"name": "This_Tank_Stops_For_Nobody", "version": "0.9.1", "title": "This Tank Stops For Nobody", "author": "Mylon", "contact": "forum PM", "homepage": "https://forums.factorio.com/viewtopic.php?f=95&t=38757", "description": "Your base is an extradimensional tank.  Staying still is dangerous.  Nothing will stop you.", "factorio_version": "0.16", "dependencies": ["base >= 0.4.1"]}

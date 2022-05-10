@@ -1,0 +1,1 @@
+{"name": "filter-increase", "version": "0.1.0", "title": "Stack Inserter Filter Increase", "author": "Fydor", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Increase the amount of filter slots on the Stack Filter Inserter to 5."}

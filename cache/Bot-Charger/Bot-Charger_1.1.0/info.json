@@ -1,0 +1,1 @@
+{"name": "Bot-Charger", "version": "1.1.0", "title": "Bot Charger", "author": "Ondra4260", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "?bot-speeds", "?bot-inventories"], "description": "This mod makes robot charging a bit faster based on settings check them out! Look at pictures too!"}

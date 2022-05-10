@@ -1,0 +1,1 @@
+{"name": "LongStorageContainer", "version": "0.2.0", "title": "Long Storage Container", "author": "Sappho", "contact": "panopticon101@gmail.com", "homepage": "https://mods.factorio.com", "description": "Adds 2x1 steel chests to facilitate train-based manufacturing.", "dependencies": ["base"], "factorio_version": "0.16"}

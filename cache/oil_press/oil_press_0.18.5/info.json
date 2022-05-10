@@ -1,0 +1,1 @@
+{"name": "oil_press", "version": "0.18.5", "title": "Oil Press", "author": "OwnlyMe", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base", "robot_tree_farm"], "description": "Adds oil extraction from the seeds of the 'robot tree farm' mod"}

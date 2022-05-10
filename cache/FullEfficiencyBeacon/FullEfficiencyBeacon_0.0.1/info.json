@@ -1,0 +1,1 @@
+{"name": "FullEfficiencyBeacon", "author": "tomoya92", "version": "0.0.1", "title": "beacon 100% distribution effectivity", "description": "100% distribution effectivity, but double energy usage", "factorio_version": "0.18", "dependencies": ["base >= 0.17.0"]}

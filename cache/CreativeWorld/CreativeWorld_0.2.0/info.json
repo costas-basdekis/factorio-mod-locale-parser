@@ -1,0 +1,1 @@
+{"name": "CreativeWorld", "version": "0.2.0", "title": "Creative World", "author": "can00336", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"], "description": "An open world for creative testing."}

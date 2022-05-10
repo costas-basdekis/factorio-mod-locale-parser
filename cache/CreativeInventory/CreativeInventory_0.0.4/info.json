@@ -1,0 +1,1 @@
+{"name": "CreativeInventory", "description": "Creative Inventory will always full. Please use drones for constructing and deconstructing entities", "version": "0.0.4", "title": "Creative Inventory", "author": "darkfrei", "dependencies": ["base"], "factorio_version": "0.15"}

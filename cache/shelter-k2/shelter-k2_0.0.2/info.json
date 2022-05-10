@@ -1,0 +1,1 @@
+{"name": "shelter-k2", "version": "0.0.2", "factorio_version": "1.1", "title": "Shelter-k2", "author": "zanven", "contact": "zanven42@gmail.com", "homepage": "https://github.com/zanven42/factorio-shelter-k2", "description": "Adds the shelter from kastorio2 so you can pick a respawn location", "dependencies": ["base >= 1.1.0"]}

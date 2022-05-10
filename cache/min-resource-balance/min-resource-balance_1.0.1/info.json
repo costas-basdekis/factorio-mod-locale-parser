@@ -1,0 +1,1 @@
+{"name": "min-resource-balance", "version": "1.0.1", "factorio_version": "0.14", "title": "Min-Resource Balance", "author": "Godric Seer", "description": "Slight balance tweak for resource spawning at very low resource settings", "dependencies": ["base >= 0.14.10"]}

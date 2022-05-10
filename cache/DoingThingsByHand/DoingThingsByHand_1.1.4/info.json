@@ -1,0 +1,1 @@
+{"name": "DoingThingsByHand", "version": "1.1.4", "title": "Doing Things By Hand", "author": "billbo99", "contact": "", "homepage": "https://mods.factorio.com/mod/DoingThingsByHand", "factorio_version": "1.1", "dependencies": ["base", "?space-exploration-postprocess", "!RPGsystem"], "description": "The more you do things by hand the faster you get"}

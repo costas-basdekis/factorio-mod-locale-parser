@@ -1,0 +1,1 @@
+{"name": "exoman", "version": "0.0.3", "factorio_version": "0.14", "title": "ExoMan", "author": "sebgggg", "homepage": "", "description": "Manage your armor", "dependencies": ["base >= 0.14.0"]}

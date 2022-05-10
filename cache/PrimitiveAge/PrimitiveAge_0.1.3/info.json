@@ -1,0 +1,1 @@
+{"name": "PrimitiveAge", "version": "0.1.3", "title": "Primitive Age", "author": "Danny H", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Adds an early primitive stage to the game - the goal: researching electrical power."}

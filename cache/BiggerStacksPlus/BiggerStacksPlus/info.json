@@ -1,0 +1,1 @@
+{"name": "BiggerStacksPlus", "version": "1.1.5", "title": "Bigger Stacks Plus++", "author": "Gerkiz", "dependencies": ["base >= 0.17"], "factorio_version": "1.1", "description": "Adjusts the amounts stack-sizes of items and results of items in furnaces."}

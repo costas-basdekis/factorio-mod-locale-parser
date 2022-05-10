@@ -1,0 +1,1 @@
+{"name": "ery-research-progress", "version": "1.1.0", "title": "Ery's Research Progress Frame", "author": "Grokzen, JeffS, Erythion", "description": "Show % progress, ETA, 5-sec average rate, and unit count on the current research", "factorio_version": "1.1", "dependencies": ["base"]}

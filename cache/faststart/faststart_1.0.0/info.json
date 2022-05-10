@@ -1,0 +1,1 @@
+{"name": "faststart", "version": "1.0.0", "title": "faststart", "author": "Wartre", "contact": "factoriomods@pinesmithstudios.com", "homepage": "", "description": "An easier start.", "factorio_version": "0.17", "dependencies": ["base >= 0.17"]}

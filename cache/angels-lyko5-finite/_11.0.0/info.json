@@ -1,0 +1,1 @@
+{"name": "angels-lyko5-finite", "version": "11.0.0", "title": "Angels Finite Wells", "description": "Sets Angels Oil, Gas, and Fissure to be finite", "author": "Lyko5", "contact": "https://gitlab.com/Lyko5", "factorio_version": "1.1", "dependencies": ["base >= 1.1.5", "angelsrefining >= 0.11.19", "angelspetrochem >= 0.9.17"]}

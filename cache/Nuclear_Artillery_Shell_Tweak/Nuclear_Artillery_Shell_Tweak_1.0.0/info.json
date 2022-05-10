@@ -1,0 +1,1 @@
+{"name": "Nuclear_Artillery_Shell_Tweak", "version": "1.0.0", "factorio_version": "0.16", "title": "Nuclear Artillery Shell Tweak", "author": "Malkav73", "description": "Slight modification of Aephiex's Nuclear Artillery Shell.", "dependencies": ["base >= 0.16", "Nuclear_Artillery_Shell >= 1.0.0"]}

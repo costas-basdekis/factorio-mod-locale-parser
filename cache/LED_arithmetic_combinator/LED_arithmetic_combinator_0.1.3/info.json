@@ -1,0 +1,1 @@
+{"name": "LED_arithmetic_combinator", "version": "0.1.3", "title": "LED arithmetic combinator", "description": "LED arithmetic combinator with LED lamp and arithmitic combinator", "author": "darkfrei", "license": "MIT", "dependencies": ["base", "? sixbit_lamps"], "factorio_version": "0.18"}

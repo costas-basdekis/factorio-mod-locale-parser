@@ -1,0 +1,1 @@
+{"name": "manual-trains-at-temp-stops", "version": "1.1.0", "title": "Trains Switch to Manual at Temporary Stops", "author": "jeFFeSS", "description": "When a train arrives at a temporary stop with the default \"5s passed\" condition, it will be switched into manual mode.", "factorio_version": "1.1", "dependencies": ["base"]}

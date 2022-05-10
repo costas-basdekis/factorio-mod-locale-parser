@@ -1,0 +1,1 @@
+{"name": "greylist", "version": "1.0.0", "title": "Greylist", "author": "Sparr", "contact": "sparr0@gmail.com", "homepage": "https://github.com/sparr/factorio-mod-greylist", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Replaces the terms blacklist and whitelist in the game UI, except for multiplayer player management."}

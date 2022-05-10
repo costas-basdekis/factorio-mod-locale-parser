@@ -1,0 +1,1 @@
+{"name": "TostsChests", "version": "0.0.6", "title": "tosts-Train-Chests", "author": "tost", "homepage": "", "description": "Long chests for train cargos ideal with LTN.", "dependencies": ["base"], "Licence": "MIT", "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "UniversalPalleting", "version": "0.16.3", "title": "Universal Palleting", "author": "mckilljoy", "contact": "Ping me on the Discussion thread!", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Universal palleting for intermediate products."}

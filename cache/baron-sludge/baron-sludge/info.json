@@ -1,0 +1,1 @@
+{"name": "baron-sludge", "version": "1.1.9", "title": "Baron Sludge", "author": "Cogneato Switch", "contact": "CogneatoSwitch@gmail.com", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18", "baron-library >= 0.18.3", "? baron-factions >= 0.18.17"], "description": "Baron Sludge adds a small tech tree and optional processing steps around natural materials."}

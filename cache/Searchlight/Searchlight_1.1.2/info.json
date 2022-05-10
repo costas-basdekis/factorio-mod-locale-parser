@@ -1,0 +1,1 @@
+{"name": "Searchlight", "version": "1.1.2", "title": "Searchlight", "author": "HunterGerhart", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Build long ranged lights that track enemies from a distance! Searchlights are non-damaging, electric-powered turrets requiring Optics technology."}

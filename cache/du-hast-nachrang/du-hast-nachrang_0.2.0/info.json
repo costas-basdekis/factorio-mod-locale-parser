@@ -1,0 +1,1 @@
+{"name": "du-hast-nachrang", "version": "0.2.0", "title": "Du hast Nachrang", "author": "Helmuth Q.", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Adds the inoffical 'du hast nachrang' / 'you have to give way' sounds from Viennese public transport network to the programmable speaker."}

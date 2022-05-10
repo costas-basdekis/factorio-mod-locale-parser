@@ -1,0 +1,1 @@
+{"name": "howfardiditgo", "version": "1.1.0", "factorio_version": "1.1", "title": "How Far Has it Been?", "author": "warped_jack", "dependencies": ["base >= 1.1"], "description": "Ever wondered how far your trains have travelled? Now you can see in real time!"}

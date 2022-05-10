@@ -1,0 +1,1 @@
+{"name": "TreeChallenge", "version": "0.3.1", "title": "Tree Challenge", "author": "Earendel", "dependencies": ["base >= 0.16.0"], "description": "Can you beat the game without killing any trees? This mod makes trees (mostly) invulnerable, unselectable, and have reduced collision so they don't get in your way as much.", "factorio_version": "0.16"}

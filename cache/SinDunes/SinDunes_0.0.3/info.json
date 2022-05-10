@@ -1,0 +1,1 @@
+{"name": "SinDunes", "version": "0.0.3", "title": "Sin Dunes", "author": "SinRopa", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Covers the map with resource dunes"}

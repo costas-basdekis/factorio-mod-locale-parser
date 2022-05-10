@@ -1,0 +1,1 @@
+{"name": "CoalToWood", "version": "1.0.0", "title": "Coal To Wood", "author": "Mossball", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "Adds a single recipe to convert 25 coal to 50 wood, ratio based on fuel value. Can be crafted by Hand or in Assembly Machines."}

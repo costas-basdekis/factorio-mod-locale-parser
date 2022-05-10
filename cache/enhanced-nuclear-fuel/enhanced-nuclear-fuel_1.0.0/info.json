@@ -1,0 +1,1 @@
+{"name": "enhanced-nuclear-fuel", "author": "nerai", "version": "1.0.0", "title": "Enhanced Nuclear Fuel", "description": "By careful enhancement, Nuclear Fuel can be further improved. This process is slow and *incredibly* wasteful, but the products offer a certain degree of improved performance.", "homepage": "", "factorio_version": "1.0", "dependencies": ["base >= 0.17.0"]}

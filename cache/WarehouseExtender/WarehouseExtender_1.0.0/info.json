@@ -1,0 +1,1 @@
+{"name": "WarehouseExtender", "version": "1.0.0", "title": "Angels warehouse extender", "author": "Th3DutchGuy", "description": "Just gives warehouses a more worthwhile storage capacity", "factorio_version": "1.1", "dependencies": ["base >= 1.0", "angelsaddons-storage >= 0.0.4"]}

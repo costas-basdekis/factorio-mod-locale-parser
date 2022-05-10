@@ -1,0 +1,1 @@
+{"name": "noangledcables", "version": "0.0.7", "title": "Electric Grid Enforcer", "author": "_-_-_", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.17"], "description": "Electric poles can only connect at increments of 90 degrees (other than manually)"}

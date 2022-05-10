@@ -1,0 +1,1 @@
+{"name": "RFM-war", "version": "0.0.1", "factorio_version": "1.1", "title": "Revamped Factorio -  Warfare", "author": "Nori", "contact": "", "homepage": "NA", "description": "Currently, arty turret gets longer auto range to compensate for it's immovable nature.", "dependencies": ["base >= 1.1"]}

@@ -1,0 +1,1 @@
+{"name": "space-exploration-graphics", "version": "0.5.15", "title": "Space Exploration Graphics Part 1", "author": "Earendel", "dependencies": ["base >= 1.1.0"], "description": "Space Exploration graphics part 1.", "factorio_version": "1.1", "homepage": "https://spaceexploration.miraheze.org/wiki/Main_Page"}

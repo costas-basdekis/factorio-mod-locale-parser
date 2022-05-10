@@ -1,0 +1,1 @@
+{"name": "wartorio", "version": "0.1.2", "factorio_version": "0.17", "title": "Wartorio", "author": "Tunasz", "homepage": "", "dependencies": ["base >= 0.17"], "description": "Robot war."}

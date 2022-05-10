@@ -1,0 +1,1 @@
+{"name": "uranium-power-processing", "version": "0.0.6", "title": "Uranium Power Processing", "author": "hawk", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod adds an new Recipe of Uranium-processing into an efficient way for early Nuclear Power Planting :-)."}

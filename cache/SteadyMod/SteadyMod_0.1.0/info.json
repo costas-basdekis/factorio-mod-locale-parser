@@ -1,0 +1,1 @@
+{"name": "SteadyMod", "version": "0.1.0", "title": "SteadyMod", "description": "A life improvement balance mod, aiming to fix some of the more tedious aspects of the game.", "author": "lepe", "factorio_version": "0.13", "dependencies": ["base >= 0.13.0"]}

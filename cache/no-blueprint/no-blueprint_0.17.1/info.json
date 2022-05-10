@@ -1,0 +1,1 @@
+{"name": "no-blueprint", "author": "Cobaia", "version": "0.17.1", "title": "NO Blueprint Allowed", "description": "", "homepage": "Dircord: Cobaia#6897", "contact": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"]}

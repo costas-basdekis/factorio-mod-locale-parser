@@ -1,0 +1,1 @@
+{"name": "op_train_speed11", "version": "1.19.2", "factorio_version": "1.1", "title": "Over Powered Train Speed and brakes", "author": "Anthony Dewstow", "description": "Faster Fuel and way more train brake upgrades", "homepage": "http://AnthonyDewstow.info", "dependencies": ["base >= 0.18.0"]}

@@ -1,0 +1,1 @@
+{"name": "PressurizedFluidsPollutionSolutionsBridge", "version": "0.0.1", "title": "Pressurized Fluids bridge for Pollution Solutions", "author": "billbo99", "contact": "", "homepage": "https://mods.factorio.com/mod/PressurizedFluidsPollutionSolutionsBridge", "factorio_version": "0.18", "dependencies": ["base", "CompressedFluids", "PollutionSolutions"], "description": ""}

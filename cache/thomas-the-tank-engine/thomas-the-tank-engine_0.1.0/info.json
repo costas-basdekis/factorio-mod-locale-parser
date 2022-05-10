@@ -1,0 +1,1 @@
+{"name": "thomas-the-tank-engine", "version": "0.1.0", "title": "Thomas the Tank Engine", "author": "drearyplane8", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Plays the Thomas the Tank Engine theme after you get hit by a train"}

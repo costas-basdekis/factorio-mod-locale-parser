@@ -1,0 +1,1 @@
+{"name": "LogisticRequestMerger", "version": "1.1.0", "title": "Logistic Request Merger", "author": "Jelmergu", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Merges the logistic requests from one buffer or requester chest into another instead of overriding the request"}

@@ -1,0 +1,1 @@
+{"name": "archie-tiberium-ir2-compat", "version": "1.1.0", "title": "Tiberium Industrial Revolution 2 Refinery Fix", "description": "Re-enables selecting recipes in oil refineries", "author": "Archie", "factorio_version": "1.1", "dependencies": ["base >= 1.1.12", "IndustrialRevolution >= 2.0.4"]}

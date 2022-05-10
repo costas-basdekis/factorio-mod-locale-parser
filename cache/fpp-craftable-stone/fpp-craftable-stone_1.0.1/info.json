@@ -1,0 +1,1 @@
+{"name": "fpp-craftable-stone", "version": "1.0.1", "title": "FPP craftable stone", "author": "Fuggschen", "contact": "fuggschen@krk-gaming.de", "homepage": "krk-gaming.de", "factorio_version": "1.0", "dependencies": ["base >= 1.0", "fpp"], "description": "This mod adds craftable lategame-stone to the Factorio++ Mod"}

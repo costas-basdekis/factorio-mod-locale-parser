@@ -1,0 +1,1 @@
+{"name": "boxing-2-recycle", "version": "1.0.1", "title": "Boxing 2 Recycle", "author": "denoflions", "description": "recycle steel box back to steel", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0", "boxing-2 >= 2.18.1"]}

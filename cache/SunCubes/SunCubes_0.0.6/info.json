@@ -1,0 +1,1 @@
+{"name": "SunCubes", "version": "0.0.6", "title": "SunCubes", "author": "Sunnova", "homepage": "https://discord.gg/YWVEqgN", "description": "Convert gases/liquids to frozen cubes, frozen cubes back to gases/liquids", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "? boblibrary >= 1.0.0", "? bobores >= 1.0.0", "? bobplates >= 1.0.2", "? bobmining >= 1.0.0"]}

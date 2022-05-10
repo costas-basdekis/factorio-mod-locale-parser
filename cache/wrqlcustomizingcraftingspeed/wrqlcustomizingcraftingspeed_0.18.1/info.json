@@ -1,0 +1,1 @@
+{"name": "wrqlcustomizingcraftingspeed", "version": "0.18.1", "factorio_version": "0.18", "title": "Wrql's Customizing Crafting Speed", "author": "Wei-ren-qu-liu", "contact": "Wrql's QQ group:859914117", "homepage": "https://www.zlfgame.club/", "dependencies": ["base >= 0.18.0"], "description": "From the settings, you can change the character's production speed"}

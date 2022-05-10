@@ -1,0 +1,1 @@
+{"name": "GhostCount", "version": "0.1.1", "title": "Ghost Count", "author": "catalyst518", "contact": "https://www.reddit.com/user/catalyst518", "description": "Counts the number of ghosts on the map", "dependencies": ["base"], "factorio_version": "0.15"}

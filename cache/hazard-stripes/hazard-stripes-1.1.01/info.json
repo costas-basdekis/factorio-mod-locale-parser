@@ -1,0 +1,1 @@
+{"name": "hazard-stripes", "version": "1.1.0", "title": "Hazard Stripes", "author": "InaccurateTank", "homepage": "https://github.com/InaccurateTank/hazard-stripes", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Variations of hazard concrete intended for various use cases.  Technically OSHA compliant."}

@@ -1,0 +1,1 @@
+{"name": "Factorissimo2ItalianTranslation", "version": "1.0.3", "title": "Factorissimo 2 Italian Translation", "author": "Linver", "description": "Unofficial, italian translation of Factorissimo 2. Traduzione non ufficiale in italiano della mod Factorissimo 2", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0", "Factorissimo2 >= 2.3.1"]}

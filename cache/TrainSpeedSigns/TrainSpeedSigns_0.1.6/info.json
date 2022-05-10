@@ -1,0 +1,1 @@
+{"name": "TrainSpeedSigns", "version": "0.1.6", "title": "Rivens Train Speed Signs", "author": "Riven", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod makes trains respect speed sign values sent to rail signals."}

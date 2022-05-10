@@ -1,0 +1,1 @@
+{"name": "nibbles-qol", "version": "0.1.0", "title": "Nibbles Quality of Life", "author": "Darth Nibbles", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Massively buffs the Personal Fusion Reactor and Personal Roboport Mk 2 to support thousands of construction bots."}

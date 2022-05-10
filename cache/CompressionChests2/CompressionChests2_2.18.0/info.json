@@ -1,0 +1,1 @@
+{"name": "CompressionChests2", "version": "2.18.0", "title": "Compression Chests", "author": "Starxplor & Rseding91", "homepage": "", "dependencies": ["base"], "description": "Store massive amounts of one item type in a single chest.", "factorio_version": "0.18"}

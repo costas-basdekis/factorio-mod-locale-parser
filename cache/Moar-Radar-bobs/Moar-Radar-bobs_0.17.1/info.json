@@ -1,0 +1,1 @@
+{"name": "Moar-Radar-bobs", "version": "0.17.1", "factorio_version": "0.17", "title": "Moar-Radar for Bob's warfare", "author": "cygnos", "contact": "", "homepage": "", "description": "Customizable Radar ranges for Bob's warfare.", "dependencies": ["base >= 0.17.0", "bobwarfare >= 0.17.1", "! Moar-Radar"]}

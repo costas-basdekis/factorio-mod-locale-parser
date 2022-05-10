@@ -1,0 +1,1 @@
+{"name": "steel-chest-from-iron-chests", "title": "Steel chests from iron chests", "factorio_version": "0.15", "author": "teemu", "version": "1.0.0", "dependencies": ["base >= 0.15.0"], "description": "Adds a recipe to make steel chests out of iron chests."}

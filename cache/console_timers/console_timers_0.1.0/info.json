@@ -1,0 +1,1 @@
+{"name": "console_timers", "version": "0.1.0", "title": "Console Timers", "author": "CaesarSalad", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Adds a timer that can be controlled through console commands"}

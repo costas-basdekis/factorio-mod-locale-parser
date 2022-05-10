@@ -1,0 +1,1 @@
+{"name": "antitrypo", "version": "0.1.0", "title": "Anti Trypophobia", "author": "Resmyx", "homepage": "", "description": "Replaces the spawner graphics to more neutral ones for trypophobia. Worm graphics and non-cubism options coming soon! Original by Adil", "factorio_version": "0.18", "dependencies": ["base"]}

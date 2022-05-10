@@ -1,0 +1,1 @@
+{"name": "wood-stack-1k", "version": "0.1.1", "factorio_version": "0.18", "title": "Wood stack 1k", "author": "Vatharian", "contact": "", "homepage": "", "description": "This sets raw wood stack to 1k from vanilla's 100 to allow easier clearing of forests using bots.", "dependencies": ["? BigBags"]}

@@ -1,0 +1,1 @@
+{"name": "StoneResources", "version": "0.1.3", "title": "Stone Resources", "author": "jh1", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "WIP\n Use the pulverizer to create stone shards. \n The stone shards can be analyzed in the analyzer"}

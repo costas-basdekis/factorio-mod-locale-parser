@@ -1,0 +1,1 @@
+{"name": "science-pack-dependencies", "version": "0.2.11", "factorio_version": "1.1", "title": "Science pack dependencies", "author": "Nidan", "contact": "", "homepage": "", "description": "If a technology doesn't depend (either directly or indirectly) on the science packs it needs, these missing dependecies are added.", "dependencies": ["(?) MoreSciencePacks-for1_1"]}

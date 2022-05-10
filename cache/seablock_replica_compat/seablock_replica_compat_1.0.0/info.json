@@ -1,0 +1,1 @@
+{"name": "seablock_replica_compat", "version": "1.0.0", "factorio_version": "0.16", "title": "Seablock DMR Compatability", "author": "LCU", "description": "Makes Seablock compatible with Dark Matter Replicators by adding a crystallization recipe for tenemut.", "dependencies": ["base >= 0.16.28", "dark-matter-replicators >= 0.7.7", "SeaBlock >= 0.2.11"]}

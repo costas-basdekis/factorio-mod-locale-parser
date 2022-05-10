@@ -1,0 +1,1 @@
+{"name": "Treefarm-AC-fixed", "version": "0.7.1", "title": "Treefarm-AC", "author": "drs", "homepage": "_", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0", "Treefarm-Lite-fix >= 17.0.0"], "description": "This mod adds optional content to the treefarm like coke production, fertilizer production and biomass. Published under the CC BY-NC-ND 4.0 License"}

@@ -1,0 +1,1 @@
+{"name": "power-armor", "version": "0.14.2", "title": "Power Armor", "author": "Daniel Bergmann", "homepage": "https://github.com/brgmnn/factorio-power-armor", "factorio_version": "0.14", "dependencies": ["base"], "description": "Higher teirs of armor upgrades."}

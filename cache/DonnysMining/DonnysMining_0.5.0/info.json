@@ -1,0 +1,1 @@
+{"name": "DonnysMining", "version": "0.5.0", "title": "Donnys Mining", "author": "DonnyBresko", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "DonnysLibary >= 0.1.4"], "description": "Neue Mininen die es erm\u00f6glichen Erze tief aus dem Boden zu gewinnen"}

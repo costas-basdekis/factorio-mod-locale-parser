@@ -1,0 +1,1 @@
+{"name": "fill-storage-tanks", "version": "1.125.2", "title": "Fill Storage Tanks", "author": "Honktown", "contact": "", "homepage": "", "factorio_version": "1.1", "description": "Add items, recipes, and placement effects so storage tanks can be used as fill-items", "dependencies": ["base", "(?) DeepPockets"]}

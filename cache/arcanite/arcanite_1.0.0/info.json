@@ -1,0 +1,1 @@
+{"name": "arcanite", "version": "1.0.0", "title": "Arcanite", "author": "Legrems", "contact": "factorio@arcanite.ch", "homepage": "https://arcanite.ch", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Arcanite Mod"}

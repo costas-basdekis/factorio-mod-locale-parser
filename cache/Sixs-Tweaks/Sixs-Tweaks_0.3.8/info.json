@@ -1,0 +1,1 @@
+{"name": "Sixs-Tweaks", "version": "0.3.8", "title": "Six's Tweaks", "author": "TheBrain0110", "homepage": "https://github.com/TheBrain0110/Sixs-Tweaks", "description": "A mod to mod the mods I want to modify a bit. Yo dawg.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "? Krastorio2 >= 1.0.8", "? vtk-cannon-turret >=1.12.0"]}

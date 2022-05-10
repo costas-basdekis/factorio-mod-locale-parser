@@ -1,0 +1,1 @@
+{"name": "QCraft", "version": "0.1.6", "title": "QCraft", "author": "PenultimateApples", "contact": "cmhulbert@gmail.com", "homepage": "https://gitlab.com/cmhulbert/qcraft", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod allows you to begin crafting items that are under your cursor. (SHIFT-Q by default)"}

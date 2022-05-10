@@ -1,0 +1,1 @@
+{"name": "boxing-2", "version": "2.19.0", "title": "Boxing 2", "author": "AndrolGenhald", "description": "Pack items into boxes to store more of them.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.21"]}

@@ -1,0 +1,1 @@
+{"name": "MouseoverDeconstruct", "version": "0.1.4", "title": "MouseoverDeconstruct", "author": "unhott", "contact": "unhott@hotmail.com", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "When you mouseover an entity and it is flagged for deconstruction, you instantly mine it. "}

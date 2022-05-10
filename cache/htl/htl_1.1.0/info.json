@@ -1,0 +1,1 @@
+{"name": "htl", "version": "1.1.0", "title": "Hydrothermal liquefaction", "author": "MinusBrain", "contact": "", "homepage": "https://github.com/minusbrain/htl/", "factorio_version": "1.1", "dependencies": ["base >= 0.18"], "description": "Tired of the piles of raw-wood in your chests? This small mod turns Wood + Steam + Crude Oil into slightly more Crude Oil"}

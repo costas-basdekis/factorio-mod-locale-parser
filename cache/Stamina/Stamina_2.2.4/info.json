@@ -1,0 +1,1 @@
+{"name": "Stamina", "version": "2.2.4", "title": "Stamina", "author": "Loren1350", "contact": "Schmendrick on the Factorio forums", "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=14&t=8426", "description": "Hand crafting stuff costs health. Keep some fish handy, and research Automation ASAP.", "dependencies": ["base"], "factorio_version": "1.1"}

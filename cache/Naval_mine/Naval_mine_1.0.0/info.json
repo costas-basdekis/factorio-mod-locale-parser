@@ -1,0 +1,1 @@
+{"name": "Naval_mine", "version": "1.0.0", "title": "Naval mine", "author": "Brent KermanR", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "A naval mine"}

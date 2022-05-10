@@ -1,0 +1,1 @@
+{"name": "ukezi-configureable-laser-turret", "version": "1.2.0", "factorio_version": "1.0", "title": "ukezi's ukezi configureable laser turret", "author": "ukezi", "dependencies": ["base >= 1.0"], "contact": "", "description": "Lets you configure the laser turret"}

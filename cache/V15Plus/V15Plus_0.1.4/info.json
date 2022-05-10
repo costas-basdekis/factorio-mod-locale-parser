@@ -1,0 +1,1 @@
+{"name": "V15Plus", "version": "0.1.4", "title": "V15 Plus", "author": "Thordus", "homepage": "http://mods.factorio.com/mods/thordus/v15plus", "description": "V15Plus Modpack ! Don't upgrade ingame !", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"]}

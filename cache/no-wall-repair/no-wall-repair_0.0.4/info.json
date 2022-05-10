@@ -1,0 +1,1 @@
+{"name": "no-wall-repair", "version": "0.0.4", "factorio_version": "1.1", "title": "No Wall Repair", "author": "Pawz", "homepage": "", "dependencies": ["base >= 0.18.0"], "description": "Disable repair for walls. This will prevent bots from sitting on walls 'repairing' them and taking damage / dying needlessly."}

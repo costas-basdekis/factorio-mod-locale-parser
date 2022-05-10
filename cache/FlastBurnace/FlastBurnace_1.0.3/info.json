@@ -1,0 +1,1 @@
+{"name": "FlastBurnace", "version": "1.0.3", "factorio_version": "0.18", "title": "Flast Burnace", "author": "BigMonD, EoRaptor", "homepage": "", "dependencies": ["base >= 0.18.00"], "description": "Renames several of the ingame items for comedic effect and to remember typos."}

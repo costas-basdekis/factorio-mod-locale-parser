@@ -1,0 +1,1 @@
+{"name": "z_CheaperModules", "version": "0.1.3", "title": "Cheaper Modules", "author": "RockPaperKatana", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "? Built-in-Beacons", "? Krastorio2", "? space-exploration", "? space-exploration-postprocess"], "description": "Make modules cheaper."}

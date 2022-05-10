@@ -1,0 +1,1 @@
+{"name": "dont-build-on-ores", "version": "1.2.11", "title": "Don't build on ores", "author": "darkfrei", "description": "You can not build the factory on ore patches, you are need to remove it before. (added 'resource-layer' collision mask to some buildings)", "dependencies": ["base"], "factorio_version": "1.1"}

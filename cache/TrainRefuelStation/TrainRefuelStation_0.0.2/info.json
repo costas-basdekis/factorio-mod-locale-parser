@@ -1,0 +1,1 @@
+{"name": "TrainRefuelStation", "version": "0.0.2", "title": "Train Refuel Station", "author": "Stever", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds a station that trains will automatically go to when they get low on fuel."}

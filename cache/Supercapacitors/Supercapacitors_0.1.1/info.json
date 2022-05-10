@@ -1,0 +1,1 @@
+{"name": "Supercapacitors", "version": "0.1.1", "factorio_version": "0.16", "title": "Supercapacitors", "author": "offtheball", "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=62664", "description": "Large capacitors to allow quick battery equipment recharge for longer journeys.", "dependencies": ["base >= 0.16.0"]}

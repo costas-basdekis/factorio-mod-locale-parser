@@ -1,0 +1,1 @@
+{"name": "Bio_Industries_ChangeVioletScience", "version": "0.01.00", "factorio_version": "0.18", "title": "Bio Industries - Change Violet Science Pack", "author": "Domekologe", "contact": "support@domekologe.eu", "description": "This mod remove the Rails of Violet Science Pack in Bio Industries", "dependencies": ["base >= 0.18.47", "Bio_Industries >= 0.18.31"]}

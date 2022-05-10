@@ -1,0 +1,1 @@
+{"name": "scrap-smelting", "version": "0.1.0", "title": "Scrap Smelting", "author": "Autolykos", "contact": "", "homepage": "", "license": "CC0", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Dump your obsolete early-game items into a smelter to get your precious resources back."}

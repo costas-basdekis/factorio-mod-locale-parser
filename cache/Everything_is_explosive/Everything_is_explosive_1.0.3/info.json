@@ -1,0 +1,1 @@
+{"name": "Everything_is_explosive", "version": "1.0.3", "factorio_version": "0.17", "title": "Everything is explosive", "author": "HandsomeTurtle", "description": "Makes everything explode on destruction.", "dependencies": ["base"]}

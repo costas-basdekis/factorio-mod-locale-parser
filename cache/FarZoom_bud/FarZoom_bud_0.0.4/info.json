@@ -1,0 +1,1 @@
+{"name": "FarZoom_bud", "version": "0.0.4", "factorio_version": "1.1", "title": "Far Zoom - Bud", "author": "Bud", "description": "Press a hotkey to zoom out very far.", "homepage": "", "dependencies": ["base"]}

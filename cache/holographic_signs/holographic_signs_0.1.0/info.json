@@ -1,0 +1,1 @@
+{"name": "holographic_signs", "version": "0.1.0", "title": "Holographic Signs", "author": "MFerrari", "dependencies": ["base >= 1.1.0", "(?) space-exploration"], "description": "This mod adds holographic signs to show configurable icon and text.", "factorio_version": "1.1", "homepage": "https://discord.gg/vDfm5tNEqK", "contact": "Discord: MFerrari#6561"}

@@ -1,0 +1,1 @@
+{"name": "more-lighting", "version": "1.0.2", "title": "More lighting", "author": "SearedPixel", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "? cargo-ships"], "description": "More lighting options for factorio"}

@@ -1,0 +1,1 @@
+{"name": "robot-teleporter", "version": "0.0.2", "factorio_version": "0.15", "title": "Robot Teleporter", "author": "necrobraska", "description": "Gives the player basic items to use robots at the start of the game, and moves the player 50,000 tiles east.", "dependencies": ["base >= 0.15.0"]}

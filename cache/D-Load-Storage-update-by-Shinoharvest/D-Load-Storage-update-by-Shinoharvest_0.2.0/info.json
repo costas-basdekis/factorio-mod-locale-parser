@@ -1,0 +1,1 @@
+{"name": "D-Load-Storage-update-by-Shinoharvest", "version": "0.2.0", "title": "D-load-StorageD-load-Storage-update-by-Shinoharvest", "author": "Damrus, Mengmoshu(0.14+ port), Maurabau (0.17 port),Shinoharvest", "homepage": "", "description": "Long chests meant for the unloading of train cargo.", "dependencies": ["base"], "license": "MIT", "factorio_version": "1.0"}

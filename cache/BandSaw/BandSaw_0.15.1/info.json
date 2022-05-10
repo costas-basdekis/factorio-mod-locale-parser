@@ -1,0 +1,1 @@
+{"name": "BandSaw", "version": "0.15.1", "title": "Band Saw", "author": "DaCyclops", "homepage": "", "contact": "dacyclops@dacyclops.com", "description": "New from WeDOLT: The M2-612 Industrial Band Saw. For all your woodworking needs.", "factorio_version": "0.15", "dependencies": ["? bobmodules >= 0.15.0"]}

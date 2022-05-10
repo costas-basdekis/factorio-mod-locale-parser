@@ -1,0 +1,1 @@
+{"name": "Quorum", "version": "0.3.2", "title": "Quorum Enforcer", "author": "Baughn", "contact": "sveina@gmail.com", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Enforces time dilation if too many players are offline"}

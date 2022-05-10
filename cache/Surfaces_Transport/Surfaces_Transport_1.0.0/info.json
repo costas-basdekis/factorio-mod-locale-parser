@@ -1,0 +1,1 @@
+{"name": "Surfaces_Transport", "version": "1.0.0", "title": "Surfaces Transport", "author": "Danacus", "description": "Generic transportation utilities for the surfaces mod", "factorio_version": "1.1", "dependencies": ["base >= 0.18.0", "Surfaces_API"]}

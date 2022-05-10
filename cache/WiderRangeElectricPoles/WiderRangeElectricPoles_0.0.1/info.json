@@ -1,0 +1,1 @@
+{"name": "WiderRangeElectricPoles", "author": "Vas", "version": "0.0.1", "factorio_version": "1.1", "title": "Wider Range Electric Poles", "homepage": "", "description": "Widens the range of electrical poles so that they don't have empty areas in between them.", "dependencies": ["base"]}

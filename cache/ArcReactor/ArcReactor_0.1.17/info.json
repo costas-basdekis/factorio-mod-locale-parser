@@ -1,0 +1,1 @@
+{"name": "ArcReactor", "author": "charga600, Mezmerro", "version": "0.1.17", "title": "Arc Reactor", "description": "Mod that allows a player to build a compact arc reactor that can power a small factory", "factorio_version": "0.15", "dependencies": ["base >= 0.14.0"]}

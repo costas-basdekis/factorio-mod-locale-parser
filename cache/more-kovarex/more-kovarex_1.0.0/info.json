@@ -1,0 +1,1 @@
+{"name": "more-kovarex", "version": "1.0.0", "factorio_version": "0.18", "title": "more-kovarex", "author": "Alwego", "contact": "", "homepage": "", "description": "More kovarex! Now You need U235 to make Utility Science Pack.", "dependencies": ["base >= 0.18.0"]}

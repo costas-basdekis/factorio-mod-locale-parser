@@ -1,0 +1,1 @@
+{"name": "Prettier-Stacked-Ores", "version": "1.0.1", "date": "2019-09-09", "title": "Prettier Stacked Ores", "author": "MasterBuilder", "description": "Replaces deadlock ore stack icons with mipmapped versions of the original.", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "? DeadlockStacking", "? deadlock-beltboxes-loaders", "? RealisticOres"]}

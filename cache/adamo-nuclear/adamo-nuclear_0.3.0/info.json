@@ -1,0 +1,1 @@
+{"name": "adamo-nuclear", "version": "0.3.0", "title": "Adamo Nuclear", "author": "adamo", "dependencies": ["base", "? adamo-physics", "? adamo-chemical", "? uranium-belts", "? Krastorio2"], "description": "Always number one. Always Nuka Cola!", "factorio_version": "1.0"}

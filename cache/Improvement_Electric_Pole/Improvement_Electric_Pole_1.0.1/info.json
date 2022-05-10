@@ -1,0 +1,1 @@
+{"name": "Improvement_Electric_Pole", "version": "1.0.1", "title": "\u6539\u826f\u7535\u7ebf\u6746", "author": "SHENQIL", "description": "\u589e\u52a0\u63a5\u7ebf\u8ddd\u79bb\u548c\u4f9b\u7535\u8303\u56f4\uff0c\u4f7f\u7535\u8def\u5e03\u5c40\u7b80\u5316", "factorio_version": "1.1", "dependencies": ["base >= 0.17.0"]}

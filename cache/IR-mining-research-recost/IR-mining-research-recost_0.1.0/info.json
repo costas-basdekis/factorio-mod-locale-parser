@@ -1,0 +1,1 @@
+{"name": "IR-mining-research-recost", "version": "0.1.0", "title": "IR Infinite Mining Research Fix", "author": "werelord", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "IndustrialRevolution >= 1.0.6"], "description": "This mod modifies Industrial Revolution's infinite mining research cost to be linear rather than exponential."}

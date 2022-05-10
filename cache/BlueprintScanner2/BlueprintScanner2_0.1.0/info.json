@@ -1,0 +1,1 @@
+{"name": "BlueprintScanner2", "version": "0.1.0", "title": "Blueprint Scanner", "author": "Pebble", "contact": "", "homepage": "", "description": "Adds a combinator into which a blueprint can be inserted. The combinator then sends the items in the blueprint to the circuit network.", "factorio_version": "0.16", "dependencies": ["base >= 0.16.34"]}

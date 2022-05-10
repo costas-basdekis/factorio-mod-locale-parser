@@ -1,0 +1,1 @@
+{"name": "MessagesTimer", "version": "0.1.46", "title": "Messages timer", "author": "TinouHD", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Ce mod permet d'envoyer un message personalis\u00e9 tout les X temps.\n\n(Ritn est mon dieu [c'est faux])"}

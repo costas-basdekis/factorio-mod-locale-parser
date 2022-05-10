@@ -1,0 +1,1 @@
+{"name": "gun-snRevived", "version": "0.1.4", "title": "Sniper Rifle Revived", "author": "kreeg", "description": "Can not come to the base of the enemy? Do worms kill you without letting you get close? There is a solution - a sniper rifle, punish the enemies!", "dependencies": ["base >= 0.16"], "factorio_version": "1.1"}

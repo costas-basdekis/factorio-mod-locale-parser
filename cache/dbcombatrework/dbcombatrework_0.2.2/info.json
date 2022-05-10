@@ -1,0 +1,1 @@
+{"name": "dbcombatrework", "version": "0.2.2", "title": "DB's Combat Rework", "author": "Deadly-Bagel", "contact": "deadly-bagel@hotmail.com", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=57941", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "(BETA) Reworks combat to include more meaningful choices and options."}

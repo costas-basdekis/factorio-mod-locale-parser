@@ -1,0 +1,1 @@
+{"name": "rolling-stock-collision-box", "version": "1.1.0", "title": "rolling-stock-collision-box", "author": "adam_bise", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Tweaks collision box for rolling stock to help prevent inserters from being cut off when curved rails exist along stop."}

@@ -1,0 +1,1 @@
+{"name": "Bottleneck_WithDrill", "author": "Troels Bjerre Lund", "version": "0.11.08", "factorio_version": "1.1", "title": "\u25b6\u2a2f Bottleneck_WithDrill", "homepage": "https://forums.factorio.com/viewtopic.php?f=144&t=28817", "description": "A tool for locating input starved machines.", "dependencies": ["base", "! Bottleneck"]}

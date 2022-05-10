@@ -1,0 +1,1 @@
+{"name": "factorio-crash-site", "version": "1.0.2", "title": "Factorio crash site", "author": "MFerrari", "dependencies": ["base >= 1.1.0"], "description": "Brings back legacy crash site entities removed on v1.1.0", "factorio_version": "1.1", "homepage": "Discord: MFerrari#6561", "contact": "Discord: MFerrari#6561"}

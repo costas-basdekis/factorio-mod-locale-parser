@@ -1,0 +1,1 @@
+{"name": "TerranBuildings", "version": "0.1.1", "title": "TerranBuildings", "author": "Odynius", "dependencies": ["base >= 0.14.1"], "description": "Mod that implements SC Terran buildings into Facotrio", "factorio_version": "0.14"}

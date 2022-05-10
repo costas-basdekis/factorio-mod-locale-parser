@@ -1,0 +1,1 @@
+{"name": "Advanced-Solar", "author": "Rhaane - base on original idea by Neomore and thurak126", "version": "1.3.1", "title": "Advanced Solar", "description": "Adds higher tiers of solar panels and accumulators.", "homepage": "", "factorio_version": "1.1", "dependencies": ["base"]}

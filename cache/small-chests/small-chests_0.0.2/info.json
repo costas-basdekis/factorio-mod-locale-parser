@@ -1,0 +1,1 @@
+{"name": "small-chests", "version": "0.0.2", "title": "Small Chests", "author": "abregado", "contact": "contact@benbuckton.com", "homepage": "", "description": "Players cannot build Iron and Wooden Chests, and Steel chests only hold two slots", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15"}

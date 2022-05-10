@@ -1,0 +1,1 @@
+{"name": "artifact-deconstuctor", "version": "0.1.2", "title": "Artifact Deconstuctor", "author": "Kane.Nexus", "homepage": "", "contact": "", "description": "Alien artifacts are really irritating to pickup. This mod automatically marks the artifacts to be picked up by construction bots.", "dependencies": ["base >= 0.14.0"], "factorio_version": "0.14"}

@@ -1,0 +1,1 @@
+{"name": "drill-mk2", "version": "0.17.1", "title": "Advance Mining Drills", "author": "VelvetRemedy", "contact": "johnmloos1995@gmail.com", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Adds 2 new teirs of electric minning drill."}

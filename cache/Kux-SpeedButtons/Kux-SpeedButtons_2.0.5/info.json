@@ -1,0 +1,1 @@
+{"name": "Kux-SpeedButtons", "author": "Kuxynator", "version": "2.0.5", "title": "Speed Buttons", "homepage": "", "dependencies": ["base", "Kux-CoreLib", "! TimeButtons"], "description": "Configurable buttons for different game speeds and Auto Speed Change when crafting or mining. Based on TimeButtons by darius456", "factorio_version": "1.1"}

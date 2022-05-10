@@ -1,0 +1,1 @@
+{"name": "skeleton", "version": "0.0.1", "title": "Skeleton of a Mod", "author": "", "contact": "", "homepage": "", "description": "basic skeleton for a mod", "factorio_version": "1.1", "dependencies": ["base", "!incompatible_and_skeleton_mod_does_not_load_if_present", "? this_depends_on_X_so_load_after", "(?) load_after_but_do_not_show_in_game"]}

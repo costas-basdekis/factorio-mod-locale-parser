@@ -1,0 +1,1 @@
+{"name": "SSP", "version": "1.1.0", "factorio_version": "1.1", "title": "Space Solar Panel", "author": "Aidan647", "contact": "kirillkotka@gmail.com", "homepage": "https://mods.factorio.com/mods", "description": "Launch rocket with custom solar panel to recive power from space", "dependencies": ["?speaker-signals-2"]}

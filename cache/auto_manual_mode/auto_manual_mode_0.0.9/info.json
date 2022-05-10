@@ -1,0 +1,1 @@
+{"name": "auto_manual_mode", "version": "0.0.9", "title": "Auto Manual Mode", "author": "Roy Scheerens", "homepage": "", "description": "When in a train, using the movement controls will automatically set the train in manual mode.", "factorio_version": "1.1", "dependencies": ["base"]}

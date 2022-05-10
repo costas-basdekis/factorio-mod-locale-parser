@@ -1,0 +1,1 @@
+{"name": "tesla-coil", "version": "0.0.9", "title": "tesla-coil", "author": "Casishur", "contact": "Casishur@g3ce.de", "homepage": "", "factorio_version": "1.1", "description": "bringt eine sehr starke lategame verteidigung. Die Teslaspule", "dependencies": ["base >= 1.1.00"]}

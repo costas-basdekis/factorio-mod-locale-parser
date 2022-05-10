@@ -1,0 +1,1 @@
+{"name": "Portland_concrete", "version": "0.1.1", "title": "Portland concrete", "author": "Rgoyl", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Concrete becomes more expensive, but is produced by 15 units batches"}

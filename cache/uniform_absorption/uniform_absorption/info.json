@@ -1,0 +1,1 @@
+{"name": "uniform_absorption", "version": "0.1.0", "title": "uniform absorption", "author": "terepy", "factorio_version": "1.0", "description": "changes all terrain (including placed tiles) to absorb the same amount of pollution, and removes tree pollution absorption, leading to a more predictable and balanced pollution minigame"}

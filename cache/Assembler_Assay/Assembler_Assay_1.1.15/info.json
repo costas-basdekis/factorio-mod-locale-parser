@@ -1,0 +1,1 @@
+{"name": "Assembler_Assay", "version": "1.1.15", "title": "Assembler Assay", "author": "Mylon", "contact": "https://forums.factorio.com/viewtopic.php?f=95&t=38757", "homepage": "https://www.patreon.com/mylon", "description": "Machines occasionally break and need to be serviced.", "factorio_version": "1.1", "dependencies": ["base >= 0.4.1"]}

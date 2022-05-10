@@ -1,0 +1,1 @@
+{"name": "m-rpg_items", "version": "0.20.4", "title": "RPG Items", "author": "OwnlyMe", "contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik#7117", "homepage": "", "factorio_version": "1.1", "dependencies": ["base", "? m-spell-pack", "! spell-pack", "! rpg_items"], "description": "63 items, 30 effects, lots of fun!\nAuthor: OwnlyMe\nModified by ZwerOxotnik"}

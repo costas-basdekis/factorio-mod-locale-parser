@@ -1,0 +1,1 @@
+{"name": "longer-arms", "version": "0.0.1", "title": "Longer Arms", "author": "goobie", "contact": "goobie.io", "homepage": "http://goobie.io", "description": "Increases default reaches to 20", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"]}

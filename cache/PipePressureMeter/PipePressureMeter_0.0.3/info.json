@@ -1,0 +1,1 @@
+{"name": "PipePressureMeter", "version": "0.0.4", "title": "Pipe Pressure Meter", "author": "Furstorm", "contact": "N/A", "homepage": "N/A", "description": "Read fluid levels in piping using the circuit network instead of using storage tanks. Orogonal Author -theBeave-, Edited & Updated by Furstorm.", "factorio_version": "0.16", "dependencies": ["base"]}

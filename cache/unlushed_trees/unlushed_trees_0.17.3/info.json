@@ -1,0 +1,1 @@
+{"name": "unlushed_trees", "version": "0.17.3", "title": "Unlushed trees", "author": "OwnlyMe", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Makes trees darker and less saturated (like in 0.16)"}

@@ -1,0 +1,1 @@
+{"name": "walkable-beacons", "version": "20.2.4", "title": "Beacons But Better", "author": "MissCatTrap", "contact": "https://skyehaynes.me#contact", "homepage": "https://skyehaynes.me", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "? bobmodules >= 0.18.0"], "description": "You can now walk, drive and park freely on the new, flatter, beacons!"}

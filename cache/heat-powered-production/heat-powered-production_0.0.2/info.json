@@ -1,0 +1,1 @@
+{"name": "heat-powered-production", "version": "0.0.2", "title": "Heat Powered Production", "author": "NindyBun", "homepage": "", "description": "Use heat to work some machines.", "factorio_version": "1.1", "dependencies": ["base >= 1.0", "concentrated-solar-power >= 0.0.1"]}

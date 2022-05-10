@@ -1,0 +1,1 @@
+{"name": "expensive_entities", "version": "1.1.4", "title": "Expensive Entities", "author": "Cereal Sam", "description": "Adds customisable options to make end-product recipes more expensive.", "factorio_version": "1.1", "dependencies": ["base", "omnilib", "(?)omnimatter_science"]}

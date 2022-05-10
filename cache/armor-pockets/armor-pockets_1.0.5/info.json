@@ -1,0 +1,1 @@
+{"name": "armor-pockets", "version": "1.0.5", "title": "Armor Pockets", "author": "psioniq", "dependencies": ["base >= 0.16.0"], "description": "Equipment that increases inventory size.", "factorio_version": "0.16"}

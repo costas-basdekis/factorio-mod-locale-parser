@@ -1,0 +1,1 @@
+{"name": "CraftToHand", "version": "0.0.2", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "title": "CraftToHand", "author": "lingo", "contact": "factorio@speak.geek.nz", "homepage": "https://github.com/lingo/factorio-mod-crafttohand", "description": "Always place last-crafted item into your hand"}

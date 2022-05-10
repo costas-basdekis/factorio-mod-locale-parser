@@ -1,0 +1,1 @@
+{"name": "ixuGeheimlabor", "author": "ixu", "version": "0.1.6", "title": "ixuGeheimlabor", "description": "Gehen Sie weiter. Es gibt hier nichts zu sehen.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "flib >= 0.6.1"]}

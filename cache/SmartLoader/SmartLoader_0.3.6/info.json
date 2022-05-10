@@ -1,0 +1,1 @@
+{"name": "SmartLoader", "version": "0.3.6", "title": "Smart Loader", "author": "Adil", "contact": "", "homepage": "https://forums.factorio.com/viewtopic.php?t=14887&p=100793#p100793", "description": "Adds an inserter that does not get stuck when loading wagons", "factorio_version": "0.14", "dependencies": ["base"]}

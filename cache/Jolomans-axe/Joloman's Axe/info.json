@@ -1,0 +1,1 @@
+{"name": "Jolomans-axe", "version": "0.1.0", "title": "Jolomans-axe", "author": "joloman2", "Licence": "MIT", "description": "This MOD adds a new axe to the Game That Mines fast", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15"}

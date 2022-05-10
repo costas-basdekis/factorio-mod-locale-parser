@@ -1,0 +1,1 @@
+{"name": "cut-and-paste-016", "version": "0.1.6", "title": "Cut and paste tools-016", "author": "mickael9", "homepage": "https://github.com/mickael9/cut-and-paste", "description": "FIX FOR 0.16, original https://mods.factorio.com/mod/cut-and-paste", "factorio_version": "0.16", "dependencies": ["base >= 0.15.28"]}

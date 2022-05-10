@@ -1,0 +1,1 @@
+{"name": "SurfacePlacer", "version": "1.0.0", "title": "Surface placer", "author": "Kakonel", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "This mod alllow automatically place surface like stone paths and concrete under players feet"}

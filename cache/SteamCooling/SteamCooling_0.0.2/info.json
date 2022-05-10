@@ -1,0 +1,1 @@
+{"name": "SteamCooling", "version": "0.0.2", "title": "Steam Cooling", "description": "Steam cannot be stored without energy loss", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "0.18"}

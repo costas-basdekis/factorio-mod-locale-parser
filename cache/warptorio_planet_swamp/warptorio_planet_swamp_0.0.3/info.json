@@ -1,0 +1,1 @@
+{"name": "warptorio_planet_swamp", "version": "0.0.3", "title": "Warptorio2 Swamp Planet", "author": "PyroFire", "dependencies": ["warptorio2"], "description": "Example of how to add planets to Warptorio2 from another mod", "factorio_version": "0.17", "homepage": "https://mods.factorio.com/mod/warptorio2"}

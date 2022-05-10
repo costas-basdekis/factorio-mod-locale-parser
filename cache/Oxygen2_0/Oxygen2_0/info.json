@@ -1,0 +1,1 @@
+{"name": "Oxygen2_0", "version": "1.5.8", "factorio_version": "0.18", "title": "Oxygen2.0", "author": "Va7ya", "homepage": "https://mods.factorio.com/mod/Oxygen2_0", "description": "We shouldn't take air for granted.", "dependencies": ["base >= 0.18.0"]}

@@ -1,0 +1,1 @@
+{"name": "robotech", "version": "0.1.7", "factorio_version": "0.16", "title": "Infinite Roboport Tech", "author": "twinkle_toes", "description": "[game-breaking unstable] adds pseudo-infinite research to upgrade roboport charging speed", "dependencies": ["base >= 0.15.0"]}

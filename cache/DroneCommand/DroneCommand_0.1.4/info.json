@@ -1,0 +1,1 @@
+{"name": "DroneCommand", "version": "0.1.4", "title": "Drone Command", "author": "Adil", "contact": "", "homepage": "", "description": "Send and control automated squads of drones using combinator circuits.", "factorio_version": "0.15", "dependencies": ["base"]}

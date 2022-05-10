@@ -1,0 +1,1 @@
+{"name": "GigaResearch", "version": "0.2.0", "title": "Giga Research", "author": "theXYZT", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "Adds billion science technologies for testing purposes."}

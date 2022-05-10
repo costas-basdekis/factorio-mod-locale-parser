@@ -1,0 +1,1 @@
+{"name": "armor_repairing_station", "version": "0.2.1", "title": "Armor repairing station", "author": "alkor_shikyaro", "contact": "alkor@alkor.pw", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod adds station for repairing armor with equipment (e.g. Power armor)"}

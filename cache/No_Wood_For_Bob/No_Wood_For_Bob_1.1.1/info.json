@@ -1,0 +1,1 @@
+{"name": "No_Wood_For_Bob", "version": "1.1.1", "factorio_version": "1.1", "title": "No Wood For Bob", "author": "vlczero", "contact": "", "homepage": "", "dependencies": ["base >= 1.1.0", "boblibrary >= 1.1.0", "boblogistics >= 1.1.1"], "description": "Replaces wood in bobs logistics with iron plates. /n Requires Bob's logistics and library mod."}

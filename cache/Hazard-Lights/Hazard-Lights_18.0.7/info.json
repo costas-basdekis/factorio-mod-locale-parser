@@ -1,0 +1,1 @@
+{"name": "Hazard-Lights", "version": "18.0.7", "title": "Hazard Lights", "author": "SpaceCat-Chan", "contact": "patrick-irvold@hotmail.com", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18", "? PickerDollies"], "description": "A mod that adds light to the cornors of common buildings at night to stop you from driving into them"}

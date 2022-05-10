@@ -1,0 +1,1 @@
+{"name": "lighting-progression", "version": "1.2.0", "title": "Lighting Progression", "author": "Jonathan_1205, Thiske", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "inbuilt_lighting >= 0.0.1", "?Clockwork >= 0.0.1", "Rampant >= 0.0.1"], "description": "Pushes lamps to the midgame game. You get early lamps fueled by biters"}

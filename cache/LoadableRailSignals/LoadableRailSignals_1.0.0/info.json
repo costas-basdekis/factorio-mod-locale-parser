@@ -1,0 +1,1 @@
+{"name": "LoadableRailSignals", "title": "Loadable Rail Signals", "description": "Trains are loadable when stopped at a signal.", "author": "Bennjamin Blast", "homepage": "https://github.com/piedar/LoadableRailSignals", "version": "1.0.0", "factorio_version": "0.16", "dependencies": ["base >= 0.16"]}

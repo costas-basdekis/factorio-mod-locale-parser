@@ -1,0 +1,1 @@
+{"name": "fws", "version": "0.3.0", "title": "Fish and Wildlife", "author": "Loren1350", "contact": "Schmendrick on the Factorio Forums", "homepage": "", "description": "Adds regrowing trees and respawning fish.", "dependencies": ["base"], "factorio_version": "0.18"}

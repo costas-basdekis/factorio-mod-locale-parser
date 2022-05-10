@@ -1,0 +1,1 @@
+{"name": "CutAndCopyBlueprint", "version": "0.1.0", "title": "Cut And Copy Blueprint", "author": "Stevil Knevil", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "This mod adds Cut And Copy Blueprints."}

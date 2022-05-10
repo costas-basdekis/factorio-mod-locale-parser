@@ -1,0 +1,1 @@
+{"name": "memelfastforward", "version": "1.2.0", "factorio_version": "1.1", "title": "Memel's Fast Forward", "author": "Memel", "description": "Get some perspective and grow up.", "dependencies": ["base >= 1.1.0"]}

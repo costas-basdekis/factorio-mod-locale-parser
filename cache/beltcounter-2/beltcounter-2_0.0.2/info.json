@@ -1,0 +1,1 @@
+{"name": "beltcounter-2", "version": "0.0.2", "title": "Belt Counter", "author": "Wizek", "dependencies": ["base >= 0.17"], "description": "Factorio but you don't need math anymore", "factorio_version": "1.1", "homepage": "none"}

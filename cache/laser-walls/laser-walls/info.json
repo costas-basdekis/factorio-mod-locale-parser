@@ -1,0 +1,1 @@
+{"name": "laser-walls", "version": "0.1.0", "title": "Laser Walls", "author": "RedRafe", "homepage": "https://mods.factorio.com/mod/laser-walls", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "? solar-walls", "? accumulator-walls"], "description": "A Wall equipped with laser turrets to fight enemies back."}

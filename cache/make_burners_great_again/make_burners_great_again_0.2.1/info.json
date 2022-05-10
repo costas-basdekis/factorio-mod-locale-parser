@@ -1,0 +1,1 @@
+{"name": "make_burners_great_again", "version": "0.2.1", "title": "Make burners GREAT again!", "author": "jbox1", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Ever wanted to mine uranium with a burner miner? Wanted a better burner inserter? Mobile genorator? How about a burner assembler? Well now you have it!"}

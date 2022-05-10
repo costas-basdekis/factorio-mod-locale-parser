@@ -1,0 +1,1 @@
+{"name": "DTSResearchData", "version": "0.0.1", "title": "DTS Research Data", "author": "DTSephiroth", "contact": "", "homepage": "", "description": "Spiritual Sucessor to 'Science on Disks' by Taehl. Changes icons and in game text to reflect data stored on physical medium rather than colored flasks of glowing nonsense.", "factorio_version": "0.17", "dependencies": ["base"]}

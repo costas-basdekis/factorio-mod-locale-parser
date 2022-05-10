@@ -1,0 +1,1 @@
+{"name": "forces", "version": "0.0.6", "title": "Forces", "author": "Karutoh", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mods adds a graphical user interface for the forces system that's only accessabile through Lua."}

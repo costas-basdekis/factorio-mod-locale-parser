@@ -1,0 +1,1 @@
+{"name": "CraftingNotRequired", "version": "0.15.1", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "title": "Crafting Not Required", "author": "WigiPedia", "contact": "", "homepage": "", "description": "Start with everything you need to not craft anything. It works best with another mod that increases the output of solar panels."}

@@ -1,0 +1,1 @@
+{"name": "Fantario_trash_chest", "version": "1.0.3", "title": "Fantario trash chest", "author": "FacelessGER", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18", "Fantario >= 0.8.0"], "description": "This chest destroying anything in inside. Only for Fantario."}

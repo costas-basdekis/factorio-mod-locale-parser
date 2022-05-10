@@ -1,0 +1,1 @@
+{"name": "ShadyTweaks", "version": "0.0.1", "factorio_version": "0.17", "title": "Shady Tweaks", "author": "Shadefang", "homepage": "", "description": "An assortment of tweaks to various mods.", "dependencies": ["base", "? aai-programmable-vehicles", "? Aircraft", "? RampantArsenal", "? vtk-armor-plating"]}

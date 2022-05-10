@@ -1,0 +1,1 @@
+{"name": "leighzerlib", "version": "0.3.2", "title": "Leighzer's Library", "author": "Leighzer", "contact": "Please message me on the factorio forums my username is leighzer.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Library of common functions and graphics used in some of my mods."}

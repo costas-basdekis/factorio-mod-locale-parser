@@ -1,0 +1,1 @@
+{"name": "HighPollution", "version": "0.0.1", "title": "HighPollution", "author": "Skilachi", "contact": "skilachifr@hotmail.com", "homepage": "", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"], "description": "Mod that increase pollution."}

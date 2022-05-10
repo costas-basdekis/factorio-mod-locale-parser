@@ -1,0 +1,1 @@
+{"name": "TBaACircuitProcessingCompatability", "version": "0.0.2", "factorio_version": "0.16", "title": "TBaA Circuit Processing Compatability", "author": "Kino_", "description": "A mod that makes Py mods and Bob's with PyCoal touched by an angel compatible with the Circuit Processing mod", "dependencies": ["base", "CircuitProcessing", "PyCoalTBaA", "pyhightech"]}

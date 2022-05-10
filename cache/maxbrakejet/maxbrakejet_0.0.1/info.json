@@ -1,0 +1,1 @@
+{"name": "maxbrakejet", "version": "0.0.1", "factorio_version": "0.17", "title": "Max Brake Jet", "author": "abcnever", "dependencies": ["base >= 0.17.0", "Aircraft >= 1.6.10"], "description": "Tired of slow braking?"}

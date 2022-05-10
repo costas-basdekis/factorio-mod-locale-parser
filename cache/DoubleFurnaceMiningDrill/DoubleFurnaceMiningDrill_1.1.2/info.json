@@ -1,0 +1,1 @@
+{"name": "DoubleFurnaceMiningDrill", "version": "1.1.2", "title": "Double Furnace Mining Drill", "author": "Mat1k", "description": "An Electric Mining Drill that has a Double Electric Furnace, or a Double Electric Furnace that has an Electric Mining Drill.", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "FurnaceMiningDrillUpdated >= 0.0.3", "DoubleFurnace >= 0.5.0"]}

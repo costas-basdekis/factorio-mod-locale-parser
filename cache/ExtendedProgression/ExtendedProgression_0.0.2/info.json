@@ -1,0 +1,1 @@
+{"name": "ExtendedProgression", "version": "0.0.2", "title": "Extended Progression", "author": "Kazaract", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Follow Factorio through 'periods' of technology."}

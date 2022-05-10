@@ -1,0 +1,1 @@
+{"name": "Crazy-Mod", "version": "0.1.1", "title": "Crazy Mod", "author": "AJ213", "contact": "", "homepage": "https://www.youtube.com/channel/UCGGGZQpb6FBUsbyO7ExIMMg", "description": "Does random stuff that might make you go insane.", "factorio_version": "0.14", "dependencies": ["base >= 0.11.1"]}

@@ -1,0 +1,1 @@
+{"name": "RoboportMK2", "version": "0.1.2", "title": "Roboport MK2", "author": "SilentSean", "description": "Adds 2 more roboports with increased charging slots, robot slots and range.", "factorio_version": "0.18", "dependencies": ["base >= 0.18"]}

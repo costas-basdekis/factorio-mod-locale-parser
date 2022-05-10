@@ -1,0 +1,1 @@
+{"name": "Sceatorio_Test", "version": "0.18.45", "title": "Sceatorio_Test", "author": "Sceat", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Separated spawn for a vanilla multiplayer experience, play with your friends without worrying for grief or resources stealing while offline This is use Sceat's code"}

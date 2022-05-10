@@ -1,0 +1,1 @@
+{"name": "ConfigPlus", "title": "Config+", "author": "Xerus", "contact": "Xerus @ Factorio Forums", "description": "This mod adds a lot of customization options to the game. Buff or Nerf just about anything freely!\nShould also apply to modded content as long as it's classified correctly.", "version": "0.16.1", "factorio_version": "0.16", "dependencies": ["base >= 0.16"]}

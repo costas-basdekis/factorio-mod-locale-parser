@@ -1,0 +1,1 @@
+{"name": "RoboportTweaks", "version": "1.1.0", "factorio_version": "1.1", "title": "Roboport Tweaks", "dependencies": ["base >= 1.1.0"], "author": "Degraine", "contact": "None", "homepage": "None", "description": "Adds a construction/logistic network extender and customisations for roboports."}

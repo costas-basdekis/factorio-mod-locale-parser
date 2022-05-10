@@ -1,0 +1,1 @@
+{"name": "playertags", "version": "1.0.0", "title": "Player Tags", "description": "Commands to manage text that appears after player names.\n\nUse \"/help tag\" for instructions. See this mod's settings if you want to configure permissions or the tag prefix/suffix.", "author": "Purpzie", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

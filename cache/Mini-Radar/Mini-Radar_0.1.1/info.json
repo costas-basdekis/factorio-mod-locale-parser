@@ -1,0 +1,1 @@
+{"name": "Mini-Radar", "version": "0.1.1", "title": "Mini Radar", "author": "Endus322", "contact": "Discord: akaBrian#8144", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "A low-power and mini 2x2 radar, useful for base visiblity."}

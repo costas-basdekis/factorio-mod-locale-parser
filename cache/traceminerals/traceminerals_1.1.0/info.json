@@ -1,0 +1,1 @@
+{"name": "traceminerals", "version": "1.1.0", "title": "Trace Minerals", "author": "AlexBoru", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "boblibrary >= 1.1.0", "bobores >= 1.1.0", "bobplates >= 1.1.0"], "description": "Renewable ores are just the begining"}

@@ -1,0 +1,1 @@
+{"name": "MiningPlus", "title": "Mining+", "author": "Xerus", "contact": "Xerus @ Factorio Forums", "description": "This mod adds hand drills and two more tiers of mining drills to enhance mid- and lategame mining. Also adds a repair kit 2.", "version": "0.16.0", "factorio_version": "0.16", "dependencies": ["base >= 0.16"]}

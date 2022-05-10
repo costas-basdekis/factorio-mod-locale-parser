@@ -1,0 +1,1 @@
+{"name": "RecipeTweakForSEAndMC", "version": "0.0.1", "title": "A recipe tweak for thermonuclear bomb from madclown and space exploration", "author": "Vextex Fux", "factorio_version": "1.0", "description": "A recipe tweak for thermonuclear bomb from madclown and space exploration", "dependencies": ["base >= 1.0.0", "Clowns-Nuclear >= 1.3.11"]}

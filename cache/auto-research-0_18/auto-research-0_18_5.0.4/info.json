@@ -1,0 +1,1 @@
+{"name": "auto-research-0_18", "version": "5.0.4", "factorio_version": "0.18", "title": "Auto Research", "author": "canidae", "contact": "canidae@exent.net", "homepage": "http://exent.net", "description": "Automates research. Toggle GUI with Shift+T (customizable).", "dependencies": ["base >= 0.18.0"]}

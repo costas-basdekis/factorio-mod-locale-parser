@@ -1,0 +1,1 @@
+{"name": "easier-space-exploration", "version": "1.0.0", "title": "Easier Space Exploration", "author": "denoflions", "description": "Make SE science recipes give more so it doesn't take 17 years to complete", "factorio_version": "1.0", "dependencies": ["base >= 1.0.0", "space-exploration >= 0.4.51"]}

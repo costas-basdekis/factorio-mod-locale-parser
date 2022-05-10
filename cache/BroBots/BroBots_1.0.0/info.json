@@ -1,0 +1,1 @@
+{"name": "BroBots", "version": "1.0.0", "factorio_version": "0.15", "title": "BroBots", "author": "Muchomouse", "dependencies": ["base >= 0.15.0"], "description": "Renaming the robots to bros"}

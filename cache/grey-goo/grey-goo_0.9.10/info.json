@@ -1,0 +1,1 @@
+{"name": "grey-goo", "version": "0.9.10", "title": "Grey Goo", "author": "Lucky Hyena", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "The day we've all been dreading! A gameplay-focused mod that adds enemy-guarded treasure chests and random caverns to explore."}

@@ -1,0 +1,1 @@
+{"name": "Kux-FastForwardScience-Space", "version": "2.0.0", "title": "Fast Forward Science (Space)", "author": "kuxynator", "description": "Skips all research except space. Used to quick-start Space Exploration.", "homepage": "https://fb.me/kuxynator.factorio", "factorio_version": "1.1", "dependencies": ["base"]}

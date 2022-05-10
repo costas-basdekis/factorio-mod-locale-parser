@@ -1,0 +1,1 @@
+{"name": "speedy-bean-trains", "version": "0.1.0", "factorio_version": "1.1", "title": "Bean's Speedy Trains", "author": "Bean!", "contact": "", "homepage": "", "description": "Removes the speed cap for trains.", "dependencies": ["base"]}

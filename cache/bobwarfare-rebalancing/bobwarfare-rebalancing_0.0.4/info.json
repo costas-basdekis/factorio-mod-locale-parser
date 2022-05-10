@@ -1,0 +1,1 @@
+{"name": "bobwarfare-rebalancing", "version": "0.0.4", "title": "Bobwarfare Rebalancing", "author": "Laria, RealVictorPRM", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "bobwarfare"], "description": "Restores the recipe of the personal laser defense to the factorio default and adjust the damage of the various laser mk versions to be higher."}

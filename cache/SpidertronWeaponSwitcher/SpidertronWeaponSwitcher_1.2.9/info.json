@@ -1,0 +1,1 @@
+{"name": "SpidertronWeaponSwitcher", "version": "1.2.9", "title": "Spidertron Weapon Switcher", "author": "Xorimuth", "description": "Allows the Spidertron to fire any type of weapon by cycling through different loadouts with Control + Tab.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.42", "? spidertron-extended", "(?) space-exploration"]}

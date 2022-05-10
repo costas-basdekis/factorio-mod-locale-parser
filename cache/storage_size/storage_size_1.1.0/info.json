@@ -1,0 +1,1 @@
+{"name": "storage_size", "version": "1.1.0", "title": "Configurable Storage Size", "author": "Pithlit", "dependencies": [], "description": "The storage size (i.e. number of stacks) of any container can be configured.", "factorio_version": "1.1"}

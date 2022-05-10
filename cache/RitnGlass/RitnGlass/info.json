@@ -1,0 +1,1 @@
+{"name": "RitnGlass", "version": "0.7.3", "title": "RitnGlass", "author": "Ritn", "description": "Adds technologies related to glass work and other", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "RitnLib >= 0.6", "? RitnLumberjack >= 0.7.0", "? DeadlockLargerLamp >= 1.3.1", "? SantasNixieTubeDisplay >= 0.1", "? spaceblock >= 0.3", "! sand-and-glass"]}

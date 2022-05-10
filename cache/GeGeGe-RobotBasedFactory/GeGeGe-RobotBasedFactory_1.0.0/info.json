@@ -1,0 +1,1 @@
+{"name": "GeGeGe-RobotBasedFactory", "version": "1.0.0", "factorio_version": "1.0", "title": "GeGeGe-RobotBasedFactory", "author": "Kotaro_of_GeGeGe", "contact": "https://www.twitch.tv/kotaro_of_gegege", "homepage": "https://www.twitch.tv/kotaro_of_gegege", "description": "This is a private mod. Please do not use. ", "dependencies": ["base >= 1.0.0"], "license": "MIT"}

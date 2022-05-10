@@ -1,0 +1,1 @@
+{"name": "upgraded_gas-generator", "version": "0.1.8", "title": "Upgraded Gas Generator", "author": "midnightxrush", "dependencies": ["base"], "description": "Tiered Gas Generators.", "factorio_version": "1.1"}

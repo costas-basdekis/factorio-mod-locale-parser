@@ -1,0 +1,1 @@
+{"name": "MyPlayerColor", "version": "1.0.1", "title": "My Player Color", "author": "Taehl", "contact": "email.Taehl@gmail.com", "homepage": "", "description": "Change your appearance by choosing your color with words! Now also usable with /mycolor!", "factorio_version": "0.16", "dependencies": ["base"]}

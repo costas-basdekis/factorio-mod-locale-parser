@@ -1,0 +1,1 @@
+{"name": "colored_blueprints", "version": "0.2.3", "title": "Colored Blueprints and Books", "author": "LuziferSenpai", "contact": "mods@luzifersenpai.de", "homepage": "luzifersenpai.de", "description": "This Modification adds new Blueprints/Blueprint Books, to help you with managing your Blueprints.", "dependencies": ["base"], "factorio_version": "1.1"}

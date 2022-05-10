@@ -1,0 +1,1 @@
+{"name": "Selightsmodule", "version": "2.3.0", "factorio_version": "0.16", "title": "Selightsmodule", "author": "S3light", "description": "Modules that combine Speed and Productivity. Also some God-Like-Modules.", "dependencies": ["base >= 0.16.0", "? selightsnewresources >= 1.0.0"]}

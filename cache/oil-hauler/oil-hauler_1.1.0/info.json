@@ -1,0 +1,1 @@
+{"name": "oil-hauler", "version": "1.1.0", "title": "Oil hauler", "author": "Sladki", "dependencies": ["base >= 1.1.0"], "description": "A vehicle capable to transport fluids in the built-in tank", "factorio_version": "1.1"}

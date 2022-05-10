@@ -1,0 +1,1 @@
+{"name": "MultipleFlareStackInput", "version": "0.0.1", "title": "Multiple Flare Stack Input", "description": "The mod adds second input connection to the Angel's flare stack", "author": "darkfrei", "license": "MIT", "dependencies": ["base", "angelspetrochem"], "factorio_version": "0.17"}

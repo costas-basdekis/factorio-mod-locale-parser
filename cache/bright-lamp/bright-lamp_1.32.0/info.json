@@ -1,0 +1,1 @@
+{"name": "bright-lamp", "version": "1.32.0", "title": "Bright Lamp", "author": "DarkyPupu", "description": "Adds a brighter lamp.", "contact": "darky@blackdiam.net", "factorio_version": "1.1", "dependencies": ["base >= 1.1.32"]}

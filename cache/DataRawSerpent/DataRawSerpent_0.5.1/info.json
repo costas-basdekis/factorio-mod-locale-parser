@@ -1,0 +1,1 @@
+{"name": "DataRawSerpent", "version": "0.5.1", "title": "Data Raw Serpent", "author": "Bilka", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.1"], "description": "Prints the entire data.raw table to the log on run. Useful for modders and tool devs."}

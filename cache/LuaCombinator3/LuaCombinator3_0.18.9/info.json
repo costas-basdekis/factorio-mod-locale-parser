@@ -1,0 +1,1 @@
+{"name": "LuaCombinator3", "version": "0.18.9", "title": "LuaCombinator 3", "author": "OwnlyMe", "homepage": "", "dependencies": ["base"], "description": "Like LuaCombinator2, but with full event support", "factorio_version": "0.18"}

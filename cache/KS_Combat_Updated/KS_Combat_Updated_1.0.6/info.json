@@ -1,0 +1,1 @@
+{"name": "KS_Combat_Updated", "version": "1.0.6", "title": "KS Combat_Updated", "author": "Greenlegoman, Klonan", "contact": "Contact through the mod page", "homepage": "", "description": "Base game Combat improvement mod Updated for 1.1", "dependencies": ["base >= 1.1", "?RampantArsenal"], "factorio_version": "1.1"}

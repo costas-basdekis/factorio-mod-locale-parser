@@ -1,0 +1,1 @@
+{"factorio_version": "0.13", "name": "boxing", "version": "0.6.2", "title": "Boxing", "author": "Xecutor. KroshkaYenot had a hand in it as well", "homepage": "http://www.factorioforums.com/forum/", "contact": "Message me @ http://www.factorioforums.com/forum/", "description": "Exchange advanced goods for basic ores and materials.", "dependencies": ["base >= 0.10.0"]}

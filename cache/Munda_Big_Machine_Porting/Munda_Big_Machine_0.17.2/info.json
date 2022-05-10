@@ -1,0 +1,1 @@
+{"name": "Munda_Big_Machine_Porting", "version": "2.0.0", "factorio_version": "1.1", "title": "Mundas Big Machine Porting", "author": "WipMod", "contact": "https://t.me/wipmod", "homepage": "mods.factorio.com/mods/WipMod/Munda_Big_Machine_Porting", "description": "A big Assembling Machine that fast create the materials.", "dependencies": ["base >= 1.1"]}

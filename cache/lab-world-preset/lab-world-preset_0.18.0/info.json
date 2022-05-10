@@ -1,0 +1,1 @@
+{"name": "lab-world-preset", "version": "0.18.0", "title": "Lab-world Preset", "author": "Maxreader", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.17"], "description": "Creates a new map preset that generates a world with only lab tiles"}

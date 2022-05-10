@@ -1,0 +1,1 @@
+{"name": "Electric-Range", "version": "1.0.3", "title": "Electric Range", "author": "Loren1350", "contact": "Schmendrick on the Factorio Forums", "homepage": "", "description": "Customize the supply and reach values of electric poles. Adds an option to stop placed poles from automatically connecting.", "dependencies": ["base"], "factorio_version": "0.18"}

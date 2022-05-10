@@ -1,0 +1,1 @@
+{"name": "simple_science_pack", "version": "0.1.1", "factorio_version": "0.16", "title": "Simple Science Pack", "author": "TheKirby68", "description": "Change science pack craft to require less complex ingredient", "dependencies": ["base >= 0.15.0"]}

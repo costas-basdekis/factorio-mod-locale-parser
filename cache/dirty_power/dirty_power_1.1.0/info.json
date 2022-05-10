@@ -1,0 +1,1 @@
+{"name": "dirty_power", "version": "1.1.0", "title": "Dirty Power", "author": "Loren1350", "contact": "Schmendrick on the Factorio Forums", "homepage": "", "description": "Wood products may be used as fuel; less refined fuels pollute more.\nElectric furnaces consume 50% more power.", "dependencies": ["base", "? scrapmod"], "factorio_version": "1.1"}

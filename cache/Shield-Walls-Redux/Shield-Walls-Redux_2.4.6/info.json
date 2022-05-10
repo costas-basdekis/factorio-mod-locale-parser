@@ -1,0 +1,1 @@
+{"name": "Shield-Walls-Redux", "version": "2.4.6", "factorio_version": "0.16", "title": "Shielded Walls Redux", "author": "Amag1234", "description": "A Rebuild of SonsakuX's High Resistance Regenerating Walls (\"Shielded Walls\"). Fixed performance issues.", "dependencies": ["base >= 0.16.0"]}

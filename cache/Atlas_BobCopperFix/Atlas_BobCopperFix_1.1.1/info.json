@@ -1,0 +1,1 @@
+{"name": "Atlas_BobCopperFix", "version": "1.1.1", "title": "Bob's Copper Pipe Recipe Fix", "description": "Force unhide and enable Bob's copper and stone pipe recipes when they are disabled by Krastorio 2.", "author": "Atlas1205", "contact": "none", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "boblogistics >= 1.1.2", "Krastorio2 >= 1.0.23"]}

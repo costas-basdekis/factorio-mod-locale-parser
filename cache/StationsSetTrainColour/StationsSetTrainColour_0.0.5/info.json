@@ -1,0 +1,1 @@
+{"name": "StationsSetTrainColour", "version": "0.0.5", "title": "Stations set train colour", "author": "Charles Cooke", "contact": "ccooke-factorio@gkhs.net", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Set a trains colour when it stops at a station using R, G and B signals"}

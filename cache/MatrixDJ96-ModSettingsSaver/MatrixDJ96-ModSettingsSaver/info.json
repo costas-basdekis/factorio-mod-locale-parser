@@ -1,0 +1,1 @@
+{"name": "MatrixDJ96-ModSettingsSaver", "version": "0.0.1", "title": "MatrixDJ96: Mod Settings Saver", "author": "MatrixDJ96", "homepage": "", "description": "Add command to export mod settings of the current gameplay", "dependencies": ["base >= 1.1.0"], "factorio_version": "1.1"}

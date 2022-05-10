@@ -1,0 +1,1 @@
+{"name": "TD19Objects", "version": "0.1.1", "title": "TheDestroyer19's Kitchen Sink", "author": "TheDestroyer19", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "An assortment of things I created to learn how to mod factorio. Currently adds bigger boxes and modular vehicles."}

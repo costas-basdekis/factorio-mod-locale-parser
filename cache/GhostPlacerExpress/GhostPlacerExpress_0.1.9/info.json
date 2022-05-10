@@ -1,0 +1,1 @@
+{"name": "GhostPlacerExpress", "version": "0.1.9", "title": "GhostPlacerExpress", "author": "unhott", "contact": "unhott@hotmail.com", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Early game blueprints now have a use! No more meticulous placement, pipetting, or rotating! Just hover over a ghost and it will be placed. Toggle on/off with SHIFT Y. "}

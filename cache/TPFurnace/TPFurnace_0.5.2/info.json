@@ -1,0 +1,1 @@
+{"name": "TPFurnace", "version": "0.5.2", "title": "TPFurnace", "author": "TiltedPlastic", "description": "This mod allows you to use space more efficiently", "dependencies": ["base >= 1.1"], "factorio_version": "1.1"}

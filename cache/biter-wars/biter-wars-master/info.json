@@ -1,0 +1,1 @@
+{"name": "biter-wars", "version": "0.0.1", "title": "Biter Wars", "author": "You", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Biter Wars is a PVP RTS where each player controls a queen and directs their group of biters to destroy the other clans."}

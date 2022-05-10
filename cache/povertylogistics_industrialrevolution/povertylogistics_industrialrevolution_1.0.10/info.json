@@ -1,0 +1,1 @@
+{"name": "povertylogistics_industrialrevolution", "version": "1.0.10", "title": "Poverty Logistics (for Industrial Revolution)", "author": "Dave", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["IndustrialRevolution >= 1.0.9"], "description": "This mod renames all the burner logistics items to be the poverty items they truly are."}

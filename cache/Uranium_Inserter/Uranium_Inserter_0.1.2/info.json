@@ -1,0 +1,1 @@
+{"name": "Uranium_Inserter", "version": "0.1.2", "title": "Uranium Inserter", "author": "detourious", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Adds a new type of inserter, Uranium Inserters."}

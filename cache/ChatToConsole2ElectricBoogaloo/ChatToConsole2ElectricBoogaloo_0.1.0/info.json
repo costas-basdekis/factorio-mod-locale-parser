@@ -1,0 +1,1 @@
+{"name": "ChatToConsole2ElectricBoogaloo", "version": "0.1.0", "title": "Chat to Console", "author": "Shadda & meiamsome", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "I added a prefix and changed the factorio version"}

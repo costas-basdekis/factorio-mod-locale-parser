@@ -1,0 +1,1 @@
+{"name": "theTrolleyProblem", "version": "0.1.4", "title": "theTrolleyProblem", "author": "unhott", "contact": "unhott@hotmail.com", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds warning lights for when Trains are about to run you over! "}

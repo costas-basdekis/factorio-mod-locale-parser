@@ -1,0 +1,38 @@
+﻿[mod-name]
+pykoreanlocale=Pyanodons 모드[한국어](Pyanodons Korean Locale)
+pyalienlife=Pyanodons 모드[외계 생명체](Pyanodons Alien Life)
+pycoalprocessing=Pyanodons 모드[석탄 공정](Pyanodons Coal Processing)
+pyfusionenergy=Pyanodons 모드[핵융합 에너지](Pyanodons Fusion Energy)
+pyhightech=Pyanodons 모드[첨단 기술](Pyanodons HighTech)
+pyindustry=Pyanodons 모드[산업](Pyanodons Industry)
+pypetroleumhandling=Pyanodons 모드[석유 처리](Pyanodons Petroleum Handling)
+pyrawores=Pyanodons 모드[광석](Pyanodons Raw Ores)
+
+pyalienlifegraphics=Pyanodons 그래픽 모드[외계 생명체](Pyanodons AlienLife Graphics)
+pyalienlifegraphics2=Pyanodons 그래픽 모드[외계 생명체](Pyanodons AlienLife Graphics 2)
+pyalienlifegraphics3=Pyanodons 그래픽 모드[외계 생명체](Pyanodons AlienLife Graphics 3)
+pycoalprocessinggraphics=Pyanodons 그래픽 모드[석탄 공정](Pyanodons Coal Processing Graphics)
+pyfusionenergygraphics=Pyanodons 그래픽 모드[핵융합 에너지](Pyanodons Fusion Energy Graphics)
+pyhightechgraphics=Pyanodons 그래픽 모드[첨단 기술](Pyanodons HighTech Graphics)
+pypetroleumhandlinggraphics=Pyanodons 그래픽 모드[석유 처리](Pyanodons Petroleum Handling Graphics)
+pyraworesgraphics=Pyanodons 그래픽 모드[광석](Pyanodons Raw Ores Graphics)
+
+
+[mod-description]
+pykoreanlocale=Py 모드의 한글화 모드입니다.\n\n번역: XMKTP, 블래이크
+pycoalprocessing=석탄 가공 공정을 게임에 추가합니다.\n\n번역: XMKTP, 블래이크
+pyfusionenergy=핵융합 에너지 공정을 게임에 추가합니다.\n\n번역: XMKTP, 블래이크
+pyhightech=전자 장치들의 성능을 향상하고 개선합니다.\n\n번역: XMKTP, 블래이크
+pyindustry=기초 산업 시설을 게임에 추가합니다.\n\n번역: XMKTP, 블래이크
+pypetroleumhandling=석유의 추출과 기초 가공법을 추가합니다.\n\n번역: XMKTP, 블래이크
+pyalienlife=기지가 거의 완벽하게 자급 자족할 수 있는 방법을 추가합니다.\n\n번역: XMKTP, 블래이크
+pyrawores=Py 모드 전용의 광석과 공정법, 재료를 추가합니다. Bobs 모드와 충돌할 수 있습니다.\n\n번역: XMKTP, 블래이크
+
+pyalienlifegraphics=Pyanodons 모드[외계 생명체]의 그래픽과 음성을 추가합니다.\n\n번역: XMKTP, 블래이크
+pyalienlifegraphics2=Pyanodons 모드[외계 생명체]의 그래픽과 음성을 추가합니다.\n\n번역: XMKTP, 블래이크
+pyalienlifegraphics3=기지가 거의 완벽하게 자급 자족할 수 있는 방법을 추가합니다.\n\n번역: XMKTP, 블래이크
+pycoalprocessinggraphics=Pyanodons 모드[석탄 공정]의 그래픽을 추가합니다.\n\n번역: XMKTP, 블래이크
+pyfusionenergygraphics=Pyanodons 모드[핵융합 에너지]의 그래픽을 추가합니다.\n\n번역: XMKTP, 블래이크
+pyhightechgraphics=Pyanodons 모드[첨단 기술]의 그래픽을 추가합니다.\n\n번역: XMKTP, 블래이크
+pypetroleumhandlinggraphics=석유의 추출과 기초 가공법을 추가합니다.\n\n번역: XMKTP, 블래이크
+pyraworesgraphics=Pyanodons 모드[광석]의 그래픽을 추가합니다.\n\n번역: XMKTP, 블래이크

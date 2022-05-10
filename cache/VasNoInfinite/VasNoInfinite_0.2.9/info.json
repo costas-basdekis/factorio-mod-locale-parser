@@ -1,0 +1,1 @@
+{"name": "VasNoInfinite", "author": "Vas", "version": "0.2.9", "factorio_version": "1.1", "title": "No Infinite Fluids", "homepage": "", "description": "Oil wells are no longer infinite. Also removes infinite stat from lith water from bob's mods.", "dependencies": ["base", "? bobores"]}

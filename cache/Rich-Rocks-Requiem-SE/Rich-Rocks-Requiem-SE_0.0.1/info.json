@@ -1,0 +1,1 @@
+{"name": "Rich-Rocks-Requiem-SE", "version": "0.0.1", "title": "Rich-Rocks-Requiem for Space Exploration (Test)", "author": "GeneralTank", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "Krastorio2 >= 1.1.0", "Rich-Rocks-Requiem", "space-exploration"], "description": "Adds Space Exploration ores to Raw Minerals from Rich Rock Requiem"}

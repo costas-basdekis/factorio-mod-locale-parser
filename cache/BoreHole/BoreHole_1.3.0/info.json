@@ -1,0 +1,1 @@
+{"name": "BoreHole", "version": "1.4.0", "factorio_version": "1.1", "title": "BoreHole", "author": "MrEvgen", "contact": "", "homepage": "https://github.com/TheMrEvgen/BoreHole", "dependencies": ["base >= 1.1.0"], "description": "Mod adds 2 borehole, one operating on solid fuel, and the other consumes electricity to operate."}

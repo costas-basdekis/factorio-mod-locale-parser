@@ -1,0 +1,1 @@
+{"name": "smart-waypoints", "version": "0.1.2", "title": "Smart Waypoints", "author": "AntiBlueQuirk", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Train stops with special names can control trains' schedules as they go by, skipping around their order list."}

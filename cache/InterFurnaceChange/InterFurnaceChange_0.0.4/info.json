@@ -1,0 +1,1 @@
+{"name": "InterFurnaceChange", "version": "0.0.4", "title": "Inter's FurnaceChange", "author": "Intertoothh", "contact": "www.factorioforums.com", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Furnace  recipes changed. You need to upgrade, from stone to steel, from steel to electric."}

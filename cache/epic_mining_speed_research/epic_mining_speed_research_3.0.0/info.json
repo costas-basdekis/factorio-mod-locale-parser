@@ -1,0 +1,1 @@
+{"name": "epic_mining_speed_research", "version": "3.0.0", "title": "Mining Speed Research", "author": "Epic", "contact": "twitch.tv/epicgamingvideos", "homepage": "http://twitch.tv/epicgamingvideos", "description": "Increases the mining speed of your character", "dependencies": ["base >= 0.16"], "factorio_version": "0.16"}

@@ -1,0 +1,1 @@
+{"name": "methane-processing", "version": "0.4.5", "date": "2019-03-16", "title": "Methane processing", "author": "Pithlit", "dependencies": ["base", "boblibrary", "? angelspetrochem"], "description": "Provides alternative methods of Plastic and Battery production based on methane instead of oil. Methane can be created from water and carbon dioxide.", "factorio_version": "0.17"}

@@ -1,0 +1,36 @@
+;Added mod-description
+[mod-description]
+SchallLampContrast=Ersetzt die Grafike der Vanilla-Lampen, um bei der Darstellung von Farbsignalen den Kontrast zu erhöhen.\nFahrzeuge können nun gegen oder über Lampen fahren, ohne sie zu beschädigen.\nErmöglicht es auch, Änderungen an Farbsignalen (einschließlich Priorität) vorzunehmen.
+
+[mod-setting-name]
+lampcontrast-base-style=Lampenart
+;lampcontrast-glow-size=Lampe-Glühengröße (3)
+lampcontrast-glow-size=Göße des Lichtkreises der Lampe (3)
+;lampcontrast-color-reorder=Prioritätsreihenfolge bei Farbsignalen
+lampcontrast-color-reorder=Priorität der Farbsignale
+lampcontrast-color-white-enable=Farbe für Weißes Signal nutzen
+lampcontrast-color-grey-enable=Farbe für Graues Signal nutzen
+lampcontrast-color-black-enable=Farbe für Schwarzes Signal nutzen
+lampcontrast-color-white-order=Priorität (Weißes Signal)
+lampcontrast-color-grey-order=Priorität (Graues Signal)
+lampcontrast-color-black-order=Priorität (Schwarzes Signal)
+
+[mod-setting-description]
+#~ lampcontrast-base-style="Beton": Passend zu Betonkachel.\n"Schwarz": Hoher Kontrast für die Signalanzeige.
+lampcontrast-base-style="Beton": Passend zu Betonkacheln.\n"Schwarz": Hoher Kontrast für die Signalanzeige.
+;lampcontrast-glow-size=3: (Standard) Ein niedriger Wert ergibt eine klarere Anzeige.\n6: Ursprüngliche Einstellung.
+lampcontrast-glow-size=3: (Standard) Ein niedrigerer Wert ergibt eine klarere Anzeige.\n6: Ursprüngliche Einstellung.
+lampcontrast-color-reorder="Unverändert": (Standard) Rot > Grün > Blau > Gelb > Rosa (Magenta) > Cyan\n"Farbton (Rot zuerst)": Rot > Gelb > Grün > Cyan > Blau > Rosa\n"Farbton (Rot zuletzt)": Rosa > Blau > Cyan > Grün > Gelb > Rot
+lampcontrast-color-white-enable=Farbe für Weißes Signal = (100, 100, 100).
+lampcontrast-color-grey-enable=Farbe für Graues Signal = (50, 50, 50).
+lampcontrast-color-black-enable=Farbe für Schwarzes Signal = (0, 0, 0).
+lampcontrast-color-white-order=Nur anwenden, wenn aktiviert.\nH1 > H2 > H3 > Basissignale > L1 > L2 > L3
+lampcontrast-color-grey-order=Nur anwenden, wenn aktiviert.\nH1 > H2 > H3 > Basissignale > L1 > L2 > L3
+lampcontrast-color-black-order=Nur anwenden, wenn aktiviert.\nH1 > H2 > H3 > Basissignale > L1 > L2 > L3
+
+[string-mod-setting]
+lampcontrast-base-style-concrete=Beton
+lampcontrast-base-style-black=Schwarz
+lampcontrast-color-reorder-unchanged=Unverändert
+lampcontrast-color-reorder-hue-ascend=Farbton (Rot zuerst)
+lampcontrast-color-reorder-hue-descend=Farbton (Rot zuletzt)

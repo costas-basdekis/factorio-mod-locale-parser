@@ -1,0 +1,1 @@
+{"name": "Wizz-AlienLoot", "version": "0.1.7", "factorio_version": "0.18", "title": "Wizz-AlienLoot", "author": "steevej", "description": "Add alien loot for resources transformation and mark alien loot for deconstruction.", "dependencies": ["base >=0.18", "?bobores", "?bobplates", "?angelsrefining", "?angelspetrochem", "?Krastorio2"]}

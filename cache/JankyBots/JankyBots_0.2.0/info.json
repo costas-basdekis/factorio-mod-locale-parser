@@ -1,0 +1,1 @@
+{"name": "JankyBots", "version": "0.2.0", "title": "Janky Robots", "author": "Christopher J. Covert", "contact": "", "homepage": "https://github.com/covertcj/factorio-janky-robots", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "? bobelectronics >= 0.17"], "description": "Adds early game construction robots that a prone to self destruct."}

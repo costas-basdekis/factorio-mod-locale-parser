@@ -1,0 +1,1 @@
+{"name": "space-exploration-extra-items", "version": "0.2.0", "title": "Space Exploration Extra Items", "author": "BigMonD", "factorio_version": "1.1", "dependencies": ["base >= 1.0", "space-exploration >= 0.5.39"], "description": "Adds a selection of additional items and recipes to the game", "homepage": "https://twitch.tv/bigmond"}

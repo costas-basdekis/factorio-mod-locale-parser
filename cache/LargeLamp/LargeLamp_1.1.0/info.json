@@ -1,0 +1,1 @@
+{"name": "LargeLamp", "version": "1.1.0", "title": "Large lamp", "author": "Zniwiarz44, Rysiulaw", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "This mod adds a large lamp which lights up an area 2x greater area then default small lamp and stadium reflector to intimidate the sun."}

@@ -1,0 +1,1 @@
+{"name": "Portable_power", "author": "Arcani_Victus", "version": "1.1.0", "factorio_version": "1.1", "title": "Portable power", "description": "Adds a portable generator and nuclear reactor equipment that consumes fuel for power production.", "dependencies": ["base >= 1.1.0"]}

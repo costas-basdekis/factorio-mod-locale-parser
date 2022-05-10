@@ -1,0 +1,1 @@
+{"name": "Localized_Charging17", "version": "1.1.4", "title": "Localized_Charging", "author": "MaverickMF", "description": "A charging mod that will recharge batteries in vehicles and power armor when near a charging pole.", "dependencies": ["base >= 1.1", "? bobvehicleequipment>=1.0", "? bobwarfare>=1.0"], "factorio_version": "1.1"}

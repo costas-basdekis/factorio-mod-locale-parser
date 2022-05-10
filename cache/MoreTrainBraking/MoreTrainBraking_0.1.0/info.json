@@ -1,0 +1,1 @@
+{"name": "MoreTrainBraking", "version": "0.1.0", "title": "More Train Braking", "author": "SilentSean", "contact": "", "homepage": "", "description": "Adds more train braking research.", "factorio_version": "0.18", "dependencies": ["base >= 0.18"]}

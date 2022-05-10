@@ -1,0 +1,1 @@
+{"name": "additionalequipment", "version": "0.0.5", "title": "additionalequipment", "author": "Rayleigh,Desecrati0n", "license": "MIT License", "description": "additional stuffs like 3 variants of tanks, another variant of locomotive (and wagon), and vehicle-dedicated equipment (rather balanced [mabye]).", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15"}

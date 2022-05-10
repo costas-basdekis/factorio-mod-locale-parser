@@ -1,0 +1,1 @@
+{"name": "godModule", "version": "0.1.2", "factorio_version": "0.15", "title": "god Module", "author": "brainytwoo", "contact": "", "homepage": "", "description": "Adds a god module.", "dependencies": ["base >= 0.15.0", "boblibrary >= 0.15.2", "bobmodules >= 0.15.3"]}

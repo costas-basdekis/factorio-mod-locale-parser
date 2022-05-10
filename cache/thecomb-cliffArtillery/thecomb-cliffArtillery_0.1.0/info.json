@@ -1,0 +1,1 @@
+{"name": "thecomb-cliffArtillery", "version": "0.1.0", "factorio_version": "0.16", "title": "Cliff Artillery", "author": "TheCombinator", "contact": "CombinatorMasterRace@gmail.com", "homepage": "", "description": "This mod adds Cliff Artillery.", "dependencies": ["base >= 0.16.0"]}

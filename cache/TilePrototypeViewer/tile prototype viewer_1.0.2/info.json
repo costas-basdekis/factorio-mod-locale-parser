@@ -1,0 +1,1 @@
+{"name": "TilePrototypeViewer", "version": "1.0.2", "factorio_version": "1.1", "title": "Tile Prototype Viewer", "author": "yagaodirac", "contact": "yagaodirac@gmail.com", "homepage": "github.com/yagaodirac", "dependencies": ["base >= 1.1"], "description": "This is scenario. A debug tool to display all the tile prototypes automatically."}

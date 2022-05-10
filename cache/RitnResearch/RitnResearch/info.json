@@ -1,0 +1,1 @@
+{"name": "RitnResearch", "version": "0.7.6", "title": "RitnResearch", "author": "Ritn", "description": "Add and change technologies...", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "RitnLib >= 0.6", "RitnMechanic >= 0.7", "CircuitControlledSilo"]}

@@ -1,0 +1,1 @@
+{"name": "OutpostPower", "version": "0.18.0", "title": "Outpost Power", "author": "Thorvin", "contact": "thorvin@gmail.com", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18", "? AlternativeOil >= 0.18", "? Bottleneck >= 0.8.5"], "description": "Adds buildings, technologies and recipes that allow the creation varied and complex power plants."}

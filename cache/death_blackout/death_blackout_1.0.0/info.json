@@ -1,0 +1,1 @@
+{"name": "death_blackout", "version": "1.0.0", "title": "Death Blackout", "author": "FiniteInfinity0", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Adds a brief flash of darkess after the player dies."}

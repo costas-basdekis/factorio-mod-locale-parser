@@ -1,0 +1,1 @@
+{"name": "skill-leveling", "version": "0.0.3", "title": "skill-leveling", "author": "mhudak", "description": "character upgrade point system.", "factorio_version": "0.16", "dependencies": ["base"]}

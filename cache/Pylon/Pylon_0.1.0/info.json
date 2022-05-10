@@ -1,0 +1,1 @@
+{"name": "Pylon", "version": "0.1.0", "factorio_version": "0.17", "title": "Pylon mod", "author": "RedLegion", "description": "Add protoss pylon from StarCraft: BroodWar", "dependencies": ["base"]}

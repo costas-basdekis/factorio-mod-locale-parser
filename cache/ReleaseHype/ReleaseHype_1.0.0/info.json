@@ -1,0 +1,1 @@
+{"name": "ReleaseHype", "version": "1.0.0", "title": "Release Hype", "author": "Doctor_Goose", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Quick retexture of the iron plate"}

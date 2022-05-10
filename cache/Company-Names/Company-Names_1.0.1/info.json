@@ -1,0 +1,1 @@
+{"name": "Company-Names", "version": "1.0.1", "title": "Company Names", "author": "ShadowyXP_Games", "contact": "www.factorioforums.com", "homepage": "", "description": "Instead of using backer's names on new entities it uses companies that do what the entity does", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"], "liscense": "Unlicense"}

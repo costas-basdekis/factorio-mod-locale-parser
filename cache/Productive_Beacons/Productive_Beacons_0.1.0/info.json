@@ -1,0 +1,1 @@
+{"name": "Productive_Beacons", "version": "0.1.0", "title": "Productive Beacons", "author": "Numairus", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod adds a beacon that can accept productivity modules."}

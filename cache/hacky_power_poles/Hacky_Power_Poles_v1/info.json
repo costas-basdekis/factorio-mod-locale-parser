@@ -1,0 +1,1 @@
+{"name": "hacky_power_poles", "version": "1.0.0", "title": "Hacky Power Poles", "description": "Set the area and wire distance of all power poles and substations to the maximum.", "author": "Redeye 43", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

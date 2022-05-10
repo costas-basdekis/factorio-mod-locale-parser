@@ -1,0 +1,1 @@
+{"name": "LiquidMetal", "version": "0.0.3", "title": "Molten Metals", "author": "Neflie", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Allows to smelt Iron and Cooper and transport it using pipes and storing it using tanks. Molten Metal can later be moulded into plates. (or steel)"}

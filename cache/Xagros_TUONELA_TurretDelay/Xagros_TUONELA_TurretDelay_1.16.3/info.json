@@ -1,0 +1,1 @@
+{"name": "Xagros_TUONELA_TurretDelay", "version": "1.16.3", "factorio_version": "1.1", "title": "Xagros's TUONELA Turret Delay", "author": "Xagros", "contributors": "withers, Nexela", "homepage": "None", "description": "Turrets get a warm-up period after being placed. ", "dependencies": ["base >= 1.1.0"]}

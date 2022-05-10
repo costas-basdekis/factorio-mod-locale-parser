@@ -1,0 +1,1 @@
+{"name": "Tral_oil_press", "version": "1.0.2", "title": "Tral's Oil Press", "author": "MarcusTral, OwnlyMe", "factorio_version": "1.1", "dependencies": ["base", "Tral_robot_tree_farm", "?KS_Power"], "description": "Adds oil extraction from the seeds of the 'robot tree farm' mod"}

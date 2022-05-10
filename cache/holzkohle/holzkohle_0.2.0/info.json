@@ -1,0 +1,1 @@
+{"name": "holzkohle", "version": "0.2.0", "factorio_version": "0.17", "title": "Holzkohle", "author": "Echree", "contact": "", "homepage": "", "description": "Adds 3 Ways to turn your wood into coal.", "dependencies": ["base >= 0.17.0", "echrees_basics >= 0.0.5"]}

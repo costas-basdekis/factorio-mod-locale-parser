@@ -1,0 +1,1 @@
+{"name": "20x20ArmorMK2", "author": "Neonit", "version": "0.0.3", "title": "20x20 Slots on Power Armor MK2", "description": "This mod extends the slots on power armor, from 10x10 to 20x20.", "homepage": "nothing here!", "factorio_version": "0.13", "dependencies": ["base >= 0.13.0"]}

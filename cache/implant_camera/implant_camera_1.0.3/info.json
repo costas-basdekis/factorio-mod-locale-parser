@@ -1,0 +1,1 @@
+{"name": "implant_camera", "version": "1.0.3", "title": "Implant Camera", "author": "MFerrari", "dependencies": ["base >= 0.18.0"], "description": "This mod adds an Implant Camera. Throw it on a player, vehicle, unit or ground to install the camera and watch if from distance.", "factorio_version": "1.1", "homepage": "Discord: MFerrari#6561", "contact": "Discord: MFerrari#6561"}

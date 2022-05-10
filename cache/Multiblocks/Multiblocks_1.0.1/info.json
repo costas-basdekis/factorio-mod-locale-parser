@@ -1,0 +1,1 @@
+{"name": "Multiblocks", "version": "1.0.1", "factorio_version": "0.15", "title": "Multiblocks", "author": "WildWolf", "homepage": "https://forums.factorio.com/53093", "description": "Multiblocks allows anyone to make multiblocks in factorio with a simple api call", "dependencies": ["base >= 0.15.0"]}

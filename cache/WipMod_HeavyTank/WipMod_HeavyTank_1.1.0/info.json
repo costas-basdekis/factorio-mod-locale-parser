@@ -1,0 +1,1 @@
+{"name": "WipMod_HeavyTank", "version": "1.1.0", "factorio_version": "1.1", "title": "HeavyTank", "author": "WipMod", "description": "HeavyTank 2nd Gen", "dependencies": ["base >= 1.1"]}

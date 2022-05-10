@@ -1,0 +1,1 @@
+{"name": "auto-track-laying", "version": "1.0.6", "title": "Auto Track Laying", "author": "The Oddler", "contact": "pablo.bollansee@gmail.com", "homepage": "", "description": "Automatically lay tracks and other train-related ghosts when driving or walking over them.", "factorio_version": "1.1", "dependencies": ["base >= 0.18"]}

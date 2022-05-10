@@ -1,0 +1,1 @@
+{"name": "BasicSeaBlock", "version": "0.1.4", "title": "Basic Sea Block", "author": "sprigy", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Like SeaBlock, but attempts to stick closer to vanilla play."}

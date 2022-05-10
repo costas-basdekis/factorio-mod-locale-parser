@@ -1,0 +1,1 @@
+{"name": "SP-Fuel-Capsules", "version": "1.0.1", "factorio_version": "0.17", "title": "SP's Fuel Capsules", "author": "SuicideParty", "homepage": "Meeeh", "description": "Generates fuel capsules based on string in startup settings.", "dependencies": ["base >= 0.17.50"]}

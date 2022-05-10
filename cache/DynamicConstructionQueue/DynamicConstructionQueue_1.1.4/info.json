@@ -1,0 +1,1 @@
+{"name": "DynamicConstructionQueue", "version": "1.1.4", "title": "Dynamic Construction Queue", "author": "Till223", "description": "Automatically adjust the construction queue update rate at runtime to check every ghost on the map at least once in a set time frame (default 10 seconds).", "factorio_version": "1.1"}

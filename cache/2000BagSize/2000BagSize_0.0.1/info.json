@@ -1,0 +1,1 @@
+{"name": "2000BagSize", "version": "0.0.1", "title": "2000 Inventory Size", "author": "rascaldi", "email": "rascaldi@hotmail.com", "homepage": "", "contact": "rascaldi@hotmail.com", "description": "Increase the player bag size.", "factorio_version": "0.17.35", "dependencies": ["base >= 0.17.35"]}

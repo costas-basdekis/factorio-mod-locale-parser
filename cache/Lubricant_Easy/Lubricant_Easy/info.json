@@ -1,0 +1,1 @@
+{"name": "Lubricant_Easy", "version": "0.0.3", "title": "Easy Lubricant Production", "contact": "https://twitter.com/xlshallox", "author": "LsHallo", "homepage": "", "description": "Adds an oil recipe that only outputs heavy oil.", "dependencies": ["base >= 1.1.0"], "factorio_version": "1.1"}

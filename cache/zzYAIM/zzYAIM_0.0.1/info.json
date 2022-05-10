@@ -1,0 +1,1 @@
+{"name": "zzYAIM", "version": "0.0.1", "title": "Breaking Game", "author": "YAIM904", "contact": "https://mods.factorio.com/user/yaim904", "homepage": "https://mods.factorio.com/user/yaim904", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "? Krastorio2", "? space-exploration"], "description": "Add ... some options and items. Use it at your own risk."}

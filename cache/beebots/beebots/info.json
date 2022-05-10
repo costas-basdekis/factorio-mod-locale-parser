@@ -1,0 +1,1 @@
+{"name": "beebots", "version": "1.0.1", "factorio_version": "1.1", "title": "BeeBots", "author": "gman134", "contact": "", "homepage": "", "description": "Bots make a buzz sound like a swarm of bees.", "dependencies": ["base >= 1.1.0"]}

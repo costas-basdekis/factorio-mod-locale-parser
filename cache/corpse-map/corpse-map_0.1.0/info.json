@@ -1,0 +1,1 @@
+{"name": "corpse-map", "version": "0.1.0", "title": "Corpse Map", "author": "Josh Vanderwillik", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Mark all your deaths on the map"}

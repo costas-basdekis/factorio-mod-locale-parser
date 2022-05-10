@@ -1,0 +1,1 @@
+{"name": "Simple-Terrain-Manager", "description": "Allows the disabling of terrain types in new games", "version": "1.0.2", "title": "Simple Terrain Manager", "author": "natemiddleman", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"]}

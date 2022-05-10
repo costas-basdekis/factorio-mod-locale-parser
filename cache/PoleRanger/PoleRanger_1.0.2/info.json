@@ -1,0 +1,1 @@
+{"name": "PoleRanger", "version": "1.0.2", "factorio_version": "1.1", "title": "Pole Ranger", "author": "UgurG", "contact": "", "homepage": "", "description": "Makes vanilla pole connection ranges and supply areas configurable", "dependencies": ["base >= 1.1.0"]}

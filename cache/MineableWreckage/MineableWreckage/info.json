@@ -1,0 +1,1 @@
+{"name": "MineableWreckage", "version": "1.0.6", "title": "Mineable Wreckage", "author": "Gerkiz", "contact": "Gerkiz#0001", "description": "This mod adds back mineable wreckage.", "dependencies": ["base >= 1.0.0"], "factorio_version": "1.1"}

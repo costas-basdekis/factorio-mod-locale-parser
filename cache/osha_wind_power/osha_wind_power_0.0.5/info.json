@@ -1,0 +1,1 @@
+{"name": "osha_wind_power", "version": "0.0.5", "title": "OSHA Wind Power", "author": "OSHA-Jackson", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds windmills for power. For best results keep spread and near water if possible"}

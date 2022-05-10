@@ -1,0 +1,1 @@
+{"name": "Trees", "version": "4.5.1", "title": "Treeees", "author": "Dr. Ast Branch", "factorio_version": "1.1", "description": "Let the trees in your base spread over time similar to real vegetation.", "dependencies": ["big-data-string", "base >= 1.1.7"]}

@@ -1,0 +1,1 @@
+{"name": "Industrial_extension", "version": "0.1.24", "title": "Industrial extension", "author": "TeksFox", "contact": "https://vk.com/id202365095", "homepage": "https://vk.com/id202365095", "description": "Expansion of all aspects of production,", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15"}

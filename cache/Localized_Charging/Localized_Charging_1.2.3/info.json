@@ -1,0 +1,1 @@
+{"name": "Localized_Charging", "version": "1.2.4", "title": "Localized_Charging", "author": "Sirenfal", "description": "A charging mod that will recharge batteries in vehicles and power armor when near a charging pole.", "dependencies": ["base >= 1.1", "? Krastorio2 >= 1.1.4"], "factorio_version": "1.1"}

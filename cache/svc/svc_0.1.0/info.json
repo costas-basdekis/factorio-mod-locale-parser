@@ -1,0 +1,1 @@
+{"name": "svc", "version": "0.1.0", "title": "Small Vanilla Changes", "author": "B0T", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "A small mod that adds the ability to upgrade steel furnaces to electric ones."}

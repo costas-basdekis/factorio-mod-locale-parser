@@ -1,0 +1,1 @@
+{"name": "Petrol Condensation", "version": "0.1.0", "title": "Petrol Condensation", "author": "Rohan Bernett", "factorio_version": "0.15", "dependencies": ["base"], "description": "Adds recipes for condensing petroleum gas to light oil and light oil to heavy oil."}

@@ -1,0 +1,1 @@
+{"name": "CompoundMinersLite", "version": "0.1.0", "factorio_version": "0.18", "date": "2020-02-4", "title": "Compound Miners Lite", "author": "Zanven", "homepage": "https://github.com/zanven42/FactorioMod-compoundMinersLite", "description": "Simple smaller version of FactoriocompoundMiners", "dependencies": ["base >= 0.18.00"]}

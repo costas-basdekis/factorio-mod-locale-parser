@@ -1,0 +1,1 @@
+{"name": "prototype_automatic_tree_farm", "version": "0.0.9", "factorio_version": "1.1", "title": "prototype_automatic_tree_farm", "description": "kill tree from start of game.", "author": "meifray", "dependencies": ["base >= 0.0.0", "(?) space-exploration >= 0.0.0"]}

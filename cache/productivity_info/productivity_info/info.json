@@ -1,0 +1,1 @@
+{"name": "productivity_info", "version": "1.0.1", "factorio_version": "1.1", "title": "Productivity Info", "author": "Sopel", "contact": "", "homepage": "", "description": "Adds a short description to recipes that benefit from productivity", "dependencies": ["base >= 0.18.0"]}

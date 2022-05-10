@@ -1,0 +1,1 @@
+{"name": "space-exploration-bobores-core", "version": "1.18.1", "title": "Space Exploration Bobores Core Mining Rebalance", "author": "Lunarage", "factorio_version": "0.18", "dependencies": ["space-exploration", "bobores"], "description": "Rebalance the output of bobs ores from Space Exploration Core Mining. Currently removes bob's ores and fluids from omni recipe."}

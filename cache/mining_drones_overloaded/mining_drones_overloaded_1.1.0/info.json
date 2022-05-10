@@ -1,0 +1,1 @@
+{"name": "mining_drones_overloaded", "version": "1.1.0", "title": "Mining Drones Overloaded", "author": "Erythion", "description": "Stuff as many drones as you can into those mining depots! Settings to set depot capacity and drone stacksize.", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "Mining_Drones >= 1.1"]}

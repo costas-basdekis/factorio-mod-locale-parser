@@ -1,0 +1,1 @@
+{"name": "AtomicArtilleryRemote", "version": "0.3.0", "title": "Atomic Artillery Remote", "author": "mschuett", "contact": "https://github.com/mschuett", "homepage": "https://github.com/mschuett", "factorio_version": "1.1", "dependencies": ["base >= 1.0", "AtomicArtillery >= 0.2.3"], "description": "Atomic Artillery Turrets, Wagons, and Remote"}

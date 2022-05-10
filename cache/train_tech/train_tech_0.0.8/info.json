@@ -1,0 +1,1 @@
+{"name": "train_tech", "version": "0.0.8", "title": "Train research for better performance", "author": "immortal_sniper1", "contact": "zerefulquirra@gmail.com", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "homepage": "none", "description": "Adds a extra research to increase train power and breaking force."}

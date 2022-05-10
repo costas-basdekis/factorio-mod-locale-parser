@@ -1,0 +1,1 @@
+{"name": "markers", "version": "0.1.4", "factorio_version": "1.1", "title": "Markers", "author": "dorfl", "contact": "Dorfl <ceramic.atheist@gmail.com>", "homepage": "https://gitlab.com/aerosuidae/markers", "description": "Place markers on the ground. Currently just dots -- 1x1 tile circles -- with configurable colour and optional X,Y caption.", "dependencies": ["base >= 1.1.0"]}

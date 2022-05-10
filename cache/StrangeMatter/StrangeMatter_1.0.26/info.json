@@ -1,0 +1,1 @@
+{"name": "StrangeMatter", "version": "1.0.26", "title": "Strange Matter", "author": "5cript", "contact": "", "homepage": "https://github.com/5cript", "description": "Ever wanted to convert Energy into matter? This mod lets you do this!", "factorio_version": "1.1", "dependencies": ["base >= 1.0", "?bobores >= 1.0.0"]}

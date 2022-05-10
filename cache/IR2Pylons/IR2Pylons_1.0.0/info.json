@@ -1,0 +1,1 @@
+{"name": "IR2Pylons", "version": "1.0.0", "factorio_version": "1.1", "title": "IR2 Pylons mod", "author": "DEMONGO1154", "description": "IR2 mod, Add protoss pylon's (1x2 buildings & 2X3 to distribute power) from StarCraft.", "dependencies": ["base >= 1.1.0", "IndustrialRevolution", "! Pylons"]}

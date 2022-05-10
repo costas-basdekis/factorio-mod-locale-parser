@@ -1,0 +1,1 @@
+{"name": "admin-mod", "version": "1.6.0", "title": "admin Mod", "author": "shi", "homepage": "", "description": "admin mod", "factorio_version": "1.0", "dependencies": ["base >= 0.18.36"]}

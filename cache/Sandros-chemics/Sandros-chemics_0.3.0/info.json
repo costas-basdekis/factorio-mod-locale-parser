@@ -1,0 +1,1 @@
+{"name": "Sandros-chemics", "version": "0.3.0", "factorio_version": "0.18", "title": "Sandro's Chemics", "author": "SuperSandro2000", "dependencies": ["angelspetrochem >= 0.9.0"], "description": "Currently adds a recipe to use sodium hydroxide in oil refining"}

@@ -1,0 +1,1 @@
+{"name": "WoodDoesBurn", "version": "1.1.0", "title": "WoodDoesBurn", "author": "Valandir", "contact": "", "description": "Restores the behaviour prior to 0.17. Small Electric Poles and Wooden Chests can be recycled as fuel in burners again. (0.75MJ for a power pole, 3MJ per chest)", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

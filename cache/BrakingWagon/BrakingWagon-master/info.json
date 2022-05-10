@@ -1,0 +1,1 @@
+{"name": "BrakingWagon", "version": "0.1.0", "title": "Braking wagon", "author": "Jaco3011", "homepage": "https://github.com/Jaco3011/BrakingWagon", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Adds braking wagon, with no inventory, but with powerful brakes"}

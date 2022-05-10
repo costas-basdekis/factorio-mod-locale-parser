@@ -1,0 +1,1 @@
+{"name": "longer-underground-belts", "version": "0.14.0", "title": "Longer Underground Belts", "author": "Daniel Bergmann", "homepage": "https://github.com/brgmnn/factorio-longer-underground-belts", "factorio_version": "0.14", "dependencies": ["base"], "description": "Underground transport belts are now the same length as underground fluid pipes."}

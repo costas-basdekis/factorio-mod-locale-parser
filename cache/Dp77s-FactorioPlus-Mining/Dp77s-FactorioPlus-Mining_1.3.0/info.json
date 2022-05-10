@@ -1,0 +1,1 @@
+{"name": "Dp77s-FactorioPlus-Mining", "version": "1.3.0", "title": "Dp77's FactorioPlus: Mining", "author": "DiegoPro77", "factorio_version": "0.16", "homepage": "", "dependencies": ["base", "Dp77s-FactorioPlus-Ores", "Dp77s-FactorioPlus-Plates", "Dp77s-FactorioPlus-Advanced-Tech", "Dp77s-FactorioPlus-Electronics"], "description": ""}

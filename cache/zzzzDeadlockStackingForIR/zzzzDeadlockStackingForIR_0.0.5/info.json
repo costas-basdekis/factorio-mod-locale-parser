@@ -1,0 +1,1 @@
+{"name": "zzzzDeadlockStackingForIR", "version": "0.0.5", "factorio_version": "1.0", "title": "Deadlock Stacking For IR", "author": "billbo99", "homepage": "", "dependencies": ["base", "deadlock-beltboxes-loaders >= 2.3.0", "rusty-locale", "?IndustrialRevolution"], "description": "Add stacked items for IR,  if you have figured out how to manually upgrade IR to v1.0"}

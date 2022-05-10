@@ -1,0 +1,1 @@
+{"name": "Lumberjack_Followers", "version": "0.0.3", "title": "Lumberjack Followers", "author": "Gerkiz", "contact": "Gerkiz#0001", "description": "This mod adds two characters that follows connected players around. They are quite non-intelligent and get stuck easily.", "dependencies": ["base >= 0.17"], "factorio_version": "1.1"}

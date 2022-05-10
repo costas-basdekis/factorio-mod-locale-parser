@@ -1,0 +1,1 @@
+{"name": "Followers", "version": "0.1.9", "factorio_version": "0.15", "title": "Followers", "author": "withers", "contributors": "None", "homepage": "None", "description": "This mod adds a variety of followers who can help you manage your base, fight off the enemies, and keep you company.  They are quite useful.", "dependencies": ["base >= 0.15.0"]}

@@ -1,0 +1,1 @@
+{"name": "justgo", "version": "0.17.2", "factorio_version": "0.17", "title": "Just go!", "author": "SilentCrim and folk", "contact": "", "homepage": "", "description": "Instantly pops you into a vehicle when you place it, and picks it up again when you exit.", "dependencies": ["base"], "license": "CC-BY-NC 4.0"}

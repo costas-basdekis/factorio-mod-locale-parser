@@ -1,0 +1,1 @@
+{"name": "bonus-crates", "version": "0.0.2", "title": "Bonus Crates", "author": "Blank", "description": "This mod adds crates that spawn into the world as you work, they provide random bonuses or give you some items. Some can give rare weapons and research technology for you as well.", "dependencies": ["base >= 0.15.0"], "factorio_version": "0.15"}

@@ -1,0 +1,1 @@
+{"name": "Turret_Range_Buff", "version": "0.4.1", "title": "Turret Range Buff", "author": "thereaverofdarkness", "dependencies": ["base >= 1.1"], "description": "Increases the range of turrets so that perimeter defenses are easier.", "factorio_version": "1.1"}

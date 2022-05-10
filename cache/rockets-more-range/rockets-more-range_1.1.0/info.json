@@ -1,0 +1,1 @@
+{"name": "rockets-more-range", "version": "1.1.0", "title": "rockets-more-range", "author": "adam_bise", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds 1.4 range bonus to rocket and explosive rocket ammo."}

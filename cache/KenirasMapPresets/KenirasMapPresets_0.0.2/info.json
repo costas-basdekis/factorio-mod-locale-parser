@@ -1,0 +1,1 @@
+{"name": "KenirasMapPresets", "version": "0.0.2", "title": "KenirasMapPresets", "author": "Kenira", "homepage": "", "description": "Rail World preset with everything very rare but very big, except small enemy bases. Also no enemy expansion and slow time evolution.", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

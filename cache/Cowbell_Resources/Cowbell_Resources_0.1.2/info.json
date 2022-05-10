@@ -1,0 +1,1 @@
+{"name": "Cowbell_Resources", "version": "0.1.2", "title": "Cowbell_Resources", "author": "Cowbell", "description": "Makes all resource deposits infinite through keeping them from dropping below 1000 units.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"]}

@@ -1,0 +1,1 @@
+{"name": "TileStacker", "version": "1.0.0", "title": "TileStacker", "author": "NoCompromiseHK", "description": "Increases the stacksize of concrete, bricks and landfill", "contact": "-", "homepage": "-", "factorio_version": "0.15", "dependencies": ["base >= 0.13.0"]}

@@ -1,0 +1,1 @@
+{"name": "ChestLimiter", "version": "1.0.0", "factorio_version": "0.14", "title": "Chest Limiter. Place limits on newly placed chests", "author": "Nexela", "contact": "www.factorioforums.com", "homepage": "", "description": "Hold a chest in your hand to set the bar limit on newly placed chests of that type.", "dependencies": ["base >= 0.14.0"], "license": "MIT"}

@@ -1,0 +1,1 @@
+{"name": "CredoTimeLapseModByMaessigcremig", "version": "0.17.11", "title": "Credo Time Lapse Mod for 0.17", "author": "Maessigcremig", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Takes screenshots of your world at specific intervals"}

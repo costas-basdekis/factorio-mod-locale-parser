@@ -1,0 +1,1 @@
+{"name": "Nuka_Cola", "version": "1.0.0", "title": "Nuka_Cola", "author": "FormattedFish", "description": "This mod adds Nuka_Cola and Nuka_Cola_machine from Fallout.War,war never changes :)", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0"]}

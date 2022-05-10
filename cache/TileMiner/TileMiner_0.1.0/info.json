@@ -1,0 +1,1 @@
+{"name": "TileMiner", "version": "0.1.0", "title": "TileMiner", "author": "Devonx25", "dependencies": ["base >= 0.17.0", "bucketwheels-withvisual"], "factorio_version": "0.17", "description": "TileMiner"}

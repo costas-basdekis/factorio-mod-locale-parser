@@ -1,0 +1,1 @@
+{"name": "pushing", "description": "Pushing force at attacks", "version": "1.2.0", "title": "Pushing force [Optimized]", "author": "ZwerOxotnik", "contact": "zweroxotnik@gmail.com", "source": "https://gitlab.com/ZwerOxotnik/pushing", "homepage": "https://www.reddit.com/r/ZwerOxotnik/", "factorio_version": "0.18", "dependencies": ["event-listener >= 0.9.2"]}

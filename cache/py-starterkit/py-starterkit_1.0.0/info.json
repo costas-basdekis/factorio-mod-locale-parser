@@ -1,0 +1,1 @@
+{"name": "py-starterkit", "version": "1.0.0", "title": "PY Starter Kit", "author": "Nikolater", "description": "Starter kit for PY mod suite that includes a basic electrical setup, EMines, inserters, belts, and some starting iron and copper.", "factorio_version": "1.1", "dependencies": ["base", "pycoalprocessing"]}

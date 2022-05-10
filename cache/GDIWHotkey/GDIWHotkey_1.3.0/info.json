@@ -1,0 +1,1 @@
+{"name": "GDIWHotkey", "version": "1.3.0", "title": "GDIW Hotkey", "author": "Wyrmslayer2146", "homepage": "http://twitter.com/wyrmslayer", "contact": "", "description": "Hides GDIW (v0.17.1+) recipes and provides a Hotkey (default ALT+R) to cycle recipe options instead.", "factorio_version": "0.17", "dependencies": ["GDIW >= 0.17.1"]}

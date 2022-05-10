@@ -1,0 +1,1 @@
+{"name": "drone_world", "version": "0.1.0", "title": "drone_world", "author": "abccom1", "contact": "", "homepage": "", "description": "add lesser drones and roboports and you can use them very early stage in game", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

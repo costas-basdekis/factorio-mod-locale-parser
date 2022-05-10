@@ -1,0 +1,1 @@
+{"name": "faster-flame", "version": "0.2.1", "title": "Faster Flame", "author": "Mooncat", "homepage": "https://forums.factorio.com/viewtopic.php?f=97&t=35601", "description": "This tiny mod increases the speed of flame from flamethrowers.", "factorio_version": "0.15", "dependencies": ["base >= 0.15"]}

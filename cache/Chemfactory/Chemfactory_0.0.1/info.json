@@ -1,0 +1,1 @@
+{"name": "Chemfactory", "version": "0.0.1", "title": "Chemfactory", "author": "You", "contact": "", "homepage": "", "factorio_version": "0.14", "dependencies": ["base >= 0.14"], "description": "A mod that allows you to use sulfuric acid to process your ores."}

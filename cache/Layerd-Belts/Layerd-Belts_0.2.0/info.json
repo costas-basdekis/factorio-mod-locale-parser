@@ -1,0 +1,1 @@
+{"name": "Layerd-Belts", "version": "0.2.0", "title": "Layerd Belts", "author": "AP_Girl", "homepage": "", "description": "Adds undergroundbelt layering. Feedback much appriciated!", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0", "?FactorioExtended-Plus-Transport"]}

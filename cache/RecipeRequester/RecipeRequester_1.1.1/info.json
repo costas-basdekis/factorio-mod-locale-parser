@@ -1,0 +1,1 @@
+{"name": "RecipeRequester", "version": "1.1.1", "title": "Recipe Requester Chest", "author": "Honktown", "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=75210", "homepage": "", "description": "Set the logistics of a requester chest or buffer chest to a recipe", "factorio_version": "1.1", "dependencies": ["base"]}

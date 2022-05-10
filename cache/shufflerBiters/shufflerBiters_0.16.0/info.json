@@ -1,0 +1,1 @@
+{"name": "shufflerBiters", "version": "0.16.0", "factorio_version": "0.16", "title": "Shuffler Biters", "author": "warped_jack", "dependencies": ["base >= 0.16"], "description": "These biters will move your belts. They'll move your inserters. They'll move your walls. Fair warning, this is WIP, and likely to make biters super OP."}

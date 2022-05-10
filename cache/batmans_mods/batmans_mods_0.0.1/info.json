@@ -1,0 +1,1 @@
+{"author": "DrCuddles", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "Wood_Gasification >= 2.0.3"], "description": "Adds changes I wanted to help with my server.", "name": "batmans_mods", "homepage": "https://ikershaw.co.uk", "version": "0.0.1", "contact": "kershaw.andrew@gmail.com", "title": "Batman's Mod"}

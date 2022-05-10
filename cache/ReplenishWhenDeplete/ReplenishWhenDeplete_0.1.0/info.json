@@ -1,0 +1,1 @@
+{"name": "ReplenishWhenDeplete", "version": "0.1.1", "title": "Replenish Depleted Resource", "author": "Leon Poon", "contact": "", "homepage": "https://github.com/LeonPoon/factorio-mod-ReplenishWhenDeplete", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Replenish ores when depleted and oil fields when lowered to 20 percent yield."}

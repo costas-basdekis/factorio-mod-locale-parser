@@ -1,0 +1,1 @@
+{"name": "simple-wiring-refund", "version": "1.0.0", "title": "Simple Wiring Refund", "author": "SidusObscurus", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "This mod refunds cables and wires spent connecting electrical or circuit networks."}

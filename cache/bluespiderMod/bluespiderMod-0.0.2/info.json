@@ -1,0 +1,1 @@
+{"name": "bluespiderMod", "version": "0.0.2", "title": "bluespiderMod", "author": "carlytuur", "description": "Tryout to copy blueprint content to spidetron as logistics requests", "homepage": "https://github.com/depoorterp/bluespiderMod", "dependencies": ["? base >= 1.1.0"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "blast_mining", "version": "2.0.0", "title": "Blast Mining", "author": "Erythion", "description": "Use explosives the way Nobel made it for! A continuation of erython's mod 'explosive mining', now compatible with industrial revolution!", "factorio_version": "1.1", "dependencies": ["?IndustrialRevolution", "base"]}

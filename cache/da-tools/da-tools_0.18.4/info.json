@@ -1,0 +1,1 @@
+{"name": "da-tools", "version": "0.18.4", "title": "Desk Accessories - Tools", "author": "adamius", "description": "Useful general tools for examining and modifying Factorio worlds: Export trainstops as CSV file, Remove Enemies, Remove Trees, Remove Cliffs, Radar exploration, Biter immunity, GPS", "factorio_version": "0.18", "dependencies": ["base"]}

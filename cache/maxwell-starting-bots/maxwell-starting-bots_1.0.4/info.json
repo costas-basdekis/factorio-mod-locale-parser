@@ -1,0 +1,1 @@
+{"name": "maxwell-starting-bots", "version": "1.0.4", "title": "Maxwell Starting Bots", "author": "Maxwell", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.17"], "description": "Start the game with up to 50 construction bots, two mk 2 roboports, and some solar panels."}

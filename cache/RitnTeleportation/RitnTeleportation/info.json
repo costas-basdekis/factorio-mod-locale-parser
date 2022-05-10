@@ -1,0 +1,1 @@
+{"name": "RitnTeleportation", "version": "2.1.1", "title": "RitnTeleportation", "author": "Ritn", "description": "Teleportation system.", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "? RitnLog", "! Stargate", "! factorio-ender-pearl", "! space-exploration", "! warptorio2"]}

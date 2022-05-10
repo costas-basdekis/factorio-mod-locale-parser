@@ -1,0 +1,1 @@
+{"name": "7DaysToDie", "author": "Lunzir", "version": "0.17.3", "title": "7 Days To Die", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "? bobenemies", "? Cold_biters", "? Explosive_biters", "? Natural_Evolution_Enemies"]}

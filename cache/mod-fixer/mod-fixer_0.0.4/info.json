@@ -1,0 +1,1 @@
+{"name": "mod-fixer", "version": "0.0.4", "factorio_version": "0.17", "title": "Mod Fixer", "author": "Aidan647", "contact": "kirillkotka@gmail.com", "homepage": "https://mods.factorio.com/mods", "description": "", "dependencies": ["base", "?LoaderRedux", "?Wind_Turbine V16", "?5dim_transport", "?DeadlockLoaders", "?Texugo_windgenerator"]}

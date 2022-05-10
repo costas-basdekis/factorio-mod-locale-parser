@@ -1,0 +1,1 @@
+{"name": "Character Logistic Slots", "author": "Faltease", "version": "0.0.1", "contact": "faltease@gmail.com", "title": "Character Logistic Slots", "homepage": "", "description": "Adds in more techs for Character Logistics Slots and Character Trash Slots", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

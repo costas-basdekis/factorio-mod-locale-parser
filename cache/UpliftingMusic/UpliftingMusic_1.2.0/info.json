@@ -1,0 +1,1 @@
+{"name": "UpliftingMusic", "version": "1.2.0", "title": "Uplifting Ambient Music", "author": "NightlyCoder", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "Replaces some of the creepy ambient sounds with uplifting ones. Also adds the main menu soundtrack to the ambient music collection."}

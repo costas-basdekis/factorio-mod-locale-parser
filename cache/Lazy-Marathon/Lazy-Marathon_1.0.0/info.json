@@ -1,0 +1,1 @@
+{"name": "Lazy-Marathon", "version": "1.0.0", "title": "Lazy Marathon", "author": "ShySkream", "contact": "steam", "description": "Adds an objective for a lazy bastard game for marathon worlds.  Includes a disable manual crafting button.", "factorio_version": "0.15", "dependencies": ["base >= 0.15.2"]}

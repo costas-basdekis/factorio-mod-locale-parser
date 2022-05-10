@@ -1,0 +1,1 @@
+{"name": "ChestUpgrade", "version": "0.1.1", "factorio_version": "0.14", "title": "Serith's Simple Chest Upgrade", "author": "SerithWing", "contact": "PM serithinflight on steam", "description": "Mod that Makes Chests Upgrade to next type wood->iron->steel ect.", "dependencies": ["base >= 0.13.0"]}

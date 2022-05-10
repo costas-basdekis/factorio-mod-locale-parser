@@ -1,0 +1,1 @@
+{"name": "snow-rock-planet", "version": "1.0.0", "title": "Snowy Rocky Planet", "author": "Miturion", "dependencies": ["base", "? water-fix", "alien-biomes"], "description": "The planet you landed on is a cold rocky planet.", "factorio_version": "0.15"}

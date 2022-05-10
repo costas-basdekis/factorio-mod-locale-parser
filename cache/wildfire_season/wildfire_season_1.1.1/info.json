@@ -1,0 +1,1 @@
+{"name": "wildfire_season", "version": "1.1.1", "title": "Wildfire Season", "author": "ptx0", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.17"], "description": "Extend the tree fire hop limit so that the fires are practically infinite! Makes trees into a ticking time bomb."}

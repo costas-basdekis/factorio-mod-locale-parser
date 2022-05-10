@@ -1,0 +1,1 @@
+{"name": "GhostCountAlphaRemix2ReloadedHDTurbo", "version": "1.0.0", "title": "Ghost Count Alpha Remix 2 Reloaded HD Turbo", "author": "ZorbaTHut,catalyst518", "contact": "https://www.reddit.com/user/ZorbaTHut", "description": "Counts the number of ghosts on the map", "dependencies": ["base"], "factorio_version": "1.1"}

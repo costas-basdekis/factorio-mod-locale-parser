@@ -1,0 +1,1 @@
+{"name": "TankRoboport", "version": "0.0.4", "factorio_version": "0.13", "title": "TankRoboport", "author": "IceDev", "description": "Tank Roboport", "dependencies": ["base >= 0.13.0"]}

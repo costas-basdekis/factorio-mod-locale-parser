@@ -1,0 +1,1 @@
+{"name": "far-start", "version": "0.0.1", "factorio_version": "0.15", "title": "Far Start", "author": "necrobraska", "description": "At the start of the game, the player is moved 50,000 tiles east, and 1,500 tiles around the player are exposed.", "dependencies": ["base >= 0.15.0"]}

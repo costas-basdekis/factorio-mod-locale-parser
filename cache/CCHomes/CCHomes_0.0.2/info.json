@@ -1,0 +1,1 @@
+{"name": "CCHomes", "version": "0.0.2", "title": "CC Homes", "author": "coltonj96", "contact": "https://discord.gg/Hu2a65Q", "homepage": "", "description": "An addon for CustomCommands that adds commands to set homes", "factorio_version": "0.14", "dependencies": ["base >= 0.11.1", "? CustomCommands = 0.0.3"]}

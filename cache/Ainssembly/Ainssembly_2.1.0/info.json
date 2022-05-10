@@ -1,0 +1,1 @@
+{"name": "Ainssembly", "version": "2.1.0", "title": "Ainssembly", "author": "Dick", "contact": "", "homepage": "www.nhentai.net", "factorio_version": "1.1", "description": "This mod adds in a bunch of stupid shit I put way too much effort into.", "dependencies": ["base >= 1.1", "?bobenemies", "?ArmouredBiters", "?Explosive_biters"]}

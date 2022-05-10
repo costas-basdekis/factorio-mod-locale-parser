@@ -1,0 +1,1 @@
+{"name": "pYearlybotfix", "version": "1.0.0", "factorio_version": "0.17", "title": "Early bot fix for pY mods", "author": "Bishop89", "homepage": "", "dependencies": ["base >= 0.17.12"], "description": "Gives option to unlock storage/provide chests as soon as you unlock pY bots."}

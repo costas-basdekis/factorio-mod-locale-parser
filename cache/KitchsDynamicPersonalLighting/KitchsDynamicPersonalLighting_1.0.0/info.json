@@ -1,0 +1,1 @@
+{"name": "KitchsDynamicPersonalLighting", "version": "1.0.0", "factorio_version": "1.1", "title": "Kitch's Dynamic Personal Lighting", "author": "Kitch", "homepage": "", "dependencies": ["base >= 0.17.35"], "description": "Adds dynamic lighting to the player that is adjustable with keyboard shortuts."}

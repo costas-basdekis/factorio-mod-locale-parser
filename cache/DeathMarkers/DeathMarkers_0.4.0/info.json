@@ -1,0 +1,1 @@
+{"name": "DeathMarkers", "version": "0.4.0", "title": "Death Markers", "author": "Kovus", "contact": "kovus@soulless.wtf", "homepage": "https://gitlab.com/FishBus/deathmarkers", "license": "BSD 3-clause", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Adds & removes markers on the map when a player dies, to aid in finding and recovering their body."}

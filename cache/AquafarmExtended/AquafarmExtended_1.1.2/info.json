@@ -1,0 +1,1 @@
+{"name": "AquafarmExtended", "version": "1.1.2", "title": "Aquafarm Extended", "author": "Versepelles, Sacredd, Honktown", "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=75210", "description": "Adds an aquafarm, which produces fish. Compatible with modded fish.", "factorio_version": "1.1", "dependencies": ["base"]}

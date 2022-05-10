@@ -1,0 +1,1 @@
+{"name": "lastiteminhand", "version": "0.17.3", "title": "Last Item In Hand", "author": "hexagonhexagon", "contact": "hexagonhexagon163@gmail.com", "description": "Adds a hotkey to swap the cursor to the last item that was in your hand.", "dependencies": ["base >= 0.17"], "factorio_version": "0.17"}

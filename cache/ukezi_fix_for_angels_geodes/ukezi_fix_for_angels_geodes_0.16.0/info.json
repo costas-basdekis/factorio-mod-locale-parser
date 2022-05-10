@@ -1,0 +1,1 @@
+{"name": "ukezi_fix_for_angels_geodes", "version": "0.16.0", "factorio_version": "0.16", "title": "Ukezi's fix for Angels Geodes", "author": "ukezi", "description": "Fixes angels geodes resulting in wrong amount of geodes", "dependencies": ["base", "angelsrefining >=0.9.10"]}

@@ -1,0 +1,1 @@
+{"name": "Easier Logistic System Research", "version": "0.1.0", "title": "Easier Logistic System Research", "author": "Rohan Bernett", "factorio_version": "0.15", "dependencies": ["base"], "description": "Makes the Logistic System research only need green science, but also require Character Logistic Slots and Logistic Trash Slots."}

@@ -1,0 +1,1 @@
+{"name": "Munda_Ore_Change", "version": "1.1.1", "factorio_version": "1.1", "title": "Munda Ore Change", "author": "mundaTV", "contact": "https://twitch.tv/mundatv", "homepage": "mods.factorio.com/mods/mundatv/Munda_Ore_Change", "description": "Ore can be converted into (Ur-ore) using energy expenditure. Some mods are already supported.", "dependencies": ["base >= 1.1"]}

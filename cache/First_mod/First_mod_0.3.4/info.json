@@ -1,0 +1,1 @@
+{"name": "First_mod", "version": "0.3.4", "title": "The first mod", "author": "Me", "description": "This mod is example of how to mod", "factorio_version": "0.14", "dependencies": ["base"]}

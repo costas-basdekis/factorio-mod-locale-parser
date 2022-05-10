@@ -1,0 +1,1 @@
+{"name": "ukezi_capped_beams_change", "version": "0.18.0", "factorio_version": "0.18", "title": "ukezi's change to capped beams", "author": "ukezi", "dependencies": ["base >= 0.18.0", "IndustrialRevolution"], "contact": "", "description": "Changes capped beams to be easier craftable, bringing them in line with iron and later tech."}

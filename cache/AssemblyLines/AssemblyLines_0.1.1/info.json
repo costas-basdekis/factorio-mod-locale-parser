@@ -1,0 +1,1 @@
+{"name": "AssemblyLines", "version": "0.1.1", "title": "Assembly Lines", "author": "SeanMirrsen", "dependencies": ["base"], "factorio_version": "0.15", "description": "WIP. Currently adds inline assemblers."}

@@ -1,0 +1,1 @@
+{"name": "exact-grab", "version": "0.1.1", "title": "Exact Grab", "author": "merlish", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Precisely select the number of items you're holding - without click spam.\n\nClick a stack, then use CTRL+(numbers) to type out desired count. Or use CTRL+scroll wheel for fine adjustment. CTRL+R to recall."}

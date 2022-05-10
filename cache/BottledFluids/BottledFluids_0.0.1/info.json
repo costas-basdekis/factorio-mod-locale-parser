@@ -1,0 +1,1 @@
+{"name": "BottledFluids", "version": "0.0.1", "title": "Bottled Fluids", "description": "Small bottles for small fluid amounts, just one fluid per bottle", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "0.17"}

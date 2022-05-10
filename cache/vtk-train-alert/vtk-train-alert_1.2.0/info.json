@@ -1,0 +1,1 @@
+{"name": "vtk-train-alert", "version": "1.2.0", "title": "VortiK's Train alert", "author": "VortiK", "homepage": "", "description": "When a train or wagon dies, print an alert message to players and a map tag on its last position.", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

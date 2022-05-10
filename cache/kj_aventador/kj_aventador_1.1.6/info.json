@@ -1,0 +1,1 @@
+{"name": "kj_aventador", "version": "1.1.6", "title": "King Jo's Lamborghini Aventador", "author": "TheKingJo", "contact": "", "homepage": "", "description": "Adds the Lamborghini Aventador.", "factorio_version": "1.1", "dependencies": ["base", "kj_fuel >= 1.1.0"]}

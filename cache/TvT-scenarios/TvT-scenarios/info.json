@@ -1,0 +1,1 @@
+{"name": "TvT-scenarios", "version": "1.3.2", "factorio_version": "1.1", "title": "TvT scenarios", "author": "ZwerOxotnik", "contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik#7117", "homepage": "https://www.reddit.com/r/ZwerOxotnik/", "description": "New TvT scenarios and modified PvP scenario", "dependencies": ["? fake-tiles"]}

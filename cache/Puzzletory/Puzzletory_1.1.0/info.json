@@ -1,0 +1,1 @@
+{"name": "Puzzletory", "version": "1.1.0", "title": "Puzzletory", "author": "puzzletory", "contact": "puzzletory@gmail.com", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Play a logical puzzle game in 33 mini-levels. Fix a broken factory by several items in every level, then check if the factory satisfies objectives."}

@@ -1,0 +1,1 @@
+{"name": "artefact", "version": "0.1.3", "title": "Artifact", "author": "badway", "homepage": "", "description": "Alien artifacts left by another race appear on the map, from which the energy emanates, will it be possible to adapt them to your base?", "factorio_version": "0.18", "dependencies": ["base >= 0.17"]}

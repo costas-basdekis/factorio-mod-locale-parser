@@ -1,0 +1,1 @@
+{"name": "rconchat", "version": "0.1.0", "title": "RconChat", "author": "Kovus", "contact": "kovus@soulless.wtf", "homepage": "https://gitlab.com/FishBus/rconchat", "license": "BSD 3-clause", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "krmqueue >= 0.1"], "description": "RconChat uses RCON MessageQueue for sending and getting chat messages via RCON"}

@@ -1,0 +1,1 @@
+{"name": "smartchest", "version": "1.0.0", "title": "Smart chest", "author": "Telkine2018", "contact": "", "homepage": "", "description": "A new way to transport items and to build bases", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "! space-exploration"]}

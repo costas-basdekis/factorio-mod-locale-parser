@@ -1,0 +1,1 @@
+{"name": "nanobotsfix-for-IR", "version": "0.0.1", "title": "Nanobots fix for Deadlocks Industrial Revolution", "author": "Kingarthur", "homepage": "", "description": "makes adjustments for nanobots to work with IR change tech and materials", "factorio_version": "0.17", "dependencies": ["base >= 0.17.35", "IndustrialRevolution >= 0.9.0", "Nanobots >= 3.1.0"]}

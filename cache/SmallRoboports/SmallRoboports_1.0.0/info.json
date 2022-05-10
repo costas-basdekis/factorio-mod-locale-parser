@@ -1,0 +1,1 @@
+{"name": "SmallRoboports", "version": "1.0.0", "title": "Small Roboports", "author": "boail", "description": "Smaller Roboport", "factorio_version": "0.15", "dependencies": ["base >= 0.15"]}

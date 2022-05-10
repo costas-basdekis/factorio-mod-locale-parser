@@ -1,0 +1,1 @@
+{"name": "efficient-uranium-processing", "version": "0.0.2", "title": "Efficient Uranium Processing", "author": "hawk", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "This mod replaces the Original Recipe of Uranium-processing into an efficient way."}

@@ -1,0 +1,1 @@
+{"name": "GeneratorPriority", "version": "0.17.2", "factorio_version": "0.17", "title": "Generator Priority configurator", "author": "Kas", "contact": "", "homepage": "", "description": "This mod allows you, with a few keybinds, to change a generator like Steam engine or Steam turbine 's priority from Primary, Secondary or Tertiary", "dependencies": ["base >= 0.17.0"]}

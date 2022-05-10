@@ -1,0 +1,1 @@
+{"name": "tessellatorio", "version": "0.0.1", "title": "Tessellatorio", "author": "PyroFire", "dependencies": ["base >= 0.18", "! warptorio2", "! SpaceExploration"], "description": "Factorio but your factory auto-tessellates", "factorio_version": "0.18", "homepage": "http://patreon.com/pyrofire"}

@@ -1,0 +1,1 @@
+{"name": "Sanic", "version": "1.0.2", "title": "Gotta Go Fast", "author": "slikts", "contact": "dabas@untu.ms", "homepage": "https://gitlab.com/slikts/sanic", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Sanic mod."}

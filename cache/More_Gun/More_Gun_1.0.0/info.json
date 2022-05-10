@@ -1,0 +1,1 @@
+{"name": "More_Gun", "version": "1.0.0", "title": "More_Gun", "author": "Sirenfal", "description": "Adds depleted uranium rounds, and maybe more gun in the future", "dependencies": ["base >= 0.14.0"], "factorio_version": "0.14.0"}

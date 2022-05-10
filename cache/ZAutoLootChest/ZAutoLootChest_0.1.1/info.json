@@ -1,0 +1,1 @@
+{"name": "ZAutoLootChest", "version": "0.1.1", "title": "Z AutoLoot Chest", "author": "Zholtar", "contact": "maxime@elevage-vct.be", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "A Chest that auto-loot items on the ground. Usefull for mods using additional loots."}

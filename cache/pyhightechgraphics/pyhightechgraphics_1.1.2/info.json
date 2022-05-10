@@ -1,0 +1,1 @@
+{"name": "pyhightechgraphics", "version": "1.1.2", "factorio_version": "1.1", "title": "Pyanodons HighTech Graphics", "author": "Pyanodon, Nexela, Kingarthur", "contact": "", "homepage": "", "description": "Contains the graphics for Pyanodons HighTech", "dependencies": ["stdlib >= 1.0.0"], "package": {"ignore": [], "scripts": {}}}

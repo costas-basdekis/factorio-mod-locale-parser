@@ -1,0 +1,1 @@
+{"name": "pumped-storage-plant", "description": "Stores Electricity via Water", "version": "0.16.7", "title": "pumped storage plant", "author": "wekabu2.0", "dependencies": ["base"], "factorio_version": "0.16"}

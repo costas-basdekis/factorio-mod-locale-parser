@@ -1,0 +1,1 @@
+{"name": "themightygugi_longreach", "version": "2.1.1", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "title": "Long and Far Reach", "author": "Themightygugi", "description": "Long Reach. You can interact with most entities in the game far away. You can even use the map and zoom in and interact this way, as long as there is radar coverage."}

@@ -1,0 +1,1 @@
+{"name": "EasyAPI", "version": "0.9.9", "factorio_version": "1.1", "title": "Easy API [ALPHA]", "author": "ZwerOxotnik", "contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik#7117", "homepage": "https://www.reddit.com/r/ZwerOxotnik/", "description": "see locale/*", "dependencies": ["zk-lib >= 0.10.0"]}

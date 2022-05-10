@@ -1,0 +1,1 @@
+{"name": "vanilla-loaders", "version": "0.15.1", "factorio_version": "0.15", "title": "Vanilla loaders", "author": "Thaui", "description": "Add loader, fast loader and express loader with a vanilla look and feel.", "dependencies": ["base", "? boblogistics"]}

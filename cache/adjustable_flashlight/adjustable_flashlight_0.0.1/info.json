@@ -1,0 +1,1 @@
+{"name": "adjustable_flashlight", "version": "0.0.1", "title": "Adjustable Flashlight", "author": "_CodeGreen", "description": "Makes the player flashlight size and brightness customizable. Also allows the area or cone light to be toggled in mod settings.", "dependencies": ["base"], "factorio_version": "1.1"}

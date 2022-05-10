@@ -1,0 +1,1 @@
+{"name": "ScriptLib", "version": "0.0.3", "title": "ScriptLib", "author": "Script20", "contact": "Discord: Script#6602", "homepage": "discord.gg/D2YJFBm", "description": "Library of shared code used by all my mods", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

@@ -1,0 +1,1 @@
+{"name": "transformer", "version": "0.0.5", "title": "Transformer", "author": ["monty", "Pofi"], "factorio_version": "0.14", "dependencies": ["base >= 0.12.11"], "homepage": "https://mods.factorio.com/mods/Penguin/transformer", "description": "Adds a transformer to allow greater coltrol over power grid"}

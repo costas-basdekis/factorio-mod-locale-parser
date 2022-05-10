@@ -1,0 +1,1 @@
+{"name": "nucleobuff", "version": "1.0.0", "title": "nucleoBuff", "author": "matthyno", "description": "Buffs Centrifuge Uranium processing for Bobs/Angels.", "dependencies": ["base >= 1.1"], "factorio_version": "1.1"}

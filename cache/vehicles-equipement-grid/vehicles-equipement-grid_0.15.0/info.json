@@ -1,0 +1,1 @@
+{"name": "vehicles-equipement-grid", "version": "0.15.0", "title": "Vehicles Equipement Grid", "author": "Thaui", "license": "MIT License", "description": "This mod add equipements grid to vehicles.", "dependencies": ["? bobvehicleequipment"], "factorio_version": "0.15"}

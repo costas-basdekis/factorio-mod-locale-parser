@@ -1,0 +1,1 @@
+{"name": "BiggerCargo", "version": "0.17.1", "title": "Bigger Cargo", "author": "Gwynnie", "contact": "hexshell@gmail.com", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "boblogistics >= 0.17.7"], "description": "This mod extends Bob's logistics and adds:\n - Cargo wagons for all occasions!\n\n*Assuming your occasion is heavy hauling"}

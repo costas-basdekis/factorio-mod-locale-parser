@@ -1,0 +1,1 @@
+{"name": "randotorio", "version": "0.0.7", "title": "Randotorio", "author": "PyroFire", "dependencies": ["base >= 0.18", "? SeaBlock", "? spaceblock"], "description": "Factorio but every recipe is randomized", "factorio_version": "0.18", "homepage": "none"}

@@ -1,0 +1,1 @@
+{"name": "750BagSize", "version": "0.0.1", "title": "750 Inventory Size", "author": "paofnsd", "email": "cb3lee@uwaterloo.ca", "homepage": "cb3lee@uwaterloo.ca", "contact": "cb3lee@uwaterloo.ca", "description": "Increase the player bag size.", "factorio_version": "0.17", "dependencies": ["base >= 0.17.0"]}

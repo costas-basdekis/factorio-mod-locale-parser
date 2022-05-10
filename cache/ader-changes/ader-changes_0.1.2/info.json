@@ -1,0 +1,1 @@
+{"name": "ader-changes", "version": "0.1.2", "factorio_version": "0.17", "title": "Ader's Changes for mods", "author": "Ader", "contact": "Discord: Ader#0530", "dependencies": ["base >= 0.17.0", "boblogistics", "RUSLocalizationsModsForFactorio", "angelsindustries", "? space-exploration"], "description": "Change some mods configuration and recipes."}

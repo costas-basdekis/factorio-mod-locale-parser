@@ -1,0 +1,1 @@
+{"name": "BetterCentrifugeRecipes", "version": "0.0.2", "title": "More Centrifuge Recipes", "author": "TheSeriusYoutuber", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base"], "description": "Adds more recipes for the centrifuge, for example full charge of nuclear fuel that takes 20 uranium ore."}

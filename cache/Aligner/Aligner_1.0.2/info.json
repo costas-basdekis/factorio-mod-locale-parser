@@ -1,0 +1,1 @@
+{"name": "Aligner", "version": "1.0.2", "title": "Aligner", "author": "SixFive7", "contact": "jori@huisman.io", "homepage": "https://www.netwerkplek.com/", "factorio_version": "0.18", "dependencies": ["base >= 0.18", "? FactorioExtended-Plus-Power", "? LightedPolesPlus"], "description": "Based on Larandar's Chunk Aligned mod. Extended to support Krastorio."}

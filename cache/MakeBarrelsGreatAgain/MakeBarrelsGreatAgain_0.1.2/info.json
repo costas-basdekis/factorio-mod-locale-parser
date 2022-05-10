@@ -1,0 +1,1 @@
+{"name": "MakeBarrelsGreatAgain", "version": "0.1.2", "title": "Make Barrels Great Again", "author": "can00336", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"], "description": "Undo the unnecessary barrel and fluid tanker changes in v0.16.8."}

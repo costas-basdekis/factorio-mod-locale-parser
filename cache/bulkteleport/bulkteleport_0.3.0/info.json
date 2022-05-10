@@ -1,0 +1,1 @@
+{"name": "bulkteleport", "version": "0.3.0", "factorio_version": "1.1", "title": "Bulk Teleporters", "author": "dorfl", "contact": "Dorfl <ceramic.atheist@gmail.com>", "homepage": "https://gitlab.com/aerosuidae/bulkteleport", "description": "Use spare gigajoules to teleport shipments of items.", "dependencies": ["base >= 1.1.0"]}

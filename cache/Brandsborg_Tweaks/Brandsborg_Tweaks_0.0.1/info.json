@@ -1,0 +1,1 @@
+{"name": "Brandsborg_Tweaks", "version": "0.0.1", "title": "Brandsborg Tweaks", "author": "sbrandsborg", "email": "steffen@sbrandsborg.dk", "homepage": "steffen@sbrandsborg.dk", "contact": "steffen@sbrandsborg.dk", "description": "A mod for tweaking game settings, using mod settings.", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

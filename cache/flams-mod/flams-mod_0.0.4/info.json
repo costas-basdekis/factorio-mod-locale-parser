@@ -1,0 +1,1 @@
+{"name": "flams-mod", "author": "flamion", "version": "0.0.5", "title": "flams-mod", "description": "Adds even higher capacity Accumulators and Solar panels", "homepage": "", "factorio_version": "1.1", "dependencies": ["base", "Advanced-Solar"]}

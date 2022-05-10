@@ -1,0 +1,1 @@
+{"name": "JoesPower", "version": "0.0.5", "factorio_version": "1.1", "title": "Joe's Power", "author": "freebit75", "contact": "", "homepage": "", "description": "Adds new tiers of nuclear reactors with the goal of minimizing entity counts and allowing updates-per-second (UPS) friendly nuclear setups.", "dependencies": ["base >= 0.18.0", "? WaterWell >= 1.0.21", "! bobpower"]}

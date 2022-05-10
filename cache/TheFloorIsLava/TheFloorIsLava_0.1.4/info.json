@@ -1,0 +1,1 @@
+{"name": "TheFloorIsLava", "version": "0.1.4", "title": "The Floor Is Lava", "author": "Weston Kelliher", "contact": "", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Extreme radiation causes you to take damage unless you're on manmade tiles. A fun challenge for territory expansion."}

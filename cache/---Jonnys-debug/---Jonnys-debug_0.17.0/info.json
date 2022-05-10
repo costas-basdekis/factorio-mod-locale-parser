@@ -1,0 +1,1 @@
+{"name": "---Jonnys-debug", "version": "0.17.0", "factorio_version": "0.17", "title": "Jonnys Debug", "author": "Jonny.one", "contact": "jonny049-dev@yahoo.com", "homepage": "http://Jonny.one", "description": "Factorio Start = Printet all Tables and Variables in the JoErrRep Funktion into a Gui Overlay and Stop Factorio", "dependencies": ["base >= 0.17.0"]}

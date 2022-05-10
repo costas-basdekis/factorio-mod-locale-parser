@@ -1,0 +1,1 @@
+{"name": "MatrixDJ96-NoSteamInserter", "version": "0.0.1", "title": "MatrixDJ96: No Steam Inserter", "author": "MatrixDJ96", "dependencies": ["base >= 1.1", "boblogistics", "? RateCalculator"], "description": "Disable Steam Inserter from Bob's Logistics", "factorio_version": "1.1", "homepage": ""}

@@ -1,0 +1,1 @@
+{"name": "calm-your-alerts", "title": "Calm Your Alerts", "version": "1.0.2", "factorio_version": "1.1", "author": "doktorstick", "homepage": "https://bitbucket.org/doktorstick/calm-your-alerts", "description": "Enemies storming the gates and alarms sending you into a panic? Just calm your alerts!", "dependencies": ["base >= 1.1.32"]}

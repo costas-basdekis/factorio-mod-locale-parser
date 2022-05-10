@@ -1,0 +1,1 @@
+{"name": "Healing_Walls", "version": "1.0.0", "title": "Healing Walls", "author": "Ephraim242", "contact": "", "homepage": "", "description": "Walls that heal!", "dependencies": ["base >= 0.14.0"], "factorio_version": "0.14"}

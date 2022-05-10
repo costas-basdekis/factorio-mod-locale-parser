@@ -1,0 +1,1 @@
+{"name": "space-on-land", "version": "0.1.0", "title": "Space Buildings on Land", "author": "Jonathan_1205", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "space-exploration >= 0.1.0"], "description": "Huge cheat for SE, allows building space buildings on land"}

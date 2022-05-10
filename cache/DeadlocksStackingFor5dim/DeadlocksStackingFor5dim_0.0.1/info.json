@@ -1,0 +1,1 @@
+{"name": "DeadlocksStackingFor5dim", "version": "0.0.1", "title": "Deadlock's Stacking for 5dim", "author": "MrGoodbits", "contact": "", "homepage": "", "dependencies": ["base >= 0.16.41", "?DeadlockStacking", "?DeadlockCrating", "?5dim_ores"], "description": "Adds Stacking or Craing belt compression for some products introduced in 5dim's. mods", "factorio_version": "0.16"}

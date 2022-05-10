@@ -1,0 +1,1 @@
+{"name": "OldOaks-FactorioPlus", "version": "0.1.3", "title": "Old Oak's Factorio Plus", "author": "OldOak", "email": "old1953oak@gmail.com", "contact": "", "homepage": "", "description": "more ore more tech more fun", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

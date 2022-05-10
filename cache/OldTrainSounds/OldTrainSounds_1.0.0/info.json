@@ -1,0 +1,1 @@
+{"name": "OldTrainSounds", "version": "1.0.0", "title": "Restore train sounds from 0.17", "author": "dahhakd", "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=86171", "homepage": "https://mods.factorio.com/mod/OldTrainSounds", "description": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18.2"]}

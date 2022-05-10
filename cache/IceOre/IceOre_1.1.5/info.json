@@ -1,0 +1,1 @@
+{"name": "IceOre", "description": "The mod adds Ice-Ore", "version": "1.1.5", "title": "Ice Ore", "author": "darkfrei, Qon", "dependencies": ["base", "(?) omnimatter"], "factorio_version": "1.1"}

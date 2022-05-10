@@ -1,0 +1,1 @@
+{"name": "factorioplus", "version": "0.1.97", "title": "Factorio+", "author": "Fishbus", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "A mod that builds upon the vanilla experience. With balance changes and new features"}

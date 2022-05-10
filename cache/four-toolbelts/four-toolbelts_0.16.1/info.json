@@ -1,0 +1,1 @@
+{"name": "four-toolbelts", "author": "Thaui", "version": "0.16.1", "title": "Four toolbelts", "description": "Adds research for up to 4 toolbelts.", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

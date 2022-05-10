@@ -1,0 +1,1 @@
+{"name": "JoesLinearResearchCost", "version": "0.0.1", "title": "Joes Linear Research Cost", "author": "Joe", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.17"], "description": "Linearly increases the research cost multiplier from 1 to whatever you set as you learn more and more technologies."}

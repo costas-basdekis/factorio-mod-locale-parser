@@ -1,0 +1,1 @@
+{"name": "quarry", "version": "1.6.15", "title": "Quarry", "author": "FuzzCat927, Optera", "description": "Mine ores without an ore patch.", "homepage": "https://mods.factorio.com/mods/FuzzCat927/quarry", "factorio_version": "0.17", "dependencies": ["base >= 0.15.5", "?angelsinfiniteores >= 0.5.4"]}

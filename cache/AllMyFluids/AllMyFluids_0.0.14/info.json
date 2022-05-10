@@ -1,0 +1,1 @@
+{"name": "AllMyFluids", "title": "All My Fluids", "description": "All intermediate are (also) fluids, 60 fluids is one item.", "version": "0.0.14", "author": "darkfrei", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0", "? Flare Stack >= 2.1.7", "? bobinserters >= 0.16.0"]}

@@ -1,0 +1,1 @@
+{"name": "easy-production-science", "version": "1.0.0", "factorio_version": "1.1", "title": "Easy production science", "author": "HyperWrench", "homepage": "", "dependencies": ["base"], "description": "Reduces the amount of ingredients needed to create a pack"}

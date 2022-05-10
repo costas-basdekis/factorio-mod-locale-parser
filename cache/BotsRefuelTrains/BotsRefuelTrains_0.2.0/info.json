@@ -1,0 +1,1 @@
+{"name": "BotsRefuelTrains", "version": "0.2.0", "title": "Bots Refuel Trains", "author": "dockmeister", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Construction Bots can now refuel locomotives. Open any train station to configure, which fuel should be requested at that stop."}

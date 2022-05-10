@@ -1,0 +1,1 @@
+{"name": "Faster Concrete Removal", "author": "Fatchance", "version": "1.0.1", "title": "Faster Concrete Removal", "description": "Lower hardness and mine time to zero", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0"]}

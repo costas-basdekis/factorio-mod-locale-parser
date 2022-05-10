@@ -1,0 +1,1 @@
+{"name": "Custom Inventory Size", "version": "1.0.1", "title": "Custom Inventory Size", "author": "Othyn", "homepage": "", "dependencies": ["base >= 0.15.0"], "description": "Allows you to set a desired size for your players inventory, defaulting to 120 (2x). Ranges from 60 (factorio default) to 480 (8x).", "factorio_version": "0.16"}

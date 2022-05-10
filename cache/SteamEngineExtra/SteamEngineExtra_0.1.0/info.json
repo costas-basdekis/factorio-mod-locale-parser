@@ -1,0 +1,1 @@
+{"name": "SteamEngineExtra", "version": "0.1.0", "title": "Steam Engine Extra", "author": "Adiking03", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Adds a higher tier of boiler and steam engine which are more efficient"}

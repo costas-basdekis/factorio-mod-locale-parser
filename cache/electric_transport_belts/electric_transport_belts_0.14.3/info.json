@@ -1,0 +1,1 @@
+{"name": "electric_transport_belts", "version": "0.14.3", "factorio_version": "0.14", "title": "Electric Transport Belts", "author": "Zinal", "contact": "", "homepage": "", "description": "Transport belts now require energy to operate. Energy is supplied by Transport belt controllers.", "dependencies": ["base >= 0.14.0"]}

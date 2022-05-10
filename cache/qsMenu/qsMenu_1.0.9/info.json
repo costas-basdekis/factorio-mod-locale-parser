@@ -1,0 +1,1 @@
+{"name": "qsMenu", "version": "1.0.9", "factorio_version": "0.18", "title": "Quick Start Menu", "author": "vibes81", "contact": "", "homepage": "", "description": "Adds a GUI Menu that allows fine grain control of your starting items for custom play, in exsiting games use /qsmenu in the console to show the menu", "dependencies": ["base >= 0.17"]}

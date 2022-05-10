@@ -1,0 +1,1 @@
+{"name": "Electrogun", "author": "wlfbck", "version": "0.1.1", "factorio_version": "0.16", "title": "Electrogun", "homepage": "", "description": "Inspired by GTA2s electrogun, i made something similar for Factorio!", "dependencies": ["base >= 0.16.0"]}

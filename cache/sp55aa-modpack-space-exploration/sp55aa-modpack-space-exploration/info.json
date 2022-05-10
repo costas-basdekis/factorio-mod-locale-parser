@@ -1,0 +1,1 @@
+{"name": "sp55aa-modpack-space-exploration", "version": "0.0.2", "title": "sp55aa-modpack-space-exploration", "author": "sp55aa", "description": "my space exploration mod pack", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "space-exploration", "space-exploration-graphics", "space-exploration-postprocess", "?space-exploration-hr-graphics"]}

@@ -1,0 +1,1 @@
+{"name": "SlightlyLongerPipes", "version": "0.0.4", "title": "Slightly Longer Pipes", "author": "Rhamphoryncus (Adam Olsen)", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"], "description": "Slightly longer underground pipes so they can reach under a reactor."}

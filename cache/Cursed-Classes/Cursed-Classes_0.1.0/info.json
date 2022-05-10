@@ -1,0 +1,1 @@
+{"name": "Cursed-Classes", "version": "0.1.0", "title": "Cursed Classes", "factorio_version": "0.14", "author": "PhoNoTheSky [Orginal L0771]", "contact": "https://forums.factorio.com/ucp.php?i=pm&mode=compose&u=9834", "homepage": "https://forums.factorio.com/viewtopic.php?f=120&t=17292", "dependencies": ["base >= 0.14"], "description": "Adds classes to Factorio."}

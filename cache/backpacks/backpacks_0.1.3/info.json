@@ -1,0 +1,1 @@
+{"name": "backpacks", "version": "0.1.3", "title": "Backpacks", "author": "Blank", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "Store your items in backpacks to carry more junk. Lets be real, if you can carry a train in your pocket, you can carry 20 backpacks."}

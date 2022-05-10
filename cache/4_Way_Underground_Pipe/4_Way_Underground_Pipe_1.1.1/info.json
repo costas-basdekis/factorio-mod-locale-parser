@@ -1,0 +1,1 @@
+{"name": "4_Way_Underground_Pipe", "version": "1.1.1", "title": "4 Way Underground Pipe", "author": "Scorpio_King", "factorio_version": "1.1", "dependencies": ["base >= 0.18.0"], "description": "Adds 4 way underground pipe with 20 distance"}

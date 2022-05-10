@@ -1,0 +1,1 @@
+{"name": "SyndicateOST", "version": "1.1.1", "title": "SyndicateOST", "author": "Spasmus", "contact": "C", "homepage": "k", "description": "Adds soundtrack files from the 1993 Syndicate game and others.", "dependencies": ["base >= 0.17"], "factorio_version": "0.17"}

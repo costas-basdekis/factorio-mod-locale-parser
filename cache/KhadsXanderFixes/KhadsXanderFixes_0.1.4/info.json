@@ -1,0 +1,1 @@
+{"name": "KhadsXanderFixes", "version": "0.1.4", "title": "Khad's Xander Mod Fixes", "author": "Khadgarion", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["xander-mod >= 2.1.1"], "description": "This is a mod that changes some recipes and research requirements to be more tier appropriate, and also fixes some unknown item keys."}

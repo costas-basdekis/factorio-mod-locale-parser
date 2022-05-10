@@ -1,0 +1,1 @@
+{"name": "Better-Flamethrower", "version": "0.5.8", "factorio_version": "0.18", "date": "2019-03-08", "title": "Better Flamethrower", "author": "CptCrazy", "homepage": "", "description": "Adds a second tier Flamethrower", "dependencies": ["base >= 0.17.00"]}

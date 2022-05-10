@@ -1,0 +1,1 @@
+{"name": "se-disable-scan", "version": "1.0.2", "title": "Space Exploration Disable Surface Scan", "author": "Gerkiz", "dependencies": ["base >= 0.17", "(?) space-exploration >= 0.5.42"], "factorio_version": "1.1", "description": "Disables the surface scan/trim which usually lags servers to death."}

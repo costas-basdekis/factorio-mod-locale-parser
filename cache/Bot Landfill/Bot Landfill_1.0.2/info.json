@@ -1,0 +1,1 @@
+{"name": "Bot Landfill", "version": "1.0.2", "title": "Bot Landfill", "author": "GotLag", "description": "Allows landfill to be placed by bots", "factorio_version": "0.16", "dependencies": ["base >= 0.16.17"]}

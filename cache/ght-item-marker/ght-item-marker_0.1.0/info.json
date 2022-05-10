@@ -1,0 +1,1 @@
+{"name": "ght-item-marker", "version": "0.1.0", "title": "Item Marker", "author": "gheift", "description": "Marks items on ground as to be looted or to be deconstructed.", "factorio_version": "0.14", "dependencies": ["base >= 0.14"]}

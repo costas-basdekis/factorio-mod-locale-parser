@@ -1,0 +1,1 @@
+{"name": "FrnCore", "version": "0.14.0", "factorio_version": "0.14", "title": "Frn's Mods Core", "author": "Frn", "description": "Optional but useful.", "dependencies": ["base >= 0.14.0"]}

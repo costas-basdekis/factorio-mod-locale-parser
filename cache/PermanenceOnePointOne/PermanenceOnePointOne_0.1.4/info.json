@@ -1,0 +1,1 @@
+{"name": "PermanenceOnePointOne", "version": "0.1.4", "title": "Permanence for 1.1", "author": "Tom Smeets (continuation by G. Pendergrass)", "contact": "@garr890354839#7341", "homepage": "https://github.com/TomSmeets/Permanence", "factorio_version": "1.1", "dependencies": ["base >= 0.12.35"], "description": "Never remove anything. What could go wrong."}

@@ -1,0 +1,1 @@
+{"name": "rp-turrets", "version": "0.0.3", "title": "RP Turret Art", "author": "Raspberry Puppies", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "Provides turret sprites to be used by other mods."}

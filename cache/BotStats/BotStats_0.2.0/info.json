@@ -1,0 +1,1 @@
+{"name": "BotStats", "version": "0.2.0", "title": "Bot Stats", "author": "can00336", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"], "description": "Display bot stats."}

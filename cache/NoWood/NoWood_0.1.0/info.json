@@ -1,0 +1,1 @@
+{"name": "NoWood", "version": "0.1.0", "title": "No Wood", "author": "Eric Domeier", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "This mod removes woods as a resource replacing it in recipes where needed"}

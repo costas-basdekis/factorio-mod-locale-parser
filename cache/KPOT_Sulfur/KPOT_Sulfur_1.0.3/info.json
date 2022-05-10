@@ -1,0 +1,1 @@
+{"name": "KPOT_Sulfur", "version": "1.0.3", "title": "KPOT's Sulfur Mod", "author": "KPOToff", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"], "description": "This mod adds mineable sulfur ore to the map."}

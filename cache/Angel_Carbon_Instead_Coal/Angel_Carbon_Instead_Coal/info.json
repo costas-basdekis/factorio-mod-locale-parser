@@ -1,0 +1,1 @@
+{"name": "Angel_Carbon_Instead_Coal", "version": "1.0.0", "title": "Angel Carbon Instead Coal", "author": "Jack Salem", "description": "Replaces coal with carbon in some recipes.", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "angelspetrochem >= 0.9.0", "angelsrefining >= 0.11.0"]}

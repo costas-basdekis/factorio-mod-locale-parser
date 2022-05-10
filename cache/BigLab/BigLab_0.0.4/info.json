@@ -1,0 +1,1 @@
+{"name": "BigLab", "version": "0.0.4", "title": "Big Lab", "author": "DellAquila", "factorio_version": "0.18", "description": "A Big Lab that process your science quickier and accepts more modules. From Liquify Science and Big Lab.", "dependencies": ["? DiscoScience >= 1.0.0"]}

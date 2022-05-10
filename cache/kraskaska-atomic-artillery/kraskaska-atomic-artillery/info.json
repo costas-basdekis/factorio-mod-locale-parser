@@ -1,0 +1,1 @@
+{"name": "kraskaska-atomic-artillery", "version": "1.0.1", "title": "Atomic Artillery", "description": "Adds adhesive tape, which can be used to glue atomic bomb and artillery shell together!", "author": "Kraskaska", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

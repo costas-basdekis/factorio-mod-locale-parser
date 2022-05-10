@@ -1,0 +1,1 @@
+{"name": "VBucks", "author": "DeltaNedas", "version": "1.0.1", "factorio_version": "0.17", "title": "V-Bucks Mod", "description": "V-Bucks Mod for Minecraft ported to Factorio.", "dependencies": ["base >= 0.17.0"]}

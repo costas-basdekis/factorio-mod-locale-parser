@@ -1,0 +1,1 @@
+{"name": "StupidAchievements", "version": "0.2.0", "title": "Stupid Achievements", "author": "can00336", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"], "description": "Achievements that are just stupid."}

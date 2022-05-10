@@ -1,0 +1,1 @@
+{"name": "shmlamps", "version": "0.0.2", "factorio_version": "0.16", "title": "Shaman's lamps mod", "author": "shm13 (Nikolay Shamanovich)", "contact": "shm013@yandex.ru", "homepage": "https://github.com/Shm13", "description": "", "dependencies": ["base >= 0.16.0"]}

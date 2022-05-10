@@ -1,0 +1,1 @@
+{"name": "Larger_stack", "version": "0.0.1", "title": "Larger solid fuel stack size", "author": "Imaginary", "email": "", "contact": "", "homepage": "", "description": "Adds Larger stack size.", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

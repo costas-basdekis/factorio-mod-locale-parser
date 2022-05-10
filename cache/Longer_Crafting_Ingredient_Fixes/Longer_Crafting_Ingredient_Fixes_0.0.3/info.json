@@ -1,0 +1,1 @@
+{"name": "Longer_Crafting_Ingredient_Fixes", "author": "osldgoth", "version": "0.0.3", "title": "Longer Crafting, Ingredient Fixes", "homepage": "https://github.com/osldgoth/", "description": "Increases craft time for all recipes, adjusts recipe ingredients", "factorio_version": "0.16", "dependencies": ["base >= 0.16.00", "Actual_Craft_Time >= 0.1"]}

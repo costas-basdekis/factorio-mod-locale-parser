@@ -1,0 +1,1 @@
+{"name": "SeaBlock-clusterio", "version": "0.0.1", "factorio_version": "0.17", "title": "Sea Block Clusterio", "author": "Trainwreck", "homepage": "https://forums.factorio.com/viewtopic.php?t=43759", "description": "Same as seablock but with clusterio get and put chests on start", "dependencies": ["base", "SeaBlock", "clusterio"]}

@@ -1,0 +1,1 @@
+{"name": "seoseo", "version": "1.0.0", "title": "seoseo", "author": "seo", "contact": "tzdiv@yandex.ru", "homepage": "", "description": "Fast start for Krastorio - generator, armor, robots", "factorio_version": "0.17", "dependencies": ["base >= 0.17"]}

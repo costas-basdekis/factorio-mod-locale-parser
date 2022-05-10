@@ -1,0 +1,1 @@
+{"name": "ModAdaptater", "version": "0.0.8", "title": "Mod Adaptater", "author": "Ritn", "description": "Adaptateur entre certain mod pour garder une coh\u00e9rence", "factorio_version": "1.0", "dependencies": ["base >= 1.0"]}

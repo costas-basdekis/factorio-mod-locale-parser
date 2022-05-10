@@ -1,0 +1,1 @@
+{"author": "WildBraas", "description": "Outputs signals from blueprint with specified amounts", "factorio_version": "0.18", "name": "blueprint_request_chest_revamp", "title": "Blueprint Request Chest Revamp", "version": "1.1.2", "dependencies": ["base >= 0.18.0"]}

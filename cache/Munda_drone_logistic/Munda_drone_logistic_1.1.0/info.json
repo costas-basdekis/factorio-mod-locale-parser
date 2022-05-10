@@ -1,0 +1,1 @@
+{"name": "Munda_drone_logistic", "version": "1.1.0", "factorio_version": "1.1", "title": "Mundas Robo Start", "author": "WipMod", "contact": "https://t.me/wipmod", "homepage": "mods.factorio.com/mods/WipMod/Munda_drone_logistic_Porting", "description": "early logistic-chest-requester", "dependencies": ["base >= 1.1"]}

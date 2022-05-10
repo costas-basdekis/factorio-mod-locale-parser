@@ -1,0 +1,1 @@
+{"name": "requestchestfix", "version": "0.0.1", "title": "Requester Chest Fix", "author": "Xaraknid", "description": "The recipe disapear in our game it's an attempt to fix that.", "factorio_version": "0.16", "dependencies": ["base >= 0.16.16"]}

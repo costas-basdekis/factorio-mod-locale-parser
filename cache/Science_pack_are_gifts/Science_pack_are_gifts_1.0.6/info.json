@@ -1,0 +1,1 @@
+{"name": "Science_pack_are_gifts", "version": "1.0.6", "title": "Science pack are gifts", "author": "FacelessGER", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.17", "? Fantario", "! Science_pack_glow"], "description": "Christmas theme: Science pack are gifts (only graphics). NEW Full compatibility with Fantario"}

@@ -1,0 +1,1 @@
+{"name": "Steam-Locomotive", "version": "0.1.3", "title": "Steam Locomotive by AlveKatt", "author": "AlveKatt", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "This mod adds in a new locomotive that is faster but heavier, slower acceleration, than the original diesel locomotive."}

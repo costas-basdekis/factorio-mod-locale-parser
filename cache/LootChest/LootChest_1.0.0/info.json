@@ -1,0 +1,1 @@
+{"name": "LootChest", "version": "1.0.0", "factorio_version": "0.14", "title": "LootChest", "author": "PiggyWhiskey", "contact": "", "homepage": "", "description": "Automatically collects loot. Usefull for other mods that add loot when aliens die like bob's mods", "dependencies": ["base >= 0.14.0"]}

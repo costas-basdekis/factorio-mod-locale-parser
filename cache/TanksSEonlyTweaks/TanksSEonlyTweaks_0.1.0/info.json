@@ -1,0 +1,1 @@
+{"name": "TanksSEonlyTweaks", "version": "0.1.0", "title": "Tanks Tweaks for Space Exploration", "author": "GeneralTank", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0", "space-exploration"], "description": "Various tweaks for Space Exploration not dependent on K2"}

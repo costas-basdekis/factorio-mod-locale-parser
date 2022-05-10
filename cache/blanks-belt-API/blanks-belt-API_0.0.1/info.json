@@ -1,0 +1,1 @@
+{"name": "blanks-belt-API", "version": "0.0.1", "title": "Blank's Custom Belt API", "author": "Blank", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "This mod adds a way to create new levels of belt that simplify the process to creating the images and entering a few values"}

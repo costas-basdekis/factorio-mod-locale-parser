@@ -1,0 +1,1 @@
+{"name": "expensive-landfill", "version": "0.18.0", "title": "Expensive Landfill", "author": "Soggs", "description": "Adds options to drastically increase the crafting cost and time of landfill.", "factorio_version": "0.18", "dependencies": ["base >= 0.17"]}

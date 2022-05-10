@@ -1,0 +1,1 @@
+{"name": "disable_map_resource_rendering", "version": "0.0.1", "title": "Disable Map Resource Rendering", "author": "Pirion", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Disable resouce patch rendering on maps."}

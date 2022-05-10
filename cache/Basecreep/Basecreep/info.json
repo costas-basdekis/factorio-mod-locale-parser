@@ -1,0 +1,1 @@
+{"name": "Basecreep", "version": "1.0.2", "title": "Basecreep", "author": "Nick Busey", "contact": "@NickBusey", "homepage": "https://nickbusey.com", "description": "Roboports automatically place concrete within their reach. Also, destroy trees, rocks, cliffs, and fill in water.", "factorio_version": "0.18", "dependencies": ["base >= 0.4.1"]}

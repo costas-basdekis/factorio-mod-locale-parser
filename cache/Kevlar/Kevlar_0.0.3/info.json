@@ -1,0 +1,1 @@
+{"name": "Kevlar", "version": "0.0.3", "title": "Kevlar", "author": "TcePrepK", "description": "This Mod Adds Kevlar On Game", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18.0"]}

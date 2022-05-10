@@ -1,0 +1,1 @@
+{"name": "autorun", "version": "0.0.1", "factorio_version": "0.14", "title": "Auto Running", "author": "kij336", "contact": "kij336@naver.com", "description": "press hot key then start running", "dependencies": "base >= 0.14.0"}

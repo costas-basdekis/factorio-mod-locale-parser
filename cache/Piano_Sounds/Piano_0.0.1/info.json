@@ -1,0 +1,1 @@
+{"name": "Piano_Sounds", "version": "0.0.1", "title": "Piano", "author": "Pigeon", "contact": "no", "factorio_version": "0.17", "dependencies": ["base >= 0.17"], "description": "Add some some sound to play with programmable speakers."}

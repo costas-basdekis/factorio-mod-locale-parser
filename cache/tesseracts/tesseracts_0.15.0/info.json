@@ -1,0 +1,1 @@
+{"name": "tesseracts", "version": "0.15.0", "factorio_version": "0.15", "title": "tesseracts", "author": "Die8, ep0d", "contact": "", "homepage": "http://www.fourslippers.com/factorio/", "description": "This is a mod that promotes creative mode.", "dependencies": ["base >= 0.15.00"]}

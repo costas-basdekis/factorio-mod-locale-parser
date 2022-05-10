@@ -1,0 +1,1 @@
+{"name": "ProductionScience", "version": "0.0.1", "title": "Production Science", "author": "Meade", "description": "Changes need from Electric Furnace to Solid Fuel and Plastic Bars.", "dependencies": ["base"], "factorio_version": "0.16"}

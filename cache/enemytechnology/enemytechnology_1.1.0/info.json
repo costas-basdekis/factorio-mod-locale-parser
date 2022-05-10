@@ -1,0 +1,1 @@
+{"name": "enemytechnology", "version": "1.1.0", "factorio_version": "1.1", "title": "Enemy Technology", "author": "Kabaril", "description": "Changes every technology to advance only by killing enemies", "dependencies": ["base >= 1.1.0", "? boblogistics >= 1.1.2", "? space-exploration-postprocess >= 0.5.11", "? space-exploration >= 0.5.36"]}

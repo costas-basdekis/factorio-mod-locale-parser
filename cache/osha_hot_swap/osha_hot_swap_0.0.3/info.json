@@ -1,0 +1,1 @@
+{"name": "osha_hot_swap", "version": "0.0.3", "title": "OSHA Hot Swap", "author": "OSHA-Jackson", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Allows you to quickly swap between items in your cursor that share similar item types. Fully configurable."}

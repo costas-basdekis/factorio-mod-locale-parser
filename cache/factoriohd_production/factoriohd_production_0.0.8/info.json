@@ -1,0 +1,1 @@
+{"name": "factoriohd_production", "version": "0.0.8", "title": "FactorioHD:Production", "author": "RedViperPT", "contact": "", "homepage": "https://mods.factorio.com/mod/factoriohd", "factorio_version": "1.1", "dependencies": ["base >= 1.0"], "description": "Part of the FactorioHD:Modpack."}

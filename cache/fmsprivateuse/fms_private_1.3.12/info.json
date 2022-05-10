@@ -1,0 +1,1 @@
+{"name": "fmsprivateuse", "version": "1.3.12", "title": "FMS For Private Server Use", "author": "notnotmelon", "description": "FMS For Private Use due to Geforce Now Issues With Custom Mods", "contact": "discord.gg/sbs", "factorio_version": "1.0", "dependencies": ["base", "?deep-storage-unit", "?PickerDollies"]}

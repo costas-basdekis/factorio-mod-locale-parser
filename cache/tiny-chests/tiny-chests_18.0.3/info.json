@@ -1,0 +1,1 @@
+{"name": "tiny-chests", "version": "18.0.3", "title": "Tiny chests", "author": "Zarnoo", "contact": "", "homepage": "", "description": "Adds small & tiny  chests with less capacity than normal chests. Ideal for early game before you get circuits (dont' connect to circuit network)", "dependencies": ["base >= 0.18.0"], "factorio_version": "0.18"}

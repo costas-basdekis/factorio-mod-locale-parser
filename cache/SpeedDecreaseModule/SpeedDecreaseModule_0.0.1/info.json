@@ -1,0 +1,1 @@
+{"name": "SpeedDecreaseModule", "version": "0.0.1", "title": "Speed-decrease-module-mod", "description": "\u6e1b\u901f\u30e2\u30b8\u30e5\u30fc\u30eb\u3092\u8ffd\u52a0\u3057\u307e\u3059\u3002\u751f\u7523\u901f\u5ea6\u306e\u8abf\u6574\u306b\u4f7f\u3048\u307e\u3059\u3002", "author": "Kyon1207", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

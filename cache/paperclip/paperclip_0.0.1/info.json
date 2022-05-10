@@ -1,0 +1,1 @@
+{"name": "paperclip", "version": "0.0.1", "title": "Paperclip", "author": "TheKracken", "description": "A simple mod to add paperclips to the game.", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

@@ -1,0 +1,1 @@
+{"name": "Market", "version": "0.0.3", "title": "Market", "author": "Nova", "description": "With this mod you are able to sell and buy Products", "factorio_version": "0.17", "dependencies": ["base >= 0.17"]}

@@ -1,0 +1,1 @@
+{"name": "start_with_factory_building", "version": "2.0.1", "title": "Start with factory buildings", "author": "ErdbeerbaerLP", "description": "NEEDS FACTORISSIMO 2!  Gives you 10 factories when you spawn", "factorio_version": "0.15", "dependencies": ["base >= 0.15.0", "Factorissimo2 >= 2.1.4"]}

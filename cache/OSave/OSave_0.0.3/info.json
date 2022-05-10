@@ -1,0 +1,1 @@
+{"name": "OSave", "version": "0.0.3", "factorio_version": "0.16", "title": "Offline Saver", "author": "derBobo", "description": "Saves the Game when the last player disconnects from the Server", "dependencies": []}

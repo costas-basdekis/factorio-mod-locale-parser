@@ -1,0 +1,1 @@
+{"name": "xander-mod-minimal", "version": "1.0.1", "factorio_version": "1.1", "title": "Xander Mod Minimal", "author": "Gens", "contact": "Factorio Mods", "homepage": "https://mods.factorio.com/mod/xander-mod-minimal", "description": "Personal modifications for Xander Mod", "dependencies": ["base >= 1.1.33", "xander-mod >= 3.6.1", "?Flow Control >= 3.0.8"]}

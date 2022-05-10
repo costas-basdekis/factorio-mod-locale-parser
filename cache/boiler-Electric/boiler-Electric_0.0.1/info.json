@@ -1,0 +1,1 @@
+{"name": "boiler-Electric", "version": "0.0.1", "factorio_version": "0.16", "title": "Electricboiler", "author": "KingArthur", "contact": "PM on the Factorio Forums", "homepage": "", "description": "Boiler powered by electricity to make steam anywhere", "dependencies": ["?bobpower >= 0.16.4"]}

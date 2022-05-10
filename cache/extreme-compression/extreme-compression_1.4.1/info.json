@@ -1,0 +1,1 @@
+{"name": "extreme-compression", "version": "1.4.1", "title": "Extreme Compression", "author": "Magiya", "factorio_version": "1.0", "dependencies": ["base >= 1.0", "magimods-assets >= 1.0.1"], "description": "Squish down your resources to store more of them."}

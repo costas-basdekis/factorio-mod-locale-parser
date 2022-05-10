@@ -1,0 +1,1 @@
+{"name": "Reactors_Plutonium_Slurpee", "version": "0.0.2", "factorio_version": "0.14", "title": "Reactors - Uranium Slurpee", "author": "YobuDal", "contact": "", "homepage": "", "description": "Renames Uranium Slurry to Uranium Slurpee (as demanded by mariomanZ28)", "dependencies": ["base >= 0.14.0", "Reactors >= 1.5.1"]}

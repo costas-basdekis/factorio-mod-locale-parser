@@ -1,0 +1,1 @@
+{"name": "an-open-clock", "version": "1.0.1", "title": "An Open Clock", "author": "Luke Marlin", "contact": "luke.marlin@viacesi.fr", "homepage": "https://github.com/LukeMarlin/factorio-open-clock", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Gives in-game time on a simple clock UI"}

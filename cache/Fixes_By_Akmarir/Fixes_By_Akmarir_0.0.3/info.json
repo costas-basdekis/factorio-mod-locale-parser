@@ -1,0 +1,1 @@
+{"name": "Fixes_By_Akmarir", "version": "0.0.3", "title": "Fixes By Akmarir", "author": "Akmarir", "factorio_version": "1.1", "description": "Little alterations and fixes for me and my friends.", "dependencies": ["base >= 1.1.00", "FactorioExtended-Plus-Storage >= 1.1.0"]}

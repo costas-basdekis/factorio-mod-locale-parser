@@ -1,0 +1,1 @@
+{"name": "b_light_poles", "version": "1.5.0", "title": "BiusArt light poles", "author": "BiusArt", "homepage": "", "description": "Adds light poles with different lighting", "factorio_version": "0.18", "dependencies": ["base >= 0.17"]}

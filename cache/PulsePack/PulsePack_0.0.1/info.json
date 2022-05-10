@@ -1,0 +1,1 @@
+{"name": "PulsePack", "version": "0.0.1", "title": "PulsePack Vanilla", "author": "HLPL4Y3R", "contact": "", "homepage": "steamcommunity.com/id/HLPL4Y3R/", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"], "description": "Adds unused vanilla content in a different and balanced way"}

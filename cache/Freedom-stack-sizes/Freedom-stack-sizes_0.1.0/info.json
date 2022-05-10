@@ -1,0 +1,1 @@
+{"name": "Freedom-stack-sizes", "version": "0.1.0", "title": "Freedom Stack Sizes", "author": "Bobby Chow", "contact": "", "homepage": "https://github.com/15256058/Freedom-stack-size", "factorio_version": "0.16", "dependencies": ["base >= 0.16"], "description": "You can modify the stack size as you like."}

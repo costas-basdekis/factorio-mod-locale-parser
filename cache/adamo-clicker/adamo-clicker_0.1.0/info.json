@@ -1,0 +1,1 @@
+{"name": "adamo-clicker", "version": "0.1.0", "factorio_version": "1.0", "title": "Clicker", "author": "adamo", "description": "A push button controller with video.", "dependencies": ["base >= 0.17.0", "? adamo-cars"]}

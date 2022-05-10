@@ -1,0 +1,1 @@
+{"name": "SolarMod", "version": "1.0.3", "title": "Curbolt's Solar Mod", "author": "Curbolt", "contact": "", "homepage": "", "description": "Solar Panels", "factorio_version": "0.16", "dependencies": ["base >= 0.16.0"]}

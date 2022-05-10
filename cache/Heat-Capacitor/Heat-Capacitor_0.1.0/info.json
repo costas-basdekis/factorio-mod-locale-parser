@@ -1,0 +1,1 @@
+{"name": "Heat-Capacitor", "version": "0.1.0", "title": "Heat Capacitor", "author": "msakuta", "description": "Adds a capacitor structure for storing heat, useful for regulating power load of Nuclear Reactors.", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.15.0", "? RealisticReactors", "? Nuclear Fuel"]}

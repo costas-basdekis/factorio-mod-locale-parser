@@ -1,0 +1,1 @@
+{"name": "SE-K2-opt-techcard-fix", "version": "1.0.0", "title": "SE(0.3)+K2 optimization tech card fix", "author": "Ragu", "factorio_version": "1.0", "dependencies": ["Krastorio2 >= 1.0.3", "space-exploration >= 0.3.119"], "description": "you can craft this in Research server like production and utility tech cards"}

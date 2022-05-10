@@ -1,0 +1,1 @@
+{"name": "BlueprintLab_Credomane", "version": "0.17.7", "factorio_version": "0.17", "title": "The Blueprint Lab - Credomane", "author": "Bud, Likos, Credomane", "description": "Enter your lab to design your blueprints.", "homepage": "", "dependencies": ["base >= 0.17.35", "!BlueprintLab_Bud17"]}

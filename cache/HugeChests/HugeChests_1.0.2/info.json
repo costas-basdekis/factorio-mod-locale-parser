@@ -1,0 +1,1 @@
+{"name": "HugeChests", "version": "1.0.2", "title": "HugeChests", "description": "All chests are twice bigger (slots amount is four times bigger), thanks PyroFire for idea", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "1.0"}

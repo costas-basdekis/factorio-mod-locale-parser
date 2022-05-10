@@ -1,0 +1,1 @@
+{"name": "scientorio", "version": "0.1.4", "title": "Scientorio", "author": "PyroFire", "dependencies": ["base >= 0.18", "? randotorio", "? spaceblock"], "description": "Factorio but everything must be crafted using the power of SCIENCE! ... the science of Factorio.", "factorio_version": "0.18", "homepage": "http://patreon.com/pyrofire"}

@@ -1,0 +1,1 @@
+{"name": "BD-simple-mod", "title": "BD Simple Mod", "author": "Black Dragon", "contact": "", "homepage": "https://mods.factorio.com/mod/BD-simple-mod", "description": "increase player build and reach distance and player inventory size to 100", "version": "1.1.0", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

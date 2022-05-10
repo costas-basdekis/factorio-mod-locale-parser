@@ -1,0 +1,1 @@
+{"name": "PetroleumPower", "version": "0.0.1", "title": "Petroleum Power", "author": "SuperCoder79", "contact": "", "homepage": "", "factorio_version": "0.16", "dependencies": ["base >= 0.16", "? angelspetrochem >= 0.7.4"], "description": "This mod adds in power generators that make power out of flammable fuels."}

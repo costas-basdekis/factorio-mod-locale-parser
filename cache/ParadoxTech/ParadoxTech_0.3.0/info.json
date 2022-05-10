@@ -1,0 +1,1 @@
+{"name": "ParadoxTech", "version": "0.3.0", "title": "Paradox Tech", "author": "FactorioParadox", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base >= 0.18"], "description": "This mod adds in new technologies, recipes, and buildings."}

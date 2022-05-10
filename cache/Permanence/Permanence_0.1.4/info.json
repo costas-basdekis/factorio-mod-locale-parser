@@ -1,0 +1,1 @@
+{"name": "Permanence", "version": "0.1.4", "title": "Permanence", "author": "Tom Smeets", "contact": "permanence.github@tsmeets.nl", "homepage": "https://github.com/TomSmeets/Permanence", "factorio_version": "1.0", "dependencies": ["base >= 0.12.35"], "description": "Never remove anything. What could go wrong."}

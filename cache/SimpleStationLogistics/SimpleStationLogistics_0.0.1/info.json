@@ -1,0 +1,1 @@
+{"name": "SimpleStationLogistics", "version": "0.0.1", "title": "Simple Station Logistics", "author": "Charles Cooke", "contact": "ccooke-factorio@gkhs.net", "factorio_version": "1.1", "dependencies": ["base >= 1.1", "flib >= 0.8.4"], "description": "A reliable train-based logistic system that is relatively simple to use"}

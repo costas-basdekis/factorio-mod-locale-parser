@@ -1,0 +1,1 @@
+{"name": "SlimeBots", "version": "0.0.1", "title": "Increase Angel Costruction Bot Speed", "author": "Lubricus", "contact": "lubricus@hotmail.com", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 0.18", "angelsindustries"], "description": "This mod increases the Angels construction bot speed so it is no so tedious to wait for them to build stuff."}

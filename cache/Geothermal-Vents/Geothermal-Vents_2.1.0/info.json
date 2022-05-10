@@ -1,0 +1,1 @@
+{"name": "Geothermal-Vents", "version": "2.1.0", "title": "Geothermal Vents", "author": "Loren1350", "contact": "Schmendrick on the Factorio Forums", "homepage": "", "description": "Adds geothermal vents, for steam capture.)", "dependencies": ["base"], "factorio_version": "0.18"}

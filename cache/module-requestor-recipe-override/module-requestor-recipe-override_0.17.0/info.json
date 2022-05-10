@@ -1,0 +1,1 @@
+{"name": "module-requestor-recipe-override", "version": "0.17.0", "title": "Module Requester", "author": "Trylobot", "homepage": "", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "module-requestor >= 0.17.0"], "description": ""}

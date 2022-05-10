@@ -1,0 +1,1 @@
+{"name": "MinimalStart", "version": "1.0.7", "title": "Minimal Start", "author": "nakran", "description": "Empties all inventory slots when starting a new world. In multiplayer worlds it also removes them when joining for the first time", "factorio_version": "0.18", "dependencies": ["base >= 0.17.35"]}

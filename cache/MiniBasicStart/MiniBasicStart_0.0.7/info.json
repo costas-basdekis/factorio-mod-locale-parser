@@ -1,0 +1,1 @@
+{"name": "MiniBasicStart", "author": "Minizbot2012", "version": "0.0.7", "title": "Basic Starting Equipment", "description": "This mod adds basic starting gear", "factorio_version": "0.15", "dependencies": ["base >= 0.14.0"]}

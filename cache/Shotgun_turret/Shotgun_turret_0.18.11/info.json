@@ -1,0 +1,1 @@
+{"name": "Shotgun_turret", "factorio_version": "1.1", "version": "0.18.11", "title": "Shotgun Turret", "author": "Illiander, with code from Veden", "homepage": "", "description": "Adds a Shotgun turret", "dependencies": ["base >= 0.18.18", "! RampantArsenal", "? bobwarfare", "? angelsindustries"]}

@@ -1,0 +1,1 @@
+{"name": "EarlyBioBoiler", "version": "1.1.1", "title": "Early Bio Boiler", "author": "DwarfTech", "contact": "", "homepage": "", "description": "Alters the recipe unlock for Bio Industries' Bio Boiler to be unlocked earlier in a playthrough.", "dependencies": ["base >= 0.18", "Bio_Industries"], "factorio_version": "1.1"}

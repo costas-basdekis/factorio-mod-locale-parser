@@ -1,0 +1,1 @@
+{"name": "StickyNotesCombinatorDollyFix", "version": "1.0.0", "title": "Sticky Notes Combinator Dolly Fix", "author": "Wyrmslayer2146", "description": "Updates StickyNotes locations when using Nexela's Combinator Dollies.", "homepage": "", "factorio_version": "0.14", "dependencies": ["StickyNotes >= 2.1.3", "PickerExtended >= 2.2.2"]}

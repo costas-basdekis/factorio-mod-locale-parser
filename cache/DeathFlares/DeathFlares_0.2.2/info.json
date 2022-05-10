@@ -1,0 +1,1 @@
+{"name": "DeathFlares", "version": "0.2.2", "title": "Death Flares", "author": "Mythmon", "homepage": "https://github.com/mythmon/factorio-death-flares", "license": "GPLv3", "description": "Leave a flare when you die that lasts as long as your corpse does.", "factorio_version": "0.17", "dependencies": ["base >= 0.17", "! CorpseFlare", "? Noxys_QuickerStumpFade"]}

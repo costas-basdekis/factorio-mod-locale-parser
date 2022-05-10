@@ -1,0 +1,1 @@
+{"name": "LiftoffLatest", "version": "0.2.1", "title": "LiftoffLatest", "author": "aphex34", "contact": "", "homepage": "", "description": "Adds lift-off mechanics to the Aircraft mod", "factorio_version": "0.16", "dependencies": ["base", "Aircraft >= 1.3.0"]}

@@ -1,0 +1,1 @@
+{"name": "preloaded-turrets", "version": "0.1.2", "factorio_version": "0.14", "title": "Preloaded Turrets", "description": "Can craft turrets with ammo preloaded into them. Useful for blueprints.", "author": "John K", "contact": "jkeywo@yahoo.co.uk", "homepage": "", "dependencies": ["base >= 0.14.0"]}

@@ -1,0 +1,1 @@
+{"name": "OmniPumpjacks", "version": "0.1.1", "title": "Omni Pumpjacks", "author": "darkfrei", "description": "Proof of concept, more pumpjack access points", "dependencies": ["base"], "factorio_version": "0.16"}

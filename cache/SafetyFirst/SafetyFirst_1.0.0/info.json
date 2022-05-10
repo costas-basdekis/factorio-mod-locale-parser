@@ -1,0 +1,1 @@
+{"name": "SafetyFirst", "version": "1.0.0", "factorio_version": "0.14", "title": "Safety First", "author": "ShadowyXP Games", "contact": "www.factorioforums.com", "homepage": "", "description": "Safety should always be your #1 priority.  No more running in hazard marked areas!", "dependencies": ["base >= 0.14.0"], "license": "Unlicense"}

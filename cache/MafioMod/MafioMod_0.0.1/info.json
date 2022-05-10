@@ -1,0 +1,1 @@
+{"name": "MafioMod", "version": "0.0.1", "title": "Mafio armor compatibility: Bob's & Krastorio2", "author": "Mafio", "factorio_version": "1.0", "dependencies": ["base >= 1.0", "bobwarfare >= 1.0.0", "Krastorio2 >= 1.0.3"], "description": "This mod allows Krastorio2 personal equipment to be placed in Bob's high-tier armor."}

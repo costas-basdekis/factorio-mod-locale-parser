@@ -1,0 +1,1 @@
+{"name": "fmetrics", "version": "0.0.2", "title": "Factorio Metrics", "author": "ArtMares", "description": "visualize metrics from your factorio game in grafana", "homepage": "", "dependencies": ["base >= 0.17.35"], "factorio_version": "0.17"}

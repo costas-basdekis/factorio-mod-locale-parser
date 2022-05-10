@@ -1,0 +1,1 @@
+{"name": "BioTech-Extended", "version": "0.1.1", "title": "BioTech Extended", "contact": "", "author": "rasby", "homepage": "", "description": "Adds higher tiers of bioreactors and sand miners to the BioTech mod by SlopppyEngineering.", "factorio_version": "0.14", "dependencies": ["base >= 0.14.0", "BioTech >= 0.1.7"]}

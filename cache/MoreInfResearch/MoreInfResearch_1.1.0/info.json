@@ -1,0 +1,1 @@
+{"name": "MoreInfResearch", "version": "1.1.0", "title": "MOAR Infinite Research", "author": "Nuke", "contact": "mods.factorio.com", "homepage": "mods.factorio.com", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Adding more possible infinite (or not so) researches won't screw anything, right? Right?"}

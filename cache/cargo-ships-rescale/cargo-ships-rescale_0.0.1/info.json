@@ -1,0 +1,1 @@
+{"name": "cargo-ships-rescale", "version": "0.0.1", "title": "Cargo sips rescale", "author": "Maxikaaz", "description": "Scales cargo ships so their carry : weight ratio is simmilar to trains (it should be even better, as ships are more efficient, but let it be at least equal)", "dependencies": ["base >= 1.0", "cargo-ships >= 0.0.59"], "factorio_version": "1.1"}

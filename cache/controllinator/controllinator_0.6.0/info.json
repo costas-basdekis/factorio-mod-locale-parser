@@ -1,0 +1,1 @@
+{"name": "controllinator", "version": "0.6.0", "title": "Controllinator", "author": "Aidiakapi", "contact": "aidiakapi@gmail.com", "homepage": "https://mods.factorio.com/mods/Aidiakapi/controllinator", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"], "description": "Adds tools to debug combinator contraptions. Pause and simulate each step individually."}

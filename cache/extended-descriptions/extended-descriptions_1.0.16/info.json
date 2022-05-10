@@ -1,0 +1,1 @@
+{"name": "extended-descriptions", "version": "1.0.16", "factorio_version": "1.1", "title": "Extended Descriptions", "author": "notnotmelon", "description": "Adds critical information onto the tooltip of items, recipes, and entites", "dependencies": ["?deadlock-beltboxes-loaders", "?angelsrefining", "?angelspetrochem", "?pyindustry", "?Flare Stack", "?space-exploration"]}

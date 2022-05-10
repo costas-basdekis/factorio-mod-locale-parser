@@ -1,0 +1,1 @@
+{"name": "menu-music-in-game", "version": "1.0.0", "title": "Menu Music In Game", "author": "bonomel", "description": "I got obsessed with the original main menu music and felt sad that it didn't play while in game. In order to feel happy again I made this mod. Hopefully it'll do the same for you!", "factorio_version": "1.1", "dependencies": ["base >= 1.1.0"]}

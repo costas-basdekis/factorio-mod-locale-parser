@@ -1,0 +1,1 @@
+{"name": "barrels", "version": "1.0.5", "factorio_version": "0.14", "title": "Barrels", "author": "Anthony Dewstow", "description": "Adds all kinds of Barrels", "homepage": "http://AnthonyDewstow.info", "dependencies": ["base >= 0.14.0"]}

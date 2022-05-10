@@ -1,0 +1,1 @@
+{"name": "SmallChests", "version": "0.0.1", "title": "Small Chests", "description": "All chests are not bigger that 6 slots; huge UPS optimisation", "author": "darkfrei", "license": "MIT", "dependencies": ["base"], "factorio_version": "0.17"}

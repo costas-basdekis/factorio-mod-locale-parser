@@ -1,0 +1,1 @@
+{"name": "BlueprintRemover", "version": "0.1.2", "title": "Blueprint Remover", "author": "mISSAO", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "This mod keeps Blueprints away from your Inventory. Youll only be using the Library. Quickbar filters exempt."}

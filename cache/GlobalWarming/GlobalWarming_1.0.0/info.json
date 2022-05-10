@@ -1,0 +1,1 @@
+{"name": "GlobalWarming", "version": "1.0.0", "title": "Global Warming", "author": "Mylon", "contact": "forum PM", "homepage": "https://www.patreon.com/mylon", "description": "Pollution will cause sea level rise and desertification.  Be careful that your factory does not destroy the entire planet.", "factorio_version": "1.1", "dependencies": ["base >= 0.4.1"]}

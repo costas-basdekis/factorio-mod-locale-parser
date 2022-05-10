@@ -1,0 +1,1 @@
+{"name": "Luzivras_Factorio_Logistics", "version": "18.0.0", "factorio_version": "0.18", "title": "Luzivras Factorio Logistics", "author": "YouTube_Luzivras", "contact": "https://discord.gg/BNq4Can", "description": "Adds Logistic Zone Extenders.", "dependencies": ["Luzivras_Factorio_Core >= 18.0.0"]}

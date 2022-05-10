@@ -1,0 +1,1 @@
+{"name": "VerticalAxisWindTurbines", "version": "1.1.2", "title": "Vertical Axis Wind Turbines", "description": "Small wind turbines for free energy", "author": "darkfrei", "license": "MIT", "dependencies": ["base", "? WindSpeedChanging"], "factorio_version": "1.1"}

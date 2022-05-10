@@ -1,0 +1,1 @@
+{"name": "BigDrills", "version": "0.5.10", "title": "Bucket Wheel Excavators", "author": "Laserzwei", "homepage": "https://mods.factorio.com/mods/Laserzwei/BigDrills", "dependencies": ["base >= 1.1.0", "? bobplates >= 1.1.0"], "factorio_version": "1.1", "description": "Adds 3 types of large Bucket Wheel Excavators."}

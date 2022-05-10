@@ -1,0 +1,1 @@
+{"name": "EarlierArtillery", "version": "0.1.0", "factorio_version": "1.1", "title": "Earlier Artillery", "author": "Rayleigh", "description": "A mod that changes the artillery research requirements", "dependencies": ["base >= 1.1.0"]}

@@ -1,0 +1,1 @@
+{"name": "fluidTrains", "version": "1.0.0", "title": "Fluid Trains", "author": "ksmonkey123", "contact": "", "homepage": "", "description": "Adds functionality for locomotives to use fluids as fuel. This mod does not add any locomoties on its own but enables other mods to do so", "factorio_version": "1.1", "dependencies": ["base >= 1.1.5"]}

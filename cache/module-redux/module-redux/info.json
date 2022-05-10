@@ -1,0 +1,1 @@
+{"name": "module-redux", "version": "1.0.2", "title": "Module Redux", "author": "pk", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "Integrates beacon effects into modules and makes beacons obsolete."}

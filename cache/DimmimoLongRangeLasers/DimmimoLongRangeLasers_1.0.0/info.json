@@ -1,0 +1,1 @@
+{"name": "DimmimoLongRangeLasers", "version": "1.0.0", "title": "Long range lasers", "author": "Dimmimo", "homepage": "https://mods.factorio.com/mod/DimmimoLongRangeLasers", "factorio_version": "1.1", "dependencies": ["base >= 0.17"], "description": "Laser turrets for focusing on base building. Very powerful, long range and expensive."}

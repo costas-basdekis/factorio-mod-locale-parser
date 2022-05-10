@@ -1,0 +1,1 @@
+{"name": "burner-pump-curved-rails", "version": "1.1.0", "title": "burner-pump-curved-rails", "author": "adam_bise", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "A modified version of Pithlit's burner pump.  Added migrations, removed pump arm graphic, and increased alignment tolerance."}

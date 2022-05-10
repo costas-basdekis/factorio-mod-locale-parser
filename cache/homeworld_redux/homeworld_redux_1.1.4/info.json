@@ -1,0 +1,1 @@
+{"name": "homeworld_redux", "version": "1.1.4", "factorio_version": "1.1", "title": "Homeworld Redux", "author": "Jadame", "contact": "", "www": "", "description": "Supply resources to your homeworld so that civilization can be restored. Update of Homeworld mod, originally by ljdp", "dependencies": ["(?) space-exploration >= 0.5.1", "(?) aai-industry >= 0.5.3"]}

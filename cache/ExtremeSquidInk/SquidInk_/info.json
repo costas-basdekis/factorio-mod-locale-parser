@@ -1,0 +1,1 @@
+{"title": "ExtremeSquid Ink", "name": "ExtremeSquidInk", "author": "Cory F", "version": "1.0.2", "factorio_version": "1.0", "homepage": "https://github.com/Coryf65/SquidInk", "license": "MIT License", "dependencies": ["base >= 1.0"], "description": "This mod adds a collection of Furnaces and Uranium Processing."}

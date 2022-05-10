@@ -1,0 +1,1 @@
+{"name": "central-silos", "version": "0.18.0", "title": "Central Silos", "author": "adamius", "description": "A central set of rocket silos placed in fixed positions and cannot be mined. Mainly intended for multiplayer. Silos can be relocated via settings.", "dependencies": ["base"], "factorio_version": "0.18"}

@@ -1,0 +1,1 @@
+{"name": "Dp77s-FactorioPlus-Machines", "version": "2.3.2", "title": "Dp77's FactorioPlus: Machines", "author": "DiegoPro77", "factorio_version": "0.16", "homepage": "", "dependencies": ["base", "Dp77s-FactorioPlus-Ores", "Dp77s-FactorioPlus-Plates", "Dp77s-FactorioPlus-Advanced-Tech", "Dp77s-FactorioPlus-Electronics"], "description": ""}

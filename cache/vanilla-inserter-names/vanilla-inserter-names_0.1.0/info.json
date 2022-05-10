@@ -1,0 +1,1 @@
+{"name": "vanilla-inserter-names", "version": "0.1.0", "factorio_version": "0.15", "title": "Inserter Names", "author": "NACH0CHEE5E", "dependencies": ["base >= 0.15.0", "inserter-names >= 0.1.0"], "description": "Makes the rest of the inserter's names reflect their colour."}

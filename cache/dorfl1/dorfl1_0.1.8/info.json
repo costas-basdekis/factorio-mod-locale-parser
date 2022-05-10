@@ -1,0 +1,1 @@
+{"name": "dorfl1", "version": "0.1.8", "factorio_version": "0.17", "title": "Dorfl's Early Game", "author": "dorfl", "contact": "Dorfl <ceramic.atheist@gmail.com>", "homepage": "https://gitlab.com/aerosuidae/dorfl1", "description": "A gentle step up from vanilla during the early game.", "dependencies": ["base >= 0.17.35"]}

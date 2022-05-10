@@ -1,0 +1,1 @@
+{"name": "Variable_Starting_Wood", "version": "1.0.0", "title": "Variable Starting Wood", "author": "Amuxix", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "You start with a configurable amount of wood."}

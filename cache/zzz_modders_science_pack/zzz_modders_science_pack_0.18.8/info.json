@@ -1,0 +1,1 @@
+{"name": "zzz_modders_science_pack", "version": "0.18.8", "title": "Modder's Science Pack", "author": "OwnlyMe", "contact": "", "homepage": "", "factorio_version": "0.18", "dependencies": ["base", "?bottled_science", "?000_modders_science_pack_helper", "?reverse-factory", "?vehicle_physics"], "description": "Adds a science pack for technologies added by mods"}

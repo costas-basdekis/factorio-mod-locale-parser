@@ -1,0 +1,1 @@
+{"name": "train_multiple_provider", "version": "0.0.1", "title": "Train stations with multiple providers", "author": "Telkine2018", "contact": "", "homepage": "", "description": "A mod which helps to receive/send items from different stations", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

@@ -1,0 +1,1 @@
+{"name": "Surfaces_Original", "version": "1.0.0", "title": "Surfaces Original", "author": "Danacus", "description": "Original world generation for the Surfaces mod.", "factorio_version": "1.1", "dependencies": ["base >= 0.17.51", "Surfaces_API", "stdlib", "! Surfaces_Caves"]}

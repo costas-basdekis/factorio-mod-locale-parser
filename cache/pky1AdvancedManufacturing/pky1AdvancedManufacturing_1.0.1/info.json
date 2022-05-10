@@ -1,0 +1,1 @@
+{"name": "pky1AdvancedManufacturing", "version": "1.0.1", "factorio_version": "0.14", "title": "PokeyOne's Advanced Manufacturing Mod", "author": "PokeyOne", "contact": "pokeyonesoftware@gmail.com", "homepage": "", "description": "Adds more advanced and faster assemblers", "dependencies": ["base >= 0.14.0", "pky1Core >= 0.1.0"]}

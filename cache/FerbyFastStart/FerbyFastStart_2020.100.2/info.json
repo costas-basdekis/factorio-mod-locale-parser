@@ -1,0 +1,1 @@
+{"name": "FerbyFastStart", "version": "2020.100.2", "title": "Ferby FastStart", "author": "Ferby", "contact": "", "homepage": "", "description": "This mod adds a power-armor, a portable fusion reactor, a nightvision, a exoskeleton, a personal roboport and 25 construction robot at start.", "dependencies": ["base >= 1.1.0"], "factorio_version": "1.1"}

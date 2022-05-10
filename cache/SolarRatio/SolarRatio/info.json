@@ -1,0 +1,1 @@
+{"name": "SolarRatio", "version": "0.0.4", "title": "Solar Ratio Calculator", "author": "PFQ_Niet", "contact": "Discord: Niet#9801", "description": "Provides a UI that calculates solar panel / accumulator ratios", "factorio_version": "1.1", "dependencies": ["base >= 1.1"]}

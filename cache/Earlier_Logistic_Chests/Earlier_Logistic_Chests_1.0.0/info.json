@@ -1,0 +1,1 @@
+{"name": "Earlier_Logistic_Chests", "version": "1.0.0", "factorio_version": "0.16", "title": "Earlier Logistics Chests", "author": "webgovernor", "contact": "", "homepage": "", "description": "Logistic chests are available immediately after logistics robots and only need red and green tech.", "dependencies": ["base >= 0.16"]}

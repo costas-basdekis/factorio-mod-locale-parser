@@ -1,0 +1,1 @@
+{"name": "bluebuildplus", "version": "1.1.0", "title": "BlueBuild+", "author": "Lebster", "description": "Fork of Bluebuild with new features.", "contact": "", "homepage": "", "factorio_version": "1.1", "dependencies": ["base >= 1.0"]}

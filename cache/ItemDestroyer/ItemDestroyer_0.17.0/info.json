@@ -1,0 +1,1 @@
+{"name": "ItemDestroyer", "version": "0.17.0", "title": "Adds chest that destroys items", "author": "no one fucking cares", "contact": "no", "homepage": "http://www.factorio.com", "description": "ye", "factorio_version": "0.17", "dependencies": ["base >= 0.11.1"]}

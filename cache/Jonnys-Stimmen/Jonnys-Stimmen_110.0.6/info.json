@@ -1,0 +1,1 @@
+{"name": "Jonnys-Stimmen", "version": "110.0.6", "factorio_version": "1.1", "title": "Stimmen Basis", "author": "Jonny.one", "contact": "jonny049-dev@yahoo.com", "homepage": "http://Jonny.one", "description": "F\u00fcgt Deutsche Gesprochene W\u00f6rter f\u00fcr Factorio hinzu.", "dependencies": ["base >= 0.16.0"]}

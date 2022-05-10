@@ -1,0 +1,1 @@
+{"name": "ManualArtillery", "version": "0.16.51", "title": "Manual Artillery", "author": "gnadalF", "description": "setting auto range to 1", "dependencies": ["base"], "factorio_version": "0.16.51"}

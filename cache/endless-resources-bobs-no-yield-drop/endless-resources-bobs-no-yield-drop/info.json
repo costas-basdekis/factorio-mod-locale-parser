@@ -1,0 +1,1 @@
+{"name": "endless-resources-bobs-no-yield-drop", "version": "0.1.0", "factorio_version": "0.14", "title": "Endless Resources for Bob's ores", "author": "Daniel Visser", "contact": "dev@factorio.com", "homepage": "http://factorio.com", "description": "Makes all resources infinite.  Works with Bob's ores.", "dependencies": ["base >= 0.14.0", "? bobores >= 0.14.0"]}

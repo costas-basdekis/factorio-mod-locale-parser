@@ -1,0 +1,1 @@
+{"name": "recipe-as-combinator", "author": "aeryen23", "version": "0.0.4", "title": "Recipe as Combinator", "description": "Get a constant combinator blueprint filled with the recipe's ingredients of the hovered machine", "factorio_version": "1.1", "dependencies": []}

@@ -1,0 +1,1 @@
+{"name": "Krastorio2_Menu_Backgrounds_By_TehFocus", "version": "1.0.1", "title": "Krastorio 2 Main Menu Background by TehFocus", "author": "TehFocus", "description": "Adds Krastorio 2 Backgrounds to the Main Menu", "dependencies": ["base", "Krastorio2 >= 1.0.12"], "factorio_version": "1.1"}

@@ -1,0 +1,1 @@
+{"name": "Amish Personal Roboports", "author": "AmishGoat", "version": "0.0.5", "title": "Amish Personal Roboports", "description": "Personal Roboports that do not increase range and roboports that charge at twice speed.", "homepage": "nope", "factorio_version": "0.16", "dependencies": ["base >= 0.15.0"]}

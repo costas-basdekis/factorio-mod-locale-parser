@@ -1,0 +1,1 @@
+{"name": "BiterBattlesByComfy", "version": "1.0.0", "title": "Biter Battles", "author": "Gerkiz", "contact": "Gerkiz#0001", "description": "The epic scenario made by Comfy", "dependencies": ["base >= 1.0.0"], "factorio_version": "1.1"}

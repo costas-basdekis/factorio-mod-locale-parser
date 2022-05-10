@@ -1,0 +1,1 @@
+{"name": "starting-bots", "version": "0.0.5", "factorio_version": "0.17", "title": "Starting Bots", "author": "necrobraska", "description": "Gives the player a personal roboport, modular armor, and some construction bots at the start of the game.", "dependencies": ["base >= 0.17.0"]}

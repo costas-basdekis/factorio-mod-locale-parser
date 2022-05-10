@@ -1,0 +1,1 @@
+{"name": "xaels-fast-start", "version": "1.0.15", "title": "xaels fast-start", "author": "xael", "contact": "", "homepage": "", "factorio_version": "0.15", "dependencies": ["base >= 0.15"], "description": "Start with steam power, assembly machines, and enough belts and inserters to set up base ready for green science."}

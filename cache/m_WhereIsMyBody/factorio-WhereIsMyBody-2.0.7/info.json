@@ -1,0 +1,1 @@
+{"name": "m_WhereIsMyBody", "version": "2.0.7", "title": "Where Is My Body", "description": "see locale/*", "author": "darkfrei, ZwerOxotnik", "homepage": "reddit.com/r/ZwerOxotnik/", "license": "MIT", "dependencies": ["? zk-lib >= 0.10.0", "base"], "factorio_version": "1.1"}

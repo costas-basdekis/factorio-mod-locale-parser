@@ -1,0 +1,1 @@
+{"name": "messing-with-grids", "version": "0.0.2", "title": "Messing with grids", "author": "charleans, resarium", "factorio_version": "1.0", "dependencies": ["base >= 1.0"], "description": "Customizing grids for vehicles and modded vehicles."}

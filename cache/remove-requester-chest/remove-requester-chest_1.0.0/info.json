@@ -1,0 +1,1 @@
+{"name": "remove-requester-chest", "title": "Remove requester, buffer, activer provider chests", "version": "1.0.0", "factorio_version": "1.1", "author": "Bilka", "description": "Makes the requester, buffer and activer provider chests unplaceable. Does not remove their items, recipes or technology."}

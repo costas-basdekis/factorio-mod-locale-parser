@@ -1,0 +1,1 @@
+{"name": "RePainter", "version": "0.0.8", "title": "RePainter", "description": "Re-paint old terrain using current generation, based heavily on NiceFill by staviq", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "author": "fienxjox", "contact": "", "homepage": ""}

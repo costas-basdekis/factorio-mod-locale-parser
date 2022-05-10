@@ -1,0 +1,1 @@
+{"name": "artillery-wagon-mk2", "version": "0.0.3", "title": "Artillery Wagon Mk2", "author": "Peter Hayglass", "factorio_version": "1.1", "dependencies": ["base >= 1.1"], "description": "A more durable artillery wagon with added equipment grid"}

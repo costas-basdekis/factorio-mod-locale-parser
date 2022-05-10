@@ -1,0 +1,1 @@
+{"name": "biggerbarrelstacks", "version": "0.0.2", "factorio_version": "0.16", "title": "Bigger Barrel Stacks", "author": "Relinu", "contact": "", "homepage": "", "description": "Bigger stack sizes for barrels. Compatible with Bob's and Angle's mods.", "dependencies": ["base >= 0.16.0"]}

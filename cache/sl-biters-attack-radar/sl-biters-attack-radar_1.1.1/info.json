@@ -1,0 +1,1 @@
+{"name": "sl-biters-attack-radar", "version": "1.1.1", "factorio_version": "1.1", "title": "sl - Radar attacks", "author": "slaugh7er", "dependencies": ["base >= 1.1.0"], "contact": "", "homepage": "", "description": "biters attack your radars the more you have the higher the chance"}

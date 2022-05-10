@@ -1,0 +1,1 @@
+{"name": "YouDied", "version": "1.3.0", "title": "You Died", "description": "You died sound from Dark Souls", "author": "TigreDemon", "homepage": "", "factorio_version": "1.0", "dependencies": ["base >= 1.0.0"]}

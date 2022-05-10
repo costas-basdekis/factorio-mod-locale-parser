@@ -1,0 +1,1 @@
+{"name": "DivOresity", "version": "1.1.5", "title": "DivOresity", "author": "Mylon", "contact": "forum PM", "homepage": "https://www.patreon.com/mylon", "description": "Ores are all mixed up!  Adds a logistical challenge dealing with impure ores.", "factorio_version": "1.1", "dependencies": ["base >= 0.4.1", "?dangOreus", "(?)rso-mod"]}

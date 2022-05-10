@@ -1,0 +1,1 @@
+{"name": "AgeOfElectricityAndNuclear", "version": "0.0.2", "title": "Age of Electricity and Nuclear", "description": "", "author": "Pithlit", "license": "MIT", "dependencies": ["base", "?AgeOfSteamAndCopper", "Built-in-Beacons"], "factorio_version": "1.1"}
