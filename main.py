@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import json
+import os
 import re
 import tempfile
 from io import BytesIO
@@ -304,11 +305,20 @@ def iterate_zip_files_from_api(
         with API_AUTH_FILE.open("rb") as f:
             api_auth = json.load(f)
     except FileNotFoundError:
-        raise Exception(
-            f"Missing API auth file at {API_AUTH_FILE} - copy "
-            f"`player-data.json` to that path, copy the service username and "
-            f"token to that file from `player-data.json`, or set the path at "
-            f"`API_AUTH_FILE`")
+        service_username = os.environ.get("FACTORIO_MOD_API_SERVICE_USERNAME")
+        service_token = os.environ.get("FACTORIO_MOD_API_SERVICE_TOKEN")
+        if not service_username or not service_token:
+            raise Exception(
+                f"Missing API auth file at {API_AUTH_FILE} and no "
+                f"environmental variables are set - copy `player-data.json` to "
+                f"that path, copy the service username and token to that file "
+                f"from `player-data.json`, or set the path at `API_AUTH_FILE`, "
+                f"or set `FACTORIO_MOD_API_SERVICE_USERNAME` and "
+                f"`FACTORIO_MOD_API_SERVICE_TOKEN`")
+        api_auth = {
+            "service-username": service_username,
+            "service-token": service_token,
+        }
     bad_zip_file_consecutive_count = 0
     mods = iterate_mods_from_api(excluding_mods=excluding_mods)
     for mod_api_data, should_skip in mods:
