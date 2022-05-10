@@ -55,6 +55,9 @@ def split_by_locale():
     with MAIN_DATA_PATH.open("w") as f:
         json.dump(main_data, f, indent=2)
 
+    for existing_locale_file in MOD_SETTINGS_DATA_PATH.parent.glob("*-*.json"):
+        existing_locale_file.unlink(missing_ok=True)
+
     for locale in all_data["locales"]:
         print(f"Splitting locale {locale}")
         all_data_for_locale = {
