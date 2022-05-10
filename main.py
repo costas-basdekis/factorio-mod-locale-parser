@@ -36,6 +36,49 @@ def main():
     by_locale = update_game_locale_data()
     update_mod_locale_data(by_locale)
     split_by_locale()
+    create_index_html()
+
+
+def create_index_html():
+    with MOD_SETTINGS_DATA_PATH.open("rb") as f:
+        all_data = json.load(f)
+
+    html_content = """
+<html>
+<head>
+    <title>Factorio mods locale data</title>
+</head>
+<body>
+    <h1>Factorio mods locale data</h1>
+    <p>
+        Mainly used by <a href="https://costas-basdekis.github.io/factorio-mod-settings-editor/">Factorio mod settings editor</a>
+        (<a href="https://github.com/costas-basdekis/factorio-mod-settings-editor">repo</a>)
+    </p>
+    <p>Here you can find the locale data extracted from Factorio mods:</p>
+    <ul>
+        <li><a href="./core_settings_data.json">Core Factorio locale data</a></li>
+        <li><a href="./settings_data.json">Core locale + mod info, without mod locale data</a></li>
+        <li><a href="./mod_settings_data.json">Core locale + mod info + mod locale data</a></li>
+        <li>
+            Mod locale data for each locale
+            <ul>
+{locales}
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
+    """.format(
+        locales="\n".join(
+            """                <li><a href="./{locale_filename}">{locale}</a></li>""".format(
+                locale=locale,
+                locale_filename=f"{MOD_SETTINGS_DATA_PATH.name}-{locale}.json",
+            )
+            for locale in sorted(all_data["locales"])
+        ),
+    )
+
+    Path("./index.html").write_text(html_content)
 
 
 def split_by_locale():
