@@ -301,10 +301,10 @@ MOD_URL_ROOT = "https://mods.factorio.com"
 def iterate_zip_files_from_api(
     excluding_mods: Dict,
 ) -> Iterator[Tuple[Optional[Dict], Optional[zipfile.ZipFile]]]:
-    try:
+    if API_AUTH_FILE.exists():
         with API_AUTH_FILE.open("rb") as f:
             api_auth = json.load(f)
-    except FileNotFoundError:
+    else:
         service_username = os.environ.get("FACTORIO_MOD_API_SERVICE_USERNAME")
         service_token = os.environ.get("FACTORIO_MOD_API_SERVICE_TOKEN")
         if not service_username or not service_token:
