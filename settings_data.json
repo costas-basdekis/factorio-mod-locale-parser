@@ -12389,7 +12389,7 @@
     },
     "Building_Materials": {
       "name": "Building_Materials",
-      "title": "Building Materials",
+      "title": "Building Materials (alpha)",
       "version": "0.16.8",
       "setting_names": [
         "bm-burner-stage"
@@ -12417,7 +12417,7 @@
     },
     "Custom_Storage_Tank": {
       "name": "Custom_Storage_Tank",
-      "title": "\ucee4\uc2a4\ud140 \uc800\uc7a5 \ud0f1\ud06c",
+      "title": "\ucee4\uc2a4\ud140 \uc800\uc7a5 \ud0f1\ud06c(Custom Storage Tank)",
       "version": "0.1.2",
       "setting_names": [
         "custom_storage_int",
@@ -12549,7 +12549,7 @@
     },
     "container-mass-produce": {
       "name": "container-mass-produce",
-      "title": "Container-Mass-Produce",
+      "title": "Container-Mass-Produce (test version)",
       "version": "0.1.10",
       "setting_names": [
         "shirumods-container-mass-produce",
@@ -12910,7 +12910,7 @@
     },
     "Clowns-AngelBob-Nuclear": {
       "name": "Clowns-AngelBob-Nuclear",
-      "title": "MadClown01's AngelBob Nuclear",
+      "title": "MadClown01's AngelBob Nuclear Extension",
       "version": "1.1.19",
       "setting_names": [
         "thorium-processing",
@@ -13181,7 +13181,7 @@
     },
     "bobclasses": {
       "name": "bobclasses",
-      "title": "Bob's Classes and Multiple characters mod",
+      "title": "Bob's Character classes",
       "version": "1.1.0",
       "setting_names": [
         "bobmods-classes-god-mode",
@@ -13518,7 +13518,7 @@
     },
     "Advanced-Electric-Revamped-v16": {
       "name": "Advanced-Electric-Revamped-v16",
-      "title": "Advanced Solar High Resolution",
+      "title": "Advanced Solar HR",
       "version": "0.6.8",
       "setting_names": [
         "advanced-electric-enabled-tiers",
@@ -13544,7 +13544,7 @@
     },
     "logistic-cube": {
       "name": "logistic-cube",
-      "title": "Companion robots",
+      "title": "Companion bots",
       "version": "0.0.6",
       "setting_names": [
         "logistic-cube-construction-bot"
@@ -13779,7 +13779,7 @@
     },
     "vtk-armor-plating": {
       "name": "vtk-armor-plating",
-      "title": "VortiK's Armor Plating",
+      "title": "Armor Plating",
       "version": "1.1.1",
       "setting_names": [
         "vtk-armor-plating-equipment-amount",
@@ -13825,7 +13825,7 @@
     },
     "deadlocklocale": {
       "name": "deadlocklocale",
-      "title": "Deadlock's Locale Translations Project",
+      "title": "Deadlock's Mods French Translation",
       "version": "0.16.3",
       "setting_names": [
         "deadlock-stacking-hide-unstacking",
@@ -14039,7 +14039,7 @@
     },
     "Petrol-Condensation-Reload": {
       "name": "Petrol-Condensation-Reload",
-      "title": "Petrol-Condensation-Reload",
+      "title": "Petrol Condensation Reload",
       "version": "1.1.1",
       "setting_names": [
         "pcr-coal"
@@ -14126,7 +14126,7 @@
     },
     "NPBees2": {
       "name": "NPBees2",
-      "title": "NPBees Redux",
+      "title": "Beekeeping",
       "version": "19.1.17",
       "setting_names": [
         "disable-bells-and-whistles",
@@ -14153,7 +14153,7 @@
     },
     "long-reach-research-upgrade": {
       "name": "long-reach-research-upgrade",
-      "title": "Long Reach Research Upgrade",
+      "title": "Long Reach Research 0.16 Upgrade",
       "version": "0.4.3",
       "setting_names": [
         "long-reach-research_use-four-level-tech",
@@ -14267,7 +14267,7 @@
     },
     "HeavyTank": {
       "name": "HeavyTank",
-      "title": "HeavyTank",
+      "title": "HeavyTank 2\u00b0 Gen",
       "version": "0.18.2",
       "setting_names": [
         "ht-grid-type-mods",
@@ -14335,7 +14335,7 @@
     },
     "ProductionStatisticsCircuitry": {
       "name": "ProductionStatisticsCircuitry",
-      "title": "Production/Logistic Statistics Circuitry",
+      "title": "Production Statistics Circuitry",
       "version": "0.1.2",
       "setting_names": [
         "production-statistics-updates"
@@ -14589,7 +14589,7 @@
     },
     "muis-cn-lpk": {
       "name": "muis-cn-lpk",
-      "title": "muink's chinese localization lib",
+      "title": "\u72ec\u7acb\u6a21\u7ec4\u4e2d\u6587\u8bed\u8a00\u5305 (muinks chinese localization lib)",
       "version": "2.1.12",
       "setting_names": [
         "utilization-monitor-enabled",
@@ -15469,7 +15469,7 @@
     },
     "FoodIndustry": {
       "name": "FoodIndustry",
-      "title": "Food Industry 2 (beta)",
+      "title": "Food Industry (2.0 beta)",
       "version": "1.8.151",
       "setting_names": [
         "food-industry-bottom",
@@ -15489,7 +15489,7 @@
     },
     "X100_assembler": {
       "name": "X100_assembler",
-      "title": "X100_assembler",
+      "title": "X100 assembler",
       "version": "5.2.9",
       "setting_names": [
         "x100_use_entity_sorting",
@@ -15833,7 +15833,7 @@
     },
     "angelsaddons-shred": {
       "name": "angelsaddons-shred",
-      "title": "Angel's Addons - Decorations - Shred",
+      "title": "Angel's Addons - Decorations - ShredNation",
       "version": "0.2.8",
       "setting_names": [
         "deco-shred-create-spawn-logo",
@@ -15864,7 +15864,7 @@
     },
     "Texugo_windgenerator": {
       "name": "Texugo_windgenerator",
-      "title": "Texugo_Wind_Generator",
+      "title": "Texugo Wind Generator",
       "version": "0.18.4",
       "setting_names": [
         "texugo-wind-power"
@@ -15872,7 +15872,7 @@
     },
     "CW-thermal-solar-power": {
       "name": "CW-thermal-solar-power",
-      "title": "Thermal solar power",
+      "title": "Thermal Solar Power",
       "version": "0.2.16",
       "setting_names": [
         "steam-turbines-enabled",
@@ -16228,7 +16228,7 @@
     },
     "gore": {
       "name": "gore",
-      "title": "Gore",
+      "title": "Blood & Gore",
       "version": "0.18.7",
       "setting_names": [
         "preset",
@@ -16655,7 +16655,7 @@
     },
     "space-exploration": {
       "name": "space-exploration",
-      "title": "Space Exploration (Experimental)",
+      "title": "Space Exploration",
       "version": "0.5.114",
       "setting_names": [
         "spaceship-integrity100",
@@ -16718,7 +16718,7 @@
     },
     "RUSLocalizationsModsForFactorio": {
       "name": "RUSLocalizationsModsForFactorio",
-      "title": "RUSLocalizationsModsForFactorio [v.1.1.12 R1]",
+      "title": "RUSLocalizationsModsForFactorio",
       "version": "1.1.12",
       "setting_names": [
         "angels-enable-industries",
@@ -17653,7 +17653,7 @@
     },
     "timesaver-for-crafting": {
       "name": "timesaver-for-crafting",
-      "title": "Timesaver for crafting",
+      "title": "Timesaver for crafting [Switchable mod]",
       "version": "0.8.4",
       "setting_names": [
         "tfc_minimum_speed_bonus",
@@ -17876,7 +17876,7 @@
     },
     "yaqsm": {
       "name": "yaqsm",
-      "title": "Yet another Quickstart Mod",
+      "title": "Yet another Quick Start Mod",
       "version": "1.0.1",
       "setting_names": [
         "yaqsm_clear-items",
@@ -17899,7 +17899,7 @@
     },
     "CompressedFluids": {
       "name": "CompressedFluids",
-      "title": "Pressurized Fluids",
+      "title": "Pressurized fluids",
       "version": "0.1.23",
       "setting_names": [
         "fluid-compression-rate",
@@ -17921,7 +17921,7 @@
     },
     "angelmods_rus_translation": {
       "name": "angelmods_rus_translation",
-      "title": "Angel's Mods Russian Translation",
+      "title": "Angel's Mods Russian Translation by Quarasique",
       "version": "1.1.1",
       "setting_names": [
         "angels-infinite-ores-yield",
@@ -18240,7 +18240,7 @@
     },
     "train-pubsub": {
       "name": "train-pubsub",
-      "title": "Train Supply Manager",
+      "title": "Train Supply Manager (TSM)",
       "version": "1.1.7",
       "setting_names": [
         "subscriptions-title",
@@ -19055,7 +19055,7 @@
     },
     "transparent-inventory": {
       "name": "transparent-inventory",
-      "title": "Transparent Inventories",
+      "title": "Transparent Inventories (MP)",
       "version": "1.0.1",
       "setting_names": [
         "tinv-is-enabled",
@@ -19123,7 +19123,7 @@
     },
     "NuclearArtillery": {
       "name": "NuclearArtillery",
-      "title": "Nuclear Artillery",
+      "title": "Nuclear Artillery ( now with craters )",
       "version": "0.1.2",
       "setting_names": [
         "nuclear-artillery-do-crater"
@@ -19541,7 +19541,7 @@
     },
     "Hover-Car": {
       "name": "Hover-Car",
-      "title": "Hover Car",
+      "title": "Hover Car [0.18-1.1]",
       "version": "0.2.15",
       "setting_names": [
         "hover-car-inserter"
@@ -22509,7 +22509,7 @@
     },
     "FunSpeed016": {
       "name": "FunSpeed016",
-      "title": "FunSpeed016",
+      "title": "Factorio Speed Changes",
       "version": "1.0.5",
       "setting_names": [
         "craftingspeed",
@@ -22862,7 +22862,7 @@
     },
     "dark-matter-replicators-0_17-port": {
       "name": "dark-matter-replicators-0_17-port",
-      "title": "Extra Replicatons for Dark Matter Replicators",
+      "title": "Extra Replications for Dark Matter Replicators",
       "version": "0.8.1",
       "setting_names": [
         "replstats-speed-base",
@@ -23230,7 +23230,7 @@
     },
     "wyrd-inter-mod": {
       "name": "wyrd-inter-mod",
-      "title": "Wyrdsmith ",
+      "title": "Wyrdsmith Tweaks",
       "version": "0.1.1",
       "setting_names": [
         "wyrd-cheaper-miniloaders",
@@ -23260,7 +23260,7 @@
     },
     "ChunkyChunks": {
       "name": "ChunkyChunks",
-      "title": "ChunkyChunks - Configurable Geodesic Grid",
+      "title": "ChunkyChunks - Configurable Gridlines",
       "version": "1.5.1",
       "setting_names": [
         "chunkychunks-follow-alt-mode",
@@ -23452,7 +23452,7 @@
     },
     "PCPRedux": {
       "name": "PCPRedux",
-      "title": "PetrochemPlus",
+      "title": "Petrochem Plus Redux",
       "version": "1.0.4",
       "setting_names": [
         "pcp-glass-sink",
@@ -23947,7 +23947,7 @@
     },
     "WaterTurret": {
       "name": "WaterTurret",
-      "title": "Water Turret\u2602.\u2614",
+      "title": "Water Turret",
       "version": "1.1.0",
       "setting_names": [
         "wt-action-delay",
@@ -24282,7 +24282,7 @@
     },
     "LinearResearchCost": {
       "name": "LinearResearchCost",
-      "title": "Linear Research Cost",
+      "title": "Linear Research Cost Increase",
       "version": "0.1.4",
       "setting_names": [
         "linear-research-cost-multiplier"
@@ -24365,7 +24365,7 @@
     },
     "lab-floor": {
       "name": "lab-floor",
-      "title": "Laboratory floor",
+      "title": "Laboratory floor world",
       "version": "1.1.4",
       "setting_names": [
         "lab-floors-enabled",
@@ -24487,7 +24487,7 @@
     },
     "Adjustable-Inventory-Size": {
       "name": "Adjustable-Inventory-Size",
-      "title": "Adjustable Inventory Size",
+      "title": "Adjustable-Inventory-Size",
       "version": "1.1.0",
       "setting_names": [
         "inventorysize",
@@ -24523,7 +24523,7 @@
     },
     "floating-damage-text": {
       "name": "floating-damage-text",
-      "title": "Floating Damage Indicators",
+      "title": "Floating Damage Text",
       "version": "19.0.0",
       "setting_names": [
         "floating-damage-string-format",
@@ -24540,7 +24540,7 @@
     },
     "nick-changer": {
       "name": "nick-changer",
-      "title": "Nickname changer",
+      "title": "Nickname changer (doesn't work due to new changes of Factorio)",
       "version": "1.2.6",
       "setting_names": [
         "newnickname"
@@ -25207,7 +25207,7 @@
     },
     "Super_Pinky_Man_NoMilitary": {
       "name": "Super_Pinky_Man_NoMilitary",
-      "title": "SPM No Military",
+      "title": "SPM No Military Science",
       "version": "2.1.0",
       "setting_names": [
         "spm-walls-no-military",
@@ -25491,7 +25491,7 @@
     },
     "apm_power_slugpatch": {
       "name": "apm_power_slugpatch",
-      "title": "apm_power_slugpatch a fix to 0.17.74",
+      "title": "apm_power_slugpatch a fix to 0.17.75",
       "version": "0.17.77",
       "setting_names": [
         "apm_power_coal_value_01761",
@@ -25570,7 +25570,7 @@
     },
     "laser_fix": {
       "name": "laser_fix",
-      "title": "Glowing Laser beams",
+      "title": "Custom Laser beams",
       "version": "0.18.12",
       "setting_names": [
         "laserfix-color",
@@ -25781,7 +25781,7 @@
     },
     "warptorio2": {
       "name": "warptorio2",
-      "title": "Warptorio",
+      "title": "Warptorio2",
       "version": "1.3.8",
       "setting_names": [
         "warptorio-stabilize",
@@ -25876,7 +25876,7 @@
     },
     "Deadlock-SE-bridge": {
       "name": "Deadlock-SE-bridge",
-      "title": "Deadlock beltbox crate-Space Exploration bridge [unofficial  plugin]",
+      "title": "Deadlock beltbox crate-Space Exploration bridge",
       "version": "0.4.28",
       "setting_names": [
         "dl-se-min-crating",
@@ -26236,7 +26236,7 @@
     },
     "SmogVisualPollution": {
       "name": "SmogVisualPollution",
-      "title": "Smog Visual Pollution",
+      "title": "Smog: Visual Pollution",
       "version": "1.2.2",
       "setting_names": [
         "svp-chunks-per-tick",
@@ -26266,7 +26266,7 @@
     },
     "PowerPlusPowerMeter": {
       "name": "PowerPlusPowerMeter",
-      "title": "Power+: Power Utilization Meter",
+      "title": "Power+: Power Meter",
       "version": "1.1.0",
       "setting_names": [
         "power-meter-tick-update-interval"
@@ -26310,7 +26310,7 @@
     },
     "OldOre": {
       "name": "OldOre",
-      "title": "Old Ores | \u0421\u0442\u0430\u0440\u044b\u0435 \u0440\u0443\u0434\u044b",
+      "title": "Old Ores",
       "version": "1.1.3",
       "setting_names": [
         "oldore-stone",
@@ -26443,7 +26443,7 @@
     },
     "5dim_locale_rus": {
       "name": "5dim_locale_rus",
-      "title": "5Dim's mod - Locale Translation",
+      "title": "5Dim's mod-Locale-Rus",
       "version": "0.16.1",
       "setting_names": [
         "folk-fill-fuel-stack-size",
@@ -26512,7 +26512,7 @@
     },
     "chujianduidie": {
       "name": "chujianduidie",
-      "title": "\u521d\u89c1\u6570\u91cf\u5806\u53e0\u4fee\u6539 Item Stacking Quantity Modification",
+      "title": "\u521d\u89c1\u6570\u91cf\u5806\u53e0\u4fee\u6539",
       "version": "0.0.5",
       "setting_names": [
         "shuliangchengji",
@@ -26698,7 +26698,7 @@
     },
     "FactorioExtended-Plus-Locale": {
       "name": "FactorioExtended-Plus-Locale",
-      "title": "FactorioExtended-Plus-Locale Translation",
+      "title": "FactorioExtended Plus-Locale-Rus",
       "version": "0.16.4",
       "setting_names": [
         "early-logistics"
@@ -27527,7 +27527,7 @@
     },
     "WireBox": {
       "name": "WireBox",
-      "title": "Wire Box Tool",
+      "title": "Wire Box Tool (Auto-Wire Poles)",
       "version": "1.2.0",
       "setting_names": [
         "wire-box-tool-mode"
@@ -27696,7 +27696,7 @@
     },
     "infinityWater": {
       "name": "infinityWater",
-      "title": "\u6c34\u4e95\u6d46\uff08Water well slurry\uff09",
+      "title": "Water well slurry-\u6c34\u4e95",
       "version": "1.0.2",
       "setting_names": [
         "bobmods-inserters-long2",
@@ -27903,7 +27903,7 @@
     },
     "m-multiplayertrading": {
       "name": "m-multiplayertrading",
-      "title": "Multiplayer Trading",
+      "title": "Multiplayer Trading (works with EasyAPI)",
       "version": "0.9.15",
       "setting_names": [
         "early-bird-research",
@@ -27976,7 +27976,7 @@
     },
     "b_light_poles": {
       "name": "b_light_poles",
-      "title": "BiusArt light poles",
+      "title": "BiusArt Light poles",
       "version": "1.5.0",
       "setting_names": [
         "lamp-tick"
@@ -28341,7 +28341,7 @@
     },
     "assembling-machine-electric": {
       "name": "assembling-machine-electric",
-      "title": "Electric Assembly Machine",
+      "title": "Electric Assembling Machines - beta",
       "version": "0.1.5",
       "setting_names": [
         "assembling-machine-electric"
@@ -28553,7 +28553,7 @@
     },
     "eradicators-core": {
       "name": "eradicators-core",
-      "title": "Eradicator's C.O.R.E.",
+      "title": " ",
       "version": "0.6.16",
       "setting_names": [
         "er"
@@ -28581,7 +28581,7 @@
     },
     "FactorioCompoundMiners": {
       "name": "FactorioCompoundMiners",
-      "title": "CompoundMiners",
+      "title": "Factorio CompoundMiners",
       "version": "1.1.3",
       "setting_names": [
         "specialized-miners"
@@ -29064,7 +29064,7 @@
     },
     "HugeBags": {
       "name": "HugeBags",
-      "title": "Big Bags (UNOFFICIAL 0.18 UPDATE)",
+      "title": "Huge Bags (UNOFFICIAL 0.18 UPDATE)",
       "version": "1.0.31",
       "setting_names": [
         "my_stack_factor",
@@ -29622,7 +29622,7 @@
     },
     "AdvancedElectricTrain": {
       "name": "AdvancedElectricTrain",
-      "title": "Advanced electric train",
+      "title": "[ALPHA] Advanced electric train",
       "version": "1.2.0",
       "setting_names": [
         "advancedelectrictrain_hybrid-train",
@@ -29754,7 +29754,7 @@
     },
     "Picks-Inserter": {
       "name": "Picks-Inserter",
-      "title": "Picklock's Inserter",
+      "title": "Picklocks Inserter",
       "version": "1.110.4",
       "setting_names": [
         "pi_temp_unlock",
@@ -29792,7 +29792,7 @@
     },
     "IndustrialRevolution_Language_Pack": {
       "name": "IndustrialRevolution_Language_Pack",
-      "title": "Industrial Revolution 2 Language Pack",
+      "title": "Industrial Revolution Language Pack",
       "version": "2.3.13",
       "setting_names": [
         "ir2-hide-redundancies",
@@ -30023,7 +30023,7 @@
     },
     "AGNClusterioBiterControl": {
       "name": "AGNClusterioBiterControl",
-      "title": "AGN's Clusterio Biter Control",
+      "title": "AlienX's Biter Control",
       "version": "0.0.6",
       "setting_names": [
         "cbc-enabled",
@@ -30044,7 +30044,7 @@
     },
     "train-teleporter": {
       "name": "train-teleporter",
-      "title": "Train teleporter",
+      "title": "Train teleporter [BETA]",
       "version": "0.0.3",
       "setting_names": [
         "tt-timeout"
@@ -30104,7 +30104,7 @@
     },
     "FixRecExplo": {
       "name": "FixRecExplo",
-      "title": "Recipe Explorer",
+      "title": "Fix Recipe Explorer",
       "version": "0.18.10",
       "setting_names": [
         "recexplo-show-hidden",
@@ -30565,7 +30565,7 @@
     },
     "talion-moderation-system": {
       "name": "talion-moderation-system",
-      "title": "Talion moderation system",
+      "title": "Adaptive talion moderation system",
       "version": "0.5.5",
       "setting_names": [
         "tms-minimum-rank-for-changing-ranks",
@@ -31387,7 +31387,7 @@
     },
     "pychinese": {
       "name": "pychinese",
-      "title": "\u670b\u53cb\u6c49\u5316",
+      "title": "py chinese locale\u670b\u53cb\u6c49\u5316",
       "version": "0.19.10",
       "setting_names": [
         "py-tank-adjust",
@@ -31400,7 +31400,7 @@
     },
     "informatron": {
       "name": "informatron",
-      "title": "InformaTron",
+      "title": "Informatron",
       "version": "0.2.2",
       "setting_names": [
         "informatron-show-overhead-button",
@@ -31431,7 +31431,7 @@
     },
     "oil_press": {
       "name": "oil_press",
-      "title": "Oil Press",
+      "title": "Oil Press (for Robot Tree Farm)",
       "version": "0.18.5",
       "setting_names": [
         "oil-press-lubricant"
@@ -31453,7 +31453,7 @@
     },
     "quarry-18": {
       "name": "quarry-18",
-      "title": "Quarry (updated for 1.1)",
+      "title": "Quarry (updated for 0.18)",
       "version": "1.9.0",
       "setting_names": [
         "quarry-stone-waste-percentage",
@@ -31855,7 +31855,7 @@
     },
     "methane-processing-18": {
       "name": "methane-processing-18",
-      "title": "Methane processing (updated for 1.1)",
+      "title": "Methane processing (updated for 1.0)",
       "version": "0.7.0",
       "setting_names": [
         "disable-autoplace-oil",
@@ -32025,7 +32025,7 @@
     },
     "OreEraser": {
       "name": "OreEraser",
-      "title": "Ore Eraser",
+      "title": "Ore Eraser (continued)",
       "version": "1.5.6",
       "setting_names": [
         "oe-all-selected",
@@ -32196,7 +32196,7 @@
     },
     "SE-PFR-fix": {
       "name": "SE-PFR-fix",
-      "title": "Space exploration - Personal fusion reactor delay fix [Unofficial plugin]",
+      "title": "Space exploration - Personal fusion reactor delay fix (unofficial plugin)",
       "version": "0.0.11",
       "setting_names": [
         "pfr-replacment-target",
@@ -32321,7 +32321,7 @@
     },
     "Nanobots_For_Diggy": {
       "name": "Nanobots_For_Diggy",
-      "title": "Nanobots: Early Bots",
+      "title": "Nanobots: Early Bots (modified for Diggy)",
       "version": "0.0.1",
       "setting_names": [
         "nanobots-nanobots-auto",
@@ -32427,7 +32427,7 @@
     },
     "tag-changer": {
       "name": "tag-changer",
-      "title": "Tag changer",
+      "title": "Player's prefix",
       "version": "1.2.0",
       "setting_names": [
         "newtag"
@@ -32501,7 +32501,7 @@
     },
     "disco-laser-beams": {
       "name": "disco-laser-beams",
-      "title": "Disco Laser Beams",
+      "title": "Disco laser beams",
       "version": "0.0.2",
       "setting_names": [
         "alpha-turret-name",
@@ -32976,7 +32976,7 @@
     },
     "bbr-fix": {
       "name": "bbr-fix",
-      "title": "Beautiful Bridge Railway - Recipe Fix",
+      "title": "Beautiful Bridge Railway - Recipe Fix (Addon)",
       "version": "1.1.2",
       "setting_names": [
         "bbr-fix-cost"
@@ -33123,7 +33123,7 @@
     },
     "KrastorioPorted": {
       "name": "KrastorioPorted",
-      "title": "Krastorio Legacy - Ported",
+      "title": "Krastorio Legacy - Ported (Standalone)",
       "version": "1.0.0",
       "setting_names": [
         "long-hands",
@@ -33319,7 +33319,7 @@
     },
     "TLBE": {
       "name": "TLBE",
-      "title": "Time Lapse Base Edition",
+      "title": "Timelapse Base Edition (TLBE)",
       "version": "1.4.3",
       "setting_names": [
         "camera-surface-deleted",
@@ -33586,7 +33586,7 @@
     },
     "Quantum_Warehousing": {
       "name": "Quantum_Warehousing",
-      "title": "Quantum Warehousing",
+      "title": "Quantum Warehousing Mod",
       "version": "0.4.2",
       "setting_names": [
         "warehousing-copy-logistic-system",
@@ -33872,7 +33872,7 @@
     },
     "some-autoresearch": {
       "name": "some-autoresearch",
-      "title": "Auto Research (fixed + re-published)",
+      "title": "Auto Research (fixed + re-published abandoned mod)",
       "version": "1.1.0",
       "setting_names": [
         "queued-tech-setting",
@@ -34027,7 +34027,7 @@
     },
     "LTN_Combinator_Fix": {
       "name": "LTN_Combinator_Fix",
-      "title": "LTN Combinator for 1.1",
+      "title": "LTN Combinator for 0.18, 1.0 & 1.1",
       "version": "1.1.1",
       "setting_names": [
         "suppress-custom-gui",
@@ -34085,7 +34085,7 @@
     },
     "WideChestsAllType": {
       "name": "WideChestsAllType",
-      "title": "Merging Chests",
+      "title": "Merging Chests AllType",
       "version": "3.0.7",
       "setting_names": [
         "mergable-chest-name",
@@ -34414,7 +34414,7 @@
     },
     "UtilizationMonitorBlargh": {
       "name": "UtilizationMonitorBlargh",
-      "title": "Utilization Monitor (Blargh)",
+      "title": "Utilization Monitor Blargh",
       "version": "0.8.13",
       "setting_names": [
         "utilization-monitor-limit-exceeded",
@@ -34453,7 +34453,7 @@
     },
     "zombiesextended-core": {
       "name": "zombiesextended-core",
-      "title": "ZombiesExtended Core",
+      "title": "Zombies Extended Core",
       "version": "1.0.8",
       "setting_names": [
         "zombies-use-seperate-tab"
@@ -34801,7 +34801,7 @@
     },
     "MLG_FactOreo": {
       "name": "MLG_FactOreo",
-      "title": "MLG Factorio",
+      "title": "MLG FactOreo",
       "version": "69.420.1337",
       "setting_names": [
         "s1ckw0bs",
@@ -34861,7 +34861,7 @@
     },
     "cardinal_quickfix": {
       "name": "cardinal_quickfix",
-      "title": "Cardinal_Quickfix",
+      "title": "\ud83e\udded Cardinal_Quickfix",
       "version": "0.1.11",
       "setting_names": [
         "cardinal-enable",
@@ -34874,7 +34874,7 @@
     },
     "Nuclear_Artillery_QF": {
       "name": "Nuclear_Artillery_QF",
-      "title": "Nuclear Artillery",
+      "title": "\u2622\ufe0f Nuclear Artillery_QuickFix",
       "version": "0.0.5",
       "setting_names": [
         "nuclear-seperate-bonuses",
@@ -35039,7 +35039,7 @@
     },
     "PEW-PEW": {
       "name": "PEW-PEW",
-      "title": "Laser Turrets PEW PEW Sound",
+      "title": "Laser turrets PEW PEW sound",
       "version": "2.0.1",
       "setting_names": [
         "pew-pew-laser-turret-pew",
@@ -35149,7 +35149,7 @@
     },
     "zk-lib": {
       "name": "zk-lib",
-      "title": "ZwerOxotnik's extendable mod with 8 addons",
+      "title": "ZwerOxotnik's multipurpose mod with 8 addons [zk-lib][WIP]",
       "version": "0.10.22",
       "setting_names": [
         "el_debug-mode",
@@ -35333,7 +35333,7 @@
     },
     "ExtendVanillaGame": {
       "name": "ExtendVanillaGame",
-      "title": "Extend Vanilla Game",
+      "title": "Ferby's Extend Vanilla Game",
       "version": "2020.100.17",
       "setting_names": [
         "extendvanillagame-add-new-infinite-technologies",
@@ -35474,7 +35474,7 @@
     },
     "hive-spidertron": {
       "name": "hive-spidertron",
-      "title": "Hive Spidertron",
+      "title": "Hive-Spidertron",
       "version": "1.0.8",
       "setting_names": [
         "hive-spider-grid-width",
@@ -35566,7 +35566,7 @@
     },
     "car-finder": {
       "name": "car-finder",
-      "title": "Car/Tank/Spidertron Locator Button",
+      "title": "Car/Tank/Spidertron Locator Button (Find / Locate My Lost Car / Car Finder)",
       "version": "1.5.2",
       "setting_names": [
         "car-finder-setting-chirp-volume",
@@ -35664,7 +35664,7 @@
     },
     "Auto-destruct-trees-on-resources": {
       "name": "Auto-destruct-trees-on-resources",
-      "title": "Auto Destruct trees on resources",
+      "title": "Deconstructs trees on resources",
       "version": "0.2.0",
       "setting_names": [
         "auto-deconstruct-destroy",
@@ -35707,7 +35707,7 @@
     },
     "RealisticFusionWeaponry": {
       "name": "RealisticFusionWeaponry",
-      "title": "RFP Addon: Weaponry",
+      "title": "Realistic Fusion Weaponry",
       "version": "1.5.8",
       "setting_names": [
         "rfw-fission-gfx",
@@ -35880,7 +35880,7 @@
     },
     "The_Night_Has_A_Thousand_Eyes": {
       "name": "The_Night_Has_A_Thousand_Eyes",
-      "title": "The Night Has A Thousand Eyes",
+      "title": "\ud83c\uddfa\ud83c\udde6 The Night Has A Thousand Eyes",
       "version": "0.1.3",
       "setting_names": [
         "wisps-can-attack",
@@ -36278,7 +36278,7 @@
     },
     "dyson-sphere": {
       "name": "dyson-sphere",
-      "title": "Dyson Sphere SLP",
+      "title": "SLP - Dyson Sphere",
       "version": "1.0.3",
       "setting_names": [
         "ds-complete",
@@ -36585,7 +36585,7 @@
     },
     "Bottleneck_WithDrill": {
       "name": "Bottleneck_WithDrill",
-      "title": "\u25b6\u2a2f Bottleneck_WithDrill",
+      "title": "\u23ef\ufe0f Bottleneck_WithDrill",
       "version": "0.11.08",
       "setting_names": [
         "bottleneck-signals-per-tick",
@@ -36644,7 +36644,7 @@
     },
     "Red-Alert-Harvester": {
       "name": "Red-Alert-Harvester",
-      "title": "C&C harvesters",
+      "title": "C&C Harvesters",
       "version": "1.0.12",
       "setting_names": [
         "auto-cncharvester-testing"
@@ -36763,7 +36763,7 @@
     },
     "slp-underground-poles": {
       "name": "slp-underground-poles",
-      "title": "Underground pole SLP",
+      "title": "SLP - Underground pole",
       "version": "1.0.2",
       "setting_names": [
         "ds-show-circuit"
@@ -36958,7 +36958,7 @@
     },
     "zSwornSmallFixes": {
       "name": "zSwornSmallFixes",
-      "title": "Sworn small fixes for (Angels, Yuoki and Early mods)",
+      "title": "Sworn small fixes for (Angels, Yuoki, Clows and Early mods like Nanobots)",
       "version": "1.0.12",
       "setting_names": [
         "zsworn-fix-autoscience",
@@ -37087,7 +37087,7 @@
     },
     "TraditionalChinese": {
       "name": "TraditionalChinese",
-      "title": "Traditional Chinese locale library \u6b63\u9ad4\u4e2d\u6587",
+      "title": " Traditional Chinese Locale Library \u6b63\u9ad4\u4e2d\u6587",
       "version": "0.3.7",
       "setting_names": [
         "fp_display_gui_button",
@@ -39081,7 +39081,7 @@
     },
     "eradicators-library": {
       "name": "eradicators-library",
-      "title": "Eradicator's L.I.B.R.A.R.Y.",
+      "title": " Eradicator's L.I.B.R.A.R.Y.",
       "version": "4.2.6",
       "setting_names": [
         "erlib",
@@ -39243,7 +39243,7 @@
     },
     "Landfill_plus": {
       "name": "Landfill_plus",
-      "title": "Landfill plus",
+      "title": "Landfill plus | Breakable landfill, recipe changer and more",
       "version": "1.0.19",
       "setting_names": [
         "landfill-plus-breakable-landfill-setting",
@@ -39839,7 +39839,7 @@
     },
     "Kux-Running": {
       "name": "Kux-Running",
-      "title": "Kuxynator's Running mod",
+      "title": "Kuxynator's Running Mod",
       "version": "2.7.2",
       "setting_names": [
         "kux-running_enable",
@@ -40845,7 +40845,7 @@
     },
     "fire_department_fix": {
       "name": "fire_department_fix",
-      "title": "\ud83d\udc68\u200d\ud83d\ude92\u26d1\ufe0fFire Department QuickFix",
+      "title": "Fire Department QuickFix",
       "version": "0.18.10",
       "setting_names": [
         "fide-interval",
@@ -41462,7 +41462,7 @@
     },
     "Mobile_Factory_zh-CN": {
       "name": "Mobile_Factory_zh-CN",
-      "title": "[Mobile_Factory]\u79fb\u52a8\u5de5\u5382\u6c49\u5316",
+      "title": "\u3010Mobile Factory\u3011 \u79fb\u52a8\u5de5\u5382\u6c49\u5316",
       "version": "0.0.9",
       "setting_names": [
         "mf-first-mf",
@@ -42145,7 +42145,7 @@
     },
     "spidertron-extended-dukey-edition": {
       "name": "spidertron-extended-dukey-edition",
-      "title": "Spidertron Extended Dukey Edition",
+      "title": "Spidertron Extended Dukeys Mod",
       "version": "0.1.1",
       "setting_names": [
         "vanilla-spidertron-size",
@@ -43162,7 +43162,7 @@
     },
     "Ting_ammChinesization": {
       "name": "Ting_ammChinesization",
-      "title": "Ting_amm Chinesization Self Use",
+      "title": "Ting_amm Chinesization",
       "version": "1.1.8",
       "setting_names": [
         "timetools-always-day",
@@ -44782,7 +44782,7 @@
     },
     "combat-mechanics-overhaul": {
       "name": "combat-mechanics-overhaul",
-      "title": "Combat Mechanics Overhaul",
+      "title": "Combat mechanics overhaul",
       "version": "0.6.20",
       "setting_names": [
         "walls-block-compensation",
@@ -44919,7 +44919,7 @@
     },
     "warehouse-resize_fixfor110": {
       "name": "warehouse-resize_fixfor110",
-      "title": "Warehousing Mod Resize",
+      "title": "Warehousing Mod Resize fixfor110",
       "version": "0.0.1",
       "setting_names": [
         "warehouse-size",
@@ -45262,7 +45262,7 @@
     },
     "ChemsCircuitProcessing": {
       "name": "ChemsCircuitProcessing",
-      "title": "Chems Circuit Processing",
+      "title": "Chem's Circuit Processing",
       "version": "1.1.0",
       "setting_names": [
         "cp-override-modules"
@@ -45377,7 +45377,7 @@
     },
     "DropSciencePack": {
       "name": "DropSciencePack",
-      "title": "Drop Science Pack with Chest",
+      "title": "Drop Science Pack",
       "version": "3.2.1",
       "setting_names": [
         "bonus-box",
@@ -49026,7 +49026,7 @@
     },
     "Krastorio2_BioLabModules": {
       "name": "Krastorio2_BioLabModules",
-      "title": "Krastorio2 and Space Exploration Tweaks",
+      "title": "ptx0's K2 or SE tweaks",
       "version": "1.1.6",
       "setting_names": [
         "ptx0-k2-greenhouse-modules",
@@ -49434,7 +49434,7 @@
     },
     "kj_utilitarian": {
       "name": "kj_utilitarian",
-      "title": "King Jo's General Purpose Truck",
+      "title": "King Jo\u2019s General Purpose Truck",
       "version": "1.1.5",
       "setting_names": [
         "kj_utilitarian_cost_setting_multiplicator"
@@ -49535,7 +49535,7 @@
     },
     "SE-more-tiers": {
       "name": "SE-more-tiers",
-      "title": "More upgrade tiers for Space Exploration - Equipment update! [unofficial plugin]",
+      "title": "More upgrade tiers for Space Exploration",
       "version": "0.0.3",
       "setting_names": [
         "se-more-tiers-extra-equipment"
@@ -50303,7 +50303,7 @@
     },
     "AsphaltPaving": {
       "name": "AsphaltPaving",
-      "title": "Asphalt Paving (Roads)",
+      "title": "Asphalt Roads",
       "version": "1.3.1",
       "setting_names": [
         "ar-notification",
@@ -50434,7 +50434,7 @@
     },
     "laser_tanks_updated": {
       "name": "laser_tanks_updated",
-      "title": "Laser Tanks",
+      "title": "Laser Tanks Updated",
       "version": "0.19.0",
       "setting_names": [
         "lasertanks-override-color",
@@ -50606,7 +50606,7 @@
     },
     "QuietTexugoWindGenerator": {
       "name": "QuietTexugoWindGenerator",
-      "title": "QuietTexugoWindGenerator",
+      "title": "Quiet Texugo Wind Generator",
       "version": "1.1.3",
       "setting_names": [
         "texugo-wind-power"
@@ -50729,7 +50729,7 @@
     },
     "RocketExplosions": {
       "name": "RocketExplosions",
-      "title": "RocketExplosions",
+      "title": "Rocket Explosions",
       "version": "1.1.4",
       "setting_names": [
         "re-default-failure-chance",
@@ -50769,7 +50769,7 @@
     },
     "Krastorio2LoaderRedux": {
       "name": "Krastorio2LoaderRedux",
-      "title": "Krastorio2 Loader for train",
+      "title": "Loader for trains",
       "version": "1.5.0",
       "setting_names": [
         "loader-snapping",
@@ -50934,7 +50934,7 @@
     },
     "expensivelandfill3": {
       "name": "expensivelandfill3",
-      "title": "EXPENSIVELANDFILL3",
+      "title": "Expensive Landfill",
       "version": "1.1.0",
       "setting_names": [
         "landfill-craftingtime",
@@ -51175,7 +51175,7 @@
     },
     "TrainSpeeds": {
       "name": "TrainSpeeds",
-      "title": "Rivens Realistic Train Acceleration",
+      "title": "Rivens Realistic Train Acceleration (based on cargo)",
       "version": "0.1.14",
       "setting_names": [
         "modtrainspeeds-fuel-type-based-acceleration",
@@ -51509,7 +51509,7 @@
     },
     "Rohlinheatagtmuf_Hdhaotaotfnllsape-atnsasri": {
       "name": "Rohlinheatagtmuf_Hdhaotaotfnllsape-atnsasri",
-      "title": "\"Rohlinheatagtmuf Hdhaotaotfnllsape'atnsasri\" - the beginning of the ancient ethernal darkness curse",
+      "title": "Requirement of having lamps is not heavily enforced as they are generally the most useless fixtures. However, distributing high amount of them all over the factory no longer looks like such a pointless exercise, after the night stoped appearing so ridiculously inconsequantial.",
       "version": "1.101.1",
       "setting_names": [
         "rohlinheatagtmuf_hdhaotaotfnllsape-atnsasri-game_colors",
@@ -51605,7 +51605,7 @@
     },
     "cargo-ships-seraph": {
       "name": "cargo-ships-seraph",
-      "title": "Cargo Ships",
+      "title": "Cargo Ships without Oil Generation",
       "version": "0.0.60",
       "setting_names": [
         "oil_frequency",
@@ -51735,7 +51735,7 @@
     },
     "kj_servoskull": {
       "name": "kj_servoskull",
-      "title": "King Jo's Warhammer 40K Servo-skull",
+      "title": "King Jo's Warhammer 40K Servo-Skull",
       "version": "1.1.3",
       "setting_names": [
         "kj_servoskull_reskin"
@@ -51931,7 +51931,7 @@
     },
     "se_kras_vanilla_smelting": {
       "name": "se_kras_vanilla_smelting",
-      "title": "SE-K2 Efficent Smelting",
+      "title": "K2-SE Efficient Smelting",
       "version": "1.1.1",
       "setting_names": [
         "se-kras-vanilla-smelting-early",
@@ -51994,7 +51994,7 @@
     },
     "move-with-mouse-updated": {
       "name": "move-with-mouse-updated",
-      "title": "Move With The Mouse",
+      "title": "Move with the mouse",
       "version": "0.3.1",
       "setting_names": [
         "mm-returnfailed",
@@ -52043,7 +52043,7 @@
     },
     "TrainAnnouncer": {
       "name": "TrainAnnouncer",
-      "title": "Train Announcer",
+      "title": "Train Arrival Announcer",
       "version": "1.1.1",
       "setting_names": [
         "train-announcer-message",
@@ -52317,7 +52317,7 @@
     },
     "CombatRobotsOverhaul": {
       "name": "CombatRobotsOverhaul",
-      "title": "Combat Robot Overhaul",
+      "title": "Combat Robots Overhaul",
       "version": "2.0.9",
       "setting_names": [
         "enable-vanilla-combatrobots",
@@ -52359,7 +52359,7 @@
     },
     "robotMiningSite_New": {
       "name": "robotMiningSite_New",
-      "title": "Robot Mining Site",
+      "title": "Robot Mining Site New",
       "version": "0.10.5",
       "setting_names": [
         "robotminingsite_easyt1",
@@ -52465,7 +52465,7 @@
     },
     "advanced-production": {
       "name": "advanced-production",
-      "title": "Advanced Production Miners",
+      "title": "Advanced Production",
       "version": "1.0.11",
       "setting_names": [
         "advancedproductionsciencepacks"
@@ -52587,7 +52587,7 @@
     },
     "Dustbin": {
       "name": "Dustbin",
-      "title": "Dust bin",
+      "title": "Dustbin Trash",
       "version": "1.1.3",
       "setting_names": [
         "request-mod"
@@ -52595,7 +52595,7 @@
     },
     "SuperAdvancedArmor": {
       "name": "SuperAdvancedArmor",
-      "title": "SuperAdvancedArmor",
+      "title": "DELETED CONTENT",
       "version": "0.3.04",
       "setting_names": [
         "pam3-nvm2",
@@ -56295,7 +56295,7 @@
     },
     "Saltwort": {
       "name": "Saltwort",
-      "title": "Saltwort [0.2.2 R2]",
+      "title": "Saltwort",
       "version": "0.2.2",
       "setting_names": [
         "double_ore",
@@ -56330,7 +56330,7 @@
     },
     "Crafting_Speed_Increase": {
       "name": "Crafting_Speed_Increase",
-      "title": "Crafting Speed Increase",
+      "title": "Character Crafting Speed",
       "version": "0.1.6",
       "setting_names": [
         "nyccaplz-crafting-speed"
@@ -56531,7 +56531,7 @@
     },
     "Ingredient_Scrap": {
       "name": "Ingredient_Scrap",
-      "title": "Ingredient Scrap",
+      "title": "Ingredient_Scrap",
       "version": "1.1.10",
       "setting_names": [
         "yis-needed",
@@ -56546,7 +56546,7 @@
     },
     "multi-surface": {
       "name": "multi-surface",
-      "title": "Multi surface [ALPHA]",
+      "title": "Multi surface [ALPHA?]",
       "version": "0.3.5",
       "setting_names": [
         "ms_delete_unimportant_chunks",
@@ -56675,7 +56675,7 @@
     },
     "BigBags_Update": {
       "name": "BigBags_Update",
-      "title": "Big Bags (more space in bags +longer reach) 1.1 Update",
+      "title": "Big Bags (more space in bags +longer reach)",
       "version": "1.1.2",
       "setting_names": [
         "my_stack_factor",
@@ -56698,7 +56698,7 @@
     },
     "example-mod": {
       "name": "example-mod",
-      "title": "Example mod",
+      "title": "Example mod + auto-publishing + etc",
       "version": "0.5.1",
       "setting_names": [
         "em_example_settings"
@@ -56817,7 +56817,7 @@
     },
     "eradicators-vram-saver": {
       "name": "eradicators-vram-saver",
-      "title": "Eradicator's RAM & VRAM Saver",
+      "title": "Eradicator's RAM & VRAM Saver (Beta)",
       "version": "0.1.7",
       "setting_names": [
         "er"
@@ -57461,7 +57461,7 @@
     },
     "greens-tweaks-fluid": {
       "name": "greens-tweaks-fluid",
-      "title": "Green's Tweaks: Barrel Edition",
+      "title": "Green's Tweaks: Fluid Edition",
       "version": "0.0.4",
       "setting_names": [
         "barrel-capacity",
@@ -57505,7 +57505,7 @@
     },
     "Hazard-Lights_Fix": {
       "name": "Hazard-Lights_Fix",
-      "title": "Hazard Lights",
+      "title": "\ud83d\udca1Hazard Lights",
       "version": "18.0.9",
       "setting_names": [
         "hazardlights-rescanbool",
@@ -57520,7 +57520,7 @@
     },
     "Hazard-Lights-Auto-Lights_Fix": {
       "name": "Hazard-Lights-Auto-Lights_Fix",
-      "title": "Hazard Lights Auto Ligths",
+      "title": "\ud83d\udca1Hazard Lights Auto Ligths",
       "version": "18.0.4",
       "setting_names": [
         "hazardlightsauto-width",
@@ -57762,7 +57762,7 @@
     },
     "aivech-simple-spaceex": {
       "name": "aivech-simple-spaceex",
-      "title": "Aivech's Space Exploration Simplifier",
+      "title": "Aivech's Space Exploration Configurer",
       "version": "0.0.11",
       "setting_names": [
         "aivech-ssx-gate-electricity",
@@ -57908,7 +57908,7 @@
     },
     "Li-VariationFactory": {
       "name": "Li-VariationFactory",
-      "title": "Li Variation Factory",
+      "title": "\u53d8\u5f02\u5de5\u5382",
       "version": "1.0.8",
       "setting_names": [
         "add_power",
@@ -58468,7 +58468,7 @@
     },
     "aio_se_k2_fluid_permutations": {
       "name": "aio_se_k2_fluid_permutations",
-      "title": "Fluid Permutations",
+      "title": "Fluid Permutations for Space Exploration + Krastorio2",
       "version": "0.4.2",
       "setting_names": [
         "fluid-permutations-threshold",
@@ -59147,7 +59147,7 @@
     },
     "free-market": {
       "name": "free-market",
-      "title": "Free market",
+      "title": "Free market [ALPHA?]",
       "version": "0.19.0",
       "setting_names": [
         "fm_skip_offline_team_chance",
@@ -59343,7 +59343,7 @@
     },
     "passive_team_income": {
       "name": "passive_team_income",
-      "title": "Passive force income (extension for EasyAPI)",
+      "title": "Passive team income (extension for EasyAPI)",
       "version": "0.8.5",
       "setting_names": [
         "pti_is_for_online_teams"
@@ -59351,7 +59351,7 @@
     },
     "restrict_building": {
       "name": "restrict_building",
-      "title": "Restrict building",
+      "title": "Restrict building [Switchable mod]",
       "version": "1.1.5",
       "setting_names": [
         "restrict_building_radius"
@@ -59701,7 +59701,7 @@
     },
     "m_WhereIsMyBody": {
       "name": "m_WhereIsMyBody",
-      "title": "Where Is My Body",
+      "title": "Where Is My Body [ZwerOxotnik's derivative]",
       "version": "2.0.7",
       "setting_names": [
         "whmb_update_tick",
@@ -59710,7 +59710,7 @@
     },
     "FasterRoboportCharging": {
       "name": "FasterRoboportCharging",
-      "title": "Faster Robotport Charging",
+      "title": "Faster Roboport Charging",
       "version": "0.4.1",
       "setting_names": [
         "fasterroboportcharging-robo-charging-speed",
@@ -60083,7 +60083,7 @@
     },
     "iFreeMarket": {
       "name": "iFreeMarket",
-      "title": "Free market",
+      "title": "Free market + bottomless storage [PRE-BETA]",
       "version": "0.36.9",
       "setting_names": [
         "fm_sell_notification_column_count",
@@ -60109,7 +60109,7 @@
     },
     "BuildResources": {
       "name": "BuildResources",
-      "title": "BuildResources",
+      "title": "BuildResources K2+SE Edition /Rebuild from SunResources",
       "version": "0.0.2",
       "setting_names": [
         "sunresource-logging",
@@ -60160,7 +60160,7 @@
     },
     "Space-trains-CN": {
       "name": "Space-trains-CN",
-      "title": "\u592a\u7a7a\u78c1\u60ac\u6d6e\u5217\u8f66 \u4e2d\u6587\u6c49\u5316",
+      "title": "Space-trains-CN",
       "version": "0.0.2",
       "setting_names": [
         "space-trains-short",
@@ -60203,7 +60203,7 @@
     },
     "mod_recipes": {
       "name": "mod_recipes",
-      "title": "Multiplied recipes [ALPHA]",
+      "title": "Multiplied recipes+ [ALPHA?]",
       "version": "0.5.2",
       "setting_names": [
         "mod_recipes_speed_multiplier",
@@ -60278,7 +60278,7 @@
     },
     "deep-storage-unit-se": {
       "name": "deep-storage-unit-se",
-      "title": "Memory Storage",
+      "title": "Memory Storage [se]",
       "version": "1.2.15",
       "setting_names": [
         "memory-unit-empty",
@@ -60291,7 +60291,7 @@
     },
     "fluid-memory-storage-se": {
       "name": "fluid-memory-storage-se",
-      "title": "Fluid Memory Storage",
+      "title": "Fluid Memory Storage [se]",
       "version": "1.3.17",
       "setting_names": [
         "fluid-memory-unit-empty",
@@ -60486,7 +60486,7 @@
     },
     "flattening-trains": {
       "name": "flattening-trains",
-      "title": "Flattening Trains (Train Tweaker)",
+      "title": "Flattening Trains",
       "version": "0.0.2",
       "setting_names": [
         "flattening-trains-weight-multiplier",
@@ -60799,7 +60799,7 @@
     },
     "Li-Colorful": {
       "name": "Li-Colorful",
-      "title": "Li Colorful",
+      "title": "Li-Colorful",
       "version": "0.0.8",
       "setting_names": [
         "enable_item_light",
@@ -61168,7 +61168,7 @@
     },
     "Ubiquity": {
       "name": "Ubiquity",
-      "title": "Ubiquity",
+      "title": "Ubiquity 21.12",
       "version": "21.12.6",
       "setting_names": [
         "dectorio-signals",
