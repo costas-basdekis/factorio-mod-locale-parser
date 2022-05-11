@@ -356,13 +356,9 @@ def get_zip_from_cache(mod_name):
 
 
 def get_zip_from_api(api_auth, mod_api_data):
-    if mod_api_data.get("latest_release"):
-        download_url = mod_api_data["latest_release"]["download_url"]
-    elif mod_api_data.get("releases"):
-        download_url = max(
-            mod_api_data["releases"],
-            key=lambda release: release ["version"],
-        )["download_url"]
+    latest_release = get_latest_release(mod_api_data)
+    if latest_release:
+        download_url = latest_release["download_url"]
     else:
         download_url = None
     if not download_url:
@@ -415,13 +411,9 @@ def iterate_mods_from_api(excluding_mods: Dict) -> Iterator[Tuple[Dict, bool]]:
         for item in data["results"]:
             if item["name"] in excluding_mods:
                 existing_version = excluding_mods[item["name"]].get("version")
-                if "latest_release" in item:
-                    new_version = item["latest_release"]["version"]
-                elif "releases" in item and item["releases"]:
-                    new_version = max(
-                        release["version"]
-                        for release in item["releases"]
-                    )
+                latest_release = get_latest_release(item)
+                if latest_release:
+                    new_version = latest_release["version"]
                 else:
                     new_version = None
                 if not existing_version or existing_version >= new_version:
@@ -450,10 +442,9 @@ def get_mod_info(
         if mod_api_data:
             mod_name = mod_api_data["name"]
             mod_title = mod_api_data["title"]
-            if mod_api_data.get("latest_release"):
-                version = mod_api_data["latest_release"]["version"]
-            elif mod_api_data.get("releases"):
-                version = max(release["version"] for release in mod_api_data["releases"])
+            latest_release = get_latest_release(mod_api_data)
+            if latest_release:
+                version = latest_release["version"]
             else:
                 version = None
             return mod_name, mod_title, version
@@ -467,11 +458,9 @@ def get_mod_info(
             if mod_api_data:
                 mod_name = mod_api_data["name"]
                 mod_title = mod_api_data["title"]
-                if mod_api_data.get("latest_release"):
-                    version = mod_api_data["latest_release"]["version"]
-                elif mod_api_data.get("releases"):
-                    version = max(release["version"] for release in
-                                  mod_api_data["releases"])
+                latest_release = get_latest_release(mod_api_data)
+                if latest_release:
+                    version = latest_release["version"]
                 else:
                     version = None
                 return mod_name, mod_title, version
@@ -484,6 +473,18 @@ def get_mod_info(
         json.dump(info_data, f)
 
     return mod_name, mod_title, version
+
+
+def get_latest_release(info):
+    if info.get("latest_release"):
+        return info["latest_release"]
+    elif info.get("releases"):
+        return max(
+            info["releases"],
+            key=lambda release: release ["version"],
+        )
+
+    return None
 
 
 def open_cached_file(mod_name, filename, mode="w"):
