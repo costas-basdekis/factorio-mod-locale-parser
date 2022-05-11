@@ -25,4 +25,7 @@ jobs:
         git config --global user.email 'costas@basdekis.io'
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
     - name: Publish
+      env:
+        FACTORIO_MOD_API_SERVICE_TOKEN: ${{ secrets.FACTORIO_MOD_API_SERVICE_TOKEN }}
+        FACTORIO_MOD_API_SERVICE_USERNAME: ${{ secrets.FACTORIO_MOD_API_SERVICE_USERNAME }}
       run: ./publish_output.sh
