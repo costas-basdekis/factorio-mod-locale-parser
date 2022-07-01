@@ -773,7 +773,7 @@
     },
     "bobwarfare": {
       "name": "bobwarfare",
-      "title": "Bob's Warfare",
+      "title": "Bob's Warfare mod",
       "version": "1.1.3",
       "setting_names": [
         "bobmods-warfare-robotupdate",
@@ -1549,7 +1549,7 @@
     },
     "bobores": {
       "name": "bobores",
-      "title": "Bob's Ores",
+      "title": "Bob's Ores mod",
       "version": "1.1.3",
       "setting_names": [
         "bobmods-ores-infiniteore",
@@ -1937,7 +1937,7 @@
     "ammo-loader": {
       "name": "ammo-loader",
       "title": "Ammo Loader+",
-      "version": "1.1.12",
+      "version": "1.1.4",
       "setting_names": [
         "ammo_loader_enabled",
         "ammo_loader_draw_range",
@@ -2301,7 +2301,7 @@
     },
     "bobvehicleequipment": {
       "name": "bobvehicleequipment",
-      "title": "Bob's Vehicle Equipment",
+      "title": "Bob's Vehicle Equipment mod",
       "version": "1.1.2",
       "setting_names": [
         "bobmods-vehicleequipment-enablevehiclegrids"
@@ -2309,7 +2309,7 @@
     },
     "bobinserters": {
       "name": "bobinserters",
-      "title": "Bob's Adjustable Inserters",
+      "title": "Bob's Adjustable Inserters mod",
       "version": "1.1.0",
       "setting_names": [
         "bobmods-inserters-long2",
@@ -4762,7 +4762,7 @@
     },
     "bobelectronics": {
       "name": "bobelectronics",
-      "title": "Bob's Electronics",
+      "title": "Bob's Electronics mod",
       "version": "1.1.3",
       "setting_names": [
         "bobmods-colorupdate"
@@ -4996,7 +4996,7 @@
     },
     "angelsbioprocessing": {
       "name": "angelsbioprocessing",
-      "title": "Angel's Bio Processing",
+      "title": "Angel's Bioprocessing",
       "version": "0.7.21",
       "setting_names": [
         "angels-bio-tile-pollution-absorbtion-multiplier"
@@ -9993,7 +9993,7 @@
     },
     "bobtech": {
       "name": "bobtech",
-      "title": "Bob's Tech",
+      "title": "Bob's Technology mod",
       "version": "1.1.3",
       "setting_names": [
         "bobmods-tech-colorupdate",
@@ -11000,7 +11000,7 @@
     },
     "bobplates": {
       "name": "bobplates",
-      "title": "Bob's Metals, Chemicals and Intermediates",
+      "title": "Bob's Metals, Chemicals and Intermediates mod",
       "version": "1.1.3",
       "setting_names": [
         "bobmods-plates-cheapersteel",
@@ -11052,7 +11052,7 @@
     },
     "bobmodules": {
       "name": "bobmodules",
-      "title": "Bob's Modules",
+      "title": "Bob's Modules mod",
       "version": "1.1.2",
       "setting_names": [
         "bobmods-modules-enablegreenmodules",
@@ -11422,7 +11422,7 @@
     },
     "bobpower": {
       "name": "bobpower",
-      "title": "Bob's Power",
+      "title": "Bob's Power mod",
       "version": "1.1.3",
       "setting_names": [
         "bobmods-power-steam",
@@ -11725,7 +11725,7 @@
     },
     "bobassembly": {
       "name": "bobassembly",
-      "title": "Bob's Assembling machines",
+      "title": "Bob's Assembling machines mod",
       "version": "1.1.3",
       "setting_names": [
         "bobmods-assembly-oilrefineries",
@@ -11786,7 +11786,7 @@
     },
     "bobenemies": {
       "name": "bobenemies",
-      "title": "Bob's Enemies",
+      "title": "Bob's Enemies mod",
       "version": "1.1.1",
       "setting_names": [
         "bobmods-enemies-enableartifacts",
@@ -13181,7 +13181,7 @@
     },
     "bobclasses": {
       "name": "bobclasses",
-      "title": "Bob's Character classes",
+      "title": "Bob's Classes and Multiple characters mod",
       "version": "1.1.0",
       "setting_names": [
         "bobmods-classes-god-mode",
@@ -15490,7 +15490,7 @@
     "X100_assembler": {
       "name": "X100_assembler",
       "title": "X100 assembler",
-      "version": "5.2.9",
+      "version": "5.2.10",
       "setting_names": [
         "x100_use_entity_sorting",
         "x100_energy_usage",
@@ -31387,7 +31387,7 @@
     },
     "pychinese": {
       "name": "pychinese",
-      "title": "py chinese locale\u670b\u53cb\u6c49\u5316",
+      "title": "\u670b\u53cb\u6c49\u5316",
       "version": "0.19.10",
       "setting_names": [
         "py-tank-adjust",
@@ -34414,7 +34414,7 @@
     },
     "UtilizationMonitorBlargh": {
       "name": "UtilizationMonitorBlargh",
-      "title": "Utilization Monitor Blargh",
+      "title": "Utilization Monitor (Blargh)",
       "version": "0.8.13",
       "setting_names": [
         "utilization-monitor-limit-exceeded",
@@ -34643,7 +34643,7 @@
     "True-Nukes": {
       "name": "True-Nukes",
       "title": "True Nukes",
-      "version": "0.2.8",
+      "version": "0.2.10",
       "setting_names": [
         "destroy-resources-in-crater",
         "crater-water-filling",
@@ -35242,7 +35242,7 @@
     "RPG": {
       "name": "RPG",
       "title": "RPG",
-      "version": "1.0.6",
+      "version": "1.0.12",
       "setting_names": [
         "comfy_enable_health_and_mana_bars",
         "comfy_enable_mana",
@@ -35859,7 +35859,7 @@
     "angelsaddons-mobility": {
       "name": "angelsaddons-mobility",
       "title": "Angel's Addons - Mass Transit",
-      "version": "0.0.9",
+      "version": "0.0.10",
       "setting_names": [
         "angels-petrotrain-tier-amount",
         "angels-smeltingtrain-tier-amount",
@@ -39193,7 +39193,7 @@
     "bzsilicon": {
       "name": "bzsilicon",
       "title": "Silica & Silicon",
-      "version": "0.9.1",
+      "version": "0.11.1",
       "setting_names": [
         "bzsilicon-recipe-bypass",
         "bzsilicon-more-intermediates",
@@ -49434,7 +49434,7 @@
     },
     "kj_utilitarian": {
       "name": "kj_utilitarian",
-      "title": "King Jo\u2019s General Purpose Truck",
+      "title": "King Jo's General Purpose Truck",
       "version": "1.1.5",
       "setting_names": [
         "kj_utilitarian_cost_setting_multiplicator"
@@ -59701,7 +59701,7 @@
     },
     "m_WhereIsMyBody": {
       "name": "m_WhereIsMyBody",
-      "title": "Where Is My Body [ZwerOxotnik's derivative]",
+      "title": "Where Is My Body",
       "version": "2.0.7",
       "setting_names": [
         "whmb_update_tick",
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.9",
+      "version": "1.0.11",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
