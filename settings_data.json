@@ -898,7 +898,7 @@
     "helmod": {
       "name": "helmod",
       "title": "Helmod: assistant for planning your base.",
-      "version": "0.12.11",
+      "version": "0.12.9",
       "setting_names": [
         "helmod_debug_solver",
         "helmod_user_cache_step",
@@ -1044,7 +1044,7 @@
     },
     "MathCoProcessor": {
       "name": "MathCoProcessor",
-      "title": "Math Combinator",
+      "title": "Math combinator",
       "version": "1.1.0",
       "setting_names": [
         "mathcoprocessor-updateinterval"
@@ -1181,7 +1181,7 @@
     "reverse-factory": {
       "name": "reverse-factory",
       "title": "Reverse Factory",
-      "version": "8.1.8",
+      "version": "8.1.12",
       "setting_names": [
         "rf-safety",
         "rf-compati",
@@ -1937,7 +1937,7 @@
     "ammo-loader": {
       "name": "ammo-loader",
       "title": "Ammo Loader+",
-      "version": "1.1.13",
+      "version": "1.1.4",
       "setting_names": [
         "ammo_loader_enabled",
         "ammo_loader_draw_range",
@@ -13518,7 +13518,7 @@
     },
     "Advanced-Electric-Revamped-v16": {
       "name": "Advanced-Electric-Revamped-v16",
-      "title": "Advanced Solar HR",
+      "title": "Advanced Solar High Resolution",
       "version": "0.6.8",
       "setting_names": [
         "advanced-electric-enabled-tiers",
@@ -18240,8 +18240,8 @@
     },
     "train-pubsub": {
       "name": "train-pubsub",
-      "title": "Train Supply Manager (TSM)",
-      "version": "1.1.10",
+      "title": "Train Supply Manager",
+      "version": "1.1.7",
       "setting_names": [
         "subscriptions-title",
         "publish-title",
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.9.4",
+      "version": "1.10.0",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -29792,7 +29792,7 @@
     },
     "IndustrialRevolution_Language_Pack": {
       "name": "IndustrialRevolution_Language_Pack",
-      "title": "Industrial Revolution Language Pack",
+      "title": "Industrial Revolution 2 Language Pack",
       "version": "2.3.13",
       "setting_names": [
         "ir2-hide-redundancies",
@@ -31400,7 +31400,7 @@
     },
     "informatron": {
       "name": "informatron",
-      "title": "Informatron",
+      "title": "InformaTron",
       "version": "0.2.2",
       "setting_names": [
         "informatron-show-overhead-button",
@@ -31845,7 +31845,7 @@
     "Gun_Turret_Alerts": {
       "name": "Gun_Turret_Alerts",
       "title": "Ammo Alerts",
-      "version": "1.1.9",
+      "version": "1.1.10",
       "setting_names": [
         "gun-turret-alerts-enabled",
         "gun-turret-alerts-car-enabled",
@@ -34643,7 +34643,7 @@
     "True-Nukes": {
       "name": "True-Nukes",
       "title": "True Nukes",
-      "version": "0.2.8",
+      "version": "0.2.13",
       "setting_names": [
         "destroy-resources-in-crater",
         "crater-water-filling",
@@ -35242,7 +35242,7 @@
     "RPG": {
       "name": "RPG",
       "title": "RPG",
-      "version": "1.0.6",
+      "version": "1.0.14",
       "setting_names": [
         "comfy_enable_health_and_mana_bars",
         "comfy_enable_mana",
@@ -39193,7 +39193,7 @@
     "bzsilicon": {
       "name": "bzsilicon",
       "title": "Silica & Silicon",
-      "version": "0.9.1",
+      "version": "0.11.4",
       "setting_names": [
         "bzsilicon-recipe-bypass",
         "bzsilicon-more-intermediates",
@@ -44891,7 +44891,7 @@
     "MomosTweak": {
       "name": "MomosTweak",
       "title": "MomosTweak",
-      "version": "1.1.4",
+      "version": "1.1.11",
       "setting_names": [
         "momo-enable-30-sci-preset",
         "momo-fix-angels-chemistry-machine",
@@ -49026,7 +49026,7 @@
     },
     "Krastorio2_BioLabModules": {
       "name": "Krastorio2_BioLabModules",
-      "title": "ptx0's K2 or SE tweaks",
+      "title": "Krastorio2 and Space Exploration Tweaks",
       "version": "1.1.6",
       "setting_names": [
         "ptx0-k2-greenhouse-modules",
@@ -51509,7 +51509,7 @@
     },
     "Rohlinheatagtmuf_Hdhaotaotfnllsape-atnsasri": {
       "name": "Rohlinheatagtmuf_Hdhaotaotfnllsape-atnsasri",
-      "title": "Requirement of having lamps is not heavily enforced as they are generally the most useless fixtures. However, distributing high amount of them all over the factory no longer looks like such a pointless exercise, after the night stoped appearing so ridiculously inconsequantial.",
+      "title": "\"Rohlinheatagtmuf Hdhaotaotfnllsape'atnsasri\" - the beginning of the ancient ethernal darkness curse",
       "version": "1.101.1",
       "setting_names": [
         "rohlinheatagtmuf_hdhaotaotfnllsape-atnsasri-game_colors",
@@ -52317,8 +52317,8 @@
     },
     "CombatRobotsOverhaul": {
       "name": "CombatRobotsOverhaul",
-      "title": "Combat Robots Overhaul",
-      "version": "2.0.10",
+      "title": "Combat Robot Overhaul",
+      "version": "2.0.9",
       "setting_names": [
         "enable-vanilla-combatrobots",
         "defence-exclude-list",
@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.9.10",
+      "version": "0.9.9",
       "setting_names": [
         "team",
         "item",
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.9",
+      "version": "1.0.12",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
@@ -60083,8 +60083,8 @@
     },
     "iFreeMarket": {
       "name": "iFreeMarket",
-      "title": "Free market + bottomless storage [PRE-BETA]",
-      "version": "0.36.10",
+      "title": "Free market",
+      "version": "0.36.9",
       "setting_names": [
         "fm_sell_notification_column_count",
         "fm_buy_notification_column_count",
@@ -60830,7 +60830,7 @@
     "Warmonger": {
       "name": "Warmonger",
       "title": "Warmonger",
-      "version": "1.3.9",
+      "version": "1.3.13",
       "setting_names": [
         "wm-biomasstobitersreseach",
         "wm-creepminingpollution",
