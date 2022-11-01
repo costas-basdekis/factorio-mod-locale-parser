@@ -1181,7 +1181,7 @@
     "reverse-factory": {
       "name": "reverse-factory",
       "title": "Reverse Factory",
-      "version": "8.1.12",
+      "version": "8.1.8",
       "setting_names": [
         "rf-safety",
         "rf-compati",
@@ -1479,7 +1479,7 @@
     "textplates": {
       "name": "textplates",
       "title": "Text Plates",
-      "version": "0.6.3",
+      "version": "0.6.10",
       "setting_names": [
         "text-plates-group"
       ]
@@ -9628,7 +9628,7 @@
     "vtk-deep-core-mining": {
       "name": "vtk-deep-core-mining",
       "title": "Deep core mining",
-      "version": "2.9.5",
+      "version": "2.10.2",
       "setting_names": [
         "vtk-deep-core-mining-spawn-radius-from-start",
         "vtk-deep-core-mining-patch-min-richness",
@@ -13518,8 +13518,8 @@
     },
     "Advanced-Electric-Revamped-v16": {
       "name": "Advanced-Electric-Revamped-v16",
-      "title": "Advanced Solar High Resolution",
-      "version": "0.6.8",
+      "title": "Advanced Solar HR",
+      "version": "0.6.10",
       "setting_names": [
         "advanced-electric-enabled-tiers",
         "advanced-electric-multiplier-advanced",
@@ -25525,7 +25525,7 @@
     "Teleportation_Redux": {
       "name": "Teleportation_Redux",
       "title": "Teleportation_Redux",
-      "version": "1.1.10",
+      "version": "1.1.8",
       "setting_names": [
         "tooltip-button-main",
         "tooltip-button-page-next",
@@ -25586,7 +25586,7 @@
     "Circuit_Power_Measurement_Combinator": {
       "name": "Circuit_Power_Measurement_Combinator",
       "title": "Circuit Power Measurement Combinator",
-      "version": "0.0.9",
+      "version": "0.0.10",
       "setting_names": [
         "signal-update-interval"
       ]
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.10.0",
+      "version": "1.9.4",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -28581,7 +28581,7 @@
     },
     "FactorioCompoundMiners": {
       "name": "FactorioCompoundMiners",
-      "title": "Factorio CompoundMiners",
+      "title": "CompoundMiners",
       "version": "1.1.3",
       "setting_names": [
         "specialized-miners"
@@ -31996,7 +31996,7 @@
     "NonWaveDefense2": {
       "name": "NonWaveDefense2",
       "title": "Non-Wave Defense 2",
-      "version": "1.1.9",
+      "version": "1.1.12",
       "setting_names": [
         "nwd2-mod-show-flyingtext",
         "nwd2-mod-multiple-bonuses",
@@ -32339,7 +32339,7 @@
     "subspace_storage": {
       "name": "subspace_storage",
       "title": "Subspace Storage (Alpha)",
-      "version": "1.99.8",
+      "version": "1.99.14",
       "setting_names": [
         "subspace_storage-range-restriction-enabled",
         "subspace_storage-zone-width",
@@ -36573,7 +36573,7 @@
     "Asteroid_Mining": {
       "name": "Asteroid_Mining",
       "title": "Asteroid Mining",
-      "version": "0.9.12",
+      "version": "0.9.7",
       "setting_names": [
         "astmine-crushing",
         "astmine-k2crushing",
@@ -45220,7 +45220,7 @@
     "SpidertronEnhancements": {
       "name": "SpidertronEnhancements",
       "title": "Spidertron Enhancements",
-      "version": "1.8.10",
+      "version": "1.8.4",
       "setting_names": [
         "spidertron-enhancements-enable-corpse",
         "spidertron-enhancements-increase-size",
@@ -51449,7 +51449,7 @@
     "FluidicPower": {
       "name": "FluidicPower",
       "title": "Fluidic Power",
-      "version": "0.8.4",
+      "version": "0.10.1",
       "setting_names": [
         "fluidic-electric-overlay-depth",
         "fluidic-enable-build-limitations",
@@ -56698,7 +56698,7 @@
     },
     "example-mod": {
       "name": "example-mod",
-      "title": "Example mod + auto-publishing + etc",
+      "title": "Example mod",
       "version": "0.5.1",
       "setting_names": [
         "em_example_settings"
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.12",
+      "version": "1.0.9",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
@@ -60083,8 +60083,8 @@
     },
     "iFreeMarket": {
       "name": "iFreeMarket",
-      "title": "Free market + bottomless storage [PRE-BETA]",
-      "version": "0.36.12",
+      "title": "Free market",
+      "version": "0.36.9",
       "setting_names": [
         "fm_sell_notification_column_count",
         "fm_buy_notification_column_count",
@@ -60830,7 +60830,7 @@
     "Warmonger": {
       "name": "Warmonger",
       "title": "Warmonger",
-      "version": "1.3.9",
+      "version": "1.3.14",
       "setting_names": [
         "wm-biomasstobitersreseach",
         "wm-creepminingpollution",
