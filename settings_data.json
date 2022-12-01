@@ -898,7 +898,7 @@
     "helmod": {
       "name": "helmod",
       "title": "Helmod: assistant for planning your base.",
-      "version": "0.12.12",
+      "version": "0.12.9",
       "setting_names": [
         "helmod_debug_solver",
         "helmod_user_cache_step",
@@ -1181,7 +1181,7 @@
     "reverse-factory": {
       "name": "reverse-factory",
       "title": "Reverse Factory",
-      "version": "8.1.8",
+      "version": "8.1.14",
       "setting_names": [
         "rf-safety",
         "rf-compati",
@@ -15489,8 +15489,8 @@
     },
     "X100_assembler": {
       "name": "X100_assembler",
-      "title": "X100 assembler",
-      "version": "5.2.10",
+      "title": "X100_assembler",
+      "version": "5.2.9",
       "setting_names": [
         "x100_use_entity_sorting",
         "x100_energy_usage",
@@ -25525,7 +25525,7 @@
     "Teleportation_Redux": {
       "name": "Teleportation_Redux",
       "title": "Teleportation_Redux",
-      "version": "1.1.8",
+      "version": "1.1.11",
       "setting_names": [
         "tooltip-button-main",
         "tooltip-button-page-next",
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.9.4",
+      "version": "1.10.2",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -32339,7 +32339,7 @@
     "subspace_storage": {
       "name": "subspace_storage",
       "title": "Subspace Storage (Alpha)",
-      "version": "1.99.14",
+      "version": "1.99.8",
       "setting_names": [
         "subspace_storage-range-restriction-enabled",
         "subspace_storage-zone-width",
@@ -36293,7 +36293,7 @@
     "SpidertronWeaponSwitcher": {
       "name": "SpidertronWeaponSwitcher",
       "title": "Spidertron Weapon Switcher",
-      "version": "1.2.9",
+      "version": "1.2.11",
       "setting_names": [
         "sws-show-alternate-items"
       ]
@@ -36573,7 +36573,7 @@
     "Asteroid_Mining": {
       "name": "Asteroid_Mining",
       "title": "Asteroid Mining",
-      "version": "0.9.7",
+      "version": "0.9.13",
       "setting_names": [
         "astmine-crushing",
         "astmine-k2crushing",
@@ -45220,7 +45220,7 @@
     "SpidertronEnhancements": {
       "name": "SpidertronEnhancements",
       "title": "Spidertron Enhancements",
-      "version": "1.8.4",
+      "version": "1.8.12",
       "setting_names": [
         "spidertron-enhancements-enable-corpse",
         "spidertron-enhancements-increase-size",
@@ -57461,7 +57461,7 @@
     },
     "greens-tweaks-fluid": {
       "name": "greens-tweaks-fluid",
-      "title": "Green's Tweaks: Fluid Edition",
+      "title": "Green's Tweaks: Barrel Edition",
       "version": "0.0.4",
       "setting_names": [
         "barrel-capacity",
@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.9.11",
+      "version": "0.9.9",
       "setting_names": [
         "team",
         "item",
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.9",
+      "version": "1.0.15",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
@@ -60083,8 +60083,8 @@
     },
     "iFreeMarket": {
       "name": "iFreeMarket",
-      "title": "Free market",
-      "version": "0.36.9",
+      "title": "Free market + bottomless storage [PRE-BETA]",
+      "version": "0.36.19",
       "setting_names": [
         "fm_sell_notification_column_count",
         "fm_buy_notification_column_count",
@@ -60830,7 +60830,7 @@
     "Warmonger": {
       "name": "Warmonger",
       "title": "Warmonger",
-      "version": "1.3.14",
+      "version": "1.3.9",
       "setting_names": [
         "wm-biomasstobitersreseach",
         "wm-creepminingpollution",
