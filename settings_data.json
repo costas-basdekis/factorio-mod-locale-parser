@@ -897,8 +897,8 @@
     },
     "helmod": {
       "name": "helmod",
-      "title": "Helmod: assistant for planning your base.",
-      "version": "0.12.9",
+      "title": "Helmod: Assistant for planning your factory",
+      "version": "0.12.14",
       "setting_names": [
         "helmod_debug_solver",
         "helmod_user_cache_step",
@@ -1181,7 +1181,7 @@
     "reverse-factory": {
       "name": "reverse-factory",
       "title": "Reverse Factory",
-      "version": "8.1.14",
+      "version": "8.1.8",
       "setting_names": [
         "rf-safety",
         "rf-compati",
@@ -11020,7 +11020,7 @@
     },
     "bobmining": {
       "name": "bobmining",
-      "title": "Bob's Mining",
+      "title": "Bob's Mining mod",
       "version": "1.1.3",
       "setting_names": [
         "bobmods-mining-miningdrills",
@@ -15489,8 +15489,8 @@
     },
     "X100_assembler": {
       "name": "X100_assembler",
-      "title": "X100_assembler",
-      "version": "5.2.9",
+      "title": "X100 assembler",
+      "version": "5.2.11",
       "setting_names": [
         "x100_use_entity_sorting",
         "x100_energy_usage",
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.10.2",
+      "version": "1.9.4",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -32339,7 +32339,7 @@
     "subspace_storage": {
       "name": "subspace_storage",
       "title": "Subspace Storage (Alpha)",
-      "version": "1.99.8",
+      "version": "1.99.17",
       "setting_names": [
         "subspace_storage-range-restriction-enabled",
         "subspace_storage-zone-width",
@@ -35859,7 +35859,7 @@
     "angelsaddons-mobility": {
       "name": "angelsaddons-mobility",
       "title": "Angel's Addons - Mass Transit",
-      "version": "0.0.10",
+      "version": "0.0.9",
       "setting_names": [
         "angels-petrotrain-tier-amount",
         "angels-smeltingtrain-tier-amount",
@@ -35869,7 +35869,7 @@
     "angelsaddons-storage": {
       "name": "angelsaddons-storage",
       "title": "Angel's Addons - Storage Options",
-      "version": "0.0.8",
+      "version": "0.0.10",
       "setting_names": [
         "angels-enable-storage-icon-scaling",
         "angels-enable-silos",
@@ -36573,7 +36573,7 @@
     "Asteroid_Mining": {
       "name": "Asteroid_Mining",
       "title": "Asteroid Mining",
-      "version": "0.9.13",
+      "version": "0.9.7",
       "setting_names": [
         "astmine-crushing",
         "astmine-k2crushing",
@@ -39193,7 +39193,7 @@
     "bzsilicon": {
       "name": "bzsilicon",
       "title": "Silica & Silicon",
-      "version": "0.11.4",
+      "version": "0.9.1",
       "setting_names": [
         "bzsilicon-recipe-bypass",
         "bzsilicon-more-intermediates",
@@ -39623,7 +39623,7 @@
     "VinnieMod": {
       "name": "VinnieMod",
       "title": "VinnieMod",
-      "version": "1.5.1",
+      "version": "1.0.0",
       "setting_names": [
         "alwaysday",
         "starterequipment",
@@ -45220,7 +45220,7 @@
     "SpidertronEnhancements": {
       "name": "SpidertronEnhancements",
       "title": "Spidertron Enhancements",
-      "version": "1.8.12",
+      "version": "1.8.4",
       "setting_names": [
         "spidertron-enhancements-enable-corpse",
         "spidertron-enhancements-increase-size",
@@ -51175,7 +51175,7 @@
     },
     "TrainSpeeds": {
       "name": "TrainSpeeds",
-      "title": "Rivens Realistic Train Acceleration (based on cargo)",
+      "title": "Rivens Realistic Train Acceleration",
       "version": "0.1.14",
       "setting_names": [
         "modtrainspeeds-fuel-type-based-acceleration",
@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.9.9",
+      "version": "0.9.12",
       "setting_names": [
         "team",
         "item",
@@ -60830,7 +60830,7 @@
     "Warmonger": {
       "name": "Warmonger",
       "title": "Warmonger",
-      "version": "1.3.9",
+      "version": "1.3.16",
       "setting_names": [
         "wm-biomasstobitersreseach",
         "wm-creepminingpollution",
