@@ -1181,7 +1181,7 @@
     "reverse-factory": {
       "name": "reverse-factory",
       "title": "Reverse Factory",
-      "version": "8.1.8",
+      "version": "8.1.17",
       "setting_names": [
         "rf-safety",
         "rf-compati",
@@ -5716,7 +5716,7 @@
     },
     "Todo-List": {
       "name": "Todo-List",
-      "title": "Todo List",
+      "title": "\u2714 Todo List",
       "version": "19.2.0",
       "setting_names": [
         "todolist-show-button",
@@ -18240,8 +18240,8 @@
     },
     "train-pubsub": {
       "name": "train-pubsub",
-      "title": "Train Supply Manager (TSM)",
-      "version": "1.1.13",
+      "title": "Train Supply Manager",
+      "version": "1.1.7",
       "setting_names": [
         "subscriptions-title",
         "publish-title",
@@ -22833,7 +22833,7 @@
     "WireShortcuts": {
       "name": "WireShortcuts",
       "title": "Wire Shortcuts",
-      "version": "1.1.10",
+      "version": "1.1.9",
       "setting_names": [
         "wire-shortcuts-is-retain-wire-crafting",
         "wire-shortcuts-is-advanced-cutter"
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.9.4",
+      "version": "1.11.0",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -31559,7 +31559,7 @@
     "dark-matter-replicators-18": {
       "name": "dark-matter-replicators-18",
       "title": "Dark Matter Replicators .18+",
-      "version": "1.1.2",
+      "version": "1.1.10",
       "setting_names": [
         "tenemut-near-spawn",
         "replstats-speed-base",
@@ -31611,7 +31611,7 @@
     "Transport_Drones": {
       "name": "Transport_Drones",
       "title": "Transport Drones",
-      "version": "1.0.10",
+      "version": "1.0.6",
       "setting_names": [
         "transport-depot-choose-item",
         "supply-depot",
@@ -31865,7 +31865,7 @@
     "jetpack": {
       "name": "jetpack",
       "title": "Jetpack",
-      "version": "0.3.2",
+      "version": "0.3.11",
       "setting_names": [
         "jetpack-speed-reduces-shields",
         "jetpack-fall-on-damage",
@@ -33872,7 +33872,7 @@
     },
     "some-autoresearch": {
       "name": "some-autoresearch",
-      "title": "Auto Research (fixed + re-published abandoned mod)",
+      "title": "Auto Research (fixed + re-published)",
       "version": "1.1.0",
       "setting_names": [
         "queued-tech-setting",
@@ -35859,7 +35859,7 @@
     "angelsaddons-mobility": {
       "name": "angelsaddons-mobility",
       "title": "Angel's Addons - Mass Transit",
-      "version": "0.0.9",
+      "version": "0.0.11",
       "setting_names": [
         "angels-petrotrain-tier-amount",
         "angels-smeltingtrain-tier-amount",
@@ -36573,7 +36573,7 @@
     "Asteroid_Mining": {
       "name": "Asteroid_Mining",
       "title": "Asteroid Mining",
-      "version": "0.9.7",
+      "version": "0.9.14",
       "setting_names": [
         "astmine-crushing",
         "astmine-k2crushing",
@@ -39193,7 +39193,7 @@
     "bzsilicon": {
       "name": "bzsilicon",
       "title": "Silica & Silicon",
-      "version": "0.9.1",
+      "version": "0.11.9",
       "setting_names": [
         "bzsilicon-recipe-bypass",
         "bzsilicon-more-intermediates",
@@ -45220,7 +45220,7 @@
     "SpidertronEnhancements": {
       "name": "SpidertronEnhancements",
       "title": "Spidertron Enhancements",
-      "version": "1.8.4",
+      "version": "1.8.13",
       "setting_names": [
         "spidertron-enhancements-enable-corpse",
         "spidertron-enhancements-increase-size",
@@ -50926,7 +50926,7 @@
     "kj_40kpredator": {
       "name": "kj_40kpredator",
       "title": "King Jo's Warhammer 40K Predator Tank",
-      "version": "1.1.9",
+      "version": "1.1.10",
       "setting_names": [
         "kj_40kpredator_cost_setting_multiplicator",
         "kj_40kpredatorammo_cost_setting_multiplicator"
@@ -51449,7 +51449,7 @@
     "FluidicPower": {
       "name": "FluidicPower",
       "title": "Fluidic Power",
-      "version": "0.10.1",
+      "version": "0.8.4",
       "setting_names": [
         "fluidic-electric-overlay-depth",
         "fluidic-enable-build-limitations",
@@ -52006,7 +52006,7 @@
     "kj_40klemanruss": {
       "name": "kj_40klemanruss",
       "title": "King Jo's Warhammer 40K Leman Russ Tank",
-      "version": "1.1.9",
+      "version": "1.1.10",
       "setting_names": [
         "kj_40klemanruss_cost_setting_multiplicator",
         "kj_40klemanrussammo_cost_setting_multiplicator"
@@ -52624,7 +52624,7 @@
     },
     "1x1_Equipment": {
       "name": "1x1_Equipment",
-      "title": "1x1 Equipment",
+      "title": "1x1 Equipment 1",
       "version": "1.1.0",
       "setting_names": [
         "tinyenergyshield",
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.15",
+      "version": "1.0.9",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
@@ -60830,7 +60830,7 @@
     "Warmonger": {
       "name": "Warmonger",
       "title": "Warmonger",
-      "version": "1.3.16",
+      "version": "1.3.9",
       "setting_names": [
         "wm-biomasstobitersreseach",
         "wm-creepminingpollution",
