@@ -18240,8 +18240,8 @@
     },
     "train-pubsub": {
       "name": "train-pubsub",
-      "title": "Train Supply Manager (TSM)",
-      "version": "1.1.16",
+      "title": "Train Supply Manager",
+      "version": "1.1.7",
       "setting_names": [
         "subscriptions-title",
         "publish-title",
@@ -22833,7 +22833,7 @@
     "WireShortcuts": {
       "name": "WireShortcuts",
       "title": "Wire Shortcuts",
-      "version": "1.1.9",
+      "version": "1.1.13",
       "setting_names": [
         "wire-shortcuts-is-retain-wire-crafting",
         "wire-shortcuts-is-advanced-cutter"
@@ -25781,8 +25781,8 @@
     },
     "warptorio2": {
       "name": "warptorio2",
-      "title": "Warptorio",
-      "version": "1.3.8",
+      "title": "Warptorio2",
+      "version": "1.3.10",
       "setting_names": [
         "warptorio-stabilize",
         "warptorio-stabilize-on",
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.9.4",
+      "version": "1.11.4",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -27547,7 +27547,7 @@
     "super-generous-recipes": {
       "name": "super-generous-recipes",
       "title": "Super Generous Recipes",
-      "version": "0.7.0",
+      "version": "0.10.0",
       "setting_names": [
         "sgr-global",
         "sgr-global-multiplier",
@@ -31865,7 +31865,7 @@
     "jetpack": {
       "name": "jetpack",
       "title": "Jetpack",
-      "version": "0.3.2",
+      "version": "0.3.13",
       "setting_names": [
         "jetpack-speed-reduces-shields",
         "jetpack-fall-on-damage",
@@ -35242,7 +35242,7 @@
     "RPG": {
       "name": "RPG",
       "title": "RPG",
-      "version": "1.0.14",
+      "version": "1.0.6",
       "setting_names": [
         "comfy_enable_health_and_mana_bars",
         "comfy_enable_mana",
@@ -36293,7 +36293,7 @@
     "SpidertronWeaponSwitcher": {
       "name": "SpidertronWeaponSwitcher",
       "title": "Spidertron Weapon Switcher",
-      "version": "1.2.11",
+      "version": "1.2.9",
       "setting_names": [
         "sws-show-alternate-items"
       ]
@@ -39193,7 +39193,7 @@
     "bzsilicon": {
       "name": "bzsilicon",
       "title": "Silica & Silicon",
-      "version": "0.9.1",
+      "version": "0.11.11",
       "setting_names": [
         "bzsilicon-recipe-bypass",
         "bzsilicon-more-intermediates",
@@ -45377,7 +45377,7 @@
     },
     "DropSciencePack": {
       "name": "DropSciencePack",
-      "title": "Drop Science Pack",
+      "title": "Drop Science Pack with Chest",
       "version": "3.2.1",
       "setting_names": [
         "bonus-box",
@@ -52070,7 +52070,7 @@
     "apm_bob_rework_ldinc": {
       "name": "apm_bob_rework_ldinc",
       "title": "APM bob's extra compability",
-      "version": "0.22.54",
+      "version": "0.22.105",
       "setting_names": [
         "apm_bob_rework_plastic",
         "apm_bob_rework_replace_filter",
@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.10.6",
+      "version": "0.9.9",
       "setting_names": [
         "team",
         "item",
@@ -60083,8 +60083,8 @@
     },
     "iFreeMarket": {
       "name": "iFreeMarket",
-      "title": "Free market",
-      "version": "0.36.9",
+      "title": "Free market + bottomless storage [PRE-BETA]",
+      "version": "0.36.22",
       "setting_names": [
         "fm_sell_notification_column_count",
         "fm_buy_notification_column_count",
