@@ -897,8 +897,8 @@
     },
     "helmod": {
       "name": "helmod",
-      "title": "Helmod: assistant for planning your base.",
-      "version": "0.12.9",
+      "title": "Helmod: Assistant for planning your factory",
+      "version": "0.12.19",
       "setting_names": [
         "helmod_debug_solver",
         "helmod_user_cache_step",
@@ -1111,7 +1111,7 @@
     "Peppermint_Mining": {
       "name": "Peppermint_Mining",
       "title": "Peppermint Mining",
-      "version": "2.2.2",
+      "version": "2.2.11",
       "setting_names": [
         "nougat use construction range",
         "nougat mode"
@@ -4231,7 +4231,7 @@
     },
     "play-use-any-sound": {
       "name": "play-use-any-sound",
-      "title": "Play and use any sounds",
+      "title": "Play and use any sound",
       "version": "1.6.1",
       "setting_names": [
         "cannot-found",
@@ -13518,8 +13518,8 @@
     },
     "Advanced-Electric-Revamped-v16": {
       "name": "Advanced-Electric-Revamped-v16",
-      "title": "Advanced Solar High Resolution",
-      "version": "0.6.8",
+      "title": "Advanced Solar HR",
+      "version": "0.6.11",
       "setting_names": [
         "advanced-electric-enabled-tiers",
         "advanced-electric-multiplier-advanced",
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.9.4",
+      "version": "1.11.6",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -27547,7 +27547,7 @@
     "super-generous-recipes": {
       "name": "super-generous-recipes",
       "title": "Super Generous Recipes",
-      "version": "0.10.0",
+      "version": "0.7.0",
       "setting_names": [
         "sgr-global",
         "sgr-global-multiplier",
@@ -34607,7 +34607,7 @@
     "baron-sludge": {
       "name": "baron-sludge",
       "title": "Baron Sludge",
-      "version": "1.1.10",
+      "version": "1.1.9",
       "setting_names": [
         "baron-sludge-stone",
         "baron-sludge-copper-ore",
@@ -45220,7 +45220,7 @@
     "SpidertronEnhancements": {
       "name": "SpidertronEnhancements",
       "title": "Spidertron Enhancements",
-      "version": "1.8.4",
+      "version": "1.8.17",
       "setting_names": [
         "spidertron-enhancements-enable-corpse",
         "spidertron-enhancements-increase-size",
@@ -52070,7 +52070,7 @@
     "apm_bob_rework_ldinc": {
       "name": "apm_bob_rework_ldinc",
       "title": "APM bob's extra compability",
-      "version": "0.22.54",
+      "version": "0.22.121",
       "setting_names": [
         "apm_bob_rework_plastic",
         "apm_bob_rework_replace_filter",
@@ -60830,7 +60830,7 @@
     "Warmonger": {
       "name": "Warmonger",
       "title": "Warmonger",
-      "version": "1.3.9",
+      "version": "1.3.23",
       "setting_names": [
         "wm-biomasstobitersreseach",
         "wm-creepminingpollution",
