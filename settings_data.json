@@ -949,7 +949,7 @@
     "YARM": {
       "name": "YARM",
       "title": "YARM - Resource Monitor",
-      "version": "0.8.207",
+      "version": "0.10.13",
       "setting_names": [
         "yarm-err-generic",
         "yarm-err-specific",
@@ -18240,8 +18240,8 @@
     },
     "train-pubsub": {
       "name": "train-pubsub",
-      "title": "Train Supply Manager (TSM)",
-      "version": "1.1.17",
+      "title": "Train Supply Manager",
+      "version": "1.1.7",
       "setting_names": [
         "subscriptions-title",
         "publish-title",
@@ -27547,7 +27547,7 @@
     "super-generous-recipes": {
       "name": "super-generous-recipes",
       "title": "Super Generous Recipes",
-      "version": "0.7.0",
+      "version": "0.10.1",
       "setting_names": [
         "sgr-global",
         "sgr-global-multiplier",
@@ -34607,7 +34607,7 @@
     "baron-sludge": {
       "name": "baron-sludge",
       "title": "Baron Sludge",
-      "version": "1.1.9",
+      "version": "1.1.11",
       "setting_names": [
         "baron-sludge-stone",
         "baron-sludge-copper-ore",
@@ -52070,7 +52070,7 @@
     "apm_bob_rework_ldinc": {
       "name": "apm_bob_rework_ldinc",
       "title": "APM bob's extra compability",
-      "version": "0.22.121",
+      "version": "0.22.54",
       "setting_names": [
         "apm_bob_rework_plastic",
         "apm_bob_rework_replace_filter",
@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.11.2",
+      "version": "0.9.9",
       "setting_names": [
         "team",
         "item",
