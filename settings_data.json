@@ -949,7 +949,7 @@
     "YARM": {
       "name": "YARM",
       "title": "YARM - Resource Monitor",
-      "version": "0.10.13",
+      "version": "0.8.207",
       "setting_names": [
         "yarm-err-generic",
         "yarm-err-specific",
@@ -1181,7 +1181,7 @@
     "reverse-factory": {
       "name": "reverse-factory",
       "title": "Reverse Factory",
-      "version": "8.1.17",
+      "version": "8.1.8",
       "setting_names": [
         "rf-safety",
         "rf-compati",
@@ -1937,7 +1937,7 @@
     "ammo-loader": {
       "name": "ammo-loader",
       "title": "Ammo Loader+",
-      "version": "1.1.14",
+      "version": "1.1.4",
       "setting_names": [
         "ammo_loader_enabled",
         "ammo_loader_draw_range",
@@ -7910,7 +7910,7 @@
     "LightedPolesPlus": {
       "name": "LightedPolesPlus",
       "title": "Lighted Electric Poles +",
-      "version": "1.7.1",
+      "version": "1.10.0",
       "setting_names": [
         "lepp_light_size_factor",
         "lepp_light_max_size",
@@ -9627,8 +9627,8 @@
     },
     "vtk-deep-core-mining": {
       "name": "vtk-deep-core-mining",
-      "title": "Deep core mining",
-      "version": "2.10.2",
+      "title": "VortiK's Deep core mining",
+      "version": "2.9.5",
       "setting_names": [
         "vtk-deep-core-mining-spawn-radius-from-start",
         "vtk-deep-core-mining-patch-min-richness",
@@ -18240,8 +18240,8 @@
     },
     "train-pubsub": {
       "name": "train-pubsub",
-      "title": "Train Supply Manager",
-      "version": "1.1.7",
+      "title": "Train Supply Manager (TSM)",
+      "version": "1.1.19",
       "setting_names": [
         "subscriptions-title",
         "publish-title",
@@ -24487,7 +24487,7 @@
     },
     "Adjustable-Inventory-Size": {
       "name": "Adjustable-Inventory-Size",
-      "title": "Adjustable-Inventory-Size",
+      "title": "Adjustable Inventory Size",
       "version": "1.1.0",
       "setting_names": [
         "inventorysize",
@@ -31865,7 +31865,7 @@
     "jetpack": {
       "name": "jetpack",
       "title": "Jetpack",
-      "version": "0.3.13",
+      "version": "0.3.2",
       "setting_names": [
         "jetpack-speed-reduces-shields",
         "jetpack-fall-on-damage",
@@ -45220,7 +45220,7 @@
     "SpidertronEnhancements": {
       "name": "SpidertronEnhancements",
       "title": "Spidertron Enhancements",
-      "version": "1.8.17",
+      "version": "1.8.4",
       "setting_names": [
         "spidertron-enhancements-enable-corpse",
         "spidertron-enhancements-increase-size",
@@ -52070,7 +52070,7 @@
     "apm_bob_rework_ldinc": {
       "name": "apm_bob_rework_ldinc",
       "title": "APM bob's extra compability",
-      "version": "0.22.54",
+      "version": "0.22.122",
       "setting_names": [
         "apm_bob_rework_plastic",
         "apm_bob_rework_replace_filter",
@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.9.9",
+      "version": "0.11.11",
       "setting_names": [
         "team",
         "item",
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.17",
+      "version": "1.0.9",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
