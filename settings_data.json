@@ -949,7 +949,7 @@
     "YARM": {
       "name": "YARM",
       "title": "YARM - Resource Monitor",
-      "version": "0.8.207",
+      "version": "0.10.14",
       "setting_names": [
         "yarm-err-generic",
         "yarm-err-specific",
@@ -1181,7 +1181,7 @@
     "reverse-factory": {
       "name": "reverse-factory",
       "title": "Reverse Factory",
-      "version": "8.1.8",
+      "version": "8.1.18",
       "setting_names": [
         "rf-safety",
         "rf-compati",
@@ -1937,7 +1937,7 @@
     "ammo-loader": {
       "name": "ammo-loader",
       "title": "Ammo Loader+",
-      "version": "1.1.4",
+      "version": "1.1.23",
       "setting_names": [
         "ammo_loader_enabled",
         "ammo_loader_draw_range",
@@ -7910,7 +7910,7 @@
     "LightedPolesPlus": {
       "name": "LightedPolesPlus",
       "title": "Lighted Electric Poles +",
-      "version": "1.10.0",
+      "version": "1.7.1",
       "setting_names": [
         "lepp_light_size_factor",
         "lepp_light_max_size",
@@ -9627,8 +9627,8 @@
     },
     "vtk-deep-core-mining": {
       "name": "vtk-deep-core-mining",
-      "title": "VortiK's Deep core mining",
-      "version": "2.9.5",
+      "title": "Deep core mining",
+      "version": "2.11.1",
       "setting_names": [
         "vtk-deep-core-mining-spawn-radius-from-start",
         "vtk-deep-core-mining-patch-min-richness",
@@ -10883,8 +10883,8 @@
     },
     "cardinal": {
       "name": "cardinal",
-      "title": "Cardinal",
-      "version": "0.1.4",
+      "title": "\ud83e\udded Cardinal",
+      "version": "0.1.11",
       "setting_names": [
         "cardinal-enable",
         "cardinal-speed-differential",
@@ -19655,7 +19655,7 @@
     "Tapeline": {
       "name": "Tapeline",
       "title": "Tapeline",
-      "version": "2.0.7",
+      "version": "2.0.10",
       "setting_names": [
         "tl-log-selection-area",
         "tl-draw-tape-on-ground",
@@ -23463,7 +23463,7 @@
     "jd_plays": {
       "name": "jd_plays",
       "title": "JD-Plays",
-      "version": "20.2.11",
+      "version": "20.2.2",
       "setting_names": [
         "jdplays_mode"
       ]
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.11.6",
+      "version": "1.9.4",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -31865,7 +31865,7 @@
     "jetpack": {
       "name": "jetpack",
       "title": "Jetpack",
-      "version": "0.3.2",
+      "version": "0.3.14",
       "setting_names": [
         "jetpack-speed-reduces-shields",
         "jetpack-fall-on-damage",
@@ -35242,7 +35242,7 @@
     "RPG": {
       "name": "RPG",
       "title": "RPG",
-      "version": "1.0.15",
+      "version": "1.0.6",
       "setting_names": [
         "comfy_enable_health_and_mana_bars",
         "comfy_enable_mana",
@@ -36573,7 +36573,7 @@
     "Asteroid_Mining": {
       "name": "Asteroid_Mining",
       "title": "Asteroid Mining",
-      "version": "0.9.14",
+      "version": "0.9.7",
       "setting_names": [
         "astmine-crushing",
         "astmine-k2crushing",
@@ -43162,7 +43162,7 @@
     },
     "Ting_ammChinesization": {
       "name": "Ting_ammChinesization",
-      "title": "Ting_amm Chinesization",
+      "title": "Ting_amm Chinesization Self Use",
       "version": "1.1.8",
       "setting_names": [
         "timetools-always-day",
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.9",
+      "version": "1.0.18",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
