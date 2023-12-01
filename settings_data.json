@@ -1181,7 +1181,7 @@
     "reverse-factory": {
       "name": "reverse-factory",
       "title": "Reverse Factory",
-      "version": "8.1.18",
+      "version": "8.1.8",
       "setting_names": [
         "rf-safety",
         "rf-compati",
@@ -4980,7 +4980,7 @@
     "AutoDeconstruct": {
       "name": "AutoDeconstruct",
       "title": "Auto Deconstruct",
-      "version": "0.3.2",
+      "version": "0.3.12",
       "setting_names": [
         "autodeconstruct-err-generic",
         "autodeconstruct-err-specific",
@@ -7910,7 +7910,7 @@
     "LightedPolesPlus": {
       "name": "LightedPolesPlus",
       "title": "Lighted Electric Poles +",
-      "version": "1.7.1",
+      "version": "1.10.1",
       "setting_names": [
         "lepp_light_size_factor",
         "lepp_light_max_size",
@@ -10883,8 +10883,8 @@
     },
     "cardinal": {
       "name": "cardinal",
-      "title": "\ud83e\udded Cardinal",
-      "version": "0.1.11",
+      "title": "Cardinal",
+      "version": "0.1.4",
       "setting_names": [
         "cardinal-enable",
         "cardinal-speed-differential",
@@ -23463,7 +23463,7 @@
     "jd_plays": {
       "name": "jd_plays",
       "title": "JD-Plays",
-      "version": "20.2.2",
+      "version": "20.2.16",
       "setting_names": [
         "jdplays_mode"
       ]
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.9.4",
+      "version": "1.11.8",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -35242,7 +35242,7 @@
     "RPG": {
       "name": "RPG",
       "title": "RPG",
-      "version": "1.0.6",
+      "version": "1.0.17",
       "setting_names": [
         "comfy_enable_health_and_mana_bars",
         "comfy_enable_mana",
@@ -36573,7 +36573,7 @@
     "Asteroid_Mining": {
       "name": "Asteroid_Mining",
       "title": "Asteroid Mining",
-      "version": "0.9.7",
+      "version": "0.9.15",
       "setting_names": [
         "astmine-crushing",
         "astmine-k2crushing",
@@ -52070,7 +52070,7 @@
     "apm_bob_rework_ldinc": {
       "name": "apm_bob_rework_ldinc",
       "title": "APM bob's extra compability",
-      "version": "0.22.122",
+      "version": "0.22.54",
       "setting_names": [
         "apm_bob_rework_plastic",
         "apm_bob_rework_replace_filter",
