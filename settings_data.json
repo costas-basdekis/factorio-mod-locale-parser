@@ -1181,7 +1181,7 @@
     "reverse-factory": {
       "name": "reverse-factory",
       "title": "Reverse Factory",
-      "version": "8.1.8",
+      "version": "8.1.19",
       "setting_names": [
         "rf-safety",
         "rf-compati",
@@ -1534,7 +1534,7 @@
     "hardCrafting": {
       "name": "hardCrafting",
       "title": "Hard crafting",
-      "version": "1.0.4",
+      "version": "1.0.10",
       "setting_names": [
         "hardcrafting-hard-oil",
         "hardcrafting-rich-ores",
@@ -12356,7 +12356,7 @@
     "extendedangels": {
       "name": "extendedangels",
       "title": "Extended Angels",
-      "version": "0.5.7",
+      "version": "0.5.10",
       "setting_names": [
         "extangels-adjust-ordering",
         "extangels-legacy-inventory-sizes"
@@ -13518,8 +13518,8 @@
     },
     "Advanced-Electric-Revamped-v16": {
       "name": "Advanced-Electric-Revamped-v16",
-      "title": "Advanced Solar HR",
-      "version": "0.6.11",
+      "title": "Advanced Solar High Resolution",
+      "version": "0.6.8",
       "setting_names": [
         "advanced-electric-enabled-tiers",
         "advanced-electric-multiplier-advanced",
@@ -23463,7 +23463,7 @@
     "jd_plays": {
       "name": "jd_plays",
       "title": "JD-Plays",
-      "version": "20.2.16",
+      "version": "20.2.2",
       "setting_names": [
         "jdplays_mode"
       ]
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.11.8",
+      "version": "1.11.10",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -31559,7 +31559,7 @@
     "dark-matter-replicators-18": {
       "name": "dark-matter-replicators-18",
       "title": "Dark Matter Replicators .18+",
-      "version": "1.1.10",
+      "version": "1.1.2",
       "setting_names": [
         "tenemut-near-spawn",
         "replstats-speed-base",
@@ -34607,7 +34607,7 @@
     "baron-sludge": {
       "name": "baron-sludge",
       "title": "Baron Sludge",
-      "version": "1.1.11",
+      "version": "1.1.9",
       "setting_names": [
         "baron-sludge-stone",
         "baron-sludge-copper-ore",
@@ -35488,7 +35488,7 @@
     "arachnophobia": {
       "name": "arachnophobia",
       "title": "Arachnophobia",
-      "version": "1.1.10",
+      "version": "1.1.9",
       "setting_names": [
         "arachnophobia-number-of-legs",
         "arachnophobia-leg-visibility",
@@ -51482,7 +51482,7 @@
     "reskins-compatibility": {
       "name": "reskins-compatibility",
       "title": "Artisanal Reskins: Compatibility",
-      "version": "2.1.2",
+      "version": "2.1.10",
       "setting_names": [
         "reskins-compatibility-do-circuitprocessing-circuit-style",
         "reskins-compatibility-extendedangels-warehouse-tiering"
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.18",
+      "version": "1.0.9",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
