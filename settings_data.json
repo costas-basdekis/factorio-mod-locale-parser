@@ -727,7 +727,7 @@
     "mini-machines": {
       "name": "mini-machines",
       "title": "Mini Machines Mod",
-      "version": "8.0.9",
+      "version": "8.0.11",
       "setting_names": [
         "mini-new-icons",
         "mini-tech",
@@ -897,8 +897,8 @@
     },
     "helmod": {
       "name": "helmod",
-      "title": "Helmod: Assistant for planning your factory",
-      "version": "0.12.19",
+      "title": "Helmod: assistant for planning your base.",
+      "version": "0.12.9",
       "setting_names": [
         "helmod_debug_solver",
         "helmod_user_cache_step",
@@ -1181,7 +1181,7 @@
     "reverse-factory": {
       "name": "reverse-factory",
       "title": "Reverse Factory",
-      "version": "8.1.19",
+      "version": "8.1.8",
       "setting_names": [
         "rf-safety",
         "rf-compati",
@@ -1937,7 +1937,7 @@
     "ammo-loader": {
       "name": "ammo-loader",
       "title": "Ammo Loader+",
-      "version": "1.1.23",
+      "version": "1.1.4",
       "setting_names": [
         "ammo_loader_enabled",
         "ammo_loader_draw_range",
@@ -13518,8 +13518,8 @@
     },
     "Advanced-Electric-Revamped-v16": {
       "name": "Advanced-Electric-Revamped-v16",
-      "title": "Advanced Solar High Resolution",
-      "version": "0.6.8",
+      "title": "Advanced Solar HR",
+      "version": "0.6.14",
       "setting_names": [
         "advanced-electric-enabled-tiers",
         "advanced-electric-multiplier-advanced",
@@ -13653,7 +13653,7 @@
     "kry-inserters": {
       "name": "kry-inserters",
       "title": "More Long Inserters",
-      "version": "4.1.5",
+      "version": "4.1.10",
       "setting_names": [
         "kry-norecipe",
         "kry-leech",
@@ -23463,7 +23463,7 @@
     "jd_plays": {
       "name": "jd_plays",
       "title": "JD-Plays",
-      "version": "20.2.2",
+      "version": "20.2.18",
       "setting_names": [
         "jdplays_mode"
       ]
@@ -31559,7 +31559,7 @@
     "dark-matter-replicators-18": {
       "name": "dark-matter-replicators-18",
       "title": "Dark Matter Replicators .18+",
-      "version": "1.1.2",
+      "version": "1.1.11",
       "setting_names": [
         "tenemut-near-spawn",
         "replstats-speed-base",
@@ -31611,7 +31611,7 @@
     "Transport_Drones": {
       "name": "Transport_Drones",
       "title": "Transport Drones",
-      "version": "1.0.14",
+      "version": "1.0.6",
       "setting_names": [
         "transport-depot-choose-item",
         "supply-depot",
@@ -32501,7 +32501,7 @@
     },
     "disco-laser-beams": {
       "name": "disco-laser-beams",
-      "title": "Disco laser beams",
+      "title": "Disco Laser Beams",
       "version": "0.0.2",
       "setting_names": [
         "alpha-turret-name",
@@ -34607,7 +34607,7 @@
     "baron-sludge": {
       "name": "baron-sludge",
       "title": "Baron Sludge",
-      "version": "1.1.9",
+      "version": "1.1.15",
       "setting_names": [
         "baron-sludge-stone",
         "baron-sludge-copper-ore",
@@ -35488,7 +35488,7 @@
     "arachnophobia": {
       "name": "arachnophobia",
       "title": "Arachnophobia",
-      "version": "1.1.9",
+      "version": "1.1.11",
       "setting_names": [
         "arachnophobia-number-of-legs",
         "arachnophobia-leg-visibility",
@@ -36300,7 +36300,7 @@
     },
     "lob": {
       "name": "lob",
-      "title": "Lob",
+      "title": "Thrower inserter",
       "version": "1.1.7",
       "setting_names": [
         "stack-thrower-inserter",
@@ -39193,7 +39193,7 @@
     "bzsilicon": {
       "name": "bzsilicon",
       "title": "Silica & Silicon",
-      "version": "0.11.11",
+      "version": "0.9.1",
       "setting_names": [
         "bzsilicon-recipe-bypass",
         "bzsilicon-more-intermediates",
@@ -39623,7 +39623,7 @@
     "VinnieMod": {
       "name": "VinnieMod",
       "title": "VinnieMod",
-      "version": "1.0.0",
+      "version": "1.5.1",
       "setting_names": [
         "alwaysday",
         "starterequipment",
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.9",
+      "version": "1.0.20",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
