@@ -727,7 +727,7 @@
     "mini-machines": {
       "name": "mini-machines",
       "title": "Mini Machines Mod",
-      "version": "8.0.11",
+      "version": "8.0.9",
       "setting_names": [
         "mini-new-icons",
         "mini-tech",
@@ -897,8 +897,8 @@
     },
     "helmod": {
       "name": "helmod",
-      "title": "Helmod: assistant for planning your base.",
-      "version": "0.12.9",
+      "title": "Helmod: Assistant for planning your factory",
+      "version": "0.12.23",
       "setting_names": [
         "helmod_debug_solver",
         "helmod_user_cache_step",
@@ -1534,7 +1534,7 @@
     "hardCrafting": {
       "name": "hardCrafting",
       "title": "Hard crafting",
-      "version": "1.0.10",
+      "version": "1.0.4",
       "setting_names": [
         "hardcrafting-hard-oil",
         "hardcrafting-rich-ores",
@@ -1937,7 +1937,7 @@
     "ammo-loader": {
       "name": "ammo-loader",
       "title": "Ammo Loader+",
-      "version": "1.1.4",
+      "version": "1.1.37",
       "setting_names": [
         "ammo_loader_enabled",
         "ammo_loader_draw_range",
@@ -4884,7 +4884,7 @@
     },
     "SpaceMod": {
       "name": "SpaceMod",
-      "title": "Space Extension Mod (SpaceX)",
+      "title": "Space Extension Mod",
       "version": "1.1.1",
       "setting_names": [
         "space-toggle-button-caption",
@@ -13653,7 +13653,7 @@
     "kry-inserters": {
       "name": "kry-inserters",
       "title": "More Long Inserters",
-      "version": "4.1.10",
+      "version": "4.1.5",
       "setting_names": [
         "kry-norecipe",
         "kry-leech",
@@ -31611,7 +31611,7 @@
     "Transport_Drones": {
       "name": "Transport_Drones",
       "title": "Transport Drones",
-      "version": "1.0.6",
+      "version": "1.0.16",
       "setting_names": [
         "transport-depot-choose-item",
         "supply-depot",
@@ -39193,7 +39193,7 @@
     "bzsilicon": {
       "name": "bzsilicon",
       "title": "Silica & Silicon",
-      "version": "0.9.1",
+      "version": "0.11.12",
       "setting_names": [
         "bzsilicon-recipe-bypass",
         "bzsilicon-more-intermediates",
@@ -39623,7 +39623,7 @@
     "VinnieMod": {
       "name": "VinnieMod",
       "title": "VinnieMod",
-      "version": "1.5.1",
+      "version": "1.0.1",
       "setting_names": [
         "alwaysday",
         "starterequipment",
@@ -52615,7 +52615,7 @@
     "kj_pak": {
       "name": "kj_pak",
       "title": "King Jo's 88mm Pak 43",
-      "version": "1.1.9",
+      "version": "1.1.10",
       "setting_names": [
         "kj_pak_cost_setting_multiplicator",
         "kj_pakammo_cost_setting_multiplicator",
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.20",
+      "version": "1.0.9",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
