@@ -727,7 +727,7 @@
     "mini-machines": {
       "name": "mini-machines",
       "title": "Mini Machines Mod",
-      "version": "8.0.9",
+      "version": "8.0.17",
       "setting_names": [
         "mini-new-icons",
         "mini-tech",
@@ -897,8 +897,8 @@
     },
     "helmod": {
       "name": "helmod",
-      "title": "Helmod: Assistant for planning your factory",
-      "version": "0.12.23",
+      "title": "Helmod: assistant for planning your base.",
+      "version": "0.12.9",
       "setting_names": [
         "helmod_debug_solver",
         "helmod_user_cache_step",
@@ -1534,7 +1534,7 @@
     "hardCrafting": {
       "name": "hardCrafting",
       "title": "Hard crafting",
-      "version": "1.0.4",
+      "version": "1.0.11",
       "setting_names": [
         "hardcrafting-hard-oil",
         "hardcrafting-rich-ores",
@@ -1937,7 +1937,7 @@
     "ammo-loader": {
       "name": "ammo-loader",
       "title": "Ammo Loader+",
-      "version": "1.1.37",
+      "version": "1.1.4",
       "setting_names": [
         "ammo_loader_enabled",
         "ammo_loader_draw_range",
@@ -13653,7 +13653,7 @@
     "kry-inserters": {
       "name": "kry-inserters",
       "title": "More Long Inserters",
-      "version": "4.1.5",
+      "version": "4.1.11",
       "setting_names": [
         "kry-norecipe",
         "kry-leech",
@@ -39550,7 +39550,7 @@
     "micro-machines": {
       "name": "micro-machines",
       "title": "Micro Machines Mod",
-      "version": "2.0.5",
+      "version": "2.0.13",
       "setting_names": [
         "micro-new-icons",
         "micro-tech",
@@ -51735,7 +51735,7 @@
     },
     "kj_servoskull": {
       "name": "kj_servoskull",
-      "title": "King Jo's Warhammer 40K Servo-Skull",
+      "title": "King Jo's Warhammer 40K Servo-skull",
       "version": "1.1.3",
       "setting_names": [
         "kj_servoskull_reskin"
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.9",
+      "version": "1.0.23",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
