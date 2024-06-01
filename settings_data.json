@@ -1937,7 +1937,7 @@
     "ammo-loader": {
       "name": "ammo-loader",
       "title": "Ammo Loader+",
-      "version": "1.1.38",
+      "version": "1.1.4",
       "setting_names": [
         "ammo_loader_enabled",
         "ammo_loader_draw_range",
@@ -4862,7 +4862,7 @@
     },
     "BioTech": {
       "name": "BioTech",
-      "title": "BioTech",
+      "title": "BioTech for 0.18",
       "version": "1.01.00",
       "setting_names": [
         "biosolarpanel-1-pollution-absorption",
@@ -9627,8 +9627,8 @@
     },
     "vtk-deep-core-mining": {
       "name": "vtk-deep-core-mining",
-      "title": "Deep core mining",
-      "version": "2.11.1",
+      "title": "VortiK's Deep core mining",
+      "version": "2.9.5",
       "setting_names": [
         "vtk-deep-core-mining-spawn-radius-from-start",
         "vtk-deep-core-mining-patch-min-richness",
@@ -13653,7 +13653,7 @@
     "kry-inserters": {
       "name": "kry-inserters",
       "title": "More Long Inserters",
-      "version": "4.1.5",
+      "version": "4.1.13",
       "setting_names": [
         "kry-norecipe",
         "kry-leech",
@@ -17980,7 +17980,7 @@
     "Blargh_Mods": {
       "name": "Blargh_Mods",
       "title": "Blargh Mods",
-      "version": "2.1.9",
+      "version": "2.1.11",
       "setting_names": [
         "blargh-waterfill"
       ]
@@ -29637,7 +29637,7 @@
     "QuickItemSearch": {
       "name": "QuickItemSearch",
       "title": "Quick Item Search",
-      "version": "2.1.2",
+      "version": "2.1.10",
       "setting_names": [
         "qis-auto-close-window",
         "qis-fuzzy-search",
@@ -39550,7 +39550,7 @@
     "micro-machines": {
       "name": "micro-machines",
       "title": "Micro Machines Mod",
-      "version": "2.0.13",
+      "version": "2.0.5",
       "setting_names": [
         "micro-new-icons",
         "micro-tech",
@@ -51482,7 +51482,7 @@
     "reskins-compatibility": {
       "name": "reskins-compatibility",
       "title": "Artisanal Reskins: Compatibility",
-      "version": "2.1.10",
+      "version": "2.1.2",
       "setting_names": [
         "reskins-compatibility-do-circuitprocessing-circuit-style",
         "reskins-compatibility-extendedangels-warehouse-tiering"
