@@ -4980,7 +4980,7 @@
     "AutoDeconstruct": {
       "name": "AutoDeconstruct",
       "title": "Auto Deconstruct",
-      "version": "0.3.12",
+      "version": "0.3.2",
       "setting_names": [
         "autodeconstruct-err-generic",
         "autodeconstruct-err-specific",
@@ -9627,8 +9627,8 @@
     },
     "vtk-deep-core-mining": {
       "name": "vtk-deep-core-mining",
-      "title": "VortiK's Deep core mining",
-      "version": "2.9.5",
+      "title": "Deep core mining",
+      "version": "2.11.2",
       "setting_names": [
         "vtk-deep-core-mining-spawn-radius-from-start",
         "vtk-deep-core-mining-patch-min-richness",
@@ -39550,7 +39550,7 @@
     "micro-machines": {
       "name": "micro-machines",
       "title": "Micro Machines Mod",
-      "version": "2.0.5",
+      "version": "2.0.14",
       "setting_names": [
         "micro-new-icons",
         "micro-tech",
@@ -50926,7 +50926,7 @@
     "kj_40kpredator": {
       "name": "kj_40kpredator",
       "title": "King Jo's Warhammer 40K Predator Tank",
-      "version": "1.1.10",
+      "version": "1.1.9",
       "setting_names": [
         "kj_40kpredator_cost_setting_multiplicator",
         "kj_40kpredatorammo_cost_setting_multiplicator"
@@ -52006,7 +52006,7 @@
     "kj_40klemanruss": {
       "name": "kj_40klemanruss",
       "title": "King Jo's Warhammer 40K Leman Russ Tank",
-      "version": "1.1.10",
+      "version": "1.1.9",
       "setting_names": [
         "kj_40klemanruss_cost_setting_multiplicator",
         "kj_40klemanrussammo_cost_setting_multiplicator"
@@ -59738,7 +59738,7 @@
     "qatmore": {
       "name": "qatmore",
       "title": "Qatavin's More Stuff",
-      "version": "1.0.23",
+      "version": "1.0.9",
       "setting_names": [
         "qatmods-alien-price-down",
         "qatmods-alien-research-up",
