@@ -13518,8 +13518,8 @@
     },
     "Advanced-Electric-Revamped-v16": {
       "name": "Advanced-Electric-Revamped-v16",
-      "title": "Advanced Solar HR",
-      "version": "0.6.14",
+      "title": "Advanced Solar High Resolution",
+      "version": "0.6.8",
       "setting_names": [
         "advanced-electric-enabled-tiers",
         "advanced-electric-multiplier-advanced",
