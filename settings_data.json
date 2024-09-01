@@ -12356,7 +12356,7 @@
     "extendedangels": {
       "name": "extendedangels",
       "title": "Extended Angels",
-      "version": "0.5.10",
+      "version": "0.5.7",
       "setting_names": [
         "extangels-adjust-ordering",
         "extangels-legacy-inventory-sizes"
@@ -13518,8 +13518,8 @@
     },
     "Advanced-Electric-Revamped-v16": {
       "name": "Advanced-Electric-Revamped-v16",
-      "title": "Advanced Solar High Resolution",
-      "version": "0.6.8",
+      "title": "Advanced Solar HR",
+      "version": "0.6.15",
       "setting_names": [
         "advanced-electric-enabled-tiers",
         "advanced-electric-multiplier-advanced",
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.11.10",
+      "version": "1.9.4",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -35242,7 +35242,7 @@
     "RPG": {
       "name": "RPG",
       "title": "RPG",
-      "version": "1.0.17",
+      "version": "1.0.6",
       "setting_names": [
         "comfy_enable_health_and_mana_bars",
         "comfy_enable_mana",
@@ -35488,7 +35488,7 @@
     "arachnophobia": {
       "name": "arachnophobia",
       "title": "Arachnophobia",
-      "version": "1.1.11",
+      "version": "1.1.9",
       "setting_names": [
         "arachnophobia-number-of-legs",
         "arachnophobia-leg-visibility",
