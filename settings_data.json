@@ -12356,7 +12356,7 @@
     "extendedangels": {
       "name": "extendedangels",
       "title": "Extended Angels",
-      "version": "0.5.7",
+      "version": "0.5.11",
       "setting_names": [
         "extangels-adjust-ordering",
         "extangels-legacy-inventory-sizes"
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.9.4",
+      "version": "1.11.11",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -35242,7 +35242,7 @@
     "RPG": {
       "name": "RPG",
       "title": "RPG",
-      "version": "1.0.6",
+      "version": "1.0.18",
       "setting_names": [
         "comfy_enable_health_and_mana_bars",
         "comfy_enable_mana",
@@ -35488,7 +35488,7 @@
     "arachnophobia": {
       "name": "arachnophobia",
       "title": "Arachnophobia",
-      "version": "1.1.9",
+      "version": "1.1.13",
       "setting_names": [
         "arachnophobia-number-of-legs",
         "arachnophobia-leg-visibility",
@@ -36573,7 +36573,7 @@
     "Asteroid_Mining": {
       "name": "Asteroid_Mining",
       "title": "Asteroid Mining",
-      "version": "0.9.15",
+      "version": "0.9.7",
       "setting_names": [
         "astmine-crushing",
         "astmine-k2crushing",
@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.11.11",
+      "version": "0.9.9",
       "setting_names": [
         "team",
         "item",
