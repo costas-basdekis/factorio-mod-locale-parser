@@ -727,7 +727,7 @@
     "mini-machines": {
       "name": "mini-machines",
       "title": "Mini Machines Mod",
-      "version": "8.0.17",
+      "version": "8.0.9",
       "setting_names": [
         "mini-new-icons",
         "mini-tech",
@@ -949,7 +949,7 @@
     "YARM": {
       "name": "YARM",
       "title": "YARM - Resource Monitor",
-      "version": "0.10.14",
+      "version": "0.8.207",
       "setting_names": [
         "yarm-err-generic",
         "yarm-err-specific",
@@ -1479,7 +1479,7 @@
     "textplates": {
       "name": "textplates",
       "title": "Text Plates",
-      "version": "0.6.10",
+      "version": "0.6.3",
       "setting_names": [
         "text-plates-group"
       ]
@@ -5211,7 +5211,7 @@
     "epic_robot_energy": {
       "name": "epic_robot_energy",
       "title": "Robot Energy",
-      "version": "8.0.0",
+      "version": "10.0.0",
       "setting_names": [
         "epic_robot_energy-multi"
       ]
@@ -5491,7 +5491,7 @@
     },
     "fluid-void-extra": {
       "name": "fluid-void-extra",
-      "title": "Fluid Void Extra",
+      "title": "Fluid Void Extra (1.1)",
       "version": "1.5.2",
       "setting_names": [
         "fluid-void-extra-speedmultiplier"
@@ -9582,7 +9582,7 @@
     "epic_mining_and_crafting_speed_research": {
       "name": "epic_mining_and_crafting_speed_research",
       "title": "Mining and Crafting Speed Research",
-      "version": "9.0.0",
+      "version": "10.0.0",
       "setting_names": [
         "crafting-speed-1",
         "crafting-speed-2",
@@ -13518,8 +13518,8 @@
     },
     "Advanced-Electric-Revamped-v16": {
       "name": "Advanced-Electric-Revamped-v16",
-      "title": "Advanced Solar HR",
-      "version": "0.6.15",
+      "title": "Advanced Solar High Resolution",
+      "version": "0.6.8",
       "setting_names": [
         "advanced-electric-enabled-tiers",
         "advanced-electric-multiplier-advanced",
@@ -13568,7 +13568,7 @@
     },
     "ConstructionQueue": {
       "name": "ConstructionQueue",
-      "title": "ConstructionQueue",
+      "title": "Construction Queue",
       "version": "0.2.0",
       "setting_names": [
         "keniras-construction-queue-attempts"
@@ -13653,7 +13653,7 @@
     "kry-inserters": {
       "name": "kry-inserters",
       "title": "More Long Inserters",
-      "version": "4.1.13",
+      "version": "4.1.5",
       "setting_names": [
         "kry-norecipe",
         "kry-leech",
@@ -15730,7 +15730,7 @@
     "auto_manual_mode": {
       "name": "auto_manual_mode",
       "title": "Auto Manual Mode",
-      "version": "0.0.9",
+      "version": "0.0.11",
       "setting_names": [
         "auto_manual_mode_restore_when_exit"
       ]
@@ -17653,7 +17653,7 @@
     },
     "timesaver-for-crafting": {
       "name": "timesaver-for-crafting",
-      "title": "Timesaver for crafting [Switchable mod]",
+      "title": "Timesaver for crafting",
       "version": "0.8.4",
       "setting_names": [
         "tfc_minimum_speed_bonus",
@@ -18240,8 +18240,8 @@
     },
     "train-pubsub": {
       "name": "train-pubsub",
-      "title": "Train Supply Manager (TSM)",
-      "version": "1.1.19",
+      "title": "Train Supply Manager",
+      "version": "1.1.7",
       "setting_names": [
         "subscriptions-title",
         "publish-title",
@@ -23260,7 +23260,7 @@
     },
     "ChunkyChunks": {
       "name": "ChunkyChunks",
-      "title": "ChunkyChunks - Configurable Gridlines",
+      "title": "ChunkyChunks - Configurable Geodesic Grid",
       "version": "1.5.1",
       "setting_names": [
         "chunkychunks-follow-alt-mode",
@@ -24523,7 +24523,7 @@
     },
     "floating-damage-text": {
       "name": "floating-damage-text",
-      "title": "Floating Damage Text",
+      "title": "Floating Damage Indicators",
       "version": "19.0.0",
       "setting_names": [
         "floating-damage-string-format",
@@ -29003,7 +29003,7 @@
     "camedo-microwave": {
       "name": "camedo-microwave",
       "title": "Microwave Transmission",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "setting_names": [
         "mw-show-debug",
         "mw-exp-drain",
@@ -30023,7 +30023,7 @@
     },
     "AGNClusterioBiterControl": {
       "name": "AGNClusterioBiterControl",
-      "title": "AlienX's Biter Control",
+      "title": "AGN's Clusterio Biter Control",
       "version": "0.0.6",
       "setting_names": [
         "cbc-enabled",
@@ -31845,7 +31845,7 @@
     "Gun_Turret_Alerts": {
       "name": "Gun_Turret_Alerts",
       "title": "Ammo Alerts",
-      "version": "1.1.11",
+      "version": "1.1.9",
       "setting_names": [
         "gun-turret-alerts-enabled",
         "gun-turret-alerts-car-enabled",
@@ -31865,7 +31865,7 @@
     "jetpack": {
       "name": "jetpack",
       "title": "Jetpack",
-      "version": "0.3.14",
+      "version": "0.3.2",
       "setting_names": [
         "jetpack-speed-reduces-shields",
         "jetpack-fall-on-damage",
@@ -35242,7 +35242,7 @@
     "RPG": {
       "name": "RPG",
       "title": "RPG",
-      "version": "1.0.18",
+      "version": "1.0.6",
       "setting_names": [
         "comfy_enable_health_and_mana_bars",
         "comfy_enable_mana",
@@ -35488,7 +35488,7 @@
     "arachnophobia": {
       "name": "arachnophobia",
       "title": "Arachnophobia",
-      "version": "1.1.13",
+      "version": "1.1.9",
       "setting_names": [
         "arachnophobia-number-of-legs",
         "arachnophobia-leg-visibility",
@@ -35566,7 +35566,7 @@
     },
     "car-finder": {
       "name": "car-finder",
-      "title": "Car/Tank/Spidertron Locator Button (Find / Locate My Lost Car / Car Finder)",
+      "title": "Car/Tank/Spidertron Locator Button",
       "version": "1.5.2",
       "setting_names": [
         "car-finder-setting-chirp-volume",
@@ -35707,7 +35707,7 @@
     },
     "RealisticFusionWeaponry": {
       "name": "RealisticFusionWeaponry",
-      "title": "Realistic Fusion Weaponry",
+      "title": "RFP Addon: Weaponry",
       "version": "1.5.8",
       "setting_names": [
         "rfw-fission-gfx",
@@ -36573,7 +36573,7 @@
     "Asteroid_Mining": {
       "name": "Asteroid_Mining",
       "title": "Asteroid Mining",
-      "version": "0.9.7",
+      "version": "0.9.16",
       "setting_names": [
         "astmine-crushing",
         "astmine-k2crushing",
@@ -39550,7 +39550,7 @@
     "micro-machines": {
       "name": "micro-machines",
       "title": "Micro Machines Mod",
-      "version": "2.0.14",
+      "version": "2.0.5",
       "setting_names": [
         "micro-new-icons",
         "micro-tech",
@@ -45220,7 +45220,7 @@
     "SpidertronEnhancements": {
       "name": "SpidertronEnhancements",
       "title": "Spidertron Enhancements",
-      "version": "1.8.4",
+      "version": "1.10.2",
       "setting_names": [
         "spidertron-enhancements-enable-corpse",
         "spidertron-enhancements-increase-size",
@@ -51994,7 +51994,7 @@
     },
     "move-with-mouse-updated": {
       "name": "move-with-mouse-updated",
-      "title": "Move with the mouse",
+      "title": "Move With The Mouse",
       "version": "0.3.1",
       "setting_names": [
         "mm-returnfailed",
@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.9.9",
+      "version": "0.13.0",
       "setting_names": [
         "team",
         "item",
@@ -59343,7 +59343,7 @@
     },
     "passive_team_income": {
       "name": "passive_team_income",
-      "title": "Passive team income (extension for EasyAPI)",
+      "title": "Passive force income (extension for EasyAPI)",
       "version": "0.8.5",
       "setting_names": [
         "pti_is_for_online_teams"
@@ -59351,7 +59351,7 @@
     },
     "restrict_building": {
       "name": "restrict_building",
-      "title": "Restrict building [Switchable mod]",
+      "title": "Restrict building",
       "version": "1.1.5",
       "setting_names": [
         "restrict_building_radius"
