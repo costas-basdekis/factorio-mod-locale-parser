@@ -949,7 +949,7 @@
     "YARM": {
       "name": "YARM",
       "title": "YARM - Resource Monitor",
-      "version": "0.11.2",
+      "version": "0.8.207",
       "setting_names": [
         "yarm-err-generic",
         "yarm-err-specific",
@@ -14039,7 +14039,7 @@
     },
     "Petrol-Condensation-Reload": {
       "name": "Petrol-Condensation-Reload",
-      "title": "Petrol Condensation Reload",
+      "title": "Petrol-Condensation-Reload",
       "version": "1.1.1",
       "setting_names": [
         "pcr-coal"
@@ -19655,7 +19655,7 @@
     "Tapeline": {
       "name": "Tapeline",
       "title": "Tapeline",
-      "version": "2.0.10",
+      "version": "2.0.7",
       "setting_names": [
         "tl-log-selection-area",
         "tl-draw-tape-on-ground",
@@ -26792,7 +26792,7 @@
     "LTN_Language_Pack": {
       "name": "LTN_Language_Pack",
       "title": "LTN Language Pack",
-      "version": "1.9.4",
+      "version": "1.11.12",
       "setting_names": [
         "ltn-interface-console-level",
         "ltn-interface-message-filter-age",
@@ -45220,7 +45220,7 @@
     "SpidertronEnhancements": {
       "name": "SpidertronEnhancements",
       "title": "Spidertron Enhancements",
-      "version": "1.8.4",
+      "version": "1.10.7",
       "setting_names": [
         "spidertron-enhancements-enable-corpse",
         "spidertron-enhancements-increase-size",
@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.9.9",
+      "version": "0.13.1",
       "setting_names": [
         "team",
         "item",
