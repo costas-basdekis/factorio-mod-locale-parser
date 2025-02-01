@@ -9627,8 +9627,8 @@
     },
     "vtk-deep-core-mining": {
       "name": "vtk-deep-core-mining",
-      "title": "Deep core mining",
-      "version": "2.11.2",
+      "title": "VortiK's Deep core mining",
+      "version": "2.9.5",
       "setting_names": [
         "vtk-deep-core-mining-spawn-radius-from-start",
         "vtk-deep-core-mining-patch-min-richness",
@@ -39193,7 +39193,7 @@
     "bzsilicon": {
       "name": "bzsilicon",
       "title": "Silica & Silicon",
-      "version": "0.11.12",
+      "version": "0.9.1",
       "setting_names": [
         "bzsilicon-recipe-bypass",
         "bzsilicon-more-intermediates",
@@ -45220,7 +45220,7 @@
     "SpidertronEnhancements": {
       "name": "SpidertronEnhancements",
       "title": "Spidertron Enhancements",
-      "version": "1.10.7",
+      "version": "1.8.4",
       "setting_names": [
         "spidertron-enhancements-enable-corpse",
         "spidertron-enhancements-increase-size",
