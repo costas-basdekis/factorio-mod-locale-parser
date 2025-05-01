@@ -24282,7 +24282,7 @@
     },
     "LinearResearchCost": {
       "name": "LinearResearchCost",
-      "title": "Linear Research Cost Increase",
+      "title": "Linear Research Cost",
       "version": "0.1.4",
       "setting_names": [
         "linear-research-cost-multiplier"
