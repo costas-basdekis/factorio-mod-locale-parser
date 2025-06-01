@@ -5716,8 +5716,8 @@
     },
     "Todo-List": {
       "name": "Todo-List",
-      "title": "Todo List",
-      "version": "19.10.0",
+      "title": "\u2714 Todo List",
+      "version": "19.2.0",
       "setting_names": [
         "todolist-show-button",
         "todolist-show-log",
@@ -7635,7 +7635,7 @@
     "RITEG": {
       "name": "RITEG",
       "title": "RITEG",
-      "version": "1.3.10",
+      "version": "1.3.4",
       "setting_names": [
         "__riteg__autodeconstruct-health-threshold"
       ]
@@ -27547,7 +27547,7 @@
     "super-generous-recipes": {
       "name": "super-generous-recipes",
       "title": "Super Generous Recipes",
-      "version": "0.10.1",
+      "version": "0.7.0",
       "setting_names": [
         "sgr-global",
         "sgr-global-multiplier",
