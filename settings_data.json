@@ -17783,7 +17783,7 @@
     "robotworld": {
       "name": "robotworld",
       "title": "Robot World",
-      "version": "1.4.6",
+      "version": "1.0.0",
       "setting_names": [
         "robot-carry-size-multiplier",
         "robot-speed-multiplier",
@@ -51728,7 +51728,7 @@
     "discovery_tree": {
       "name": "discovery_tree",
       "title": "Discovery Tree",
-      "version": "1.0.4",
+      "version": "1.0.10",
       "setting_names": [
         "discovery-tree-mode"
       ]
@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.13.1",
+      "version": "0.9.9",
       "setting_names": [
         "team",
         "item",
