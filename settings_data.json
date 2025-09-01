@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.9.9",
+      "version": "0.13.6",
       "setting_names": [
         "team",
         "item",
