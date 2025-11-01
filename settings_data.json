@@ -5716,8 +5716,8 @@
     },
     "Todo-List": {
       "name": "Todo-List",
-      "title": "\u2714 Todo List",
-      "version": "19.2.0",
+      "title": "Todo List",
+      "version": "19.14.0",
       "setting_names": [
         "todolist-show-button",
         "todolist-show-log",
@@ -59651,7 +59651,7 @@
     "seoh-fixed": {
       "name": "seoh-fixed",
       "title": "Space Exploration Simplified (Fixed)",
-      "version": "0.2.4",
+      "version": "0.2.2",
       "setting_names": [
         "data-failure-divisor",
         "cargo-rocket-part-stack-size"
