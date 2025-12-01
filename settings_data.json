@@ -5716,8 +5716,8 @@
     },
     "Todo-List": {
       "name": "Todo-List",
-      "title": "Todo List",
-      "version": "19.14.0",
+      "title": "\u2714 Todo List",
+      "version": "19.2.0",
       "setting_names": [
         "todolist-show-button",
         "todolist-show-log",
