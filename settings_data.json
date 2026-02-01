@@ -12356,7 +12356,7 @@
     "extendedangels": {
       "name": "extendedangels",
       "title": "Extended Angels",
-      "version": "0.5.11",
+      "version": "0.5.7",
       "setting_names": [
         "extangels-adjust-ordering",
         "extangels-legacy-inventory-sizes"
@@ -35859,7 +35859,7 @@
     "angelsaddons-mobility": {
       "name": "angelsaddons-mobility",
       "title": "Angel's Addons - Mass Transit",
-      "version": "0.0.11",
+      "version": "0.0.9",
       "setting_names": [
         "angels-petrotrain-tier-amount",
         "angels-smeltingtrain-tier-amount",
@@ -35869,7 +35869,7 @@
     "angelsaddons-storage": {
       "name": "angelsaddons-storage",
       "title": "Angel's Addons - Storage Options",
-      "version": "0.0.10",
+      "version": "0.0.8",
       "setting_names": [
         "angels-enable-storage-icon-scaling",
         "angels-enable-silos",
