@@ -23452,7 +23452,7 @@
     },
     "PCPRedux": {
       "name": "PCPRedux",
-      "title": "Petrochem Plus Redux",
+      "title": "PetrochemPlus",
       "version": "1.0.4",
       "setting_names": [
         "pcp-glass-sink",
