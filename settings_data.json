@@ -1450,7 +1450,7 @@
     "manual-inventory-sort": {
       "name": "manual-inventory-sort",
       "title": "Manual Inventory Sorting",
-      "version": "11.3.0",
+      "version": "2.2.5",
       "setting_names": [
         "manual-inventory-auto-sort-off",
         "manual-inventory-auto-sort-on",
@@ -5716,8 +5716,8 @@
     },
     "Todo-List": {
       "name": "Todo-List",
-      "title": "\u2714 Todo List",
-      "version": "19.2.0",
+      "title": "Todo List",
+      "version": "19.15.3",
       "setting_names": [
         "todolist-show-button",
         "todolist-show-log",
@@ -15730,7 +15730,7 @@
     "auto_manual_mode": {
       "name": "auto_manual_mode",
       "title": "Auto Manual Mode",
-      "version": "0.0.11",
+      "version": "0.0.9",
       "setting_names": [
         "auto_manual_mode_restore_when_exit"
       ]
@@ -34414,8 +34414,8 @@
     },
     "UtilizationMonitorBlargh": {
       "name": "UtilizationMonitorBlargh",
-      "title": "Utilization Monitor (Blargh)",
-      "version": "0.8.13",
+      "title": "Utilization Monitor Blargh",
+      "version": "0.10.0",
       "setting_names": [
         "utilization-monitor-limit-exceeded",
         "utilization-monitor",
@@ -45220,7 +45220,7 @@
     "SpidertronEnhancements": {
       "name": "SpidertronEnhancements",
       "title": "Spidertron Enhancements",
-      "version": "1.10.8",
+      "version": "1.8.4",
       "setting_names": [
         "spidertron-enhancements-enable-corpse",
         "spidertron-enhancements-increase-size",
@@ -51728,7 +51728,7 @@
     "discovery_tree": {
       "name": "discovery_tree",
       "title": "Discovery Tree",
-      "version": "1.0.10",
+      "version": "1.0.4",
       "setting_names": [
         "discovery-tree-mode"
       ]
