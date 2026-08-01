@@ -27903,8 +27903,8 @@
     },
     "m-multiplayertrading": {
       "name": "m-multiplayertrading",
-      "title": "Multiplayer Trading (works with EasyAPI)",
-      "version": "0.10.0",
+      "title": "Multiplayer Trading",
+      "version": "0.9.15",
       "setting_names": [
         "early-bird-research",
         "early-bird-multiplier",
@@ -45220,7 +45220,7 @@
     "SpidertronEnhancements": {
       "name": "SpidertronEnhancements",
       "title": "Spidertron Enhancements",
-      "version": "1.8.4",
+      "version": "1.11.0",
       "setting_names": [
         "spidertron-enhancements-enable-corpse",
         "spidertron-enhancements-increase-size",
@@ -51728,7 +51728,7 @@
     "discovery_tree": {
       "name": "discovery_tree",
       "title": "Discovery Tree",
-      "version": "1.0.4",
+      "version": "1.0.11",
       "setting_names": [
         "discovery-tree-mode"
       ]
@@ -56531,7 +56531,7 @@
     },
     "Ingredient_Scrap": {
       "name": "Ingredient_Scrap",
-      "title": "Ingredient_Scrap",
+      "title": "Ingredient Scrap",
       "version": "1.1.10",
       "setting_names": [
         "yis-needed",
@@ -57877,7 +57877,7 @@
     "EasyAPI": {
       "name": "EasyAPI",
       "title": "Easy API [ALPHA]",
-      "version": "0.13.6",
+      "version": "0.9.9",
       "setting_names": [
         "team",
         "item",
@@ -59577,7 +59577,7 @@
     "Mower": {
       "name": "Mower",
       "title": "Mower",
-      "version": "0.0.4",
+      "version": "0.0.10",
       "setting_names": [
         "mower-mower"
       ]
