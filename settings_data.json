@@ -1534,7 +1534,7 @@
     "hardCrafting": {
       "name": "hardCrafting",
       "title": "Hard crafting",
-      "version": "1.0.11",
+      "version": "1.0.4",
       "setting_names": [
         "hardcrafting-hard-oil",
         "hardcrafting-rich-ores",
@@ -27903,8 +27903,8 @@
     },
     "m-multiplayertrading": {
       "name": "m-multiplayertrading",
-      "title": "Multiplayer Trading",
-      "version": "0.9.15",
+      "title": "Multiplayer Trading (works with EasyAPI)",
+      "version": "0.11.0",
       "setting_names": [
         "early-bird-research",
         "early-bird-multiplier",
@@ -31611,7 +31611,7 @@
     "Transport_Drones": {
       "name": "Transport_Drones",
       "title": "Transport Drones",
-      "version": "1.0.16",
+      "version": "1.0.6",
       "setting_names": [
         "transport-depot-choose-item",
         "supply-depot",
